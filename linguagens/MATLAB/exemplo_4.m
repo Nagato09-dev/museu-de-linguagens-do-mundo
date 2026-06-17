@@ -1,2 +1,3 @@
-# MATLAB - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for i = 1:5
+    disp(i)
+end

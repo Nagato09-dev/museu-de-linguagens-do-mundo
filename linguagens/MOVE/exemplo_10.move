@@ -1,1 +1,1 @@
-// Exemplo 10 em MOVE
+// Sintaxe para sort em MOVE

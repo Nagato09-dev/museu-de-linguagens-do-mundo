@@ -1,1 +1,1 @@
-// Exemplo 4 em MOVE
+// Sintaxe para loop em MOVE

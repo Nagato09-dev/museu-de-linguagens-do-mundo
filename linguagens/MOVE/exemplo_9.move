@@ -1,1 +1,1 @@
-// Exemplo 9 em MOVE
+// Sintaxe para math em MOVE

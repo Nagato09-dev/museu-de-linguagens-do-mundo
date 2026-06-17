@@ -1,1 +1,1 @@
-// Exemplo 7 em MOVE
+// Sintaxe para error em MOVE

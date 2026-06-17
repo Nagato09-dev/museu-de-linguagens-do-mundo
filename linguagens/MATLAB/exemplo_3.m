@@ -1,2 +1,5 @@
-# MATLAB - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if x > 10
+    disp('Maior')
+else
+    disp('Menor')
+end

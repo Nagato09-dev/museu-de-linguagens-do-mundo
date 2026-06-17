@@ -1,2 +1,2 @@
-# MOONSCRIPT - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+x = 42
+s = "MoonScript"

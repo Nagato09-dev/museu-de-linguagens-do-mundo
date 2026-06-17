@@ -1,1 +1,1 @@
-// Exemplo 8 em MOVE
+// Sintaxe para string em MOVE

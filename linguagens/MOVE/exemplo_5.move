@@ -1,1 +1,3 @@
-// Exemplo 5 em MOVE
+public fun soma(a: u64, b: u64): u64 {
+    a + b
+}

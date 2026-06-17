@@ -1,2 +1,5 @@
-# MAGIK - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+_if x > 10 _then
+  write("Maior")
+_else
+  write("Menor")
+_endif

@@ -1,2 +1,2 @@
-# MAGIK - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+_local x << 42
+_local s << "Magik"

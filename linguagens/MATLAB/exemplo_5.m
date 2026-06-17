@@ -1,2 +1,3 @@
-# MATLAB - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+function res = soma(a, b)
+    res = a + b;
+end

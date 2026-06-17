@@ -1,2 +1,2 @@
-# MOJO - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+let x: Int = 42
+var s: String = "Mojo"

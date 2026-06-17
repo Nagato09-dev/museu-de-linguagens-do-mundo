@@ -1,2 +1,2 @@
-# MOJO - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+fn main():
+    print("Olá, Mundo!")

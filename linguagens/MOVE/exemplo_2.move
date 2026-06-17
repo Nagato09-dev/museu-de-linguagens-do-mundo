@@ -1,1 +1,1 @@
-// Exemplo 2 em MOVE
+let x = 42;

@@ -1,1 +1,1 @@
-// Exemplo 6 em MOVE
+// Sintaxe para list em MOVE

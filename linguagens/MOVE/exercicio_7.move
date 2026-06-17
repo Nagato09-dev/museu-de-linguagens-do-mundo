@@ -1,1 +1,5 @@
-// Solução do exercício 7 em MOVE
+module 0x1::Hello {
+    public fun hello() {
+        // Move não tem print padrão em todas as VMs
+    }
+}

@@ -1,1 +1,1 @@
-// Exemplo 3 em MOVE
+// Sintaxe para if em MOVE
