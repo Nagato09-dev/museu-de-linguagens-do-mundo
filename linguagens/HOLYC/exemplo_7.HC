@@ -1,0 +1,1 @@
+// HolyC não tem try-catch tradicional

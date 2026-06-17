@@ -1,4 +1,2 @@
--- HASKELL - Tratamento de Erros - Lidando com exceções e falhas.
-main :: IO ()
-main = do
-    putStrLn "Tratamento de Erros - Lidando com exceções e falhas."
+import Control.Exception
+main = catch (error "Erro") (\e -> putStrLn $ show (e :: SomeException))

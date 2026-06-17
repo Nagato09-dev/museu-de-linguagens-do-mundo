@@ -1,0 +1,1 @@
+I64 Mult(I64 a, I64 b) { return a * b; }

@@ -1,1 +1,1 @@
-function mult(a, b) return a * b;
+function mult(a:Int, b:Int):Int return a * b;

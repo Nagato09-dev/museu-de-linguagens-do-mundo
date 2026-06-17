@@ -1,2 +1,2 @@
-# HCL - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+variable "idade" { default = 25 }
+variable "nome" { default = "HCL" }

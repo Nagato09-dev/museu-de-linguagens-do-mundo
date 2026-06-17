@@ -1,0 +1,1 @@
+C\contains($lista, 2)

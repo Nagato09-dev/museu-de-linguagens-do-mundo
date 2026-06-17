@@ -1,2 +1,2 @@
-# HLSL - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+int idade = 25;
+float f = 3.14;

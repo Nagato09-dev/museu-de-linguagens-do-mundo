@@ -1,4 +1,4 @@
--- HASKELL - Variáveis e Tipos - Como armazenar dados.
-main :: IO ()
 main = do
-    putStrLn "Variáveis e Tipos - Como armazenar dados."
+  let idade = 25
+  let nome = "Haskell"
+  putStrLn (nome ++ " tem " ++ show idade ++ " anos")

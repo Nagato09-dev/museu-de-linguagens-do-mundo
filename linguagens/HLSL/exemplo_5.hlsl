@@ -1,2 +1,1 @@
-# HLSL - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+float soma(float a, float b) { return a + b; }

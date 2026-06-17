@@ -1,1 +1,1 @@
-function soma(a:Int, b:Int):Int { return a + b; }
+function soma(a:Int, b:Int):Int return a + b;

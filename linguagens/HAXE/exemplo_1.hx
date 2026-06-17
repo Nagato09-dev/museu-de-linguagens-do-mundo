@@ -1,5 +1,5 @@
 class Main {
-  static public function main() {
+  static function main() {
     trace("Olá Mundo");
   }
 }

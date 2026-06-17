@@ -1,2 +1,1 @@
-# HCL - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// HCL não tem try-catch

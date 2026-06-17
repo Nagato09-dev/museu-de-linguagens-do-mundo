@@ -1,2 +1,1 @@
-# HYPHY - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+upperCaseString = "hyphy"^{{"a-z","A-Z"}};

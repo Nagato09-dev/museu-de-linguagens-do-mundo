@@ -1,2 +1,1 @@
-# HCL - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+items = [for i in range(5) : i]

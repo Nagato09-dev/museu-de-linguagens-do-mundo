@@ -1,1 +1,1 @@
-trace("haxe".toUpperCase());
+"haxe".toUpperCase();

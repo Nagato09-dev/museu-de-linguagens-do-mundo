@@ -1,2 +1,1 @@
-var list = [3, 1, 4, 1, 5];
-list.sort((a, b) -> a - b);
+lista.sort((a, b) -> a - b);

@@ -1,2 +1,3 @@
-# HY - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+(setv idade 25)
+(setv nome "Hy")
+(print f"{nome} tem {idade} anos")

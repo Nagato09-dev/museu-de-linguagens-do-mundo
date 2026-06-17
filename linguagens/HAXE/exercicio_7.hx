@@ -1,1 +1,1 @@
-try { 1/0; } catch(e:Dynamic) {}
+try { } catch(e) { }

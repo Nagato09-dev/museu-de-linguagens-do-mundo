@@ -1,2 +1,1 @@
-# HLSL - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+float lista[3] = {1.0, 2.0, 3.0};

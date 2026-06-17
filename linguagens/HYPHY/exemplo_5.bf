@@ -1,2 +1,1 @@
-# HYPHY - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+function soma (a, b) { return a + b; }

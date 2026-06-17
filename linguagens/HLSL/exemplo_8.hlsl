@@ -1,2 +1,1 @@
-# HLSL - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// HLSL não tem strings

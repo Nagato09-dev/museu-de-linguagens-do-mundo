@@ -1,2 +1,1 @@
-# HYPHY - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for (i = 0; i < 5; i = i + 1) { fprintf (stdout, i); }

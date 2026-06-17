@@ -1,2 +1,1 @@
-# HY - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+(for [i (range 5)] (print i))

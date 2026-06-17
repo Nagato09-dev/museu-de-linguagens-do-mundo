@@ -1,2 +1,1 @@
-# HY - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+(try (raise (Exception "Erro")) (except [e Exception] (print e)))

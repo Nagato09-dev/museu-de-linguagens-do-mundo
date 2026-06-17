@@ -1,0 +1,1 @@
+StrUpper("holyc");

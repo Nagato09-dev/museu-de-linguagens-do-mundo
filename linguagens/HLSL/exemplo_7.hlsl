@@ -1,2 +1,1 @@
-# HLSL - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// HLSL não tem try-catch

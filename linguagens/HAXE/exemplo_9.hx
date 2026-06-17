@@ -1,1 +1,1 @@
-trace(Math.sqrt(16));
+Math.sqrt(16);

@@ -1,2 +1,1 @@
-# HLSL - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for (int i = 0; i < 5; i++) { }
