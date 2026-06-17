@@ -1,1 +1,5 @@
-var i = 10; while(i >= 1) { trace(i); i--; }
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

@@ -1,1 +1,1 @@
-(try (raise (Exception "Erro")) (except [e Exception] (print e)))
+// Sintaxe para error em HY

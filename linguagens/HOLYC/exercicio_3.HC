@@ -1,1 +1,1 @@
-if (n % 2 == 0) Print("Par\n");
+"Olá, Mundo!\n";

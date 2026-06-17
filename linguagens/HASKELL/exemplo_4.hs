@@ -1,1 +1,1 @@
-main = mapM_ print [0..4]
+mapM_ print [1..5]

@@ -1,1 +1,1 @@
-(.append lista 3)
+(print "Olá, Mundo!")

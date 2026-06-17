@@ -1,1 +1,5 @@
-try { } catch (Exception $e) { }
+<?hh
+<<__EntryPoint>>
+function main(): void {
+  echo "Olá, Mundo!\n";
+}

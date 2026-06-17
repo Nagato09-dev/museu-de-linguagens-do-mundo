@@ -1,1 +1,5 @@
-trace("Nagato09-dev");
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

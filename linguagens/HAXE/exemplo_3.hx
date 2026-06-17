@@ -1,1 +1,1 @@
-if (x > 0) trace("Positivo") else trace("Negativo");
+if (x > 10) trace("Maior") else trace("Menor");

@@ -1,1 +1,1 @@
-3 : lista
+main = putStrLn "Olá, Mundo!"

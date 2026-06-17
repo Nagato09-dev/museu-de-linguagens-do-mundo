@@ -1,1 +1,5 @@
-lista.contains(2);
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

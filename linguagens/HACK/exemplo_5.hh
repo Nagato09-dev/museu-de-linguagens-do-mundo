@@ -1,3 +1,1 @@
-function soma(int $a, int $b): int {
-  return $a + b;
-}
+// Sintaxe para func em HACK

@@ -1,1 +1,1 @@
-(in 2 lista)
+(print "Olá, Mundo!")

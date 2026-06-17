@@ -1,5 +1,1 @@
-if (x > 0) {
-  Print("Positivo\n");
-} else {
-  Print("Negativo\n");
-}
+if (x > 10) "Maior\n"; else "Menor\n";

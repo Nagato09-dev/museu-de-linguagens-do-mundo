@@ -1,1 +1,1 @@
-// Sort manual em HolyC
+// Sintaxe para sort em HOLYC

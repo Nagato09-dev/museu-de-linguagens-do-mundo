@@ -1,1 +1,5 @@
-3.14 * r * r;
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

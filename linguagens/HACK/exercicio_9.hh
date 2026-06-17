@@ -1,1 +1,5 @@
-3.14 * $r * $r
+<?hh
+<<__EntryPoint>>
+function main(): void {
+  echo "Olá, Mundo!\n";
+}

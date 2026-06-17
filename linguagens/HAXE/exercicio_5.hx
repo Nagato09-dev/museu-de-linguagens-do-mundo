@@ -1,1 +1,5 @@
-function mult(a:Int, b:Int):Int return a * b;
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

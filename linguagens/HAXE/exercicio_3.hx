@@ -1,1 +1,5 @@
-if (n % 2 == 0) trace("Par");
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

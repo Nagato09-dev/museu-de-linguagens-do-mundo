@@ -1,1 +1,1 @@
-let f = 3.14
+main = putStrLn "Olá, Mundo!"

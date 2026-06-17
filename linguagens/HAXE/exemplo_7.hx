@@ -1,1 +1,1 @@
-try { throw "Erro"; } catch(e:Dynamic) { trace(e); }
+// Sintaxe para error em HAXE

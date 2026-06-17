@@ -1,1 +1,1 @@
-Sqrt(16.0);
+// Sintaxe para math em HOLYC

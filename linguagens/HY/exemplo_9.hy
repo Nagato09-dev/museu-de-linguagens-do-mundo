@@ -1,1 +1,1 @@
-(import math) (math.sqrt 16)
+// Sintaxe para math em HY

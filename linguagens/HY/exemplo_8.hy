@@ -1,1 +1,1 @@
-(.upper "hy")
+// Sintaxe para string em HY

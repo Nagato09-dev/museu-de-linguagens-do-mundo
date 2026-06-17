@@ -1,1 +1,1 @@
-main = print $ sqrt 16
+// Sintaxe para math em HASKELL

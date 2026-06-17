@@ -1,1 +1,5 @@
-var f:Float = 3.14;
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

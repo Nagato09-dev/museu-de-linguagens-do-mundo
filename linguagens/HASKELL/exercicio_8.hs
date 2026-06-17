@@ -1,1 +1,1 @@
-reverse "haskell"
+main = putStrLn "Olá, Mundo!"

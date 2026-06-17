@@ -1,5 +1,5 @@
-if ($x > 0) {
-  echo "Positivo";
+if ($x > 10) {
+  echo "Maior";
 } else {
-  echo "Negativo";
+  echo "Menor";
 }

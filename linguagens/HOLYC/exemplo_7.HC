@@ -1,1 +1,1 @@
-// HolyC não tem try-catch tradicional
+// Sintaxe para error em HOLYC

@@ -1,1 +1,1 @@
-main = mapM_ print [10, 9 .. 1]
+main = putStrLn "Olá, Mundo!"

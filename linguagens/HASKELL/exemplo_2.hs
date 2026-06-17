@@ -1,4 +1,2 @@
-main = do
-  let idade = 25
-  let nome = "Haskell"
-  putStrLn (nome ++ " tem " ++ show idade ++ " anos")
+let x = 42
+let s = "Haskell"

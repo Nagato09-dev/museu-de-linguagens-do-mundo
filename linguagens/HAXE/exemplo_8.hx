@@ -1,1 +1,1 @@
-"haxe".toUpperCase();
+// Sintaxe para string em HAXE

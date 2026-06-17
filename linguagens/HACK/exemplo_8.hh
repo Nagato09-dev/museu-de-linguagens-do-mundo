@@ -1,1 +1,1 @@
-strtoupper("hack")
+// Sintaxe para string em HACK

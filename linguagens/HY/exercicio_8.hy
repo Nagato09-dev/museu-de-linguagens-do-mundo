@@ -1,1 +1,1 @@
-(get "hy" (slice None None -1))
+(print "Olá, Mundo!")

@@ -1,1 +1,1 @@
-lista[3] = 10;
+"Olá, Mundo!\n";

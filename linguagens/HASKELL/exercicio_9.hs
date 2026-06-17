@@ -1,1 +1,1 @@
-3.14 * r * r
+main = putStrLn "Olá, Mundo!"

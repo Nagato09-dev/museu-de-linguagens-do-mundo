@@ -1,1 +1,1 @@
-throw;
+"Olá, Mundo!\n";

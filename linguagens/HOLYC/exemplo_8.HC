@@ -1,1 +1,1 @@
-StrUpper("holyc");
+// Sintaxe para string em HOLYC

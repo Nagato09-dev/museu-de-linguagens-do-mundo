@@ -1,1 +1,1 @@
-(for [i (range 10 0 -1)] (print i))
+(print "Olá, Mundo!")

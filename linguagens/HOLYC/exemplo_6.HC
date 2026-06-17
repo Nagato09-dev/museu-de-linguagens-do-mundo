@@ -1,1 +1,1 @@
-I64 lista[3] = {1, 2, 3};
+// Sintaxe para list em HOLYC

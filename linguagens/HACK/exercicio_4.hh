@@ -1,1 +1,5 @@
-for ($i = 10; $i >= 1; $i--) echo $i;
+<?hh
+<<__EntryPoint>>
+function main(): void {
+  echo "Olá, Mundo!\n";
+}

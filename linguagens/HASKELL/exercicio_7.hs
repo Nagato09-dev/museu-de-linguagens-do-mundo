@@ -1,1 +1,1 @@
-throw (ErrorCall "Erro")
+main = putStrLn "Olá, Mundo!"

@@ -1,1 +1,1 @@
-mult a b = a * b
+main = putStrLn "Olá, Mundo!"

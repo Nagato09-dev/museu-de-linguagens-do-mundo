@@ -1,3 +1,2 @@
-(setv idade 25)
-(setv nome "Hy")
-(print f"{nome} tem {idade} anos")
+(setv x 42)
+(setv s "Hy")

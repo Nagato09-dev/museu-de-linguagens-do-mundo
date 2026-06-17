@@ -1,1 +1,5 @@
-function mult(int $a, int $b): int { return $a * $b; }
+<?hh
+<<__EntryPoint>>
+function main(): void {
+  echo "Olá, Mundo!\n";
+}

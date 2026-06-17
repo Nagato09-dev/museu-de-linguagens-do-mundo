@@ -1,1 +1,1 @@
-(sorted [3 1 4])
+// Sintaxe para sort em HY

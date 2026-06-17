@@ -1,1 +1,1 @@
-lista.sort((a, b) -> a - b);
+// Sintaxe para sort em HAXE

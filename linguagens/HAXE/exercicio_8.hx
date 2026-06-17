@@ -1,1 +1,5 @@
-var rev = "haxe".split("").reverse().join("");
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}

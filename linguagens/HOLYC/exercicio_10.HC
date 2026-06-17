@@ -1,1 +1,1 @@
-// Search manual
+"Olá, Mundo!\n";

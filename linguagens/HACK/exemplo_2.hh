@@ -1,5 +1,2 @@
-<?hh
-
-$idade = 25;
-$nome = "Hack";
-echo "$nome tem $idade anos\n";
+int $x = 42;
+string $s = "Hack";

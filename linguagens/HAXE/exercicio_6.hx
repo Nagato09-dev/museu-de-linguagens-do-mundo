@@ -1,1 +1,5 @@
-lista.push(3);
+class Main {
+  static public function main() {
+    trace("Olá, Mundo!");
+  }
+}
