@@ -1,6 +1,14 @@
-# Museu de Linguagens do Mundo 🌍💻
+# 🌍 Museu de Linguagens do Mundo
 
-Bem-vindo ao **Museu das Linguagens do Mundo**! Este repositório é uma das coleções mais massivas e completas do GitHub, contendo exemplos educativos de exatamente **500 linguagens de programação** diferentes, totalmente em Português.
+Bem-vindo ao maior acervo digital de linguagens de programação do GitHub! Este projeto contém informações, exemplos e exercícios para **500 linguagens diferentes**.
+
+## 🚀 Acesse o Site Visual
+O projeto possui uma interface visual navegável. Acesse aqui:
+👉 **[https://Nagato09-dev.github.io/museu-de-linguagens-do-mundo/](https://Nagato09-dev.github.io/museu-de-linguagens-do-mundo/)**
+
+*(Nota: Se o link acima der 404, certifique-se de que o GitHub Pages está ativado nas configurações do repositório apontando para o branch `master`)*
+
+---
 
 ## 📂 Estrutura do Museu
 O museu está organizado em pastas individuais para cada linguagem, com exemplos que funcionam como pequenos tutoriais progressivos para facilitar o aprendizado e a comparação entre sintaxes.
