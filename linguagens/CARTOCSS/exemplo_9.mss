@@ -1,1 +1,4 @@
-// Matemática - Operações aritméticas básicas. em CARTOCSS
+/* Matemática - Operações aritméticas básicas. */
+.example {
+    content: 'Matemática - Operações aritméticas básicas.';
+}

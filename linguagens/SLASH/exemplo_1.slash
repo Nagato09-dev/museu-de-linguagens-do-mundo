@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em SLASH
+// Olá Mundo - O básico de qualquer linguagem.
+console.log("Olá Mundo - O básico de qualquer linguagem.");

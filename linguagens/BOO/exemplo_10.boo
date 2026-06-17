@@ -1,1 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em BOO
+# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

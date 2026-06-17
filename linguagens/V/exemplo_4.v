@@ -1,1 +1,5 @@
-// Loops - Repetindo tarefas com para/enquanto. em V
+// Loops - Repetindo tarefas com para/enquanto.
+int main() {
+    printf("Loops - Repetindo tarefas com para/enquanto.\n");
+    return 0;
+}

@@ -1,1 +1,2 @@
-# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em PERL
+# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+puts "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."

@@ -1,3 +1,3 @@
-#!/bin/bash
 # Tratamento de Erros - Lidando com exceções e falhas.
-echo "Aprendendo Tratamento de Erros - Lidando com exceções e falhas. em ZSH"
+#!/bin/bash
+    echo "Tratamento de Erros - Lidando com exceções e falhas."

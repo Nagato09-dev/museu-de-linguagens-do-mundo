@@ -1,1 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em CHUCK
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");

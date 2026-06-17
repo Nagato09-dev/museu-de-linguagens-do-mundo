@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em MODULA_3
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

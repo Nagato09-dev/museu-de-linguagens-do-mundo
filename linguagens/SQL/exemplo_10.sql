@@ -1,1 +1,2 @@
--- Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em SQL
+-- Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+SELECT 'Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).';

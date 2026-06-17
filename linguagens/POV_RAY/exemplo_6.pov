@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em POV_RAY
+// Estruturas de Dados - Listas, Vetores ou Mapas.
+console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");

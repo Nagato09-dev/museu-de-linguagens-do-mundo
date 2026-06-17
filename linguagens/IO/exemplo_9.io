@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em IO
+# Matemática - Operações aritméticas básicas.
+puts "Matemática - Operações aritméticas básicas."

@@ -1,1 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em VIML
+// Controle de Fluxo - Estruturas condicionais (se/então).
+console.log("Controle de Fluxo - Estruturas condicionais (se/então).");

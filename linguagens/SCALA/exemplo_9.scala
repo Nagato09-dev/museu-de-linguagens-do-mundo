@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em SCALA
+# Matemática - Operações aritméticas básicas.
+puts "Matemática - Operações aritméticas básicas."

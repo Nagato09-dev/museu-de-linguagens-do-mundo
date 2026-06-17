@@ -1,1 +1,5 @@
-// Olá Mundo - O básico de qualquer linguagem. em OBJECTIVE_C
+// Olá Mundo - O básico de qualquer linguagem.
+int main() {
+    printf("Olá Mundo - O básico de qualquer linguagem.\n");
+    return 0;
+}

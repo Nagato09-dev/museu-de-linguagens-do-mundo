@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em HYPHY
+// Olá Mundo - O básico de qualquer linguagem.
+console.log("Olá Mundo - O básico de qualquer linguagem.");

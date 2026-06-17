@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em INTERCAL
+// Estruturas de Dados - Listas, Vetores ou Mapas.
+// Estruturas de Dados - Listas, Vetores ou Mapas.

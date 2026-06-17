@@ -1,3 +1,4 @@
-#!/bin/bash
-# Tratamento de Erros - Lidando com exceções e falhas.
-echo "Aprendendo Tratamento de Erros - Lidando com exceções e falhas. em SHELL"
+// Tratamento de Erros - Lidando com exceções e falhas.
+set -e
+# Comando que pode falhar
+false || echo 'Erro: Comando falhou!''

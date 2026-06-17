@@ -1,1 +1,4 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em CARTOCSS
+/* Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). */
+.example {
+    content: 'Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).';
+}

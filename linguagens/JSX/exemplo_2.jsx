@@ -1,3 +1,2 @@
-const nome = 'Manus';
-let idade = 1;
-console.log(`${nome} tem ${idade} ano`);
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

@@ -1,2 +1,2 @@
-<!-- Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). -->
-<div id='app'>Aprendendo Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em VUE</div>
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");

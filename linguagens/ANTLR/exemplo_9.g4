@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em ANTLR
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

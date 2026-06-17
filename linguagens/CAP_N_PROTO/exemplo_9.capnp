@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em CAP_N_PROTO
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

@@ -1,3 +1,3 @@
-#!/bin/bash
 # Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-echo "Aprendendo Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em BASH"
+#!/bin/bash
+    echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."

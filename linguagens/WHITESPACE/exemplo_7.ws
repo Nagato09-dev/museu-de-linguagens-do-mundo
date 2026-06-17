@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em WHITESPACE
+// Tratamento de Erros - Lidando com exceções e falhas.
+// Tratamento de Erros - Lidando com exceções e falhas.

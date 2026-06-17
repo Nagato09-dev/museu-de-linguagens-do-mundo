@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em FILEBENCH_WML
+// Estruturas de Dados - Listas, Vetores ou Mapas.
+console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");

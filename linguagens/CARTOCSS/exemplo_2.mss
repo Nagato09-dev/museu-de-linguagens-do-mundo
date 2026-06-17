@@ -1,1 +1,4 @@
-// Variáveis e Tipos - Como armazenar dados. em CARTOCSS
+/* Variáveis e Tipos - Como armazenar dados. */
+.example {
+    content: 'Variáveis e Tipos - Como armazenar dados.';
+}

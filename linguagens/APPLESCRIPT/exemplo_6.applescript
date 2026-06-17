@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em APPLESCRIPT
+// Estruturas de Dados - Listas, Vetores ou Mapas.
+console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");

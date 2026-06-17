@@ -1,2 +1,2 @@
-<!-- Controle de Fluxo - Estruturas condicionais (se/então). -->
-<div id='app'>Aprendendo Controle de Fluxo - Estruturas condicionais (se/então). em VUE</div>
+// Controle de Fluxo - Estruturas condicionais (se/então).
+console.log("Controle de Fluxo - Estruturas condicionais (se/então).");

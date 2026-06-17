@@ -1,2 +1,5 @@
 # Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print('Aprendendo Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em PYTHON')
+def fibonacci(n):
+    if n <= 1: return n
+    return fibonacci(n-1) + fibonacci(n-2)
+print(fibonacci(5))

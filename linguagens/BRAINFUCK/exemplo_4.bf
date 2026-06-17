@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em BRAINFUCK
+[ Loops - Repetindo tarefas com para/enquanto. ]
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.

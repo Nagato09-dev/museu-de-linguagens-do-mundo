@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em HY
+# Tratamento de Erros - Lidando com exceções e falhas.
+print("Tratamento de Erros - Lidando com exceções e falhas.")

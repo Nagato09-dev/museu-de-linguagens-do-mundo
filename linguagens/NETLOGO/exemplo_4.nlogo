@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em NETLOGO
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

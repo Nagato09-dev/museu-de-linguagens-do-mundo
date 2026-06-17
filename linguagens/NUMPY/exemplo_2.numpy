@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em NUMPY
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

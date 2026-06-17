@@ -1,2 +1,6 @@
 // Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log('Aprendendo Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em JAVASCRIPT');
+function fibonacci(n) {
+    if (n <= 1) return n;
+    return fibonacci(n - 1) + fibonacci(n - 2);
+}
+console.log(fibonacci(5));

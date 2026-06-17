@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em VCL
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

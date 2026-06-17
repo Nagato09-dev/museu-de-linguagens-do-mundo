@@ -1,1 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis. in F#
+// Funções - Criando blocos de código reutilizáveis.
+console.log("Funções - Criando blocos de código reutilizáveis.");

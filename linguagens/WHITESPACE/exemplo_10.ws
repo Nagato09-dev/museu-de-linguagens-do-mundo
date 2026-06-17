@@ -1,1 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em WHITESPACE
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).

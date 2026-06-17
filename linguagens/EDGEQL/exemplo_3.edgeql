@@ -1,1 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em EDGEQL
+-- Controle de Fluxo - Estruturas condicionais (se/então).
+SELECT 'Controle de Fluxo - Estruturas condicionais (se/então).';

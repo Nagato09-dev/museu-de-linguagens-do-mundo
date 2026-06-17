@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em WHITESPACE
+// Matemática - Operações aritméticas básicas.
+// Matemática - Operações aritméticas básicas.

@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em G_CODE
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

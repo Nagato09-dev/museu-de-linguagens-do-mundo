@@ -1,1 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em NIX
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");

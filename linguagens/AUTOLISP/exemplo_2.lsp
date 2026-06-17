@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em AUTOLISP
+;; Variáveis e Tipos - Como armazenar dados.
+(print "Variáveis e Tipos - Como armazenar dados.")

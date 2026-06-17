@@ -1,3 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em C_SHARP
-#include <stdio.h>
-int main() { printf("Olá Mundo: Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n"); return 0; }
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");

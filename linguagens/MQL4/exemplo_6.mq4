@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em MQL4
+// Estruturas de Dados - Listas, Vetores ou Mapas.
+console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");

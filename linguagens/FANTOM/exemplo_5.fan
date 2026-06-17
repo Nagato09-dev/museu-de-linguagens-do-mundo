@@ -1,1 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis. em FANTOM
+# Funções - Criando blocos de código reutilizáveis.
+puts "Funções - Criando blocos de código reutilizáveis."

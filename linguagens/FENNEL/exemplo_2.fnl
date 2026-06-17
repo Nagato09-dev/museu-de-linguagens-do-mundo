@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em FENNEL
+;; Variáveis e Tipos - Como armazenar dados.
+(print "Variáveis e Tipos - Como armazenar dados.")

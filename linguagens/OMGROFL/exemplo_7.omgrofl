@@ -1,1 +1,3 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em OMGROFL
+w00t Tratamento de Erros - Lidando com exceções e falhas.
+rofl "Tratamento de Erros - Lidando com exceções e falhas."
+stfu

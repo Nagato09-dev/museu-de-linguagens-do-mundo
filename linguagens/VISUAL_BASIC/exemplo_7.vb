@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em VISUAL_BASIC
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

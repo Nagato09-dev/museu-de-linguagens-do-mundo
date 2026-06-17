@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em EDGEQL
+-- Variáveis e Tipos - Como armazenar dados.
+SELECT 'Variáveis e Tipos - Como armazenar dados.';

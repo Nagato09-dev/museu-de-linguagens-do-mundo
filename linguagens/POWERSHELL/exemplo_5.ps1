@@ -1,1 +1,3 @@
-// Funções - Criando blocos de código reutilizáveis. em POWERSHELL
+# Funções - Criando blocos de código reutilizáveis.
+#!/bin/bash
+    echo "Funções - Criando blocos de código reutilizáveis."

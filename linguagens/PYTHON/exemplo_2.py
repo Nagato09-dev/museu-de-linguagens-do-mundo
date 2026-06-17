@@ -1,3 +1,4 @@
-x = 10
+# Variáveis e Tipos - Como armazenar dados.
 nome = 'Manus'
-print(f'{nome} tem {x} poderes')
+idade = 1
+print(f'{nome} tem {idade} ano(s)')

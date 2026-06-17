@@ -1,3 +1,6 @@
-// Olá Mundo - O básico de qualquer linguagem. em GO
-#include <stdio.h>
-int main() { printf("Olá Mundo: Olá Mundo - O básico de qualquer linguagem.\n"); return 0; }
+// Olá Mundo - O básico de qualquer linguagem.
+package main
+import "fmt"
+func main() {
+    fmt.Println("Olá Mundo - O básico de qualquer linguagem.")
+}

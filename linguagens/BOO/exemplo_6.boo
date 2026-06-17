@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em BOO
+# Estruturas de Dados - Listas, Vetores ou Mapas.
+print("Estruturas de Dados - Listas, Vetores ou Mapas.")

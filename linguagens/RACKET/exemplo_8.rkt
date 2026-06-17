@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em RACKET
+;; Manipulação de Strings - Trabalhando com textos.
+(print "Manipulação de Strings - Trabalhando com textos.")

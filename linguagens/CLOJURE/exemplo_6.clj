@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em CLOJURE
+;; Estruturas de Dados - Listas, Vetores ou Mapas.
+(print "Estruturas de Dados - Listas, Vetores ou Mapas.")

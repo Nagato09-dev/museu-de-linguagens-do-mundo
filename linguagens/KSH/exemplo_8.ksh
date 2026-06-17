@@ -1,3 +1,3 @@
-#!/bin/bash
 # Manipulação de Strings - Trabalhando com textos.
-echo "Aprendendo Manipulação de Strings - Trabalhando com textos. em KSH"
+#!/bin/bash
+    echo "Manipulação de Strings - Trabalhando com textos."

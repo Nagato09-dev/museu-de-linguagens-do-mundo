@@ -1,3 +1,5 @@
-// Variáveis e Tipos - Como armazenar dados. em C
-#include <stdio.h>
-int main() { printf("Olá Mundo: Variáveis e Tipos - Como armazenar dados.\n"); return 0; }
+// Variáveis e Tipos - Como armazenar dados.
+int main() {
+    printf("Variáveis e Tipos - Como armazenar dados.\n");
+    return 0;
+}

@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em AMPL
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

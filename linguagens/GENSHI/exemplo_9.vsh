@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em GENSHI
+# Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

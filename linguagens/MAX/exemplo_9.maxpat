@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em MAX
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

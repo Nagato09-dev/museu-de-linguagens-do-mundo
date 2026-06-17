@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em FANTOM
+# Variáveis e Tipos - Como armazenar dados.
+puts "Variáveis e Tipos - Como armazenar dados."

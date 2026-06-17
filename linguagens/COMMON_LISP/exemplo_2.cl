@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em COMMON_LISP
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

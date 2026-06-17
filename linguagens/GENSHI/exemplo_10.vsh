@@ -1,1 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em GENSHI
+# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

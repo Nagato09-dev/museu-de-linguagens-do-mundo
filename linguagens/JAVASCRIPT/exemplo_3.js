@@ -1,2 +1,6 @@
 // Controle de Fluxo - Estruturas condicionais (se/então).
-console.log('Aprendendo Controle de Fluxo - Estruturas condicionais (se/então). em JAVASCRIPT');
+if (10 > 5) {
+    console.log('Verdadeiro');
+} else {
+    console.log('Falso');
+}

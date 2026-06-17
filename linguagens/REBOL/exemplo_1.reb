@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em REBOL
+# Olá Mundo - O básico de qualquer linguagem.
+puts "Olá Mundo - O básico de qualquer linguagem."

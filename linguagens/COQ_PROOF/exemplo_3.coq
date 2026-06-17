@@ -1,1 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em COQ_PROOF
+// Controle de Fluxo - Estruturas condicionais (se/então).
+console.log("Controle de Fluxo - Estruturas condicionais (se/então).");

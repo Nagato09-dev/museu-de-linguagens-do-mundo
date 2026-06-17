@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em BRAINFUCK
+[ Manipulação de Strings - Trabalhando com textos. ]
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.

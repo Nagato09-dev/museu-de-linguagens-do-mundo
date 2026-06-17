@@ -1,1 +1,5 @@
-// Funções - Criando blocos de código reutilizáveis. em OBJECTIVE-C
+// Funções - Criando blocos de código reutilizáveis.
+int main() {
+    printf("Funções - Criando blocos de código reutilizáveis.\n");
+    return 0;
+}

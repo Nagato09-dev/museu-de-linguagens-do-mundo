@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em FALSE
+// Manipulação de Strings - Trabalhando com textos.
+// Manipulação de Strings - Trabalhando com textos.

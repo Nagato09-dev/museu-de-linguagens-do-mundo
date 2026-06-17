@@ -1,1 +1,3 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em OMGROFL
+w00t Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+rofl "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+stfu

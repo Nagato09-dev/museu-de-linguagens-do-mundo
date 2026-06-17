@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em CLICK
+// Olá Mundo - O básico de qualquer linguagem.
+console.log("Olá Mundo - O básico de qualquer linguagem.");

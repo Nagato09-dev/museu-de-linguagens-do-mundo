@@ -1,1 +1,3 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em BATCHFILE
+# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+#!/bin/bash
+    echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."

@@ -1,2 +1,2 @@
 // Controle de Fluxo - Estruturas condicionais (se/então).
-console.log('Aprendendo Controle de Fluxo - Estruturas condicionais (se/então). em FLOW');
+console.log("Controle de Fluxo - Estruturas condicionais (se/então).");

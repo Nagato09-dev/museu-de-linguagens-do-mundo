@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em FILEBENCH_WML
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

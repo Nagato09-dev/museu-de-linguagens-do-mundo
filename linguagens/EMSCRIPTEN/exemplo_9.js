@@ -1,2 +1,2 @@
 // Matemática - Operações aritméticas básicas.
-console.log('Aprendendo Matemática - Operações aritméticas básicas. em EMSCRIPTEN');
+console.log("Matemática - Operações aritméticas básicas.");

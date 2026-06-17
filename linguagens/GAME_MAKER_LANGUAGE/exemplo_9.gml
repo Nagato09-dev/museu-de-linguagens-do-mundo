@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em GAME_MAKER_LANGUAGE
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

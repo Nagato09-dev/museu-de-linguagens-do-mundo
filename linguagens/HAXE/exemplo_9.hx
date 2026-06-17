@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em HAXE
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

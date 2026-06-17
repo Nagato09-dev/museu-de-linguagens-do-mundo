@@ -1,3 +1,6 @@
-// Matemática - Operações aritméticas básicas. em GO
-#include <stdio.h>
-int main() { printf("Olá Mundo: Matemática - Operações aritméticas básicas.\n"); return 0; }
+// Matemática - Operações aritméticas básicas.
+package main
+import "fmt"
+func main() {
+    fmt.Println("Matemática - Operações aritméticas básicas.")
+}

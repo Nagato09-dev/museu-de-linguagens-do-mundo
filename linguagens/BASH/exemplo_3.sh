@@ -1,3 +1,3 @@
-#!/bin/bash
 # Controle de Fluxo - Estruturas condicionais (se/então).
-echo "Aprendendo Controle de Fluxo - Estruturas condicionais (se/então). em BASH"
+#!/bin/bash
+    echo "Controle de Fluxo - Estruturas condicionais (se/então)."

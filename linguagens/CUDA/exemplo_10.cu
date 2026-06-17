@@ -1,3 +1,5 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em CUDA
-#include <stdio.h>
-int main() { printf("Olá Mundo: Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n"); return 0; }
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+int main() {
+    printf("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n");
+    return 0;
+}

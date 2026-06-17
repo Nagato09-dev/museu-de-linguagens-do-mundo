@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em YARA
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

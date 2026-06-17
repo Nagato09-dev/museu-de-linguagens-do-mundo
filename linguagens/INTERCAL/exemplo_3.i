@@ -1,1 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em INTERCAL
+// Controle de Fluxo - Estruturas condicionais (se/então).
+// Controle de Fluxo - Estruturas condicionais (se/então).

@@ -1,1 +1,4 @@
-// Funções - Criando blocos de código reutilizáveis. em CARTOCSS
+/* Funções - Criando blocos de código reutilizáveis. */
+.example {
+    content: 'Funções - Criando blocos de código reutilizáveis.';
+}

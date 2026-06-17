@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. in ALEMBIC
+// Estruturas de Dados - Listas, Vetores ou Mapas.
+console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");

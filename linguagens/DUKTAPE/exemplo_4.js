@@ -1,2 +1,2 @@
 // Loops - Repetindo tarefas com para/enquanto.
-console.log('Aprendendo Loops - Repetindo tarefas com para/enquanto. em DUKTAPE');
+console.log("Loops - Repetindo tarefas com para/enquanto.");

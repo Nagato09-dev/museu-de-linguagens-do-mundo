@@ -1,2 +1,6 @@
 // Tratamento de Erros - Lidando com exceções e falhas.
-console.log('Aprendendo Tratamento de Erros - Lidando com exceções e falhas. em JAVASCRIPT');
+try {
+    throw new Error('Algo deu errado!');
+} catch (e) {
+    console.log(`Erro: ${e.message}`);
+}

@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em GDSCRIPT
+# Loops - Repetindo tarefas com para/enquanto.
+print("Loops - Repetindo tarefas com para/enquanto.")

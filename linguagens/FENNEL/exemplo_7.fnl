@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em FENNEL
+;; Tratamento de Erros - Lidando com exceções e falhas.
+(print "Tratamento de Erros - Lidando com exceções e falhas.")

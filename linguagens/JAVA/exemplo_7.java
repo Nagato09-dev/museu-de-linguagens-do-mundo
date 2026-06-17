@@ -1,6 +1,6 @@
-/* Tratamento de Erros - Lidando com exceções e falhas. */
-public class Exemplo7 {
+// Tratamento de Erros - Lidando com exceções e falhas.
+public class Exemplo{num_exemplo} {
     public static void main(String[] args) {
-        System.out.println("Olá Mundo: Tratamento de Erros - Lidando com exceções e falhas.");
+        System.out.println("Tratamento de Erros - Lidando com exceções e falhas.");
     }
 }

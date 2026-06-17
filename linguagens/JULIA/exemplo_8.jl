@@ -1,1 +1,2 @@
-# Manipulação de Strings - Trabalhando com textos. em JULIA
+# Manipulação de Strings - Trabalhando com textos.
+print("Manipulação de Strings - Trabalhando com textos.")

@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em COMPONENT_PASCAL
+// Olá Mundo - O básico de qualquer linguagem.
+console.log("Olá Mundo - O básico de qualquer linguagem.");

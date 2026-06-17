@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em GHERKIN
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

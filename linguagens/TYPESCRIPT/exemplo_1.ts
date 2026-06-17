@@ -1,1 +1,2 @@
-console.log('Olá, Mundo!');
+// Olá Mundo - O básico de qualquer linguagem.
+console.log("Olá Mundo - O básico de qualquer linguagem.");

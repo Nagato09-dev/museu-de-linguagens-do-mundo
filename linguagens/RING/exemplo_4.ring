@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em RING
+# Loops - Repetindo tarefas com para/enquanto.
+puts "Loops - Repetindo tarefas com para/enquanto."

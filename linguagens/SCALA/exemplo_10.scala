@@ -1,1 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em SCALA
+# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+puts "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."

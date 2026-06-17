@@ -1,2 +1,2 @@
-<!-- Tratamento de Erros - Lidando com exceções e falhas. -->
-<div id='app'>Aprendendo Tratamento de Erros - Lidando com exceções e falhas. em VUE</div>
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

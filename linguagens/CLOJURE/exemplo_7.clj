@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em CLOJURE
+;; Tratamento de Erros - Lidando com exceções e falhas.
+(print "Tratamento de Erros - Lidando com exceções e falhas.")

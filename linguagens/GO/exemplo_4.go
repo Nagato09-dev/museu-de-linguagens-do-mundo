@@ -1,3 +1,6 @@
-// Loops - Repetindo tarefas com para/enquanto. em GO
-#include <stdio.h>
-int main() { printf("Olá Mundo: Loops - Repetindo tarefas com para/enquanto.\n"); return 0; }
+// Loops - Repetindo tarefas com para/enquanto.
+package main
+import "fmt"
+func main() {
+    fmt.Println("Loops - Repetindo tarefas com para/enquanto.")
+}

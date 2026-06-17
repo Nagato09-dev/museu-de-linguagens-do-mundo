@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em CYPHER
+-- Manipulação de Strings - Trabalhando com textos.
+SELECT 'Manipulação de Strings - Trabalhando com textos.';

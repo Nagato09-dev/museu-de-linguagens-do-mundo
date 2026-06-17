@@ -1,2 +1,2 @@
 // Tratamento de Erros - Lidando com exceções e falhas.
-console.log('Aprendendo Tratamento de Erros - Lidando com exceções e falhas. em COFFEESCRIPT');
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

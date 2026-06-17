@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em C2HS_HASKELL
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

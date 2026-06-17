@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. in BLADE
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

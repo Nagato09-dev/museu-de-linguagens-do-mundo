@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em POV_RAY
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

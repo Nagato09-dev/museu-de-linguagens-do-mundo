@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em MQL5
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

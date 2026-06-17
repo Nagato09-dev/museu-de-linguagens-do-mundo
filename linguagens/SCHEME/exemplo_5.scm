@@ -1,1 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis. em SCHEME
+;; Funções - Criando blocos de código reutilizáveis.
+(print "Funções - Criando blocos de código reutilizáveis.")

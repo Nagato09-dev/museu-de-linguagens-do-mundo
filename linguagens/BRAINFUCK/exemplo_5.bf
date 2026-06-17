@@ -1,1 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis. em BRAINFUCK
+[ Funções - Criando blocos de código reutilizáveis. ]
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.

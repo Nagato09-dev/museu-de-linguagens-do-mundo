@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em EDGEQL
+-- Manipulação de Strings - Trabalhando com textos.
+SELECT 'Manipulação de Strings - Trabalhando com textos.';

@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em DATALOG
+-- Olá Mundo - O básico de qualquer linguagem.
+SELECT 'Olá Mundo - O básico de qualquer linguagem.';

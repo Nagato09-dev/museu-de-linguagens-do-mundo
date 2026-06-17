@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. in ALEMBIC
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

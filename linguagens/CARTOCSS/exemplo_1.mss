@@ -1,1 +1,4 @@
-// Olá Mundo - O básico de qualquer linguagem. em CARTOCSS
+/* Olá Mundo - O básico de qualquer linguagem. */
+.example {
+    content: 'Olá Mundo - O básico de qualquer linguagem.';
+}

@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em CRYSTAL
+# Variáveis e Tipos - Como armazenar dados.
+puts "Variáveis e Tipos - Como armazenar dados."

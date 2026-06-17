@@ -1,3 +1,5 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em CPLUSPLUS
-#include <stdio.h>
-int main() { printf("Olá Mundo: Controle de Fluxo - Estruturas condicionais (se/então).\n"); return 0; }
+// Controle de Fluxo - Estruturas condicionais (se/então).
+int main() {
+    printf("Controle de Fluxo - Estruturas condicionais (se/então).\n");
+    return 0;
+}

@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em BRAINFUCK
+[ Variáveis e Tipos - Como armazenar dados. ]
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.

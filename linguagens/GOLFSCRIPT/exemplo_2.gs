@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em GOLFSCRIPT
+// Variáveis e Tipos - Como armazenar dados.
+// Variáveis e Tipos - Como armazenar dados.

@@ -1,1 +1,4 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em CARTOCSS
+/* Estruturas de Dados - Listas, Vetores ou Mapas. */
+.example {
+    content: 'Estruturas de Dados - Listas, Vetores ou Mapas.';
+}

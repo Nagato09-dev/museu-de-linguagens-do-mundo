@@ -1,2 +1,2 @@
-<!-- Funções - Criando blocos de código reutilizáveis. -->
-<div id='app'>Aprendendo Funções - Criando blocos de código reutilizáveis. em VUE</div>
+// Funções - Criando blocos de código reutilizáveis.
+console.log("Funções - Criando blocos de código reutilizáveis.");

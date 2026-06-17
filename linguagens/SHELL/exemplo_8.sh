@@ -1,3 +1,3 @@
-#!/bin/bash
-# Manipulação de Strings - Trabalhando com textos.
-echo "Aprendendo Manipulação de Strings - Trabalhando com textos. em SHELL"
+// Manipulação de Strings - Trabalhando com textos.
+texto='Olá, Mundo'
+echo "${texto^^}" # Converte para maiúsculas

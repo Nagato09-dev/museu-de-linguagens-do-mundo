@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em OPAL
+// Manipulação de Strings - Trabalhando com textos.
+console.log("Manipulação de Strings - Trabalhando com textos.");

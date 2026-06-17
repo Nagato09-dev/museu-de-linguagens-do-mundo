@@ -1,3 +1,5 @@
-// Matemática - Operações aritméticas básicas. in C++
-#include <stdio.h>
-int main() { printf("Olá Mundo: Matemática - Operações aritméticas básicas.\n"); return 0; }
+// Matemática - Operações aritméticas básicas.
+int main() {
+    printf("Matemática - Operações aritméticas básicas.\n");
+    return 0;
+}

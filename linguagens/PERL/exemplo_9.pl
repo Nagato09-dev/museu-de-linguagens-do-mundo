@@ -1,1 +1,2 @@
-# Matemática - Operações aritméticas básicas. em PERL
+# Matemática - Operações aritméticas básicas.
+puts "Matemática - Operações aritméticas básicas."

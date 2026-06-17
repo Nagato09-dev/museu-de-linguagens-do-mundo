@@ -1,1 +1,2 @@
-(* Variáveis e Tipos - Como armazenar dados. em ADA *)
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

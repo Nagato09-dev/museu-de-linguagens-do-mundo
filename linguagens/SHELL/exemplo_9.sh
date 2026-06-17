@@ -1,3 +1,2 @@
-#!/bin/bash
-# Matemática - Operações aritméticas básicas.
-echo "Aprendendo Matemática - Operações aritméticas básicas. em SHELL"
+// Matemática - Operações aritméticas básicas.
+expr 10 + 5

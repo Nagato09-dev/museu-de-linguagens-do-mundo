@@ -1,3 +1,4 @@
-// Matemática - Operações aritméticas básicas. em RUST
-#include <stdio.h>
-int main() { printf("Olá Mundo: Matemática - Operações aritméticas básicas.\n"); return 0; }
+// Matemática - Operações aritméticas básicas.
+fn main() {
+    println!("Matemática - Operações aritméticas básicas.");
+}

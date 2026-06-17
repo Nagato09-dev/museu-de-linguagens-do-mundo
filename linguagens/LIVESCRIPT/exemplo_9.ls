@@ -1,2 +1,2 @@
 // Matemática - Operações aritméticas básicas.
-console.log('Aprendendo Matemática - Operações aritméticas básicas. em LIVESCRIPT');
+console.log("Matemática - Operações aritméticas básicas.");

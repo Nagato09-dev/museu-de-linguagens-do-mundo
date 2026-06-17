@@ -1,1 +1,4 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em CARTOCSS
+/* Controle de Fluxo - Estruturas condicionais (se/então). */
+.example {
+    content: 'Controle de Fluxo - Estruturas condicionais (se/então).';
+}

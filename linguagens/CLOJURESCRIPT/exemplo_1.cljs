@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em CLOJURESCRIPT
+;; Olá Mundo - O básico de qualquer linguagem.
+(print "Olá Mundo - O básico de qualquer linguagem.")

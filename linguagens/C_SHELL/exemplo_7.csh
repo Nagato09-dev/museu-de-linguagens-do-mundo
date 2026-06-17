@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em C_SHELL
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

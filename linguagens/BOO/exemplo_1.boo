@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em BOO
+# Olá Mundo - O básico de qualquer linguagem.
+print("Olá Mundo - O básico de qualquer linguagem.")

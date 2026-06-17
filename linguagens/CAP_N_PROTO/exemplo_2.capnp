@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em CAP_N_PROTO
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

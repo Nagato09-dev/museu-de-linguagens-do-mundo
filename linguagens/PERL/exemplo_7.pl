@@ -1,1 +1,2 @@
-# Tratamento de Erros - Lidando com exceções e falhas. em PERL
+# Tratamento de Erros - Lidando com exceções e falhas.
+puts "Tratamento de Erros - Lidando com exceções e falhas."

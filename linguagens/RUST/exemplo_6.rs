@@ -1,3 +1,4 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em RUST
-#include <stdio.h>
-int main() { printf("Olá Mundo: Estruturas de Dados - Listas, Vetores ou Mapas.\n"); return 0; }
+// Estruturas de Dados - Listas, Vetores ou Mapas.
+fn main() {
+    println!("Estruturas de Dados - Listas, Vetores ou Mapas.");
+}

@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. in BLADE
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

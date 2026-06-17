@@ -1,6 +1,6 @@
-/* Controle de Fluxo - Estruturas condicionais (se/então). */
-public class Exemplo3 {
+// Controle de Fluxo - Estruturas condicionais (se/então).
+public class Exemplo{num_exemplo} {
     public static void main(String[] args) {
-        System.out.println("Olá Mundo: Controle de Fluxo - Estruturas condicionais (se/então).");
+        System.out.println("Controle de Fluxo - Estruturas condicionais (se/então).");
     }
 }

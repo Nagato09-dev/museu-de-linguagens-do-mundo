@@ -1,1 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em GENTOO_EBUILD
+// Controle de Fluxo - Estruturas condicionais (se/então).
+console.log("Controle de Fluxo - Estruturas condicionais (se/então).");

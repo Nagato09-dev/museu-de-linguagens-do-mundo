@@ -1,2 +1,2 @@
-<!-- Matemática - Operações aritméticas básicas. -->
-<div id='app'>Aprendendo Matemática - Operações aritméticas básicas. em VUE</div>
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

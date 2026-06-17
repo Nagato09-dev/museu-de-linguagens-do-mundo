@@ -1,2 +1,4 @@
 # Funções - Criando blocos de código reutilizáveis.
-print('Aprendendo Funções - Criando blocos de código reutilizáveis. em PYTHON')
+def saudacao(nome):
+    return f'Olá, {nome}'
+print(saudacao('Mundo'))

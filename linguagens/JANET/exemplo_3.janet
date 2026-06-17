@@ -1,1 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em JANET
+;; Controle de Fluxo - Estruturas condicionais (se/então).
+(print "Controle de Fluxo - Estruturas condicionais (se/então).")

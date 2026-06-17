@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em DAFNY
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em F_SHARP
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

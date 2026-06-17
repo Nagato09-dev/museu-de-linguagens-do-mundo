@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em MODELICA
+// Manipulação de Strings - Trabalhando com textos.
+console.log("Manipulação de Strings - Trabalhando com textos.");

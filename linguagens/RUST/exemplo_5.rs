@@ -1,3 +1,4 @@
-// Funções - Criando blocos de código reutilizáveis. em RUST
-#include <stdio.h>
-int main() { printf("Olá Mundo: Funções - Criando blocos de código reutilizáveis.\n"); return 0; }
+// Funções - Criando blocos de código reutilizáveis.
+fn main() {
+    println!("Funções - Criando blocos de código reutilizáveis.");
+}

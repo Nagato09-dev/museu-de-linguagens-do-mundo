@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em GNU_GUILE
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");

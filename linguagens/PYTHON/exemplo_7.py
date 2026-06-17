@@ -1,2 +1,5 @@
 # Tratamento de Erros - Lidando com exceções e falhas.
-print('Aprendendo Tratamento de Erros - Lidando com exceções e falhas. em PYTHON')
+try:
+    resultado = 10 / 0
+except ZeroDivisionError:
+    print('Erro: Divisão por zero!')

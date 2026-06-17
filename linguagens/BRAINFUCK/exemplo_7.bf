@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em BRAINFUCK
+[ Tratamento de Erros - Lidando com exceções e falhas. ]
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.

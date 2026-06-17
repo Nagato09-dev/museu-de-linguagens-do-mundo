@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em BRAINFUCK
+[ Matemática - Operações aritméticas básicas. ]
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.

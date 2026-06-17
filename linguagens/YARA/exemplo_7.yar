@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em YARA
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

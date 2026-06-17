@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em PICOLISP
+;; Manipulação de Strings - Trabalhando com textos.
+(print "Manipulação de Strings - Trabalhando com textos.")

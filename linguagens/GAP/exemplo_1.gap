@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em GAP
+// Olá Mundo - O básico de qualquer linguagem.
+console.log("Olá Mundo - O básico de qualquer linguagem.");

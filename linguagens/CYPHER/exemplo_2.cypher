@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em CYPHER
+-- Variáveis e Tipos - Como armazenar dados.
+SELECT 'Variáveis e Tipos - Como armazenar dados.';

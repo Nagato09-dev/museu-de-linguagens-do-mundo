@@ -1,1 +1,2 @@
--- Tratamento de Erros - Lidando com exceções e falhas. em HASKELL
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

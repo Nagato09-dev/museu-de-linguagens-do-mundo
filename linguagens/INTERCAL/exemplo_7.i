@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em INTERCAL
+// Tratamento de Erros - Lidando com exceções e falhas.
+// Tratamento de Erros - Lidando com exceções e falhas.

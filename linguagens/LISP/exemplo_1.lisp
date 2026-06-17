@@ -1,1 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em LISP
+;; Olá Mundo - O básico de qualquer linguagem.
+(print "Olá Mundo - O básico de qualquer linguagem.")

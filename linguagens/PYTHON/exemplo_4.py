@@ -1,2 +1,3 @@
 # Loops - Repetindo tarefas com para/enquanto.
-print('Aprendendo Loops - Repetindo tarefas com para/enquanto. em PYTHON')
+for i in range(5):
+    print(f'Loop {i}' )

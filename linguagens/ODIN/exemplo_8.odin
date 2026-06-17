@@ -1,1 +1,5 @@
-// Manipulação de Strings - Trabalhando com textos. em ODIN
+// Manipulação de Strings - Trabalhando com textos.
+int main() {
+    printf("Manipulação de Strings - Trabalhando com textos.\n");
+    return 0;
+}

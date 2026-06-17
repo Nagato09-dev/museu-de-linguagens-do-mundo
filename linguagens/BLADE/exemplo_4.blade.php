@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. in BLADE
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

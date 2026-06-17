@@ -1,1 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em ACTIONSCRIPT
+// Tratamento de Erros - Lidando com exceções e falhas.
+console.log("Tratamento de Erros - Lidando com exceções e falhas.");

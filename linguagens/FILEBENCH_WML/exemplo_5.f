@@ -1,1 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis. em FILEBENCH_WML
+// Funções - Criando blocos de código reutilizáveis.
+console.log("Funções - Criando blocos de código reutilizáveis.");

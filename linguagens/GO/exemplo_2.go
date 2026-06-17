@@ -1,3 +1,6 @@
-// Variáveis e Tipos - Como armazenar dados. em GO
-#include <stdio.h>
-int main() { printf("Olá Mundo: Variáveis e Tipos - Como armazenar dados.\n"); return 0; }
+// Variáveis e Tipos - Como armazenar dados.
+package main
+import "fmt"
+func main() {
+    fmt.Println("Variáveis e Tipos - Como armazenar dados.")
+}

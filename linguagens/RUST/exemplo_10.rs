@@ -1,3 +1,4 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em RUST
-#include <stdio.h>
-int main() { printf("Olá Mundo: Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n"); return 0; }
+// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+fn main() {
+    println!("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+}

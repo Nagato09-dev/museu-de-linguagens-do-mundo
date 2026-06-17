@@ -1,3 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem. em C_SHARP
-#include <stdio.h>
-int main() { printf("Olá Mundo: Olá Mundo - O básico de qualquer linguagem.\n"); return 0; }
+// Olá Mundo - O básico de qualquer linguagem.
+console.log("Olá Mundo - O básico de qualquer linguagem.");

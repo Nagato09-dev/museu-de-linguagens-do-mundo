@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em ARC
+;; Manipulação de Strings - Trabalhando com textos.
+(print "Manipulação de Strings - Trabalhando com textos.")

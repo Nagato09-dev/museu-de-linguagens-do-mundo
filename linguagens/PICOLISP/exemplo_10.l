@@ -1,1 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). em PICOLISP
+;; Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+(print "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

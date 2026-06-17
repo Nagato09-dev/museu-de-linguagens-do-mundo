@@ -1,1 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então). em BRAINFUCK
+[ Controle de Fluxo - Estruturas condicionais (se/então). ]
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.

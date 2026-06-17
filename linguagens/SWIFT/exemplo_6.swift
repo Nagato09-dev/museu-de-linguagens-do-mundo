@@ -1,1 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas. em SWIFT
+# Estruturas de Dados - Listas, Vetores ou Mapas.
+puts "Estruturas de Dados - Listas, Vetores ou Mapas."

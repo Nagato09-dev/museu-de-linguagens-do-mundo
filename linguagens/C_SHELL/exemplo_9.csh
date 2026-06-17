@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em C_SHELL
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

@@ -1,1 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis. em ANGELSCRIPT
+// Funções - Criando blocos de código reutilizáveis.
+console.log("Funções - Criando blocos de código reutilizáveis.");

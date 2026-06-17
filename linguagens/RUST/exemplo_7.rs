@@ -1,3 +1,4 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em RUST
-#include <stdio.h>
-int main() { printf("Olá Mundo: Tratamento de Erros - Lidando com exceções e falhas.\n"); return 0; }
+// Tratamento de Erros - Lidando com exceções e falhas.
+fn main() {
+    println!("Tratamento de Erros - Lidando com exceções e falhas.");
+}

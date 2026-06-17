@@ -1,1 +1,2 @@
-// Matemática - Operações aritméticas básicas. em CMAKE
+// Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

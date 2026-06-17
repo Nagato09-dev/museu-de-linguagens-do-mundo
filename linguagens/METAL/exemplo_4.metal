@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em METAL
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

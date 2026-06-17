@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em OPENSCAD
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

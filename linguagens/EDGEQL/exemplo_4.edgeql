@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em EDGEQL
+-- Loops - Repetindo tarefas com para/enquanto.
+SELECT 'Loops - Repetindo tarefas com para/enquanto.';

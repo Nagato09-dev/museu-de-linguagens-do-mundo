@@ -1,1 +1,3 @@
-// Manipulação de Strings - Trabalhando com textos. em POWERSHELL
+# Manipulação de Strings - Trabalhando com textos.
+#!/bin/bash
+    echo "Manipulação de Strings - Trabalhando com textos."

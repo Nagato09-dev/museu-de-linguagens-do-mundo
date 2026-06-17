@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em VISUAL_BASIC
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

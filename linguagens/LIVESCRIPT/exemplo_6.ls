@@ -1,2 +1,2 @@
 // Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log('Aprendendo Estruturas de Dados - Listas, Vetores ou Mapas. em LIVESCRIPT');
+console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");

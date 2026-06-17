@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. em RAKU
+# Manipulação de Strings - Trabalhando com textos.
+puts "Manipulação de Strings - Trabalhando com textos."

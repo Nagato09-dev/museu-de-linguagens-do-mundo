@@ -1,3 +1,4 @@
-// Loops - Repetindo tarefas com para/enquanto. em RUST
-#include <stdio.h>
-int main() { printf("Olá Mundo: Loops - Repetindo tarefas com para/enquanto.\n"); return 0; }
+// Loops - Repetindo tarefas com para/enquanto.
+fn main() {
+    println!("Loops - Repetindo tarefas com para/enquanto.");
+}

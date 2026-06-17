@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. in BITBAKE
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

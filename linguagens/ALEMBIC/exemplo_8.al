@@ -1,1 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos. in ALEMBIC
+// Manipulação de Strings - Trabalhando com textos.
+console.log("Manipulação de Strings - Trabalhando com textos.");

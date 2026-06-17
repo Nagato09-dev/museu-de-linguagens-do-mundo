@@ -1,3 +1,6 @@
-// Manipulação de Strings - Trabalhando com textos. em GO
-#include <stdio.h>
-int main() { printf("Olá Mundo: Manipulação de Strings - Trabalhando com textos.\n"); return 0; }
+// Manipulação de Strings - Trabalhando com textos.
+package main
+import "fmt"
+func main() {
+    fmt.Println("Manipulação de Strings - Trabalhando com textos.")
+}

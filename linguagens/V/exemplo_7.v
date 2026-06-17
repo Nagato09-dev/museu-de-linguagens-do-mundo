@@ -1,1 +1,5 @@
-// Tratamento de Erros - Lidando com exceções e falhas. em V
+// Tratamento de Erros - Lidando com exceções e falhas.
+int main() {
+    printf("Tratamento de Erros - Lidando com exceções e falhas.\n");
+    return 0;
+}

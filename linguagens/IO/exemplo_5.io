@@ -1,1 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis. em IO
+# Funções - Criando blocos de código reutilizáveis.
+puts "Funções - Criando blocos de código reutilizáveis."

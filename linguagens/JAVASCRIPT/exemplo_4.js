@@ -1,2 +1,4 @@
 // Loops - Repetindo tarefas com para/enquanto.
-console.log('Aprendendo Loops - Repetindo tarefas com para/enquanto. em JAVASCRIPT');
+for (let i = 0; i < 5; i++) {
+    console.log(`Loop ${i}`);
+}

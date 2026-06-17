@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em SWIFT
+# Loops - Repetindo tarefas com para/enquanto.
+puts "Loops - Repetindo tarefas com para/enquanto."

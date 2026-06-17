@@ -1,1 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto. em SUPERCOLLIDER
+// Loops - Repetindo tarefas com para/enquanto.
+console.log("Loops - Repetindo tarefas com para/enquanto.");

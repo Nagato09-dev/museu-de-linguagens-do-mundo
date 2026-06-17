@@ -1,1 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados. em XC
+// Variáveis e Tipos - Como armazenar dados.
+console.log("Variáveis e Tipos - Como armazenar dados.");
