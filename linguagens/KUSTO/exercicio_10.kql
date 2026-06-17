@@ -1,0 +1,1 @@
+print array_index_of(lista, 2) >= 0

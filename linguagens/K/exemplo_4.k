@@ -1,2 +1,1 @@
-# K - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+i:0;while[i<5;`0:($i),"\n";i+:1]

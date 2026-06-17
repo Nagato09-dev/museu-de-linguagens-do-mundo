@@ -1,0 +1,1 @@
+print array_concat(lista, dynamic([3]))

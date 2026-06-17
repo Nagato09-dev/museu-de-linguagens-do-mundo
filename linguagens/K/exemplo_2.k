@@ -1,2 +1,3 @@
-# K - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+idade:25
+nome:"K"
+`0:nome," tem ",($idade)," anos\n"

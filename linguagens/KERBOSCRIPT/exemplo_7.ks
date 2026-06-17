@@ -1,0 +1,1 @@
+// KerboScript não tem try-catch tradicional

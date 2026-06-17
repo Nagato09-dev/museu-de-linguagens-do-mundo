@@ -1,0 +1,1 @@
+FROM {local i is 10.} UNTIL i = 0 STEP {set i to i-1.} DO { PRINT i. }

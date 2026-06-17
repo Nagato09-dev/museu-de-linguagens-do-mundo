@@ -1,0 +1,1 @@
+SET area TO 3.14 * r * r.

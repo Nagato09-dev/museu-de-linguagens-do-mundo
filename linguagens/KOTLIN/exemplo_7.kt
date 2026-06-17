@@ -1,6 +1,5 @@
-// KOTLIN - Tratamento de Erros - Lidando com exceções e falhas.
-public class Main {
-    public static void main(String[] args) {
-    System.out.println("Tratamento de Erros - Lidando com exceções e falhas.");
-    }
+try {
+    throw Exception("Erro")
+} catch (e: Exception) {
+    println(e.message)
 }

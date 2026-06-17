@@ -1,0 +1,1 @@
+DECLARE FUNCTION soma { PARAMETER a, b. RETURN a + b. }

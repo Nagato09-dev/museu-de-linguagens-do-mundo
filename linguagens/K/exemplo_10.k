@@ -1,2 +1,1 @@
-# K - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+x@<x:3 1 4

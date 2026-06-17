@@ -1,0 +1,1 @@
+IF MOD(n, 2) = 0 { PRINT "Par". }

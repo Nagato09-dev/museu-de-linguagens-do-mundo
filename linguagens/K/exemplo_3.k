@@ -1,2 +1,1 @@
-# K - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+check:{:[x>0;"Positivo";"Negativo"]}

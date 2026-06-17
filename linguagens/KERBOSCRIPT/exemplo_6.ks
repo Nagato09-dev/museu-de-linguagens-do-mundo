@@ -1,0 +1,1 @@
+SET lista TO LIST(1, 2, 3).
