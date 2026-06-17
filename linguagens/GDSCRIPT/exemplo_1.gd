@@ -1,1 +1,3 @@
-// Exemplo 1 em GDSCRIPT
+extends Node
+func _ready():
+    print("Olá Mundo")

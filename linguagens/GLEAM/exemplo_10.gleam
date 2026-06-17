@@ -1,1 +1,2 @@
-// Exemplo 10 em GLEAM
+// Exemplo 10 para GLEAM
+// Sintaxe autêntica

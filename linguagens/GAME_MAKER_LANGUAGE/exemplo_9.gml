@@ -1,2 +1,2 @@
-# GAME_MAKER_LANGUAGE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para GAME_MAKER_LANGUAGE
+// Sintaxe autêntica

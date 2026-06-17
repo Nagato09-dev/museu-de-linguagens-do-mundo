@@ -1,2 +1,2 @@
-# GRAMMATICAL_FRAMEWORK - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para GRAMMATICAL_FRAMEWORK
+// Sintaxe autêntica

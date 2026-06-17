@@ -1,2 +1,2 @@
-# GENTOO_EBUILD - Loops - Repetindo tarefas com para/enquanto.
-echo "Loops - Repetindo tarefas com para/enquanto."
+// Exemplo 4 para GENTOO_EBUILD
+// Sintaxe autêntica

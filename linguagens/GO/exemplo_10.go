@@ -1,6 +1,7 @@
-// GO - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
 package main
-import "fmt"
+import ("fmt"; "sort")
 func main() {
-    fmt.Println("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+    list := []int{3, 1, 4, 1, 5}
+    sort.Ints(list)
+    fmt.Println(list)
 }

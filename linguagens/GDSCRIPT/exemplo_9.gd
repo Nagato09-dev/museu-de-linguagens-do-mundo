@@ -1,1 +1,1 @@
-// Exemplo 9 em GDSCRIPT
+print(sqrt(16.0))

@@ -1,6 +1,5 @@
-// GO - Manipulação de Strings - Trabalhando com textos.
 package main
-import "fmt"
+import ("fmt"; "strings")
 func main() {
-    fmt.Println("Manipulação de Strings - Trabalhando com textos.")
+    fmt.Println(strings.ToUpper("go lang"))
 }

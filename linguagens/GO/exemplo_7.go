@@ -1,6 +1,6 @@
-// GO - Tratamento de Erros - Lidando com exceções e falhas.
 package main
-import "fmt"
+import ("errors"; "fmt")
 func main() {
-    fmt.Println("Tratamento de Erros - Lidando com exceções e falhas.")
+    err := errors.New("Erro")
+    if err != nil { fmt.Println(err) }
 }

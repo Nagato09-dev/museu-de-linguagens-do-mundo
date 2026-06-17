@@ -1,1 +1,1 @@
-// Solução do exercício 2 em GDSCRIPT
+var f = 3.14

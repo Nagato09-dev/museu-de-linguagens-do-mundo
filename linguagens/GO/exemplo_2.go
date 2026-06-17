@@ -1,6 +1,7 @@
-// GO - Variáveis e Tipos - Como armazenar dados.
 package main
 import "fmt"
 func main() {
-    fmt.Println("Variáveis e Tipos - Como armazenar dados.")
+    idade := 25
+    nome := "Go"
+    fmt.Printf("%s tem %d anos\n", nome, idade)
 }

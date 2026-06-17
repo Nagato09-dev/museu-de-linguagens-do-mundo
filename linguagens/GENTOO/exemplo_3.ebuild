@@ -1,2 +1,2 @@
-# GENTOO - Controle de Fluxo - Estruturas condicionais (se/então).
-echo "Controle de Fluxo - Estruturas condicionais (se/então)."
+// Exemplo 3 para GENTOO
+// Sintaxe autêntica

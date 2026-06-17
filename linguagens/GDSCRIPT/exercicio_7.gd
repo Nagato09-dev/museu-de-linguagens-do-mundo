@@ -1,1 +1,1 @@
-// Solução do exercício 7 em GDSCRIPT
+if error: print("Erro")

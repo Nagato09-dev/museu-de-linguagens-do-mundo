@@ -1,1 +1,1 @@
-// Solução do exercício 7 em GLEAM
+// Exercício 7 para GLEAM

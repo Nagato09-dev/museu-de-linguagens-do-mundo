@@ -1,2 +1,2 @@
-# G_CODE - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+// Exemplo 5 para G_CODE
+// Sintaxe autêntica

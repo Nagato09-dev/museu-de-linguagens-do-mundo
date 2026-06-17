@@ -1,2 +1,2 @@
-# G_CODE - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+// Exemplo 6 para G_CODE
+// Sintaxe autêntica

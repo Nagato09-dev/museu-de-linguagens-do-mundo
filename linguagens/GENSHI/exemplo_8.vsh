@@ -1,2 +1,2 @@
-# GENSHI - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// Exemplo 8 para GENSHI
+// Sintaxe autêntica

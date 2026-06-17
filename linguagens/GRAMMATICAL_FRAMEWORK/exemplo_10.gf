@@ -1,2 +1,2 @@
-# GRAMMATICAL_FRAMEWORK - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 para GRAMMATICAL_FRAMEWORK
+// Sintaxe autêntica

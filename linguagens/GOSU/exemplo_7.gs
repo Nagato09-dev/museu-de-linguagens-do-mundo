@@ -1,2 +1,2 @@
-# GOSU - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// Exemplo 7 para GOSU
+// Sintaxe autêntica

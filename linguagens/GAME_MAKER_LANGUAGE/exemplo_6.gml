@@ -1,2 +1,2 @@
-# GAME_MAKER_LANGUAGE - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+// Exemplo 6 para GAME_MAKER_LANGUAGE
+// Sintaxe autêntica

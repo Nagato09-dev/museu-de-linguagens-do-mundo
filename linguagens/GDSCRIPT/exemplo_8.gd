@@ -1,1 +1,1 @@
-// Exemplo 8 em GDSCRIPT
+print("gdscript".to_upper())

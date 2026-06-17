@@ -1,1 +1,1 @@
-// Exemplo 6 em GDSCRIPT
+var lista = [1, 2, 3]

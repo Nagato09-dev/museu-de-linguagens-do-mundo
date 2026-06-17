@@ -1,6 +1,10 @@
-// GO - Controle de Fluxo - Estruturas condicionais (se/então).
 package main
 import "fmt"
 func main() {
-    fmt.Println("Controle de Fluxo - Estruturas condicionais (se/então).")
+    x := 5
+    if x > 0 {
+        fmt.Println("Positivo")
+    } else {
+        fmt.Println("Negativo")
+    }
 }

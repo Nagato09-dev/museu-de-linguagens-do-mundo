@@ -1,1 +1,1 @@
-// Solução do exercício 6 em GDSCRIPT
+lista.append(3)

@@ -1,6 +1,3 @@
-// GROOVY - Variáveis e Tipos - Como armazenar dados.
-public class Main {
-    public static void main(String[] args) {
-    System.out.println("Variáveis e Tipos - Como armazenar dados.");
-    }
-}
+def idade = 25
+def nome = "Groovy"
+println "$nome tem $idade anos"

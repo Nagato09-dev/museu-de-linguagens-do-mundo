@@ -1,6 +1,6 @@
-// GO - Estruturas de Dados - Listas, Vetores ou Mapas.
 package main
 import "fmt"
 func main() {
-    fmt.Println("Estruturas de Dados - Listas, Vetores ou Mapas.")
+    lista := []int{1, 2, 3}
+    fmt.Println(lista)
 }

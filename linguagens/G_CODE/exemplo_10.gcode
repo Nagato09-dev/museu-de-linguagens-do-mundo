@@ -1,2 +1,2 @@
-# G_CODE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 para G_CODE
+// Sintaxe autêntica

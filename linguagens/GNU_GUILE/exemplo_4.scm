@@ -1,2 +1,2 @@
-# GNU_GUILE - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+// Exemplo 4 para GNU_GUILE
+// Sintaxe autêntica

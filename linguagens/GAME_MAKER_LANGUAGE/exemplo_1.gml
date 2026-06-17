@@ -1,2 +1,2 @@
-# GAME_MAKER_LANGUAGE - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// Exemplo 1 para GAME_MAKER_LANGUAGE
+// Sintaxe autêntica

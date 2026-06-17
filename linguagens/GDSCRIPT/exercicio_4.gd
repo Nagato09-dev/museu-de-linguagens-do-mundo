@@ -1,1 +1,1 @@
-// Solução do exercício 4 em GDSCRIPT
+for i in range(10, 0, -1): print(i)

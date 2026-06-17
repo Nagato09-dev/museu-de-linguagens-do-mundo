@@ -1,2 +1,2 @@
-# GAME_MAKER_LANGUAGE - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+// Exemplo 3 para GAME_MAKER_LANGUAGE
+// Sintaxe autêntica

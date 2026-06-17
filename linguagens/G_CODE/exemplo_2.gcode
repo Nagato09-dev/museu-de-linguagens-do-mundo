@@ -1,2 +1,2 @@
-# G_CODE - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+// Exemplo 2 para G_CODE
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-# G_CODE - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// Exemplo 8 para G_CODE
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-# GENTOO_EBUILD - Tratamento de Erros - Lidando com exceções e falhas.
-echo "Tratamento de Erros - Lidando com exceções e falhas."
+// Exemplo 7 para GENTOO_EBUILD
+// Sintaxe autêntica

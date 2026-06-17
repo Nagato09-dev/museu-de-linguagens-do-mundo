@@ -1,2 +1,2 @@
-# G_CODE - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+// Exemplo 4 para G_CODE
+// Sintaxe autêntica

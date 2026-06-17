@@ -1,6 +1,5 @@
-// GO - Matemática - Operações aritméticas básicas.
 package main
-import "fmt"
+import ("fmt"; "math")
 func main() {
-    fmt.Println("Matemática - Operações aritméticas básicas.")
+    fmt.Println(math.Sqrt(16.0))
 }

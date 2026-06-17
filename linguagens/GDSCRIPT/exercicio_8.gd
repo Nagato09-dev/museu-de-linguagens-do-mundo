@@ -1,1 +1,1 @@
-// Solução do exercício 8 em GDSCRIPT
+s.reverse()

@@ -1,1 +1,3 @@
-// Exemplo 10 em GDSCRIPT
+var list = [3, 1, 4, 1, 5]
+list.sort()
+print(list)

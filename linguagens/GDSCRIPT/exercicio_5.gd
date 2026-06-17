@@ -1,1 +1,1 @@
-// Solução do exercício 5 em GDSCRIPT
+func mult(a, b): return a * b

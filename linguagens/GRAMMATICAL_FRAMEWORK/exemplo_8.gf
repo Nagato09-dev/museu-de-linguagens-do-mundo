@@ -1,2 +1,2 @@
-# GRAMMATICAL_FRAMEWORK - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// Exemplo 8 para GRAMMATICAL_FRAMEWORK
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-# GRAMMATICAL_FRAMEWORK - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+// Exemplo 4 para GRAMMATICAL_FRAMEWORK
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-# GNU_GUILE - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// Exemplo 8 para GNU_GUILE
+// Sintaxe autêntica

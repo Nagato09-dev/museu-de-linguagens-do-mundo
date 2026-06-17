@@ -1,1 +1,1 @@
-// Solução do exercício 5 em GLEAM
+// Exercício 5 para GLEAM

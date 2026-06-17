@@ -1,6 +1,7 @@
-// GO - Loops - Repetindo tarefas com para/enquanto.
 package main
 import "fmt"
 func main() {
-    fmt.Println("Loops - Repetindo tarefas com para/enquanto.")
+    for i := 0; i < 5; i++ {
+        fmt.Println(i)
+    }
 }

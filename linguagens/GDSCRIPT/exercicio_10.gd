@@ -1,1 +1,1 @@
-// Solução do exercício 10 em GDSCRIPT
+lista.has(2)

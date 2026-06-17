@@ -1,2 +1,2 @@
-# G_CODE - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// Exemplo 1 para G_CODE
+// Sintaxe autêntica

@@ -1,1 +1,2 @@
-// Exemplo 5 em GDSCRIPT
+func soma(a, b):
+    return a + b

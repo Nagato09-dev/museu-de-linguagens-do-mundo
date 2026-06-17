@@ -1,1 +1,1 @@
-// Solução do exercício 9 em GDSCRIPT
+PI * pow(r, 2)

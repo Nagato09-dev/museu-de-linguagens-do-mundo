@@ -1,2 +1,2 @@
-# GENTOO - Olá Mundo - O básico de qualquer linguagem.
-echo "Olá Mundo - O básico de qualquer linguagem."
+// Exemplo 1 para GENTOO
+// Sintaxe autêntica

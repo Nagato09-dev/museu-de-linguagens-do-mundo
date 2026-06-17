@@ -1,1 +1,1 @@
-// Solução do exercício 3 em GDSCRIPT
+if n % 2 == 0: print("Par")
