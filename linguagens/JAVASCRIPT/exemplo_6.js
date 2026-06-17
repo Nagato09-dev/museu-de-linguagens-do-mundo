@@ -1,2 +1,1 @@
-// JAVASCRIPT - Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+const lista = [1, 2, 3];

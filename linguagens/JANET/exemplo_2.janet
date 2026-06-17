@@ -1,2 +1,3 @@
-;; JANET - Variáveis e Tipos - Como armazenar dados.
-(print "Variáveis e Tipos - Como armazenar dados.")
+(def idade 25)
+(def nome "Janet")
+(print nome " tem " idade " anos")

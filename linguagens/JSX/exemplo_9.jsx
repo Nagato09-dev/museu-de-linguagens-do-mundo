@@ -1,2 +1,1 @@
-// JSX - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+{Math.sqrt(16)}

@@ -1,2 +1,1 @@
-;; JANET - Controle de Fluxo - Estruturas condicionais (se/então).
-(print "Controle de Fluxo - Estruturas condicionais (se/então).")
+(if (> x 0) (print "Positivo") (print "Negativo"))

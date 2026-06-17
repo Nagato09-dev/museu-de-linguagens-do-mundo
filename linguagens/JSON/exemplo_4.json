@@ -1,2 +1,1 @@
-// JSON - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+{"loop": [0, 1, 2, 3, 4]}

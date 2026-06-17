@@ -1,2 +1,5 @@
-// JAVASCRIPT - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+if (x > 0) {
+    console.log("Positivo");
+} else {
+    console.log("Negativo");
+}

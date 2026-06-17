@@ -1,2 +1,1 @@
-# J - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+/:~ 3 1 4

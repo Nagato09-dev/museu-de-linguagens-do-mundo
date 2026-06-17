@@ -1,2 +1,1 @@
-;; JANET - Loops - Repetindo tarefas com para/enquanto.
-(print "Loops - Repetindo tarefas com para/enquanto.")
+(for i 0 5 (print i))

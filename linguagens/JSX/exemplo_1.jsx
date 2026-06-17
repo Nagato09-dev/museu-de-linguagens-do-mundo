@@ -1,2 +1,1 @@
-// JSX - Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+const Hello = () => <div>Olá Mundo</div>;

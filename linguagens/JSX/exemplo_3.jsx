@@ -1,2 +1,1 @@
-// JSX - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+{x > 0 ? <span>Positivo</span> : <span>Negativo</span>}

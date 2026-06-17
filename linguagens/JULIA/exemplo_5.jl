@@ -1,2 +1,1 @@
-# JULIA - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+soma(a, b) = a + b

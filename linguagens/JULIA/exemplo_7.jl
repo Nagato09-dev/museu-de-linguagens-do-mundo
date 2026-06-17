@@ -1,2 +1,5 @@
-# JULIA - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try
+    error("Erro")
+catch e
+    println(e)
+end

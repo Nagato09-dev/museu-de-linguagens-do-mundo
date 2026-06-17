@@ -1,2 +1,1 @@
-// JSON - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+{"condicao": "x > 0", "resultado": "Positivo"}

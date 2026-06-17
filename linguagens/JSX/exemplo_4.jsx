@@ -1,2 +1,1 @@
-// JSX - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+{[0,1,2,3,4].map(i => <li key={i}>{i}</li>)}

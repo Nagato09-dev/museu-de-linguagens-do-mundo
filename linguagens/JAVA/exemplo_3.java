@@ -1,6 +1,5 @@
-// JAVA - Controle de Fluxo - Estruturas condicionais (se/então).
-public class Main {
-    public static void main(String[] args) {
-    System.out.println("Controle de Fluxo - Estruturas condicionais (se/então).");
-    }
+if (x > 0) {
+    System.out.println("Positivo");
+} else {
+    System.out.println("Negativo");
 }

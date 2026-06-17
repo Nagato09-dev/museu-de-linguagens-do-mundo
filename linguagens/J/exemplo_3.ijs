@@ -1,2 +1,1 @@
-# J - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+check =: 3 : 'if. y > 0 do. "Positivo" else. "Negativo" end.'

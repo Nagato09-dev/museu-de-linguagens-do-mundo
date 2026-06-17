@@ -1,2 +1,3 @@
-# J - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+idade =: 25
+nome =: 'J'
+nome, ' tem ', (": idade), ' anos'

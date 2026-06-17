@@ -1,2 +1,1 @@
-# J - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+3 : 'for_i. i. 5 do. echo i end.' ''

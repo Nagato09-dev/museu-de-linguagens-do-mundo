@@ -1,2 +1,1 @@
-;; JANET - Matemática - Operações aritméticas básicas.
-(print "Matemática - Operações aritméticas básicas.")
+(math/sqrt 16)
