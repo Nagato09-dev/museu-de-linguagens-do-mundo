@@ -1,2 +1,2 @@
-(def x 10)
-(def s "Olá")
+(def x 42)
+(def s "Clojure")

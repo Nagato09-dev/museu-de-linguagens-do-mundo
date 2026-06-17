@@ -1,1 +1,5 @@
-ADD(MyQueue)
+  PROGRAM
+  MAP
+  END
+  CODE
+  MESSAGE('Olá, Mundo!')

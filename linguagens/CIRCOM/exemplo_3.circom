@@ -1,2 +1,1 @@
-# CIRCOM - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+// Sintaxe para if em CIRCOM

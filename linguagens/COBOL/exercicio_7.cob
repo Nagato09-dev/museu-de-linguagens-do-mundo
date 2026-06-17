@@ -1,1 +1,5 @@
-GOBACK.
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO-WORLD.
+       PROCEDURE DIVISION.
+           DISPLAY 'Olá, Mundo!'.
+           STOP RUN.

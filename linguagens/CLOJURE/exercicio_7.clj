@@ -1,1 +1,1 @@
-(throw (Exception. "Erro"))
+(println "Olá, Mundo!")

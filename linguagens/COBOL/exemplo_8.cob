@@ -1,1 +1,1 @@
-STRING 'Olá ' 'Mundo' DELIMITED BY SIZE INTO FULL.
+// Sintaxe para string em COBOL

@@ -1,1 +1,1 @@
-(get list 0)
+(println "Olá, Mundo!")

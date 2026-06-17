@@ -1,2 +1,6 @@
-# CIRCOM - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+template Hello() {
+    signal input in;
+    signal output out;
+    out <== in * in;
+}
+component main = Hello();

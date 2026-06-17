@@ -1,1 +1,1 @@
-(ns my-app)
+(println "Olá, Mundo!")

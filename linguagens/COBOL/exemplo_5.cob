@@ -1,3 +1,1 @@
-/* COBOL usa parágrafos ou seções */
-CALC-SQUARE.
-    COMPUTE RES = N * N.
+// Sintaxe para func em COBOL

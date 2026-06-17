@@ -1,1 +1,5 @@
-ABS(-5)
+  PROGRAM
+  MAP
+  END
+  CODE
+  MESSAGE('Olá, Mundo!')

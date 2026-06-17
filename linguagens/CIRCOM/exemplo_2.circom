@@ -1,2 +1,1 @@
-# CIRCOM - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+// Sintaxe para vars em CIRCOM

@@ -1,1 +1,5 @@
-OPEN INPUT MY-FILE.
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO-WORLD.
+       PROCEDURE DIVISION.
+           DISPLAY 'Olá, Mundo!'.
+           STOP RUN.

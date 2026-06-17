@@ -1,1 +1,1 @@
-full = CLIP(s) & ' Mundo'
+// Sintaxe para string em CLARION

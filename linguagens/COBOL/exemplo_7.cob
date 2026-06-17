@@ -1,2 +1,1 @@
-IF SQLCODE NOT = 0
-    DISPLAY 'Erro'.
+// Sintaxe para error em COBOL

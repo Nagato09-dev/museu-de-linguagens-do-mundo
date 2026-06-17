@@ -1,1 +1,1 @@
-(defn square [n] (* n n))
+(defn soma [a b] (+ a b))

@@ -1,1 +1,1 @@
-(while (> x 0) (println x))
+(println "Olá, Mundo!")

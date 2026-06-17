@@ -1,1 +1,5 @@
-MESSAGE('Hello Clarion')
+  PROGRAM
+  MAP
+  END
+  CODE
+  MESSAGE('Olá, Mundo!')

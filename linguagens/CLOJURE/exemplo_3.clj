@@ -1,1 +1,1 @@
-(if (> x 5) (println "Maior"))
+(if (> x 10) (println "Maior") (println "Menor"))

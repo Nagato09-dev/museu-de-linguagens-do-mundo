@@ -1,1 +1,5 @@
-INSPECT S CONVERTING 'A' TO 'a'.
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO-WORLD.
+       PROCEDURE DIVISION.
+           DISPLAY 'Olá, Mundo!'.
+           STOP RUN.

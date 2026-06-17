@@ -1,1 +1,5 @@
-OPEN(MyWindow)
+  PROGRAM
+  MAP
+  END
+  CODE
+  MESSAGE('Olá, Mundo!')

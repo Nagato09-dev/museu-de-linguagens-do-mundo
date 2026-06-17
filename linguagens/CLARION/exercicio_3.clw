@@ -1,1 +1,5 @@
-CASE val OF ... END
+  PROGRAM
+  MAP
+  END
+  CODE
+  MESSAGE('Olá, Mundo!')

@@ -1,3 +1,1 @@
-MyQueue QUEUE,PRE(MQ)
-  id LONG
-END
+// Sintaxe para list em CLARION

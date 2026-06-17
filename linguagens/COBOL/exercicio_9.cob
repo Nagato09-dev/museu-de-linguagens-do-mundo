@@ -1,1 +1,5 @@
-ADD A TO B GIVING C.
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO-WORLD.
+       PROCEDURE DIVISION.
+           DISPLAY 'Olá, Mundo!'.
+           STOP RUN.

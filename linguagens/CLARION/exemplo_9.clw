@@ -1,1 +1,1 @@
-res = SQRT(16)
+// Sintaxe para math em CLARION

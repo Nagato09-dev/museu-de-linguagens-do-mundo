@@ -1,3 +1,5 @@
-IF X > 5
-    DISPLAY 'Maior'
-END-IF.
+           IF X > 10
+               DISPLAY 'Maior'
+           ELSE
+               DISPLAY 'Menor'
+           END-IF.

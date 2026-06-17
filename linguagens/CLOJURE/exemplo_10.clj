@@ -1,1 +1,1 @@
-(defrecord MyClass [id])
+// Sintaxe para sort em CLOJURE

@@ -1,2 +1,1 @@
-01 MY-ARRAY.
-   05 ARR-ITEM PIC 9(2) OCCURS 10 TIMES.
+// Sintaxe para list em COBOL

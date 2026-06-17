@@ -1,1 +1,1 @@
-COMPUTE RES = FUNCTION SQRT(16).
+// Sintaxe para math em COBOL

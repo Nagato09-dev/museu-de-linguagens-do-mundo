@@ -1,1 +1,5 @@
-PERFORM UNTIL X = 0.
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO-WORLD.
+       PROCEDURE DIVISION.
+           DISPLAY 'Olá, Mundo!'.
+           STOP RUN.

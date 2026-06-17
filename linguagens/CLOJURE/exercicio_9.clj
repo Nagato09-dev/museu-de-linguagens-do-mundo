@@ -1,1 +1,1 @@
-(Math/abs -5)
+(println "Olá, Mundo!")

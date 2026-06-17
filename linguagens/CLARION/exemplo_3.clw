@@ -1,3 +1,5 @@
-IF x > 5 THEN
-  MESSAGE('Maior')
-END
+  IF X > 10
+    MESSAGE('Maior')
+  ELSE
+    MESSAGE('Menor')
+  END

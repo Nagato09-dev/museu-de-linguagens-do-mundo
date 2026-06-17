@@ -1,1 +1,1 @@
-(clojure.string/lower-case s)
+(println "Olá, Mundo!")

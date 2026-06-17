@@ -1,1 +1,1 @@
-(def full (str "Olá " "Mundo"))
+// Sintaxe para string em CLOJURE

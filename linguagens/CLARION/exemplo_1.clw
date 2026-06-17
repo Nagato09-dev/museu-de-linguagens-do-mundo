@@ -1,6 +1,5 @@
-PROGRAM
+  PROGRAM
   MAP
   END
-CODE
-  MESSAGE('Olá Mundo')
-  RETURN
+  CODE
+  MESSAGE('Olá, Mundo!')

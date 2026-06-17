@@ -1,1 +1,1 @@
-(case val 1 "Um")
+(println "Olá, Mundo!")

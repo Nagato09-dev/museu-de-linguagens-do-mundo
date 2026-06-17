@@ -1,1 +1,1 @@
-IF ERRORCODE() THEN MESSAGE(ERROR()).
+// Sintaxe para error em CLARION

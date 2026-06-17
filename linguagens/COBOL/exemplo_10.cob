@@ -1,1 +1,1 @@
-SELECT FILE-NAME ASSIGN TO 'data.txt'.
+// Sintaxe para sort em COBOL

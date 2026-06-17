@@ -1,1 +1,1 @@
-(try (/ 1 0) (catch Exception e (.getMessage e)))
+// Sintaxe para error em CLOJURE

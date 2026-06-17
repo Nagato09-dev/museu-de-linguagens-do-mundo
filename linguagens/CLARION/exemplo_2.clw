@@ -1,2 +1,2 @@
-x LONG
-s STRING(20)
+X INT(42)
+S STRING('Clarion')

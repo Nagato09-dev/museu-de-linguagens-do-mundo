@@ -1,1 +1,5 @@
-Run PROCEDURE
+  PROGRAM
+  MAP
+  END
+  CODE
+  MESSAGE('Olá, Mundo!')

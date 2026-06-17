@@ -1,1 +1,1 @@
-(def active true)
+(println "Olá, Mundo!")

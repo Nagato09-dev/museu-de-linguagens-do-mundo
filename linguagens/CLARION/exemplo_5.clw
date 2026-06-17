@@ -1,3 +1,1 @@
-Square FUNCTION(n LONG) LONG
-CODE
-  RETURN n * n
+// Sintaxe para func em CLARION

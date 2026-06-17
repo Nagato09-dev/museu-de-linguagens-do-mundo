@@ -1,1 +1,1 @@
-MyWindow WINDOW('Título'),AT(,,200,100),GRAY END
+// Sintaxe para sort em CLARION

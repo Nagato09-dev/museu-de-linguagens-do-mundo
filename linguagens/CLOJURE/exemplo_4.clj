@@ -1,1 +1,1 @@
-(dotimes [i 10] (println i))
+(dotimes [i 5] (println i))

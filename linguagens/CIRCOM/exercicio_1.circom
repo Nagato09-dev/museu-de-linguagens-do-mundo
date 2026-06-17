@@ -1,3 +1,6 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+template Hello() {
+    signal input in;
+    signal output out;
+    out <== in * in;
+}
+component main = Hello();

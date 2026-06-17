@@ -1,3 +1,3 @@
-LOOP i = 1 TO 10
-  MESSAGE(i)
-END
+  LOOP I# = 1 TO 5
+    MESSAGE(I#)
+  END

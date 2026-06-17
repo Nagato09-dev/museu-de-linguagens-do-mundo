@@ -1,1 +1,5 @@
-LOOP UNTIL x = 0
+  PROGRAM
+  MAP
+  END
+  CODE
+  MESSAGE('Olá, Mundo!')
