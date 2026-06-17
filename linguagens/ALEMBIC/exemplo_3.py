@@ -1,1 +1,1 @@
--- Sintaxe para if em ALEMBIC
+if x > 5 { print("Maior") }

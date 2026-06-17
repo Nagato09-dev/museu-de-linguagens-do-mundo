@@ -1,1 +1,1 @@
--- Sintaxe para error em ALEMBIC
+try { 1 / 0 } catch { print("Erro") }

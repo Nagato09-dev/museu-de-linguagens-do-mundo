@@ -1,5 +1,1 @@
-from alembic import op
-import sqlalchemy as sa
-
-def upgrade():
-    pass
+print("Hello Alembic")

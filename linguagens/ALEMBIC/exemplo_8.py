@@ -1,1 +1,1 @@
--- Sintaxe para string em ALEMBIC
+let s = "Olá" + " Mundo"

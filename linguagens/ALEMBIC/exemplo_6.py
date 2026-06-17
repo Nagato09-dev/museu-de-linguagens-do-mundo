@@ -1,1 +1,1 @@
--- Sintaxe para list em ALEMBIC
+let list = [1, 2, 3]

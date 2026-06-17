@@ -1,1 +1,1 @@
--- Sintaxe para func em ALEMBIC
+fn square(x) { x * x }

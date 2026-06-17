@@ -1,2 +1,2 @@
-# ZAP - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+-- Exemplo 1: Olá Mundo em Zap
+'Olá Mundo' print

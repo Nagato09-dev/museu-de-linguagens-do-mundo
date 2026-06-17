@@ -1,1 +1,1 @@
--- Sintaxe para loop em ALEMBIC
+for i in 0..10 { print(i) }

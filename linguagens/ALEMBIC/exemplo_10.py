@@ -1,1 +1,1 @@
--- Sintaxe para sort em ALEMBIC
+class MyClass { }

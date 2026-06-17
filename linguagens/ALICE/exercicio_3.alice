@@ -1,1 +1,0 @@
-case x of 1 => "Um" | _ => "Outro";

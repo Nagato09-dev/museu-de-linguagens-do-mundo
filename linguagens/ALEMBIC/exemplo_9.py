@@ -1,1 +1,1 @@
--- Sintaxe para math em ALEMBIC
+let r = Math.sqrt(16)
