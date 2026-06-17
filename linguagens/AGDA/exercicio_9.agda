@@ -1,1 +1,3 @@
-is-even : ℕ → Bool
+module exemplo_1 where
+open import IO
+main = run (putStrLn "Olá, Mundo!")

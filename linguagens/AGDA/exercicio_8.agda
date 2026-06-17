@@ -1,1 +1,3 @@
-length : {A : Set} → List A → ℕ
+module exemplo_1 where
+open import IO
+main = run (putStrLn "Olá, Mundo!")

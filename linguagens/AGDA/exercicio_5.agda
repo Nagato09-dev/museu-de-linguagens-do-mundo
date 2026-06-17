@@ -1,2 +1,3 @@
-twice : {A : Set} → (A → A) → A → A
-twice f x = f (f x)
+module exemplo_1 where
+open import IO
+main = run (putStrLn "Olá, Mundo!")

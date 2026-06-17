@@ -1,3 +1,3 @@
-not : Bool → Bool
-not true = false
-not false = true
+module exemplo_1 where
+open import IO
+main = run (putStrLn "Olá, Mundo!")

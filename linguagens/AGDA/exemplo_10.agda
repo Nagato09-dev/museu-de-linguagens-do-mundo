@@ -1,1 +1,1 @@
-record Monad (M : Set → Set) : Set1 where
+-- Ordenação via tipos

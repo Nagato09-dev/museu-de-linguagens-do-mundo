@@ -1,2 +1,3 @@
-data Bool : Set where
-  true false : Bool
+module exemplo_1 where
+open import IO
+main = run (putStrLn "Olá, Mundo!")

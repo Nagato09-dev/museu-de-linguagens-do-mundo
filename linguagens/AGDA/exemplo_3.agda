@@ -1,1 +1,2 @@
-if_then_else_ : {A : Set} → Bool → A → A → A
+data Bool : Set where
+  true false : Bool

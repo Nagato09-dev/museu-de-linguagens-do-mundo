@@ -1,2 +1,3 @@
-id : {A : Set} → A → A
-id x = x
+module exemplo_1 where
+open import IO
+main = run (putStrLn "Olá, Mundo!")

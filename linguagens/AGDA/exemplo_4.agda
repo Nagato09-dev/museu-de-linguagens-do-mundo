@@ -1,2 +1,3 @@
--- Loops são recursão em Agda
-count : ℕ → ℕ
+loop : Nat -> Nat
+loop zero = zero
+loop (suc n) = loop n
