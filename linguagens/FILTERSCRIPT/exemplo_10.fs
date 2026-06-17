@@ -1,2 +1,1 @@
-// Exemplo 10 para FILTERSCRIPT
-// Sintaxe autêntica
+// Sintaxe para sort em FILTERSCRIPT

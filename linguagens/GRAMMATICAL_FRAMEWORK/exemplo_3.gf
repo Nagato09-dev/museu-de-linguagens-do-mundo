@@ -1,2 +1,1 @@
-// Exemplo 3 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para if em GRAMMATICAL_FRAMEWORK

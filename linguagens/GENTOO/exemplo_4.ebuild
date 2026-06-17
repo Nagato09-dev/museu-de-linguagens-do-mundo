@@ -1,2 +1,1 @@
-// Exemplo 4 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para loop em GENTOO

@@ -1,2 +1,1 @@
-// Exemplo 10 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para sort em GRAMMATICAL_FRAMEWORK

@@ -1,2 +1,1 @@
-// Exemplo 2 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para vars em GENTOO

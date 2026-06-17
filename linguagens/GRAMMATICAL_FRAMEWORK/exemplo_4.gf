@@ -1,2 +1,1 @@
-// Exemplo 4 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para loop em GRAMMATICAL_FRAMEWORK

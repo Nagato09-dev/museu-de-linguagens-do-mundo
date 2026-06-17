@@ -1,1 +1,1 @@
-// Exercício 3 para FILTERSCRIPT
+echo "Olá, Mundo!"

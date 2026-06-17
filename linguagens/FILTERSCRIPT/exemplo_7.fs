@@ -1,2 +1,1 @@
-// Exemplo 7 para FILTERSCRIPT
-// Sintaxe autêntica
+// Sintaxe para error em FILTERSCRIPT

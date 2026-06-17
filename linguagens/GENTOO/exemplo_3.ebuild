@@ -1,2 +1,1 @@
-// Exemplo 3 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para if em GENTOO

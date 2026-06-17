@@ -1,2 +1,1 @@
-// Exemplo 2 para FILTERSCRIPT
-// Sintaxe autêntica
+// Sintaxe para vars em FILTERSCRIPT

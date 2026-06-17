@@ -1,2 +1,5 @@
-// Exemplo 1 para GENTOO
-// Sintaxe autêntica
+EAPI=8
+DESCRIPTION="Olá Mundo ebuild"
+src_install() {
+  einfo "Olá Mundo"
+}

@@ -1,2 +1,1 @@
-// Exemplo 5 para FILTERSCRIPT
-// Sintaxe autêntica
+// Sintaxe para func em FILTERSCRIPT

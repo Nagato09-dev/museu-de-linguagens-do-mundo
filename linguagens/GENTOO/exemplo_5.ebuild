@@ -1,2 +1,1 @@
-// Exemplo 5 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para func em GENTOO

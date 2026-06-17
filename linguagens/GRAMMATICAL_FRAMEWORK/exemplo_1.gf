@@ -1,2 +1,5 @@
-// Exemplo 1 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+abstract Hello = {
+  flags startcat = Greeting ;
+  cat Greeting ;
+  fun Hello : Greeting ;
+}

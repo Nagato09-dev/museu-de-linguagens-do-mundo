@@ -1,2 +1,1 @@
-// Exemplo 10 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para sort em GENTOO

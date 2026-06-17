@@ -1,2 +1,1 @@
-// Exemplo 6 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para list em GRAMMATICAL_FRAMEWORK

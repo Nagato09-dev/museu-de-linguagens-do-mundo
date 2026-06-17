@@ -1,2 +1,1 @@
-// Exemplo 9 para FILTERSCRIPT
-// Sintaxe autêntica
+// Sintaxe para math em FILTERSCRIPT

@@ -1,2 +1,1 @@
-// Exemplo 6 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para list em GENTOO

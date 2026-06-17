@@ -1,2 +1,1 @@
-// Exemplo 8 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para string em GRAMMATICAL_FRAMEWORK

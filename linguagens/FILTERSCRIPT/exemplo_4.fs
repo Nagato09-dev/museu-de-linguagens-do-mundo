@@ -1,2 +1,1 @@
-// Exemplo 4 para FILTERSCRIPT
-// Sintaxe autêntica
+// Sintaxe para loop em FILTERSCRIPT

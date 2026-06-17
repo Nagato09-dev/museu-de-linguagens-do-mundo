@@ -1,2 +1,1 @@
-// Exemplo 7 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para error em GENTOO

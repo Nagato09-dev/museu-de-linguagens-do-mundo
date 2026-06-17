@@ -1,2 +1,1 @@
-// Exemplo 6 para FILTERSCRIPT
-// Sintaxe autêntica
+// Sintaxe para list em FILTERSCRIPT

@@ -1,2 +1,1 @@
-// Exemplo 9 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para math em GRAMMATICAL_FRAMEWORK

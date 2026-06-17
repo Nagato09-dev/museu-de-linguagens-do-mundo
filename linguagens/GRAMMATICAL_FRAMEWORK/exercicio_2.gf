@@ -1,1 +1,5 @@
-// Exercício 2 para GRAMMATICAL_FRAMEWORK
+abstract Hello = {
+  flags startcat = Greeting ;
+  cat Greeting ;
+  fun Hello : Greeting ;
+}

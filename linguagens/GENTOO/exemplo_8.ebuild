@@ -1,2 +1,1 @@
-// Exemplo 8 para GENTOO
-// Sintaxe autêntica
+// Sintaxe para string em GENTOO

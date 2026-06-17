@@ -1,2 +1,1 @@
-// Exemplo 2 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para vars em GRAMMATICAL_FRAMEWORK

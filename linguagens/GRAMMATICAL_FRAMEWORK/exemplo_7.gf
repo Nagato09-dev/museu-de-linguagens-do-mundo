@@ -1,2 +1,1 @@
-// Exemplo 7 para GRAMMATICAL_FRAMEWORK
-// Sintaxe autêntica
+// Sintaxe para error em GRAMMATICAL_FRAMEWORK
