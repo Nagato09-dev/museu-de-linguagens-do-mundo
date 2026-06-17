@@ -1,2 +1,1 @@
-# BALLERINA - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+float r = 16.0.sqrt();

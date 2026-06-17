@@ -1,2 +1,2 @@
-# BASH - Variáveis e Tipos - Como armazenar dados.
-echo "Variáveis e Tipos - Como armazenar dados."
+x=10
+s="Olá"

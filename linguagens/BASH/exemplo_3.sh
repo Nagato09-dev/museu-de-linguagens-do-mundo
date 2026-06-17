@@ -1,2 +1,3 @@
-# BASH - Controle de Fluxo - Estruturas condicionais (se/então).
-echo "Controle de Fluxo - Estruturas condicionais (se/então)."
+if [ $x -gt 5 ]; then
+  echo "Maior"
+fi

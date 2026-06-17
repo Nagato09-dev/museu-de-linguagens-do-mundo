@@ -1,2 +1,3 @@
-# BASH - Funções - Criando blocos de código reutilizáveis.
-echo "Funções - Criando blocos de código reutilizáveis."
+square() {
+  echo $(( $1 * $1 ))
+}

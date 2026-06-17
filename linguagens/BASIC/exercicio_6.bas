@@ -1,3 +1,2 @@
-REM Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
-
-// Solução autêntica para Exercício 6 em basic
+10 DATA 1, 2, 3
+20 READ X

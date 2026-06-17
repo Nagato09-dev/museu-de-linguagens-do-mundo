@@ -1,3 +1,3 @@
-REM Exercício 4: Lista de Compras - Crie uma lista de 5 itens. Exiba a lista completa, remova um item e exiba a lista atualizada.
-
-// Solução autêntica para Exercício 4 em basic
+10 WHILE X > 0
+20 X = X - 1
+30 WEND

@@ -1,3 +1,2 @@
-REM BATCHFILE - Variáveis e Tipos - Como armazenar dados.
-@echo off
-    echo Variáveis e Tipos - Como armazenar dados.
+set x=10
+set s=Olá

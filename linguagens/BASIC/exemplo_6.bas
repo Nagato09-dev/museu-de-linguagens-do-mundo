@@ -1,2 +1,1 @@
-' BASIC - Estruturas de Dados - Listas, Vetores ou Mapas.
-PRINT "Estruturas de Dados - Listas, Vetores ou Mapas."
+10 DIM A(10)

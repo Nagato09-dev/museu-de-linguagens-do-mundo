@@ -1,2 +1,1 @@
-# BASH - Matemática - Operações aritméticas básicas.
-echo "Matemática - Operações aritméticas básicas."
+res=$(echo "scale=2; sqrt(16)" | bc)

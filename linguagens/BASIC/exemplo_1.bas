@@ -1,2 +1,2 @@
-' BASIC - Olá Mundo - O básico de qualquer linguagem.
-PRINT "Olá Mundo - O básico de qualquer linguagem."
+10 PRINT "Olá Mundo"
+20 END

@@ -1,2 +1,3 @@
-' BASIC - Loops - Repetindo tarefas com para/enquanto.
-PRINT "Loops - Repetindo tarefas com para/enquanto."
+10 FOR I = 1 TO 10
+20 PRINT I
+30 NEXT I

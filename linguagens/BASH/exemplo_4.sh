@@ -1,2 +1,3 @@
-# BASH - Loops - Repetindo tarefas com para/enquanto.
-echo "Loops - Repetindo tarefas com para/enquanto."
+for i in {1..10}; do
+  echo $i
+done

@@ -1,2 +1,1 @@
-# BASH - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+trap 'echo Erro' ERR

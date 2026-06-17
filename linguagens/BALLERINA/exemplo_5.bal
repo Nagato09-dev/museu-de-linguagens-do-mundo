@@ -1,2 +1,3 @@
-# BALLERINA - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+function square(int n) returns int {
+    return n * n;
+}

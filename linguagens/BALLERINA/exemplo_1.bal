@@ -1,2 +1,5 @@
-# BALLERINA - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+import ballerina/io;
+
+public function main() {
+    io:println("Olá Mundo");
+}

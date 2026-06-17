@@ -1,5 +1,2 @@
-// BC - Variáveis e Tipos - Como armazenar dados.
-int main() {
-    printf("Variáveis e Tipos - Como armazenar dados.\n");
-    return 0;
-}
+x = 10
+s = 1.5 /* bc é numérico */

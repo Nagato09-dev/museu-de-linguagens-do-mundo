@@ -1,2 +1,1 @@
-' BASIC - Manipulação de Strings - Trabalhando com textos.
-PRINT "Manipulação de Strings - Trabalhando com textos."
+10 LET A$ = "Olá" + " Mundo"

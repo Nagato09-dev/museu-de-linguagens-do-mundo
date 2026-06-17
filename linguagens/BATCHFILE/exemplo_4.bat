@@ -1,3 +1,1 @@
-REM BATCHFILE - Loops - Repetindo tarefas com para/enquanto.
-@echo off
-    echo Loops - Repetindo tarefas com para/enquanto.
+for /L %%i in (1,1,10) do echo %%i

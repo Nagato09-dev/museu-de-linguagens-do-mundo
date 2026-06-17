@@ -1,2 +1,1 @@
-' BASIC - Funções - Criando blocos de código reutilizáveis.
-PRINT "Funções - Criando blocos de código reutilizáveis."
+10 DEF FN SQR(N) = N * N

@@ -1,2 +1,1 @@
-# BASH - Estruturas de Dados - Listas, Vetores ou Mapas.
-echo "Estruturas de Dados - Listas, Vetores ou Mapas."
+list=(1 2 3)

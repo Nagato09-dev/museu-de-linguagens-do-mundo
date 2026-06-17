@@ -1,2 +1,1 @@
-# BATO - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+res = math.sqrt(16)

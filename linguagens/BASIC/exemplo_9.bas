@@ -1,2 +1,1 @@
-' BASIC - Matemática - Operações aritméticas básicas.
-PRINT "Matemática - Operações aritméticas básicas."
+10 LET R = SQR(16)

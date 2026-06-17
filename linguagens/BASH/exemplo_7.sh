@@ -1,2 +1,1 @@
-# BASH - Tratamento de Erros - Lidando com exceções e falhas.
-echo "Tratamento de Erros - Lidando com exceções e falhas."
+command || { echo "Erro"; exit 1; }

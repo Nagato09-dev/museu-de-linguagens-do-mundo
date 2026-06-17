@@ -1,2 +1,1 @@
-' BASIC - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-PRINT "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+10 GOSUB 500

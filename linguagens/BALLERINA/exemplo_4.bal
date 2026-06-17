@@ -1,2 +1,3 @@
-# BALLERINA - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+foreach int i in 1...10 {
+    io:println(i);
+}

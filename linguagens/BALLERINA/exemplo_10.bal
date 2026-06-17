@@ -1,2 +1,1 @@
-# BALLERINA - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+service /hello on new http:Listener(9090) { }

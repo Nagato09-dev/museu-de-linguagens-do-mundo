@@ -1,2 +1,1 @@
-' BASIC - Controle de Fluxo - Estruturas condicionais (se/então).
-PRINT "Controle de Fluxo - Estruturas condicionais (se/então)."
+10 IF X > 5 THEN PRINT "Maior"

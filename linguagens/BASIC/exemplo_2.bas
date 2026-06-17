@@ -1,2 +1,2 @@
-' BASIC - Variáveis e Tipos - Como armazenar dados.
-PRINT "Variáveis e Tipos - Como armazenar dados."
+10 LET X = 10
+20 LET S$ = "Olá"

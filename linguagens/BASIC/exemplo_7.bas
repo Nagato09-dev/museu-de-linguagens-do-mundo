@@ -1,2 +1,1 @@
-' BASIC - Tratamento de Erros - Lidando com exceções e falhas.
-PRINT "Tratamento de Erros - Lidando com exceções e falhas."
+10 ON ERROR GOTO 100
