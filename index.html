@@ -20,7 +20,7 @@
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
         }
 
@@ -118,6 +118,39 @@
             font-weight: 500;
         }
 
+        /* Menu de Categorias */
+        .categories-menu {
+            margin-bottom: 40px;
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .category-btn {
+            padding: 10px 20px;
+            border: 2px solid #d4af37;
+            border-radius: 25px;
+            background: rgba(212, 175, 55, 0.1);
+            color: #d4af37;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 600;
+            font-size: 0.95em;
+        }
+
+        .category-btn:hover {
+            background: rgba(212, 175, 55, 0.2);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+        }
+
+        .category-btn.active {
+            background: linear-gradient(135deg, #d4af37 0%, #f0e68c 100%);
+            color: #0a0a0a;
+            box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
+        }
+
         .languages-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -210,6 +243,129 @@
             border-radius: 15px;
         }
 
+        /* Modal para Detalhes da Linguagem */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            animation: fadeIn 0.3s ease;
+        }
+
+        .modal.active {
+            display: block;
+        }
+
+        .modal-content {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            margin: 5% auto;
+            padding: 40px;
+            border: 2px solid #d4af37;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 900px;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 0 50px rgba(212, 175, 55, 0.3);
+            position: relative;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #d4af37;
+            padding-bottom: 20px;
+        }
+
+        .modal-header h2 {
+            color: #d4af37;
+            font-size: 2.5em;
+        }
+
+        .close-btn {
+            color: #d4af37;
+            font-size: 2em;
+            font-weight: bold;
+            cursor: pointer;
+            background: none;
+            border: none;
+            transition: all 0.3s ease;
+        }
+
+        .close-btn:hover {
+            color: #f0e68c;
+            transform: scale(1.2);
+        }
+
+        .modal-body {
+            color: #e0e0e0;
+        }
+
+        .modal-body h3 {
+            color: #d4af37;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+
+        .modal-body pre {
+            background: rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #d4af37;
+            overflow-x: auto;
+            margin: 15px 0;
+            font-size: 0.9em;
+            line-height: 1.5;
+        }
+
+        .modal-body code {
+            color: #90EE90;
+            font-family: 'Courier New', monospace;
+        }
+
+        .modal-body p {
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+
+        .modal-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid rgba(212, 175, 55, 0.3);
+        }
+
+        .modal-tab-btn {
+            padding: 10px 20px;
+            background: rgba(212, 175, 55, 0.1);
+            border: none;
+            color: #d4af37;
+            cursor: pointer;
+            font-weight: 600;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .modal-tab-btn.active {
+            border-bottom-color: #d4af37;
+            background: rgba(212, 175, 55, 0.2);
+        }
+
+        .modal-tab-content {
+            display: none;
+        }
+
+        .modal-tab-content.active {
+            display: block;
+        }
+
         footer {
             text-align: center;
             padding: 40px;
@@ -292,6 +448,24 @@
             .stat h3 {
                 font-size: 2em;
             }
+
+            .modal-content {
+                width: 95%;
+                margin: 20% auto;
+                padding: 20px;
+            }
+
+            .modal-header h2 {
+                font-size: 1.8em;
+            }
+
+            .categories-menu {
+                flex-direction: column;
+            }
+
+            .category-btn {
+                width: 100%;
+            }
         }
     </style>
 </head>
@@ -321,8 +495,41 @@
             <input type="text" id="searchInput" placeholder="🔍 Buscar linguagem (ex: Python, JavaScript, Rust, Bun, Deno)...">
         </div>
 
+        <!-- Menu de Categorias -->
+        <div class="categories-menu" id="categoriesMenu">
+            <button class="category-btn active" data-category="all">Todas as Linguagens</button>
+            <button class="category-btn" data-category="web">Web & Scripting</button>
+            <button class="category-btn" data-category="functional">Funcionais & Lógicas</button>
+            <button class="category-btn" data-category="database">Banco de Dados</button>
+            <button class="category-btn" data-category="systems">Sistêmicas & Modernas</button>
+            <button class="category-btn" data-category="esoteric">Esotéricas & Raras</button>
+            <button class="category-btn" data-category="hardware">Hardware & Embarcados</button>
+        </div>
+
         <div class="languages-grid" id="languagesGrid">
             <!-- Será preenchido por JavaScript -->
+        </div>
+
+        <!-- Modal para Detalhes da Linguagem -->
+        <div id="languageModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="modalTitle">Linguagem</h2>
+                    <button class="close-btn" id="closeBtn">&times;</button>
+                </div>
+
+                <div class="modal-tabs">
+                    <button class="modal-tab-btn active" data-tab="readme">README</button>
+                    <button class="modal-tab-btn" data-tab="examples">Exemplos</button>
+                    <button class="modal-tab-btn" data-tab="exercises">Exercícios</button>
+                </div>
+
+                <div class="modal-body">
+                    <div id="readmeTab" class="modal-tab-content active"></div>
+                    <div id="examplesTab" class="modal-tab-content"></div>
+                    <div id="exercisesTab" class="modal-tab-content"></div>
+                </div>
+            </div>
         </div>
 
         <footer>
@@ -332,6 +539,18 @@
 
     <script>
         const languages = [];
+        let currentCategory = 'all';
+        let currentLanguage = null;
+
+        // Categorização de linguagens
+        const languageCategories = {
+            web: ["JAVASCRIPT", "TYPESCRIPT", "PHP", "RUBY", "PYTHON", "ELIXIR", "COFFEESCRIPT", "VUE", "SVELTE", "JSX", "HAML", "SASS", "NODEJS", "DENO", "BUN", "NEXTFLOW"],
+            functional: ["HASKELL", "SCALA", "CLOJURE", "ERLANG", "OCAML", "F#", "SCHEME", "LISP", "RACKET", "PURESCRIPT", "IDRIS", "ELM", "AGDA", "LEAN", "CURRY"],
+            database: ["SQL", "PLSQL", "CYPHER", "JSON", "XML", "YAML", "TOML", "HCL", "PROTOBUF", "MONGODB", "REDIS", "CASSANDRA"],
+            systems: ["C", "C++", "RUST", "GO", "ZIG", "ASSEMBLY_X86", "CARBON", "V", "MOJO", "ODIN", "CHAPEL", "CILK"],
+            esoteric: ["BRAINFUCK", "LOLCODE", "BEFUNGE", "OMGROFL", "HY", "DOGESCRIPT", "ALICE", "BATO", "FIM++", "REDCODE", "WHITESPACE", "MALBOLGE", "OOK", "PIET", "ZOMBIE"],
+            hardware: ["VERILOG", "VHDL", "SYSTEMVERILOG", "LABVIEW", "ARDUINO", "G_CODE", "SPIN"]
+        };
 
         // Lista completa e ordenada alfabeticamente
         const allLanguages = [
@@ -391,9 +610,19 @@
         allLanguages.forEach(lang => {
             languages.push({
                 name: lang,
-                path: `https://github.com/Nagato09-dev/museu-de-linguagens-do-mundo/tree/master/linguagens/${lang}`
+                path: `linguagens/${lang}`,
+                category: getLanguageCategory(lang)
             });
         });
+
+        function getLanguageCategory(lang) {
+            for (const [category, langs] of Object.entries(languageCategories)) {
+                if (langs.includes(lang)) {
+                    return category;
+                }
+            }
+            return 'all';
+        }
 
         function renderLanguages(languagesToRender) {
             const grid = document.getElementById('languagesGrid');
@@ -405,9 +634,7 @@
             }
 
             languagesToRender.forEach(lang => {
-                const card = document.createElement('a');
-                card.href = lang.path;
-                card.target = '_blank';
+                const card = document.createElement('div');
                 card.className = 'language-card';
                 card.innerHTML = `
                     <div>
@@ -416,16 +643,154 @@
                     </div>
                     <span class="badge">Ver Detalhes →</span>
                 `;
+                card.addEventListener('click', () => openLanguageModal(lang));
                 grid.appendChild(card);
             });
         }
 
-        // Busca em tempo real
-        document.getElementById('searchInput').addEventListener('input', (e) => {
-            const searchTerm = e.target.value.toLowerCase();
-            const filtered = languages.filter(lang => lang.name.toLowerCase().includes(searchTerm));
-            renderLanguages(filtered);
+        async function openLanguageModal(lang) {
+            currentLanguage = lang;
+            const modal = document.getElementById('languageModal');
+            const modalTitle = document.getElementById('modalTitle');
+            const readmeTab = document.getElementById('readmeTab');
+            const examplesTab = document.getElementById('examplesTab');
+            const exercisesTab = document.getElementById('exercisesTab');
+
+            modalTitle.textContent = lang.name;
+
+            // Carregar README
+            try {
+                const readmeResponse = await fetch(`${lang.path}/README.md`);
+                if (readmeResponse.ok) {
+                    const readmeContent = await readmeResponse.text();
+                    readmeTab.innerHTML = `<pre><code>${escapeHtml(readmeContent)}</code></pre>`;
+                } else {
+                    readmeTab.innerHTML = '<p>README não disponível</p>';
+                }
+            } catch (e) {
+                readmeTab.innerHTML = '<p>Erro ao carregar README</p>';
+            }
+
+            // Carregar exemplos
+            try {
+                let examplesHtml = '';
+                for (let i = 1; i <= 10; i++) {
+                    const ext = getFileExtension(lang.name);
+                    const fileResponse = await fetch(`${lang.path}/exemplo_${i}.${ext}`);
+                    if (fileResponse.ok) {
+                        const fileContent = await fileResponse.text();
+                        examplesHtml += `<h3>Exemplo ${i}</h3><pre><code>${escapeHtml(fileContent)}</code></pre>`;
+                    }
+                }
+                examplesTab.innerHTML = examplesHtml || '<p>Nenhum exemplo disponível</p>';
+            } catch (e) {
+                examplesTab.innerHTML = '<p>Erro ao carregar exemplos</p>';
+            }
+
+            // Carregar exercícios
+            try {
+                let exercisesHtml = '';
+                for (let i = 1; i <= 10; i++) {
+                    const ext = getFileExtension(lang.name);
+                    const fileResponse = await fetch(`${lang.path}/exercicio_${i}.${ext}`);
+                    if (fileResponse.ok) {
+                        const fileContent = await fileResponse.text();
+                        exercisesHtml += `<h3>Exercício ${i}</h3><pre><code>${escapeHtml(fileContent)}</code></pre>`;
+                    }
+                }
+                exercisesTab.innerHTML = exercisesHtml || '<p>Nenhum exercício disponível</p>';
+            } catch (e) {
+                exercisesTab.innerHTML = '<p>Erro ao carregar exercícios</p>';
+            }
+
+            modal.classList.add('active');
+        }
+
+        function getFileExtension(langName) {
+            // Mapeamento de linguagens para extensões
+            const extensions = {
+                'PYTHON': 'py',
+                'JAVASCRIPT': 'js',
+                'JAVA': 'java',
+                'CSHARP': 'cs',
+                'C++': 'cpp',
+                'C': 'c',
+                'RUBY': 'rb',
+                'PHP': 'php',
+                'RUST': 'rs',
+                'GO': 'go',
+                'TYPESCRIPT': 'ts',
+                'KOTLIN': 'kt',
+                'SWIFT': 'swift',
+                'HASKELL': 'hs',
+                'SCALA': 'scala',
+                'CLOJURE': 'clj',
+                'ERLANG': 'erl',
+                'ELIXIR': 'ex',
+                'PERL': 'pl',
+                'BASH': 'sh',
+                'ZAP': 'zap',
+                'ZEPHIR': 'zep'
+            };
+            return extensions[langName] || 'txt';
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Fechar modal
+        document.getElementById('closeBtn').addEventListener('click', () => {
+            document.getElementById('languageModal').classList.remove('active');
         });
+
+        window.addEventListener('click', (event) => {
+            const modal = document.getElementById('languageModal');
+            if (event.target === modal) {
+                modal.classList.remove('active');
+            }
+        });
+
+        // Abas do modal
+        document.querySelectorAll('.modal-tab-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const tabName = btn.getAttribute('data-tab');
+                document.querySelectorAll('.modal-tab-btn').forEach(b => b.classList.remove('active'));
+                document.querySelectorAll('.modal-tab-content').forEach(c => c.classList.remove('active'));
+                btn.classList.add('active');
+                document.getElementById(tabName + 'Tab').classList.add('active');
+            });
+        });
+
+        // Filtro por categoria
+        document.querySelectorAll('.category-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentCategory = btn.getAttribute('data-category');
+                filterLanguages();
+            });
+        });
+
+        function filterLanguages() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            let filtered = languages;
+
+            if (currentCategory !== 'all') {
+                filtered = filtered.filter(lang => lang.category === currentCategory);
+            }
+
+            if (searchTerm) {
+                filtered = filtered.filter(lang => lang.name.toLowerCase().includes(searchTerm));
+            }
+
+            renderLanguages(filtered);
+        }
+
+        // Busca em tempo real
+        document.getElementById('searchInput').addEventListener('input', filterLanguages);
 
         // Renderizar todas as linguagens ao iniciar
         renderLanguages(languages);
