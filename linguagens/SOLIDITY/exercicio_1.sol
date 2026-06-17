@@ -1,3 +1,5 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+contract Hello {
+    string public message = "Olá, Mundo!";
+}

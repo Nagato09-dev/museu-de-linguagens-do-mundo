@@ -1,2 +1,1 @@
-" SMALLTALK - Estruturas de Dados - Listas, Vetores ou Mapas. "
-Transcript show: 'Estruturas de Dados - Listas, Vetores ou Mapas.'; cr.
+// Sintaxe para list em SMALLTALK

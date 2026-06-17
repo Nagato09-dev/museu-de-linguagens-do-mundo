@@ -1,2 +1,1 @@
--- SQL - Tratamento de Erros - Lidando com exceções e falhas.
-SELECT 'Tratamento de Erros - Lidando com exceções e falhas.';
+// Sintaxe para error em SQL

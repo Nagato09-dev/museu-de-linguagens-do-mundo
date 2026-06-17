@@ -1,6 +1,1 @@
-// SCALA - Manipulação de Strings - Trabalhando com textos.
-public class Main {
-    public static void main(String[] args) {
-    System.out.println("Manipulação de Strings - Trabalhando com textos.");
-    }
-}
+// Sintaxe para string em SCALA

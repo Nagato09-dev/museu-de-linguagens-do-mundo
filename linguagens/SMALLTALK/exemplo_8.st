@@ -1,2 +1,1 @@
-" SMALLTALK - Manipulação de Strings - Trabalhando com textos. "
-Transcript show: 'Manipulação de Strings - Trabalhando com textos.'; cr.
+// Sintaxe para string em SMALLTALK

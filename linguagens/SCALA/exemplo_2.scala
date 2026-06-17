@@ -1,6 +1,2 @@
-// SCALA - Variáveis e Tipos - Como armazenar dados.
-public class Main {
-    public static void main(String[] args) {
-    System.out.println("Variáveis e Tipos - Como armazenar dados.");
-    }
-}
+val x = 42
+var s = "Scala"

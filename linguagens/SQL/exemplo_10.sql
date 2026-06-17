@@ -1,2 +1,1 @@
--- SQL - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-SELECT 'Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).';
+// Sintaxe para sort em SQL

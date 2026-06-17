@@ -1,2 +1,1 @@
-" SMALLTALK - Loops - Repetindo tarefas com para/enquanto. "
-Transcript show: 'Loops - Repetindo tarefas com para/enquanto.'; cr.
+1 to: 5 do: [ :i | Transcript show: i printString; cr ].

@@ -1,2 +1,1 @@
-" SMALLTALK - Matemática - Operações aritméticas básicas. "
-Transcript show: 'Matemática - Operações aritméticas básicas.'; cr.
+// Sintaxe para math em SMALLTALK

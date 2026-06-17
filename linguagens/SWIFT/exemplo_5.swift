@@ -1,2 +1,3 @@
-# SWIFT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+func soma(a: Int, b: Int) -> Int {
+    return a + b
+}

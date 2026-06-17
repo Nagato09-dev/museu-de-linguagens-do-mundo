@@ -1,2 +1,2 @@
-# SWIFT - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+let x = 42
+var s = "Swift"

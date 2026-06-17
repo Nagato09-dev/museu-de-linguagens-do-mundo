@@ -1,2 +1,1 @@
--- SQL - Controle de Fluxo - Estruturas condicionais (se/então).
-SELECT 'Controle de Fluxo - Estruturas condicionais (se/então).';
+IF @x > 10 PRINT 'Maior' ELSE PRINT 'Menor';

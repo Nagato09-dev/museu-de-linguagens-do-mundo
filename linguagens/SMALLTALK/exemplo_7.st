@@ -1,2 +1,1 @@
-" SMALLTALK - Tratamento de Erros - Lidando com exceções e falhas. "
-Transcript show: 'Tratamento de Erros - Lidando com exceções e falhas.'; cr.
+// Sintaxe para error em SMALLTALK

@@ -1,2 +1,1 @@
-;; SCHEME - Loops - Repetindo tarefas com para/enquanto.
-(print "Loops - Repetindo tarefas com para/enquanto.")
+(do ((i 1 (+ i 1))) ((> i 5)) (display i) (newline))

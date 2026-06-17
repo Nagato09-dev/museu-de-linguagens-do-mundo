@@ -1,2 +1,3 @@
-" SMALLTALK - Variáveis e Tipos - Como armazenar dados. "
-Transcript show: 'Variáveis e Tipos - Como armazenar dados.'; cr.
+| x s |
+x := 42.
+s := 'Smalltalk'.

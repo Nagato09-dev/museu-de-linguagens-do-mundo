@@ -1,2 +1,5 @@
-# SOLIDITY - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+contract Hello {
+    string public message = "Olá, Mundo!";
+}

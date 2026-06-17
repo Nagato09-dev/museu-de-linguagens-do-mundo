@@ -1,2 +1,3 @@
-# SOLIDITY - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+function soma(uint256 a, uint256 b) public pure returns (uint256) {
+    return a + b;
+}

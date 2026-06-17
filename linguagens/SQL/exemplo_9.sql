@@ -1,2 +1,1 @@
--- SQL - Matemática - Operações aritméticas básicas.
-SELECT 'Matemática - Operações aritméticas básicas.';
+// Sintaxe para math em SQL

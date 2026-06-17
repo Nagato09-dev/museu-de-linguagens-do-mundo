@@ -1,2 +1,1 @@
--- SQL - Estruturas de Dados - Listas, Vetores ou Mapas.
-SELECT 'Estruturas de Dados - Listas, Vetores ou Mapas.';
+// Sintaxe para list em SQL

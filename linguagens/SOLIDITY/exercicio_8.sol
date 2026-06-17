@@ -1,3 +1,5 @@
-// Exercício 8: Calculadora Simples - Implemente uma função que receba dois números e uma operação (+, -, *, /) e retorne o resultado.
-
-// Solução autêntica para Exercício 8 em js
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+contract Hello {
+    string public message = "Olá, Mundo!";
+}

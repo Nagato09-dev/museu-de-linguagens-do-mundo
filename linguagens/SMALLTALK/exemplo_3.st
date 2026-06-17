@@ -1,2 +1,1 @@
-" SMALLTALK - Controle de Fluxo - Estruturas condicionais (se/então). "
-Transcript show: 'Controle de Fluxo - Estruturas condicionais (se/então).'; cr.
+x > 10 ifTrue: [ Transcript show: 'Maior' ] ifFalse: [ Transcript show: 'Menor' ].

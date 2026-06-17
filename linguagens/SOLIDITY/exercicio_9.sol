@@ -1,3 +1,5 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
-
-// Solução autêntica para Exercício 9 em js
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+contract Hello {
+    string public message = "Olá, Mundo!";
+}

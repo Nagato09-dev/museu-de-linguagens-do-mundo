@@ -1,2 +1,2 @@
-# SOLIDITY - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+uint256 public x = 42;
+string public s = "Solidity";

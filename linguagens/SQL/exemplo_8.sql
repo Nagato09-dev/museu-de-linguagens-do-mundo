@@ -1,2 +1,1 @@
--- SQL - Manipulação de Strings - Trabalhando com textos.
-SELECT 'Manipulação de Strings - Trabalhando com textos.';
+// Sintaxe para string em SQL
