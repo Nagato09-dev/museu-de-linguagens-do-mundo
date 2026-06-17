@@ -1,1 +1,1 @@
-Abs(-5)
+MsgBox(0, "Museu", "Olá, Mundo!")

@@ -1,1 +1,1 @@
-Run, notepad.exe
+MsgBox, Olá, Mundo!

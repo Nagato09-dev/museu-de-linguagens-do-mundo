@@ -1,3 +1,3 @@
-Loop, 10 {
-  MsgBox, %A_Index%
+Loop, 5 {
+    MsgBox, %A_Index%
 }

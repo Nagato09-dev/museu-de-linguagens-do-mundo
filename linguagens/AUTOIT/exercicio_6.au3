@@ -1,1 +1,1 @@
-Local $arr[1]
+MsgBox(0, "Museu", "Olá, Mundo!")

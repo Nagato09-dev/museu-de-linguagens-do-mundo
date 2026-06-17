@@ -1,1 +1,1 @@
-delete list[0]
+BEGIN { print "Olá, Mundo!" }

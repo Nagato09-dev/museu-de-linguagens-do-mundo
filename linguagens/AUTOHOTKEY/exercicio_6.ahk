@@ -1,1 +1,1 @@
-obj := {id: 1}
+MsgBox, Olá, Mundo!

@@ -1,1 +1,1 @@
-WinWaitActive("Título")
+MsgBox(0, "Museu", "Olá, Mundo!")

@@ -1,1 +1,1 @@
-(abs -5)
+(prn "Olá, Mundo!")

@@ -1,1 +1,1 @@
-Local $b = True
+MsgBox(0, "Museu", "Olá, Mundo!")

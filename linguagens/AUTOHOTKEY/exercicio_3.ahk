@@ -1,1 +1,1 @@
-if active { }
+MsgBox, Olá, Mundo!

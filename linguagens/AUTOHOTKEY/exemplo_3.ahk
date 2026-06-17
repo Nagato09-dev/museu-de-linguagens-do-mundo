@@ -1,3 +1,5 @@
-if (x > 5) {
-  MsgBox, Maior
+if (x > 10) {
+    MsgBox, Maior
+} else {
+    MsgBox, Menor
 }

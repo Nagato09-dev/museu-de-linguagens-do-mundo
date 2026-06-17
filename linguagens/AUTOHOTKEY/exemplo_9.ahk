@@ -1,1 +1,1 @@
-res := Sqrt(16)
+-- Sintaxe para math em AUTOHOTKEY

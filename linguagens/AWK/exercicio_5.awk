@@ -1,1 +1,1 @@
-function add(a, b) { }
+BEGIN { print "Olá, Mundo!" }

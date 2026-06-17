@@ -1,1 +1,1 @@
-While (x > 0) { x-- }
+MsgBox, Olá, Mundo!

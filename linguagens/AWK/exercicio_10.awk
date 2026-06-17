@@ -1,1 +1,1 @@
-awk -F',' '{print $2}'
+BEGIN { print "Olá, Mundo!" }

@@ -1,1 +1,1 @@
-if (ErrorLevel) { }
+MsgBox, Olá, Mundo!

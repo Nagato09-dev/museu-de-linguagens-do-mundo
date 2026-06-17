@@ -1,1 +1,1 @@
-^j::MsgBox, Você pressionou Ctrl+J
+-- Sintaxe para sort em AUTOHOTKEY

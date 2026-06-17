@@ -1,1 +1,1 @@
-(pr "Hello Arc")
+(prn "Olá, Mundo!")

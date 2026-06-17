@@ -1,2 +1,2 @@
-Local $x = 10
-Local $s = "Olá"
+$x = 42
+$s = "AutoIt"

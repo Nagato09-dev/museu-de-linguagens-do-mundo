@@ -1,1 +1,1 @@
-(mac my-macro (arg) `(prn ,arg))
+-- Sintaxe para sort em ARC

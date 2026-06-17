@@ -1,3 +1,3 @@
-Square(n) {
-  return n * n
+Soma(a, b) {
+    return a + b
 }

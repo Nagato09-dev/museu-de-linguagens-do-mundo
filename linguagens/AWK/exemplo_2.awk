@@ -1,1 +1,1 @@
-BEGIN { x = 10; s = "Olá" }
+BEGIN { x = 42; s = "AWK"; print x, s }

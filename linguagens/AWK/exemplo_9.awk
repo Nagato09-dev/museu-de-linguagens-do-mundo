@@ -1,1 +1,1 @@
-BEGIN { print sqrt(16) }
+-- Sintaxe para math em AWK

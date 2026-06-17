@@ -1,1 +1,1 @@
-END { print "Tchau" }
+BEGIN { print "Olá, Mundo!" }

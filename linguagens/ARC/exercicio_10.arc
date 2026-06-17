@@ -1,1 +1,1 @@
-(n-of 5 "a")
+(prn "Olá, Mundo!")

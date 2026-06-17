@@ -1,5 +1,1 @@
-try {
-  throw "Erro"
-} catch e {
-  MsgBox, % e
-}
+-- Sintaxe para error em AUTOHOTKEY

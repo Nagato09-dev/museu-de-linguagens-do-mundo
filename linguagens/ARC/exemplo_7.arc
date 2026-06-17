@@ -1,1 +1,1 @@
-(on-err (fn (e) (prn "Erro")) (fn () (/ 1 0)))
+-- Sintaxe para error em ARC

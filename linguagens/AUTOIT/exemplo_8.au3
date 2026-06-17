@@ -1,1 +1,1 @@
-Local $full = "Olá" & " Mundo"
+-- Sintaxe para string em AUTOIT

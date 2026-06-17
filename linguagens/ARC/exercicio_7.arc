@@ -1,1 +1,1 @@
-(err "Falha")
+(prn "Olá, Mundo!")

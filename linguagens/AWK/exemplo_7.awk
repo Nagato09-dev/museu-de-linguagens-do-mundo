@@ -1,1 +1,1 @@
-BEGIN { if (y == 0) print "Erro" }
+-- Sintaxe para error em AWK

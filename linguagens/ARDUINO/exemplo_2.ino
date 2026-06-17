@@ -1,2 +1,1 @@
-int x = 10;
-String s = "Olá";
+-- Sintaxe para vars em ARDUINO

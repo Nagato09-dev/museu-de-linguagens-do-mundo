@@ -1,1 +1,1 @@
-Local $list[3] = [1, 2, 3]
+-- Sintaxe para list em AUTOIT

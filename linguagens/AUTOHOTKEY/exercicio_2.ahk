@@ -1,1 +1,1 @@
-active := true
+MsgBox, Olá, Mundo!

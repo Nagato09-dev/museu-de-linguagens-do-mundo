@@ -1,1 +1,1 @@
-while (x > 0) { x-- }
+BEGIN { print "Olá, Mundo!" }

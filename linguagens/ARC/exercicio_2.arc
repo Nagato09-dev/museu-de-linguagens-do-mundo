@@ -1,1 +1,1 @@
-(= b t)
+(prn "Olá, Mundo!")

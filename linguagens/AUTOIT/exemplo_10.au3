@@ -1,1 +1,1 @@
-ShellExecute("notepad.exe")
+-- Sintaxe para sort em AUTOIT

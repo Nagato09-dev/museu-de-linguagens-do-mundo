@@ -1,1 +1,5 @@
-int val = map(analog, 0, 1023, 0, 255);
+void setup() {
+  Serial.begin(9600);
+  Serial.println("Olá, Mundo!");
+}
+void loop() {}

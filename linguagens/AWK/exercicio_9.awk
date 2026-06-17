@@ -1,1 +1,1 @@
-abs(n)
+BEGIN { print "Olá, Mundo!" }

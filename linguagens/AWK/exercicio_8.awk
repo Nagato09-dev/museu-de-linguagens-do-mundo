@@ -1,1 +1,1 @@
-length(s)
+BEGIN { print "Olá, Mundo!" }

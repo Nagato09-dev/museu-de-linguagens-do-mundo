@@ -1,1 +1,1 @@
-While $x > 0 $x -= 1 WEnd
+MsgBox(0, "Museu", "Olá, Mundo!")

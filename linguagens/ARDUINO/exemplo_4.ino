@@ -1,3 +1,1 @@
-for (int i = 0; i < 10; i++) {
-  Serial.println(i);
-}
+-- Sintaxe para loop em ARDUINO

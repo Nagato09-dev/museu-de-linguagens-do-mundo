@@ -1,1 +1,1 @@
-Func Add($a, $b) EndFunc
+MsgBox(0, "Museu", "Olá, Mundo!")

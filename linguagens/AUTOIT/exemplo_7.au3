@@ -1,1 +1,1 @@
-If @error Then MsgBox(0, "", "Erro")
+-- Sintaxe para error em AUTOIT

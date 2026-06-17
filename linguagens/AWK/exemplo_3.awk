@@ -1,1 +1,1 @@
-x > 5 { print "Maior" }
+BEGIN { if (x > 10) print "Maior"; else print "Menor" }

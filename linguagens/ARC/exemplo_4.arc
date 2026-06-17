@@ -1,1 +1,1 @@
-(for i 1 10 (prn i))
+(for i 1 5 (prn i))

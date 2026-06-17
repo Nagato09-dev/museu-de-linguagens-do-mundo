@@ -1,1 +1,1 @@
-(len "Texto")
+(prn "Olá, Mundo!")

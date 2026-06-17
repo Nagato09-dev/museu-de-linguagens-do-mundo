@@ -1,3 +1,1 @@
-int square(int n) {
-  return n * n;
-}
+-- Sintaxe para func em ARDUINO

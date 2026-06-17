@@ -1,1 +1,1 @@
-Abs(-5)
+MsgBox, Olá, Mundo!

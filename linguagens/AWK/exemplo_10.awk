@@ -1,1 +1,1 @@
-{ print $1 } # Imprime primeira coluna
+-- Sintaxe para sort em AWK

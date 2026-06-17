@@ -1,1 +1,5 @@
-attachInterrupt(0, pin_ISR, RISING);
+void setup() {
+  Serial.begin(9600);
+  Serial.println("Olá, Mundo!");
+}
+void loop() {}

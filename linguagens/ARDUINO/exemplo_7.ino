@@ -1,1 +1,1 @@
-// Arduino não tem try/catch padrão
+-- Sintaxe para error em ARDUINO

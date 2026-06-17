@@ -1,3 +1,3 @@
-Func Square($n)
-  Return $n * $n
+Func Soma($a, $b)
+    Return $a + $b
 EndFunc

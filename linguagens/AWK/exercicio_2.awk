@@ -1,1 +1,1 @@
-BEGIN { active = 1 }
+BEGIN { print "Olá, Mundo!" }

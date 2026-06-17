@@ -1,1 +1,1 @@
-(if (> x 5) (prn "Maior") (prn "Menor"))
+(if (> x 10) (prn "Maior") (prn "Menor"))

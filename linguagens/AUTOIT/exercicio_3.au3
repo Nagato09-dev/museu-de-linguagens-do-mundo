@@ -1,1 +1,1 @@
-Select Case $v EndSelect
+MsgBox(0, "Museu", "Olá, Mundo!")

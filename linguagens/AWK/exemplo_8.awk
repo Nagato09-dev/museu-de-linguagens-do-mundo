@@ -1,1 +1,1 @@
-BEGIN { full = "Olá" " Mundo" }
+-- Sintaxe para string em AWK

@@ -1,1 +1,1 @@
-BEGIN { list[0] = 1; list[1] = 2 }
+-- Sintaxe para list em AWK

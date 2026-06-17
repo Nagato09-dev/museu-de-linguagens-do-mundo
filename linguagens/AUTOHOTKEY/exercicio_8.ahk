@@ -1,1 +1,1 @@
-StrLen(s)
+MsgBox, Olá, Mundo!
