@@ -2,6 +2,7 @@
 generate_examples.py linguist-vendored
 
 # Forçar o reconhecimento de linguagens específicas para evitar ambiguidades
+# Nota: Nomes de linguagens no Linguist não devem ter aspas ou espaços se usados como valores diretos
 examples/*.alg linguist-language=ALGOL
 examples/*.apl linguist-language=APL
 examples/*.awk linguist-language=Awk
@@ -12,19 +13,19 @@ examples/*.boo linguist-language=Boo
 examples/*.ceylon linguist-language=Ceylon
 examples/*.chpl linguist-language=Chapel
 examples/*.coffee linguist-language=CoffeeScript
-examples/*.cl linguist-language="Common Lisp"
+examples/*.cl linguist-language=Common_Lisp
 examples/*.coq linguist-language=Coq
 examples/*.cu linguist-language=CUDA
 examples/*.dylan linguist-language=Dylan
 examples/*.e linguist-language=Eiffel
 examples/*.elm linguist-language=Elm
-examples/*.el linguist-language="Emacs Lisp"
+examples/*.el linguist-language=Emacs_Lisp
 examples/*.factor linguist-language=Factor
 examples/*.fan linguist-language=Fantom
-examples/*.fish linguist-language="Fish Shell"
+examples/*.fish linguist-language=Fish_Shell
 examples/*.gd linguist-language=GDScript
 examples/*.glsl linguist-language=GLSL
-examples/*.m linguist-language="GNU Octave"
+examples/*.m linguist-language=GNU_Octave
 examples/*.hack linguist-language=Hack
 examples/*.hx linguist-language=Haxe
 examples/*.hlsl linguist-language=HLSL
