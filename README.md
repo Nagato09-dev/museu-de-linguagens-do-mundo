@@ -1,17 +1,17 @@
-# World Languages Museum 🌍💻
+# Museu das Linguagens do Mundo 🌍💻
 
-Bem-vindo ao **World Languages Museum**! Este repositório é uma coleção massiva e abrangente de exemplos de código em mais de **200 linguagens de programação** diferentes.
+Bem-vindo ao **Museu das Linguagens do Mundo**! Este repositório é uma coleção massiva e educativa de exemplos de código em mais de **240 linguagens de programação** diferentes, totalmente em Português.
 
 ## 📂 Estrutura do Museu
-O museu está organizado em pastas individuais para cada linguagem, facilitando a exploração e garantindo que o GitHub reconheça a vasta diversidade de tecnologias incluídas.
+O museu está organizado em pastas individuais para cada linguagem, com exemplos que funcionam como pequenos tutoriais progressivos.
 
 ### Estatísticas Atuais
-- **Total de Linguagens:** 207
-- **Total de Arquivos de Exemplo:** 2.070+
-- **Diversidade:** De linguagens de sistemas clássicas a esotéricas modernas.
+- **Total de Linguagens:** 241
+- **Total de Arquivos de Exemplo:** 2.410+
+- **Idioma:** 100% em Português (comentários e explicações)
 
 ## 🚀 Como Explorar
-Navegue pela pasta `languages/` para encontrar a sua linguagem de interesse. Cada subpasta contém múltiplos arquivos de exemplo para demonstrar a sintaxe e a estrutura da linguagem.
+Navegue pela pasta `linguagens/` para encontrar a sua linguagem de interesse. Cada subpasta contém 10 arquivos chamados `exemplo_X`, cobrindo desde o "Olá Mundo" até conceitos avançados como algoritmos e tratamento de erros.
 
 | Categorias Principais | Exemplos Incluídos |
 | :--- | :--- |
@@ -19,8 +19,8 @@ Navegue pela pasta `languages/` para encontrar a sua linguagem de interesse. Cad
 | **Web & Scripting** | JavaScript, TypeScript, PHP, Ruby, Python, Elixir, CoffeeScript, Hack, Haxe, GDScript, Jinja2, Vue, JSX, Haml, Sass, Stylus |
 | **Funcionais & Lógicas** | Haskell, Scala, Clojure, Erlang, OCaml, F#, Scheme, Lisp, Racket, PureScript, Idris, Elm, Common Lisp, Coq, Agda, Lean |
 | **Dados & Configuração** | SQL, PLSQL, JSON, XML, YAML, TOML, HCL, CMake, Makefile, Nginx, ApacheConf |
-| **Esotéricas & Nicho** | Brainfuck, LOLCODE, Befunge, Omgrofl, Hy, Ioke, Self, Shen |
-| **Hardware & Embarcados** | Verilog, VHDL, SystemVerilog, LabVIEW, Propeller Spin, G-Code |
+| **Esotéricas & Nicho** | Brainfuck, LOLCODE, Befunge, Omgrofl, Hy, Ioke, Self, Shen, Dogescript |
+| **Hardware & Embarcados** | Verilog, VHDL, SystemVerilog, LabVIEW, Propeller Spin, G-Code, Arduino |
 
 ## ✨ Créditos
 Criado por **Gabriel** (Nagato09-dev).
