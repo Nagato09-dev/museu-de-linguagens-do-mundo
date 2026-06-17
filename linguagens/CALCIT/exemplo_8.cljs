@@ -1,1 +1,2 @@
-str "Olá" " Mundo"
+(def texto "calcit language")
+(println (.toUpperCase texto))

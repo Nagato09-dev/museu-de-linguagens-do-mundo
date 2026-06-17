@@ -1,1 +1,1 @@
-println "Hello Calcit"
+(println "Bem-vindo ao Calcit!")

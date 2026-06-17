@@ -1,1 +1,2 @@
-lower-case s
+(def frase "EXEMPLO DE STRING")
+(println (.toLowerCase frase))

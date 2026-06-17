@@ -1,1 +1,4 @@
-loop (i 0) (if (< i 10) (recur (+ i 1)))
+(loop [i 0]
+  (when (< i 3)
+    (println (str "Contador: " i))
+    (recur (+ i 1))))

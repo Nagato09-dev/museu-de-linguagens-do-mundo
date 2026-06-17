@@ -1,1 +1,2 @@
-ns my-app
+(def palavras ["banana" "maçã" "abacaxi"])
+(println (sort palavras))
