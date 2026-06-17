@@ -1,1 +1,3 @@
-void add(int a, int b) { }
+void main() {
+  print("Olá, Mundo!");
+}

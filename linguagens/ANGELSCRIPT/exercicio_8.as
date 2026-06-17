@@ -1,1 +1,3 @@
-s.length();
+void main() {
+  print("Olá, Mundo!");
+}

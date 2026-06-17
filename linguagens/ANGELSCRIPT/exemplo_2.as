@@ -1,2 +1,2 @@
-int x = 10;
-string s = "Olá";
+int x = 42;
+string s = "AngelScript";

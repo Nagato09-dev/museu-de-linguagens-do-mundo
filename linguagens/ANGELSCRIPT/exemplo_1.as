@@ -1,4 +1,3 @@
-void main()
-{
-  print("Olá Mundo\n");
+void main() {
+  print("Olá, Mundo!");
 }

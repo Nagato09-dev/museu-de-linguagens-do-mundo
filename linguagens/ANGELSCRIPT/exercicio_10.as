@@ -1,1 +1,3 @@
-interface ITest { void run(); }
+void main() {
+  print("Olá, Mundo!");
+}

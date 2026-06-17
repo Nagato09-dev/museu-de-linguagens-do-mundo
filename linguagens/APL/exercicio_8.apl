@@ -1,1 +1,1 @@
-⎕UCS 65
+'Olá, Mundo!'

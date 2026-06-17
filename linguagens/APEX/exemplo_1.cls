@@ -1,1 +1,1 @@
-System.debug('Olá Mundo');
+System.debug('Olá, Mundo!');

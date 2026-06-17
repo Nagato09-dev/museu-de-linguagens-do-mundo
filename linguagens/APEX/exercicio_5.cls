@@ -1,1 +1,1 @@
-public void run() { }
+System.debug('Olá, Mundo!');

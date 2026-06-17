@@ -1,1 +1,1 @@
-float r = sqrt(16.0f);
+-- Sintaxe para math em ANGELSCRIPT

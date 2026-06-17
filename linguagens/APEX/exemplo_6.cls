@@ -1,1 +1,1 @@
-List<Integer> list = new List<Integer>{1, 2, 3};
+-- Sintaxe para list em APEX

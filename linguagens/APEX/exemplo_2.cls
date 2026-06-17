@@ -1,2 +1,2 @@
-Integer x = 10;
-String s = 'Olá';
+Integer x = 42;
+String s = 'Apex';

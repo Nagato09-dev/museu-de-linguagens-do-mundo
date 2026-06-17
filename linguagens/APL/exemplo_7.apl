@@ -1,1 +1,1 @@
-⎕TRAP ← 0 'STOP'
+-- Sintaxe para error em APL

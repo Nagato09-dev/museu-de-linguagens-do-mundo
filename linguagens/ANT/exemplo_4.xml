@@ -1,5 +1,1 @@
-<for list="1,2,3" param="val">
-  <sequential>
-    <echo>Value: @{val}</echo>
-  </sequential>
-</for>
+-- Sintaxe para loop em ANT

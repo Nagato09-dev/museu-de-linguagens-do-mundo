@@ -1,1 +1,3 @@
-bool active = true;
+void main() {
+  print("Olá, Mundo!");
+}

@@ -1,1 +1,1 @@
-expr: term (('+'|'-') term)* ;
+-- Sintaxe para math em ANTLR

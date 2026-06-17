@@ -1,2 +1,1 @@
-ID : [a-zA-Z]+ ;
-INT : [0-9]+ ;
+-- Sintaxe para vars em ANTLR

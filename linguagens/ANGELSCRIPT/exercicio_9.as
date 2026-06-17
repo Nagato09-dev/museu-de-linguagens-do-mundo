@@ -1,1 +1,3 @@
-uint n = 5;
+void main() {
+  print("Olá, Mundo!");
+}

@@ -1,1 +1,1 @@
-s.toLowerCase();
+System.debug('Olá, Mundo!');

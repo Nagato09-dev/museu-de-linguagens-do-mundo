@@ -1,3 +1,3 @@
-for (int i = 0; i < 10; i++) {
-  print(i + "\n");
+for (int i = 0; i < 5; i++) {
+  print("Iteração: " + i);
 }

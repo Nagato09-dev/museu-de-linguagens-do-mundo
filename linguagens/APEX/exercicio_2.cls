@@ -1,1 +1,1 @@
-Boolean active = true;
+System.debug('Olá, Mundo!');

@@ -1,6 +1,1 @@
-<macrodef name="square">
-  <attribute name="n"/>
-  <sequential>
-    <!-- Cálculo complexo em Ant -->
-  </sequential>
-</macrodef>
+-- Sintaxe para func em ANT

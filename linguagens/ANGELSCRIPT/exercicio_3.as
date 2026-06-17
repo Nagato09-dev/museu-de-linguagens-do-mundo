@@ -1,1 +1,3 @@
-switch(val) { case 1: break; }
+void main() {
+  print("Olá, Mundo!");
+}

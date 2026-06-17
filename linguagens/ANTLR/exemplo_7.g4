@@ -1,1 +1,1 @@
-error: 'catch' ID '{' body '}' ;
+-- Sintaxe para error em ANTLR

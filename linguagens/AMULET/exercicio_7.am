@@ -1,1 +1,1 @@
-exception Error
+print "Olá, Mundo!"

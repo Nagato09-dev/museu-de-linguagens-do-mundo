@@ -1,1 +1,1 @@
-stat: 'if' expr 'then' stat ;
+-- Sintaxe para if em ANTLR

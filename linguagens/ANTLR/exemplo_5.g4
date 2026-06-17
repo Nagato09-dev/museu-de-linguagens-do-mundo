@@ -1,1 +1,1 @@
-func: 'def' ID '(' args ')' body ;
+-- Sintaxe para func em ANTLR

@@ -1,1 +1,1 @@
-STRING: '"' ( ~'"' )* '"' ;
+-- Sintaxe para string em ANTLR

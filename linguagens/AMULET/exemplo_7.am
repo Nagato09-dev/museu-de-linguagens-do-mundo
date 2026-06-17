@@ -1,1 +1,1 @@
-let safe_div x y = if y == 0 then None else Some (x / y)
+-- Sintaxe para error em AMULET

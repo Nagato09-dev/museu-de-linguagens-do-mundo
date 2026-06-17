@@ -1,1 +1,1 @@
-if (obj is null) return;
+-- Sintaxe para error em ANGELSCRIPT

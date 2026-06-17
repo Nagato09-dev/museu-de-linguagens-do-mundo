@@ -1,1 +1,5 @@
-<if><isset property="x"/><then></then></if>
+<project>
+  <target name="hello">
+    <echo message="Olá, Mundo!"/>
+  </target>
+</project>

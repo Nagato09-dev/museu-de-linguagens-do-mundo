@@ -1,1 +1,5 @@
-<trycatch><try></try><catch></catch></trycatch>
+<project>
+  <target name="hello">
+    <echo message="Olá, Mundo!"/>
+  </target>
+</project>

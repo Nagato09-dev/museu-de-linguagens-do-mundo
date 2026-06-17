@@ -1,3 +1,3 @@
-public Integer square(Integer n) {
-  return n * n;
+public Integer soma(Integer a, Integer b) {
+    return a + b;
 }

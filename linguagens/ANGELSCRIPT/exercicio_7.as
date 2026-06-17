@@ -1,1 +1,3 @@
-assert(x > 0);
+void main() {
+  print("Olá, Mundo!");
+}

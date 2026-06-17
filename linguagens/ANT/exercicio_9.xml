@@ -1,1 +1,5 @@
-<tstamp/>
+<project>
+  <target name="hello">
+    <echo message="Olá, Mundo!"/>
+  </target>
+</project>

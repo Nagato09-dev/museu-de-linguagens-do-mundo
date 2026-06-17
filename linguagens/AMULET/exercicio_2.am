@@ -1,1 +1,1 @@
-let b = true
+print "Olá, Mundo!"

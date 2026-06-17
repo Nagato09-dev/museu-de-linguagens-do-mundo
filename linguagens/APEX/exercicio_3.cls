@@ -1,1 +1,1 @@
-switch on val { when 1 { } }
+System.debug('Olá, Mundo!');

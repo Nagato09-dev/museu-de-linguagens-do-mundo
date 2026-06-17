@@ -1,1 +1,1 @@
-if (acc == null) throw new MyException();
+System.debug('Olá, Mundo!');

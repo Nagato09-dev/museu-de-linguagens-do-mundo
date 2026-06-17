@@ -1,1 +1,1 @@
-public class MyClass { }
+-- Sintaxe para sort em APEX

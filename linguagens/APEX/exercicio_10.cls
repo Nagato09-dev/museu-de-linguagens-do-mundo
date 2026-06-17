@@ -1,1 +1,1 @@
-Trigger MyTrigger on Account (before insert) { }
+System.debug('Olá, Mundo!');

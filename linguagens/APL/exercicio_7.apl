@@ -1,1 +1,1 @@
-⎕SIGNAL 11
+'Olá, Mundo!'

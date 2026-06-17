@@ -1,1 +1,1 @@
-let square x = x * x
+let soma a b = a + b

@@ -1,3 +1,3 @@
-for (Integer i = 0; i < 10; i++) {
-  System.debug(i);
+for (Integer i = 0; i < 5; i++) {
+    System.debug('Iteração: ' + i);
 }

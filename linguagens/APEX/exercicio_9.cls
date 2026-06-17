@@ -1,1 +1,1 @@
-Math.abs(-5);
+System.debug('Olá, Mundo!');

@@ -1,1 +1,3 @@
-dictionary dict; dict.set("a", 1);
+void main() {
+  print("Olá, Mundo!");
+}

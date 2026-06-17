@@ -1,1 +1,3 @@
-while(x > 0) { x--; }
+void main() {
+  print("Olá, Mundo!");
+}

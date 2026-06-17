@@ -1,5 +1,5 @@
-if (x > 5) {
-  System.debug('Maior');
+if (x > 10) {
+    System.debug('Maior');
 } else {
-  System.debug('Menor');
+    System.debug('Menor');
 }

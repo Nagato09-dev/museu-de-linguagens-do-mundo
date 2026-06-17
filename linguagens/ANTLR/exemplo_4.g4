@@ -1,1 +1,1 @@
-list: '(' item* ')' ;
+-- Sintaxe para loop em ANTLR

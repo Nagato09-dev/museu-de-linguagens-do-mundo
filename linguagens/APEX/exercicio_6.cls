@@ -1,1 +1,1 @@
-Map<Id, Account> accMap = new Map<Id, Account>();
+System.debug('Olá, Mundo!');

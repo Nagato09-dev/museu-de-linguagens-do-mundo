@@ -1,1 +1,1 @@
-array: '[' element (',' element)* ']' ;
+-- Sintaxe para list em ANTLR

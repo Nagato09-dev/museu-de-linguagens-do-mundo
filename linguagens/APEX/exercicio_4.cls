@@ -1,1 +1,1 @@
-while(x > 0) { x--; }
+System.debug('Olá, Mundo!');

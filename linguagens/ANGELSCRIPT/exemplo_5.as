@@ -1,3 +1,3 @@
-int square(int n) {
-  return n * n;
+int soma(int a, int b) {
+  return a + b;
 }

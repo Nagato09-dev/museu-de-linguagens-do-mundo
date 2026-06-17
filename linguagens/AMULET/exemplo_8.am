@@ -1,1 +1,1 @@
-let s = "Olá" ^ " Mundo"
+-- Sintaxe para string em AMULET

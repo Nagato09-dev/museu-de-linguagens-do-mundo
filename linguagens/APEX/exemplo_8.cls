@@ -1,1 +1,1 @@
-String full = 'Olá ' + 'Mundo';
+-- Sintaxe para string em APEX

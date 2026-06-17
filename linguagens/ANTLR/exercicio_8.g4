@@ -1,1 +1,4 @@
-fragment DIGIT : [0-9] ;
+grammar Hello;
+r  : 'hello' ID ;
+ID : [a-z]+ ;
+WS : [ \t\r\n]+ -> skip ;

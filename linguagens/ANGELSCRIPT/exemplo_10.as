@@ -1,1 +1,1 @@
-class MyClass { int val; }
+-- Sintaxe para sort em ANGELSCRIPT

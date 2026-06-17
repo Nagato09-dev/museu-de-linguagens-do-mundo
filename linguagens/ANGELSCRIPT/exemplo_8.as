@@ -1,1 +1,1 @@
-string full = "Olá" + " Mundo";
+-- Sintaxe para string em ANGELSCRIPT

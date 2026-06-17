@@ -1,1 +1,1 @@
-Decimal res = Math.sqrt(16);
+-- Sintaxe para math em APEX

@@ -1,1 +1,1 @@
-options { tokenVocab=MyLexer; }
+-- Sintaxe para sort em ANTLR
