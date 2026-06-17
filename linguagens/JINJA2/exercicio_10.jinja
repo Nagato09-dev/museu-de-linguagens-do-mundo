@@ -1,3 +1,13 @@
-// Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba.
 
-// Solução autêntica para Exercício 10 em js
+{# Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba. #}
+
+{% set numeros = [5, 2, 8, 1, 9] %}
+{% set numeros_ordenados = numeros | sort %}
+
+<p>Números originais: {{ numeros | join(', ') }}</p>
+<p>Números ordenados:</p>
+<ul>
+{% for num in numeros_ordenados %}
+    <li>{{ num }}</li>
+{% endfor %}
+</ul>
