@@ -1,2 +1,2 @@
-# LILYPOND - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+% LilyPond usa condicionais Scheme
+#(if (> x 0) (print "Positivo"))

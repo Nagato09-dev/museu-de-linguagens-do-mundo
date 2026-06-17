@@ -1,2 +1,1 @@
-# LILYPOND - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+soma = #(define-scheme-function (a b) (number? number?) (+ a b))

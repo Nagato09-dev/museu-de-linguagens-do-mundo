@@ -1,0 +1,2 @@
+.countdown (@i) when (@i > 0) { .item-@{i} { content: @i; } .countdown(@i - 1); }
+.countdown(10);

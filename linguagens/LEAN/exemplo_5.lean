@@ -1,2 +1,1 @@
-# LEAN - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+def soma (a b : Nat) : Nat := a + b

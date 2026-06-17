@@ -1,2 +1,1 @@
-;; LISP - Manipulação de Strings - Trabalhando com textos.
-(print "Manipulação de Strings - Trabalhando com textos.")
+(string-upcase "lisp")

@@ -1,2 +1,1 @@
-# LEAN - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+def check (x : Int) : String := if x > 0 then "Positivo" else "Negativo"

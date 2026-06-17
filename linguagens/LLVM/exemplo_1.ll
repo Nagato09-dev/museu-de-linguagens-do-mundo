@@ -1,2 +1,2 @@
-# LLVM - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+@.str = private unnamed_addr constant [11 x i8] c"Olá Mundo\00"
+declare i32 @puts(i8*)

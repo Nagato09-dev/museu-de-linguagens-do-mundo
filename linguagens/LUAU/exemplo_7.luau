@@ -1,0 +1,1 @@
+local status, err = pcall(function() error("Erro") end)

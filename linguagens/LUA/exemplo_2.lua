@@ -1,2 +1,3 @@
-# LUA - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+local idade = 25
+local nome = "Lua"
+print(nome .. " tem " .. idade .. " anos")

@@ -1,4 +1,3 @@
-BTW LOLCODE - Estruturas de Dados - Listas, Vetores ou Mapas.
-HAI 1.2
-    VISIBLE "Estruturas de Dados - Listas, Vetores ou Mapas."
-KTHXBYE
+I HAS A lista ITZ A BUKKIT
+lista HAS A 1 ITZ 1
+lista HAS A 2 ITZ 2

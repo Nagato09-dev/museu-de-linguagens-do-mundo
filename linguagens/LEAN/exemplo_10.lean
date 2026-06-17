@@ -1,2 +1,1 @@
-# LEAN - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+#eval [3, 1, 4].sort

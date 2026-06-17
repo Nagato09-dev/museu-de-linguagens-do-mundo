@@ -1,2 +1,1 @@
-# LEAN - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+-- Lean usa tipos para garantir correção formally

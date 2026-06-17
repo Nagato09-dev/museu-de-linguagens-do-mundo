@@ -1,4 +1,3 @@
-BTW LOLCODE - Variáveis e Tipos - Como armazenar dados.
-HAI 1.2
-    VISIBLE "Variáveis e Tipos - Como armazenar dados."
-KTHXBYE
+I HAS A idade ITZ 25
+I HAS A nome ITZ "LOLCODE"
+VISIBLE nome " tem " idade " anos"

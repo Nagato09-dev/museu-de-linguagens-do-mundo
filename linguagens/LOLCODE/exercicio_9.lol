@@ -1,3 +1,1 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
-
-// Solução autêntica para Exercício 9 em js
+PRODUKT OF 3.14 AN PRODUKT OF r AN r

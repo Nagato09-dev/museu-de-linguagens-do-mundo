@@ -1,4 +1,3 @@
-BTW LOLCODE - Funções - Criando blocos de código reutilizáveis.
-HAI 1.2
-    VISIBLE "Funções - Criando blocos de código reutilizáveis."
-KTHXBYE
+HOW IZ I soma YR a AN YR b
+  FOUND YR SUM OF a AN b
+IF IZ I

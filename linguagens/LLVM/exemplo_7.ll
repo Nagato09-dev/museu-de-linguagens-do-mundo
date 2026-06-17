@@ -1,2 +1,1 @@
-# LLVM - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// LLVM usa metadados para debug e erro

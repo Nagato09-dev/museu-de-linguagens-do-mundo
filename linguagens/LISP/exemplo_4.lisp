@@ -1,2 +1,1 @@
-;; LISP - Loops - Repetindo tarefas com para/enquanto.
-(print "Loops - Repetindo tarefas com para/enquanto.")
+(loop for i from 0 to 4 do (print i))

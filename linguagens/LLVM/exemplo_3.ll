@@ -1,2 +1,2 @@
-# LLVM - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+%cmp = icmp sgt i32 %x, 0
+br i1 %cmp, label %pos, label %neg

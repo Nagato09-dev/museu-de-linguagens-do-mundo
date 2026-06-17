@@ -1,2 +1,2 @@
-# LUA - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+local status, err = pcall(function() error("Erro") end)
+if not status then print(err) end

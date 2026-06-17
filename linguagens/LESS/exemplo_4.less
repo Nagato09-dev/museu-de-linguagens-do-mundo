@@ -1,0 +1,2 @@
+.loop (@i) when (@i < 5) { .item-@{i} { content: @i; } .loop(@i + 1); }
+.loop(0);

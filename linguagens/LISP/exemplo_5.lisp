@@ -1,2 +1,1 @@
-;; LISP - Funções - Criando blocos de código reutilizáveis.
-(print "Funções - Criando blocos de código reutilizáveis.")
+(defun soma (a b) (+ a b))

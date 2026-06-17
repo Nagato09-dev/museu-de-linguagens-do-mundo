@@ -1,2 +1,1 @@
-# LLVM - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+declare double @llvm.sqrt.f64(double)

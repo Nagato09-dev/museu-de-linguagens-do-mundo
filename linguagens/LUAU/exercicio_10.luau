@@ -1,0 +1,1 @@
+table.find(lista, 2)

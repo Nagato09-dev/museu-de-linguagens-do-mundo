@@ -1,4 +1,6 @@
-BTW LOLCODE - Controle de Fluxo - Estruturas condicionais (se/então).
-HAI 1.2
-    VISIBLE "Controle de Fluxo - Estruturas condicionais (se/então)."
-KTHXBYE
+DIFFRINT x AN SMALLR OF x AN 0, O RLY?
+  YA RLY
+    VISIBLE "Positivo"
+  NO WAI
+    VISIBLE "Negativo"
+OIC

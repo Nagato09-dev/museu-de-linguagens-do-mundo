@@ -1,2 +1,3 @@
-# LLVM - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+br label %loop
+loop:
+  %i = phi i32 [ 0, %entry ], [ %next, %loop ]

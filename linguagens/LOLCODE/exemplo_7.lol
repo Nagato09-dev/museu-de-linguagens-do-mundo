@@ -1,4 +1,4 @@
-BTW LOLCODE - Tratamento de Erros - Lidando com exceções e falhas.
-HAI 1.2
-    VISIBLE "Tratamento de Erros - Lidando com exceções e falhas."
-KTHXBYE
+AWSUM THING
+  VISIBLE "Erro"
+O NOES
+  VISIBLE "Erro"

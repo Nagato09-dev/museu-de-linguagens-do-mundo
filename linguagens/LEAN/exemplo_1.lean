@@ -1,2 +1,1 @@
-# LEAN - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+def main : IO Unit := IO.println "Olá Mundo"

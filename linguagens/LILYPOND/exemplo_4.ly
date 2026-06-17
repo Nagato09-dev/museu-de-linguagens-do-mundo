@@ -1,2 +1,1 @@
-# LILYPOND - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+\repeat unfold 5 { c'4 }

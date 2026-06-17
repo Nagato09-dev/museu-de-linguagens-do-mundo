@@ -1,0 +1,1 @@
+local f: number = 3.14

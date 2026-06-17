@@ -1,4 +1,4 @@
-// Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
-
-let idade = 20;
-console.log(idade >= 18 ? 'Maior de idade' : 'Menor de idade');
+BOTH SAEM 0 AN MOD OF n AN 2, O RLY?
+  YA RLY
+    VISIBLE "Par"
+OIC

@@ -1,2 +1,2 @@
-# LILYPOND - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+\header { title = "Olá Mundo" }
+{ c' e' g' c'' }

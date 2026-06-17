@@ -1,2 +1,1 @@
-# LEAN - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+#eval Float.sqrt 16.0

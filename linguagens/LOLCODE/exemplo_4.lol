@@ -1,4 +1,3 @@
-BTW LOLCODE - Loops - Repetindo tarefas com para/enquanto.
-HAI 1.2
-    VISIBLE "Loops - Repetindo tarefas com para/enquanto."
-KTHXBYE
+IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN 5
+  VISIBLE i
+IM OUTTA YR LOOP

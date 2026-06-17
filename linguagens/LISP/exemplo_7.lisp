@@ -1,2 +1,1 @@
-;; LISP - Tratamento de Erros - Lidando com exceções e falhas.
-(print "Tratamento de Erros - Lidando com exceções e falhas.")
+(handler-case (error "Erro") (error (c) (format t "Erro: ~A~%" c)))

@@ -1,3 +1,1 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+def main : IO Unit := IO.println "Nagato09-dev"

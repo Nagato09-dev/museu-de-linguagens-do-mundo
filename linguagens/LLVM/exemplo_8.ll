@@ -1,2 +1,1 @@
-# LLVM - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// No native upper

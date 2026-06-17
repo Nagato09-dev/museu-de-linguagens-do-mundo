@@ -1,2 +1,1 @@
-;; LISP - Variáveis e Tipos - Como armazenar dados.
-(print "Variáveis e Tipos - Como armazenar dados.")
+(let ((idade 25) (nome "Lisp")) (format t "~A tem ~D anos~%" nome idade))
