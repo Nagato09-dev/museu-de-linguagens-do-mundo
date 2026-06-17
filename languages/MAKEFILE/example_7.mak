@@ -1,1 +1,1 @@
-// Example 7 in Makefile
+// Error Handling - Lidando com exceções e erros. in MAKEFILE

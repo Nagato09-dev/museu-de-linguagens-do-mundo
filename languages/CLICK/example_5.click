@@ -1,1 +1,1 @@
-// Example 5 in Click
+// Functions - Criando blocos de código reutilizáveis. in CLICK

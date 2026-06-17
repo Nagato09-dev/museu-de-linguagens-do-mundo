@@ -1,1 +1,1 @@
-// Example 2 in clojure
+// Variables & Types - Como declarar e usar variáveis. in CLOJURE

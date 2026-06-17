@@ -1,1 +1,1 @@
-// Example 4 in fantom
+// Loops - Repetindo tarefas com for/while. in FANTOM

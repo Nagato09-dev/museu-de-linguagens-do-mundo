@@ -1,1 +1,1 @@
-// Example 2 in basic
+// Variables & Types - Como declarar e usar variáveis. in BASIC

@@ -1,1 +1,1 @@
-// Example 4 in Mask
+// Loops - Repetindo tarefas com for/while. in MASK

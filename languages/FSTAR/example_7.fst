@@ -1,1 +1,1 @@
-// Example 7 in Fstar
+// Error Handling - Lidando com exceções e erros. in FSTAR

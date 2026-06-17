@@ -1,1 +1,1 @@
-// Example 8 in elixir
+// String Manipulation - Trabalhando com textos. in ELIXIR

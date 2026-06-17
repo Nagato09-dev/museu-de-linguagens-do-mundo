@@ -1,1 +1,2 @@
-print('Hello from example 8')
+# String Manipulation - Trabalhando com textos.
+print('Learning String Manipulation - Trabalhando com textos. in PYTHON')

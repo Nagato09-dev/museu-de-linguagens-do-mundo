@@ -1,1 +1,1 @@
-// Example 5 in Igor_Pro
+// Functions - Criando blocos de código reutilizáveis. in IGOR_PRO

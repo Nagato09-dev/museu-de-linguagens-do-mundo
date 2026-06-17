@@ -1,1 +1,1 @@
-// Example 1 in smalltalk
+// Hello World - O básico de qualquer linguagem. in SMALLTALK

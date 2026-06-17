@@ -1,1 +1,1 @@
-// Example 9 in Genshi
+// Mathematics - Operações aritméticas básicas. in GENSHI

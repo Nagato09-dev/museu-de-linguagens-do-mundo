@@ -1,1 +1,1 @@
-// Example 1 in E
+// Hello World - O básico de qualquer linguagem. in E

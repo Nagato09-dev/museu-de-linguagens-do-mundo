@@ -1,1 +1,1 @@
-// Example 7 in AutoHotkey
+// Error Handling - Lidando com exceções e erros. in AUTOHOTKEY

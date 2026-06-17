@@ -1,1 +1,1 @@
-// Example 7 in GAMS
+// Error Handling - Lidando com exceções e erros. in GAMS

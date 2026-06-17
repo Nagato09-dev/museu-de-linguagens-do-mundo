@@ -1,1 +1,1 @@
-// Example 8 in commonlisp
+// String Manipulation - Trabalhando com textos. in COMMONLISP

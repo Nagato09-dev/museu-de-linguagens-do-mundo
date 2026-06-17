@@ -1,1 +1,1 @@
-// Example 7 in M4
+// Error Handling - Lidando com exceções e erros. in M4

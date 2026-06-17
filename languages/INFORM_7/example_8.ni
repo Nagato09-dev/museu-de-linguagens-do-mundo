@@ -1,1 +1,1 @@
-// Example 8 in Inform_7
+// String Manipulation - Trabalhando com textos. in INFORM_7

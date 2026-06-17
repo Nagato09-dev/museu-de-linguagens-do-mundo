@@ -1,1 +1,1 @@
-// Example 7 in rexx
+// Error Handling - Lidando com exceções e erros. in REXX

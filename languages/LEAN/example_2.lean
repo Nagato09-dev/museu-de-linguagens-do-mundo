@@ -1,1 +1,1 @@
-// Example 2 in Lean
+// Variables & Types - Como declarar e usar variáveis. in LEAN

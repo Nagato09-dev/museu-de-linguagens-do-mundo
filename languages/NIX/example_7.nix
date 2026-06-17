@@ -1,1 +1,1 @@
-// Example 7 in nix
+// Error Handling - Lidando com exceções e erros. in NIX

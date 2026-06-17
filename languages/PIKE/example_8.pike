@@ -1,1 +1,1 @@
-// Example 8 in pike
+// String Manipulation - Trabalhando com textos. in PIKE

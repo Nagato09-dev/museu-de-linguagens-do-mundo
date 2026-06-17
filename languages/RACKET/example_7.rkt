@@ -1,1 +1,1 @@
-// Example 7 in racket
+// Error Handling - Lidando com exceções e erros. in RACKET

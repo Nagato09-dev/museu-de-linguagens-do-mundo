@@ -1,1 +1,1 @@
-// Example 9 in eiffel
+// Mathematics - Operações aritméticas básicas. in EIFFEL

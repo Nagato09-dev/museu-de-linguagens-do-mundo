@@ -1,1 +1,1 @@
-// Example 8 in v
+// String Manipulation - Trabalhando com textos. in V

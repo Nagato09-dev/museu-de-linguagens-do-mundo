@@ -1,1 +1,2 @@
-console.log('Hello from example 4');
+// Loops - Repetindo tarefas com for/while.
+console.log('Learning Loops - Repetindo tarefas com for/while. in JAVASCRIPT');

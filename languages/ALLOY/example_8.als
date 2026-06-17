@@ -1,1 +1,1 @@
-// Example 8 in Alloy
+// String Manipulation - Trabalhando com textos. in ALLOY

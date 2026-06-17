@@ -1,1 +1,1 @@
-// Example 8 in ring
+// String Manipulation - Trabalhando com textos. in RING

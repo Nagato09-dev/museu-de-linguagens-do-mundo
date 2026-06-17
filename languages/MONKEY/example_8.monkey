@@ -1,1 +1,1 @@
-// Example 8 in monkey
+// String Manipulation - Trabalhando com textos. in MONKEY

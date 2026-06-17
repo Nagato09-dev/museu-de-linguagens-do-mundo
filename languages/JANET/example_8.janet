@@ -1,1 +1,1 @@
-// Example 8 in janet
+// String Manipulation - Trabalhando com textos. in JANET

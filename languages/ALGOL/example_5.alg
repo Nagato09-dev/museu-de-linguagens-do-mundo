@@ -1,1 +1,1 @@
-// Example 5 in algol
+// Functions - Criando blocos de código reutilizáveis. in ALGOL

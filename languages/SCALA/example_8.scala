@@ -1,1 +1,1 @@
-// Example 8 in scala
+// String Manipulation - Trabalhando com textos. in SCALA

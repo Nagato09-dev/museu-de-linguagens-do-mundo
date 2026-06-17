@@ -1,1 +1,1 @@
-// Example 4 in haxe
+// Loops - Repetindo tarefas com for/while. in HAXE

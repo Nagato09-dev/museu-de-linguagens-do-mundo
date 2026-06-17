@@ -1,1 +1,1 @@
-// Example 7 in coq_proof
+// Error Handling - Lidando com exceções e erros. in COQ_PROOF

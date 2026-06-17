@@ -1,1 +1,1 @@
-// Example 5 in Mask
+// Functions - Criando blocos de código reutilizáveis. in MASK

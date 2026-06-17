@@ -1,1 +1,1 @@
-// Example 6 in AutoHotkey
+// Data Structures - Listas, Arrays ou Mapas. in AUTOHOTKEY

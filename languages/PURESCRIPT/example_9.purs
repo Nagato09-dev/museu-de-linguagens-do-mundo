@@ -1,1 +1,1 @@
-// Example 9 in purescript
+// Mathematics - Operações aritméticas básicas. in PURESCRIPT

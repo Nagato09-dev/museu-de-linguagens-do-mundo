@@ -1,1 +1,1 @@
-// Example 10 in Igor_Pro
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in IGOR_PRO

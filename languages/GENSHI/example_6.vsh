@@ -1,1 +1,1 @@
-// Example 6 in Genshi
+// Data Structures - Listas, Arrays ou Mapas. in GENSHI

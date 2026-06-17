@@ -1,1 +1,1 @@
-// Example 5 in Gosu
+// Functions - Criando blocos de código reutilizáveis. in GOSU

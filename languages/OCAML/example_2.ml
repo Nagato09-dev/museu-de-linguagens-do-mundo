@@ -1,1 +1,1 @@
-// Example 2 in ocaml
+// Variables & Types - Como declarar e usar variáveis. in OCAML

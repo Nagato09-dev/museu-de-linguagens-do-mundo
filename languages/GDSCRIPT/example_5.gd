@@ -1,1 +1,1 @@
-// Example 5 in gdscript
+// Functions - Criando blocos de código reutilizáveis. in GDSCRIPT

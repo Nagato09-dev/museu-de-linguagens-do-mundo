@@ -1,1 +1,1 @@
-// Example 1 in JSX
+console.log('Hello, World!');

@@ -1,1 +1,1 @@
-// Example 4 in eiffel
+// Loops - Repetindo tarefas com for/while. in EIFFEL

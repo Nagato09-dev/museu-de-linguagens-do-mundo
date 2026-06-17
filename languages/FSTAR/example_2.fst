@@ -1,1 +1,1 @@
-// Example 2 in Fstar
+// Variables & Types - Como declarar e usar variáveis. in FSTAR

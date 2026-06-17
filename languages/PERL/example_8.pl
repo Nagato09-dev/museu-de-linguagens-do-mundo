@@ -1,1 +1,1 @@
-// Example 8 in perl
+# String Manipulation - Trabalhando com textos. in PERL

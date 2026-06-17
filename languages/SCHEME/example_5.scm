@@ -1,1 +1,1 @@
-// Example 5 in scheme
+// Functions - Criando blocos de código reutilizáveis. in SCHEME

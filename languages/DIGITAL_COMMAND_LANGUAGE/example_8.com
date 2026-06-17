@@ -1,1 +1,1 @@
-// Example 8 in DIGITAL_Command_Language
+// String Manipulation - Trabalhando com textos. in DIGITAL_COMMAND_LANGUAGE

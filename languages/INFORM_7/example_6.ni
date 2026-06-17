@@ -1,1 +1,1 @@
-// Example 6 in Inform_7
+// Data Structures - Listas, Arrays ou Mapas. in INFORM_7

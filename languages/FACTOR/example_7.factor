@@ -1,1 +1,1 @@
-// Example 7 in factor
+// Error Handling - Lidando com exceções e erros. in FACTOR

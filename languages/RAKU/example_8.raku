@@ -1,1 +1,1 @@
-// Example 8 in raku
+// String Manipulation - Trabalhando com textos. in RAKU

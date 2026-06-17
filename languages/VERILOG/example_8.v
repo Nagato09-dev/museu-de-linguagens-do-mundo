@@ -1,1 +1,1 @@
-// Example 8 in verilog
+// String Manipulation - Trabalhando com textos. in VERILOG

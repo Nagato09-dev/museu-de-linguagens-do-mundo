@@ -1,1 +1,1 @@
-// Example 9 in Grammatical_Framework
+// Mathematics - Operações aritméticas básicas. in GRAMMATICAL_FRAMEWORK

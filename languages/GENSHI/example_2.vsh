@@ -1,1 +1,1 @@
-// Example 2 in Genshi
+// Variables & Types - Como declarar e usar variáveis. in GENSHI

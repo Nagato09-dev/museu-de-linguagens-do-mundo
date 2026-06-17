@@ -1,1 +1,1 @@
-// Example 2 in nim
+// Variables & Types - Como declarar e usar variáveis. in NIM

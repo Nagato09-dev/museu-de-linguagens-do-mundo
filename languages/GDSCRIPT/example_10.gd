@@ -1,1 +1,1 @@
-// Example 10 in gdscript
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GDSCRIPT

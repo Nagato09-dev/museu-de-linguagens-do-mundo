@@ -1,1 +1,1 @@
-// Example 6 in DTrace
+// Data Structures - Listas, Arrays ou Mapas. in DTRACE

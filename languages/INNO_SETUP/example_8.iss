@@ -1,1 +1,1 @@
-// Example 8 in Inno_Setup
+// String Manipulation - Trabalhando com textos. in INNO_SETUP

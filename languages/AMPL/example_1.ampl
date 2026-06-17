@@ -1,1 +1,1 @@
-// Example 1 in AMPL
+// Hello World - O básico de qualquer linguagem. in AMPL

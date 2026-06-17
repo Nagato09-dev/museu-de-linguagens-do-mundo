@@ -1,1 +1,1 @@
-// Example 9 in Clips
+// Mathematics - Operações aritméticas básicas. in CLIPS

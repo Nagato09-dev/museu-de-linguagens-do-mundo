@@ -1,1 +1,1 @@
-// Example 5 in Fstar
+// Functions - Criando blocos de código reutilizáveis. in FSTAR

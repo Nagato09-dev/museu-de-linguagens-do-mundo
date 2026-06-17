@@ -1,1 +1,1 @@
-// Example 5 in raku
+// Functions - Criando blocos de código reutilizáveis. in RAKU

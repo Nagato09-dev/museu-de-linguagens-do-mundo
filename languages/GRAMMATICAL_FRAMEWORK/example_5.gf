@@ -1,1 +1,1 @@
-// Example 5 in Grammatical_Framework
+// Functions - Criando blocos de código reutilizáveis. in GRAMMATICAL_FRAMEWORK

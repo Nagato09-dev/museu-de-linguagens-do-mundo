@@ -1,1 +1,1 @@
-// Example 2 in groovy
+// Variables & Types - Como declarar e usar variáveis. in GROOVY

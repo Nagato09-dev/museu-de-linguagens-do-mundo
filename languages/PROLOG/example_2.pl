@@ -1,1 +1,1 @@
-// Example 2 in prolog
+# Variables & Types - Como declarar e usar variáveis. in PROLOG

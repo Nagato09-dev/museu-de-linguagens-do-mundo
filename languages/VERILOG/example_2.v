@@ -1,1 +1,1 @@
-// Example 2 in verilog
+// Variables & Types - Como declarar e usar variáveis. in VERILOG

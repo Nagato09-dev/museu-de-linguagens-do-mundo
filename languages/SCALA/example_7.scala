@@ -1,1 +1,1 @@
-// Example 7 in scala
+// Error Handling - Lidando com exceções e erros. in SCALA

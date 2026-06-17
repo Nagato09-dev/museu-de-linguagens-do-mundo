@@ -1,1 +1,1 @@
-// Example 5 in LSL
+// Functions - Criando blocos de código reutilizáveis. in LSL

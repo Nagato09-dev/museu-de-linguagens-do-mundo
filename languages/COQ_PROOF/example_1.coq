@@ -1,1 +1,1 @@
-// Example 1 in coq_proof
+// Hello World - O básico de qualquer linguagem. in COQ_PROOF

@@ -1,1 +1,1 @@
-// Example 6 in smalltalk
+// Data Structures - Listas, Arrays ou Mapas. in SMALLTALK

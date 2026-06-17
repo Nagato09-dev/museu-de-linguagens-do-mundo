@@ -1,1 +1,1 @@
-// Example 2 in HCL
+// Variables & Types - Como declarar e usar variáveis. in HCL

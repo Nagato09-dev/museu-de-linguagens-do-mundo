@@ -1,1 +1,1 @@
-// Example 5 in Asymptote
+// Functions - Criando blocos de código reutilizáveis. in ASYMPTOTE

@@ -1,1 +1,1 @@
-// Example 8 in red
+// String Manipulation - Trabalhando com textos. in RED

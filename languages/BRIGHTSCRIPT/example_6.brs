@@ -1,1 +1,1 @@
-// Example 6 in Brightscript
+// Data Structures - Listas, Arrays ou Mapas. in BRIGHTSCRIPT

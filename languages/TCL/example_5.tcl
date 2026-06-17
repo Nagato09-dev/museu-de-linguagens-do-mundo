@@ -1,1 +1,1 @@
-// Example 5 in tcl
+# Functions - Criando blocos de código reutilizáveis. in TCL

@@ -1,1 +1,2 @@
-// Example 5 in LiveScript
+// Functions - Criando blocos de código reutilizáveis.
+console.log('Learning Functions - Criando blocos de código reutilizáveis. in LIVESCRIPT');

@@ -1,1 +1,1 @@
-// Example 5 in basic
+// Functions - Criando blocos de código reutilizáveis. in BASIC

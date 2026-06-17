@@ -1,1 +1,1 @@
-// Example 7 in perl
+# Error Handling - Lidando com exceções e erros. in PERL

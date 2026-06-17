@@ -1,1 +1,1 @@
-// Example 7 in zig
+// Error Handling - Lidando com exceções e erros. in ZIG

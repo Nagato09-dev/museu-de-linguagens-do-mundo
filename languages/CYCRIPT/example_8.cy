@@ -1,1 +1,1 @@
-// Example 8 in Cycript
+// String Manipulation - Trabalhando com textos. in CYCRIPT

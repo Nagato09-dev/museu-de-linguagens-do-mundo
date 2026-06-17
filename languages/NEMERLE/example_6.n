@@ -1,1 +1,1 @@
-// Example 6 in nemerle
+// Data Structures - Listas, Arrays ou Mapas. in NEMERLE

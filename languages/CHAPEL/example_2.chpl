@@ -1,1 +1,1 @@
-// Example 2 in chapel
+// Variables & Types - Como declarar e usar variáveis. in CHAPEL

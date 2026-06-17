@@ -1,1 +1,1 @@
-// Example 7 in Lasso
+// Error Handling - Lidando com exceções e erros. in LASSO

@@ -1,1 +1,1 @@
-// Example 7 in Harbour
+// Error Handling - Lidando com exceções e erros. in HARBOUR

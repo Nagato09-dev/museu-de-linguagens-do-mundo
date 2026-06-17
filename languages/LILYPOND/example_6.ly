@@ -1,1 +1,1 @@
-// Example 6 in LilyPond
+// Data Structures - Listas, Arrays ou Mapas. in LILYPOND

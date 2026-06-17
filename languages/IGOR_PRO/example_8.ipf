@@ -1,1 +1,1 @@
-// Example 8 in Igor_Pro
+// String Manipulation - Trabalhando com textos. in IGOR_PRO

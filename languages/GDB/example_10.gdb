@@ -1,1 +1,1 @@
-// Example 10 in GDB
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GDB

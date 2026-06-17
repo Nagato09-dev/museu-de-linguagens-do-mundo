@@ -1,1 +1,1 @@
-// Example 5 in AutoIt
+// Functions - Criando blocos de código reutilizáveis. in AUTOIT

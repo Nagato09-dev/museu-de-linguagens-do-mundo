@@ -1,1 +1,1 @@
-// Example 9 in DTrace
+// Mathematics - Operações aritméticas básicas. in DTRACE

@@ -1,1 +1,1 @@
-// Example 3 in Clips
+// Control Flow - Estruturas condicionais (if/else). in CLIPS

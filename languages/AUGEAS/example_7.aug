@@ -1,1 +1,1 @@
-// Example 7 in Augeas
+// Error Handling - Lidando com exceções e erros. in AUGEAS

@@ -1,1 +1,1 @@
-// Example 8 in Markdown
+// String Manipulation - Trabalhando com textos. in MARKDOWN

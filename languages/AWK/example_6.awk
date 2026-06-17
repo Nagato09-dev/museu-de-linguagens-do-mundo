@@ -1,1 +1,1 @@
-// Example 6 in awk
+// Data Structures - Listas, Arrays ou Mapas. in AWK

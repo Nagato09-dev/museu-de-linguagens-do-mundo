@@ -1,1 +1,1 @@
-// Example 9 in lua
+-- Mathematics - Operações aritméticas básicas. in LUA

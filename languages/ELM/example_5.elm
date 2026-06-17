@@ -1,1 +1,1 @@
-// Example 5 in elm
+// Functions - Criando blocos de código reutilizáveis. in ELM

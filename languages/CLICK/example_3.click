@@ -1,1 +1,1 @@
-// Example 3 in Click
+// Control Flow - Estruturas condicionais (if/else). in CLICK

@@ -1,1 +1,1 @@
-// Example 3 in Gnuplot
+// Control Flow - Estruturas condicionais (if/else). in GNUPLOT

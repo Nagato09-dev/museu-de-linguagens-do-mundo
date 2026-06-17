@@ -1,1 +1,1 @@
-// Example 7 in janet
+// Error Handling - Lidando com exceções e erros. in JANET

@@ -1,1 +1,2 @@
-// Example 10 in JSX
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci).
+console.log('Learning Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in JSX');

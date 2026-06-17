@@ -1,1 +1,1 @@
-// Example 9 in ECLiPSe
+// Mathematics - Operações aritméticas básicas. in ECLIPSE

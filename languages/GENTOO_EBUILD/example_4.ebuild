@@ -1,1 +1,1 @@
-// Example 4 in Gentoo_Ebuild
+// Loops - Repetindo tarefas com for/while. in GENTOO_EBUILD

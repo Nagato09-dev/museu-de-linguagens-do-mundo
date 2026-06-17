@@ -1,1 +1,1 @@
-// Example 4 in d
+// Loops - Repetindo tarefas com for/while. in D

@@ -1,1 +1,1 @@
-// Example 7 in GDB
+// Error Handling - Lidando com exceções e erros. in GDB

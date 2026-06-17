@@ -1,1 +1,1 @@
-// Example 5 in forth
+// Functions - Criando blocos de código reutilizáveis. in FORTH

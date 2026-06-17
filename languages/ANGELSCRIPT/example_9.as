@@ -1,1 +1,1 @@
-// Example 9 in AngelScript
+// Mathematics - Operações aritméticas básicas. in ANGELSCRIPT

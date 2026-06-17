@@ -1,1 +1,1 @@
-// Example 5 in Inno_Setup
+// Functions - Criando blocos de código reutilizáveis. in INNO_SETUP

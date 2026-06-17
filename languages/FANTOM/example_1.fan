@@ -1,1 +1,1 @@
-// Example 1 in fantom
+// Hello World - O básico de qualquer linguagem. in FANTOM

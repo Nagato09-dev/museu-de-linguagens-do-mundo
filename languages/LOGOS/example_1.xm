@@ -1,1 +1,1 @@
-// Example 1 in Logos
+// Hello World - O básico de qualquer linguagem. in LOGOS

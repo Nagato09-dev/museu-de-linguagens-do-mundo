@@ -1,1 +1,1 @@
-// Example 7 in odin
+// Error Handling - Lidando com exceções e erros. in ODIN

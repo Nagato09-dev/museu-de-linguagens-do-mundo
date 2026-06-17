@@ -1,1 +1,1 @@
-// Example 5 in d
+// Functions - Criando blocos de código reutilizáveis. in D

@@ -1,1 +1,1 @@
-// Example 8 in Euphoria
+// String Manipulation - Trabalhando com textos. in EUPHORIA

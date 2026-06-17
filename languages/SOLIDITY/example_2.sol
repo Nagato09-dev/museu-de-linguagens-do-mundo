@@ -1,1 +1,1 @@
-// Example 2 in solidity
+// Variables & Types - Como declarar e usar variáveis. in SOLIDITY

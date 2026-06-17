@@ -1,1 +1,1 @@
-// Example 7 in G-Code
+// Error Handling - Lidando com exceções e erros. in G_CODE

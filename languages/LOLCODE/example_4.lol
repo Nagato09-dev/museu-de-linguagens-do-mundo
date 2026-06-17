@@ -1,1 +1,1 @@
-// Example 4 in lolcode
+// Loops - Repetindo tarefas com for/while. in LOLCODE

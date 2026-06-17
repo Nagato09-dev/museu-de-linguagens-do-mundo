@@ -1,1 +1,2 @@
-// Example 4 in LiveScript
+// Loops - Repetindo tarefas com for/while.
+console.log('Learning Loops - Repetindo tarefas com for/while. in LIVESCRIPT');

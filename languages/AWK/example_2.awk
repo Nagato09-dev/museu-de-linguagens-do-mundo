@@ -1,1 +1,1 @@
-// Example 2 in awk
+// Variables & Types - Como declarar e usar variáveis. in AWK

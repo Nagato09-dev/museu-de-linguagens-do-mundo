@@ -1,1 +1,1 @@
-// Example 1 in Cycript
+// Hello World - O básico de qualquer linguagem. in CYCRIPT

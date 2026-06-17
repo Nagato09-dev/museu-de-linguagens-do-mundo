@@ -1,1 +1,1 @@
-// Example 5 in Alloy
+// Functions - Criando blocos de código reutilizáveis. in ALLOY

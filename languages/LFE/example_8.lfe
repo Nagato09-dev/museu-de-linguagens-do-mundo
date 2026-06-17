@@ -1,1 +1,1 @@
-// Example 8 in LFE
+// String Manipulation - Trabalhando com textos. in LFE

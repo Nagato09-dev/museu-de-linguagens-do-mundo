@@ -1,1 +1,1 @@
-// Example 6 in tcl
+# Data Structures - Listas, Arrays ou Mapas. in TCL

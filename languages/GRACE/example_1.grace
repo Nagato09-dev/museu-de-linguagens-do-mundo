@@ -1,1 +1,1 @@
-// Example 1 in Grace
+// Hello World - O básico de qualquer linguagem. in GRACE

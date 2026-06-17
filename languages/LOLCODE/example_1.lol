@@ -1,1 +1,1 @@
-// Example 1 in lolcode
+// Hello World - O básico de qualquer linguagem. in LOLCODE

@@ -1,1 +1,1 @@
-// Example 7 in Igor_Pro
+// Error Handling - Lidando com exceções e erros. in IGOR_PRO

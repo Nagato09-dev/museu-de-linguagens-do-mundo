@@ -1,1 +1,1 @@
-// Example 7 in vhdl
+// Error Handling - Lidando com exceções e erros. in VHDL

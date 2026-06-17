@@ -1,1 +1,1 @@
-// Example 5 in red
+// Functions - Criando blocos de código reutilizáveis. in RED

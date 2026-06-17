@@ -1,1 +1,1 @@
-// Example 1 in Logtalk
+// Hello World - O básico de qualquer linguagem. in LOGTALK

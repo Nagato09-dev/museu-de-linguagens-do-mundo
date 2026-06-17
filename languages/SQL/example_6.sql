@@ -1,1 +1,1 @@
-// Example 6 in sql
+-- Data Structures - Listas, Arrays ou Mapas. in SQL

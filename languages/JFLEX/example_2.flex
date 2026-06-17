@@ -1,1 +1,1 @@
-// Example 2 in JFlex
+// Variables & Types - Como declarar e usar variáveis. in JFLEX

@@ -1,1 +1,1 @@
-// Example 9 in GDB
+// Mathematics - Operações aritméticas básicas. in GDB

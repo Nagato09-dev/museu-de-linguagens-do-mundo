@@ -1,1 +1,1 @@
-// Example 2 in Hy
+// Variables & Types - Como declarar e usar variáveis. in HY

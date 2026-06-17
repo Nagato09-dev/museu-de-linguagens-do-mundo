@@ -1,1 +1,1 @@
-// Example 1 in zig
+// Hello World - O básico de qualquer linguagem. in ZIG

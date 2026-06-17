@@ -1,1 +1,1 @@
-// Example 2 in tcl
+# Variables & Types - Como declarar e usar variáveis. in TCL

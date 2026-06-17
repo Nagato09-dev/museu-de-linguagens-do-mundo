@@ -1,1 +1,1 @@
-// Example 2 in AutoHotkey
+// Variables & Types - Como declarar e usar variáveis. in AUTOHOTKEY

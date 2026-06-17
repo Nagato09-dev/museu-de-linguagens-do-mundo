@@ -1,1 +1,1 @@
-// Example 2 in raku
+// Variables & Types - Como declarar e usar variáveis. in RAKU

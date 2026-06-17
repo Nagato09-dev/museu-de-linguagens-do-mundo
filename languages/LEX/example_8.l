@@ -1,1 +1,1 @@
-// Example 8 in Lex
+// String Manipulation - Trabalhando com textos. in LEX

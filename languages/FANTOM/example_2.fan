@@ -1,1 +1,1 @@
-// Example 2 in fantom
+// Variables & Types - Como declarar e usar variáveis. in FANTOM

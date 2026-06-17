@@ -1,1 +1,1 @@
-// Example 5 in Lex
+// Functions - Criando blocos de código reutilizáveis. in LEX

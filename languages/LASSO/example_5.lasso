@@ -1,1 +1,1 @@
-// Example 5 in Lasso
+// Functions - Criando blocos de código reutilizáveis. in LASSO

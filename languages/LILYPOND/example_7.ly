@@ -1,1 +1,1 @@
-// Example 7 in LilyPond
+// Error Handling - Lidando com exceções e erros. in LILYPOND

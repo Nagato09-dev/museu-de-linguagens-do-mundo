@@ -1,1 +1,1 @@
-// Example 9 in lisp
+// Mathematics - Operações aritméticas básicas. in LISP

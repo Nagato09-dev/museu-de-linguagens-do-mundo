@@ -1,1 +1,1 @@
-// Example 6 in ABAP
+// Data Structures - Listas, Arrays ou Mapas. in ABAP

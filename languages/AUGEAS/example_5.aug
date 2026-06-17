@@ -1,1 +1,1 @@
-// Example 5 in Augeas
+// Functions - Criando blocos de código reutilizáveis. in AUGEAS

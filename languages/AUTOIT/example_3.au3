@@ -1,1 +1,1 @@
-// Example 3 in AutoIt
+// Control Flow - Estruturas condicionais (if/else). in AUTOIT

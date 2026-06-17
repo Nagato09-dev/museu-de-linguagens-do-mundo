@@ -1,1 +1,1 @@
-// Example 1 in Igor_Pro
+// Hello World - O básico de qualquer linguagem. in IGOR_PRO

@@ -1,1 +1,1 @@
-// Example 5 in BlitzMax
+// Functions - Criando blocos de código reutilizáveis. in BLITZMAX

@@ -1,1 +1,1 @@
-// Example 5 in purescript
+// Functions - Criando blocos de código reutilizáveis. in PURESCRIPT

@@ -1,1 +1,1 @@
-// Example 5 in dockerfile
+// Functions - Criando blocos de código reutilizáveis. in DOCKERFILE

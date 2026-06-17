@@ -1,1 +1,2 @@
-console.log('Hello from example 9');
+// Mathematics - Operações aritméticas básicas.
+console.log('Learning Mathematics - Operações aritméticas básicas. in JAVASCRIPT');

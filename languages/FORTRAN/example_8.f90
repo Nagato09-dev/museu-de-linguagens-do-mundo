@@ -1,1 +1,1 @@
-// Example 8 in fortran
+// String Manipulation - Trabalhando com textos. in FORTRAN

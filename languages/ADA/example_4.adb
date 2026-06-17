@@ -1,1 +1,1 @@
-// Example 4 in ada
+(* Loops - Repetindo tarefas com for/while. in ADA *)

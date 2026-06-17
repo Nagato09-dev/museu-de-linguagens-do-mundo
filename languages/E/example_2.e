@@ -1,1 +1,1 @@
-// Example 2 in E
+// Variables & Types - Como declarar e usar variáveis. in E

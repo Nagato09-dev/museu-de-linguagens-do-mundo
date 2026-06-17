@@ -1,1 +1,3 @@
-console.log('Hello from example 2');
+const name = 'Manus';
+let age = 1;
+console.log(`${name} is ${age} year old`);

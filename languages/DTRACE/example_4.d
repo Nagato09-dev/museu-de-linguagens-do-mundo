@@ -1,1 +1,1 @@
-// Example 4 in DTrace
+// Loops - Repetindo tarefas com for/while. in DTRACE

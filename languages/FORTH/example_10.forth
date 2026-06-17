@@ -1,1 +1,1 @@
-// Example 10 in forth
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in FORTH

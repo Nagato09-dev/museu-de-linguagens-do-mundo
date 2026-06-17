@@ -1,1 +1,1 @@
-// Example 7 in ring
+// Error Handling - Lidando com exceções e erros. in RING

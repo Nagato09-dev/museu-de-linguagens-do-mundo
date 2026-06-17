@@ -1,1 +1,1 @@
-// Example 2 in pike
+// Variables & Types - Como declarar e usar variáveis. in PIKE

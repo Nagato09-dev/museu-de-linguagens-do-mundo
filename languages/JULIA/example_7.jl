@@ -1,1 +1,1 @@
-// Example 7 in julia
+# Error Handling - Lidando com exceções e erros. in JULIA

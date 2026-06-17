@@ -1,1 +1,1 @@
-// Example 8 in C2hs_Haskell
+// String Manipulation - Trabalhando com textos. in C2HS_HASKELL

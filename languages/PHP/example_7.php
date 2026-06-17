@@ -1,1 +1,1 @@
-// Example 7 in php
+// Error Handling - Lidando com exceções e erros. in PHP

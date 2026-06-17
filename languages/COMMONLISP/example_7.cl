@@ -1,1 +1,1 @@
-// Example 7 in commonlisp
+// Error Handling - Lidando com exceções e erros. in COMMONLISP

@@ -1,1 +1,1 @@
-// Example 5 in LilyPond
+// Functions - Criando blocos de código reutilizáveis. in LILYPOND

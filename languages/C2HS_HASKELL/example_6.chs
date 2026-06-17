@@ -1,1 +1,1 @@
-// Example 6 in C2hs_Haskell
+// Data Structures - Listas, Arrays ou Mapas. in C2HS_HASKELL

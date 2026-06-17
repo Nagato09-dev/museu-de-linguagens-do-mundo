@@ -1,1 +1,1 @@
-// Example 9 in cobol
+// Mathematics - Operações aritméticas básicas. in COBOL

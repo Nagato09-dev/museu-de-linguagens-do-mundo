@@ -1,1 +1,1 @@
-// Example 2 in j
+// Variables & Types - Como declarar e usar variáveis. in J

@@ -1,1 +1,1 @@
-// Example 7 in v
+// Error Handling - Lidando com exceções e erros. in V

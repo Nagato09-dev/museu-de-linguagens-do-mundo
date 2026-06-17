@@ -1,1 +1,1 @@
-// Example 4 in GAMS
+// Loops - Repetindo tarefas com for/while. in GAMS

@@ -1,1 +1,1 @@
-// Example 2 in hlsl
+// Variables & Types - Como declarar e usar variáveis. in HLSL

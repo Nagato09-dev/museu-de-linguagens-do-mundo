@@ -1,1 +1,1 @@
-// Example 7 in r
+# Error Handling - Lidando com exceções e erros. in R

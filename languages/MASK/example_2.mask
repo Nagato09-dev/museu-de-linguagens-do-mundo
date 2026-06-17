@@ -1,1 +1,1 @@
-// Example 2 in Mask
+// Variables & Types - Como declarar e usar variáveis. in MASK

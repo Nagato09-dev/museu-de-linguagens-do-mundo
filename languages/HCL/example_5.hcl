@@ -1,1 +1,1 @@
-// Example 5 in HCL
+// Functions - Criando blocos de código reutilizáveis. in HCL

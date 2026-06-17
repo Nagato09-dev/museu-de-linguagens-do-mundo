@@ -1,1 +1,1 @@
-// Example 5 in hlsl
+// Functions - Criando blocos de código reutilizáveis. in HLSL

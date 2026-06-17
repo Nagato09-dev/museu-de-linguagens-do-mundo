@@ -1,1 +1,1 @@
-// Example 5 in Golo
+// Functions - Criando blocos de código reutilizáveis. in GOLO

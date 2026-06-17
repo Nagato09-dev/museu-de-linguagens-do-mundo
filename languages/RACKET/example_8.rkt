@@ -1,1 +1,1 @@
-// Example 8 in racket
+// String Manipulation - Trabalhando com textos. in RACKET

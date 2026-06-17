@@ -1,1 +1,1 @@
-// Example 6 in Clean
+// Data Structures - Listas, Arrays ou Mapas. in CLEAN

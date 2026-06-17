@@ -1,1 +1,1 @@
-// Example 6 in LSL
+// Data Structures - Listas, Arrays ou Mapas. in LSL

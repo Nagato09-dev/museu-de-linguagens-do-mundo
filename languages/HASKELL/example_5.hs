@@ -1,1 +1,1 @@
-// Example 5 in haskell
+-- Functions - Criando blocos de código reutilizáveis. in HASKELL

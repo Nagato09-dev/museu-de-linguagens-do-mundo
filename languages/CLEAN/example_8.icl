@@ -1,1 +1,1 @@
-// Example 8 in Clean
+// String Manipulation - Trabalhando com textos. in CLEAN

@@ -1,1 +1,1 @@
-// Example 7 in smalltalk
+// Error Handling - Lidando com exceções e erros. in SMALLTALK

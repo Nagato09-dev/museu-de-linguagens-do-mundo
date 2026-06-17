@@ -1,1 +1,1 @@
-// Example 2 in dockerfile
+// Variables & Types - Como declarar e usar variáveis. in DOCKERFILE

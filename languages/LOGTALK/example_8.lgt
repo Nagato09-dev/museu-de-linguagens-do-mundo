@@ -1,1 +1,1 @@
-// Example 8 in Logtalk
+// String Manipulation - Trabalhando com textos. in LOGTALK

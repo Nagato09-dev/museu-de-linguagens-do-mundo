@@ -1,1 +1,1 @@
-// Example 7 in Lean
+// Error Handling - Lidando com exceções e erros. in LEAN

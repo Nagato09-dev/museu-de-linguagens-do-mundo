@@ -1,1 +1,1 @@
-// Example 1 in Cap_n_Proto
+// Hello World - O básico de qualquer linguagem. in CAP_N_PROTO

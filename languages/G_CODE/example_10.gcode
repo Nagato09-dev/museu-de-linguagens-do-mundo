@@ -1,1 +1,1 @@
-// Example 10 in G-Code
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in G_CODE

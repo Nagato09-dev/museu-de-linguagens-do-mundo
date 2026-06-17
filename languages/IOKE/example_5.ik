@@ -1,1 +1,1 @@
-// Example 5 in Ioke
+// Functions - Criando blocos de código reutilizáveis. in IOKE

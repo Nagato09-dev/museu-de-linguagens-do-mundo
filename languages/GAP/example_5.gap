@@ -1,1 +1,1 @@
-// Example 5 in GAP
+// Functions - Criando blocos de código reutilizáveis. in GAP

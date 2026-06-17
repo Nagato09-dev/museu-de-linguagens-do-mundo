@@ -1,1 +1,1 @@
-// Example 1 in DTrace
+// Hello World - O básico de qualquer linguagem. in DTRACE

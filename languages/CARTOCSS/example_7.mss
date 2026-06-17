@@ -1,1 +1,1 @@
-// Example 7 in CartoCSS
+// Error Handling - Lidando com exceções e erros. in CARTOCSS

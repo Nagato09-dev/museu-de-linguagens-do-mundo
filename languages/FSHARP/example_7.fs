@@ -1,1 +1,1 @@
-// Example 7 in fsharp
+// Error Handling - Lidando com exceções e erros. in FSHARP

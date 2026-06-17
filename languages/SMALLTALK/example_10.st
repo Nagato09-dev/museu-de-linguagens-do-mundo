@@ -1,1 +1,1 @@
-// Example 10 in smalltalk
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in SMALLTALK

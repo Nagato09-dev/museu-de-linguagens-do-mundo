@@ -1,1 +1,1 @@
-// Example 8 in Brightscript
+// String Manipulation - Trabalhando com textos. in BRIGHTSCRIPT

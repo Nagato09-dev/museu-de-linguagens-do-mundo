@@ -1,1 +1,1 @@
-// Example 7 in cobol
+// Error Handling - Lidando com exceções e erros. in COBOL

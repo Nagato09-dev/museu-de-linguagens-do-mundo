@@ -1,1 +1,1 @@
-// Example 6 in glsl
+// Data Structures - Listas, Arrays ou Mapas. in GLSL

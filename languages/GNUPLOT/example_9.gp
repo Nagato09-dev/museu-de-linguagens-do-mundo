@@ -1,1 +1,1 @@
-// Example 9 in Gnuplot
+// Mathematics - Operações aritméticas básicas. in GNUPLOT

@@ -1,1 +1,1 @@
-// Example 7 in Golo
+// Error Handling - Lidando com exceções e erros. in GOLO

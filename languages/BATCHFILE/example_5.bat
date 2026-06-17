@@ -1,1 +1,1 @@
-// Example 5 in Batchfile
+// Functions - Criando blocos de código reutilizáveis. in BATCHFILE

@@ -1,1 +1,1 @@
-// Example 9 in tcl
+# Mathematics - Operações aritméticas básicas. in TCL

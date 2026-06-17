@@ -1,1 +1,1 @@
-// Example 8 in AMPL
+// String Manipulation - Trabalhando com textos. in AMPL

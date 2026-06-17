@@ -1,1 +1,1 @@
-// Example 10 in factor
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in FACTOR

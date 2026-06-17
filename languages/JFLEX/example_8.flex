@@ -1,1 +1,1 @@
-// Example 8 in JFlex
+// String Manipulation - Trabalhando com textos. in JFLEX

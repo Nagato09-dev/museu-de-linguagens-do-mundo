@@ -1,1 +1,2 @@
-// Example 9 in coffeescript
+// Mathematics - Operações aritméticas básicas.
+console.log('Learning Mathematics - Operações aritméticas básicas. in COFFEESCRIPT');

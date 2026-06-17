@@ -1,1 +1,1 @@
-// Example 4 in Kaitai_Struct
+// Loops - Repetindo tarefas com for/while. in KAITAI_STRUCT

@@ -1,1 +1,1 @@
-// Example 7 in AutoIt
+// Error Handling - Lidando com exceções e erros. in AUTOIT

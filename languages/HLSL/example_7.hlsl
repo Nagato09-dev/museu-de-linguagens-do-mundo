@@ -1,1 +1,1 @@
-// Example 7 in hlsl
+// Error Handling - Lidando com exceções e erros. in HLSL

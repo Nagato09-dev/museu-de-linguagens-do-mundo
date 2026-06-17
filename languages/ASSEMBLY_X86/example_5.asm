@@ -1,1 +1,1 @@
-// Example 5 in assembly_x86
+// Functions - Criando blocos de código reutilizáveis. in ASSEMBLY_X86

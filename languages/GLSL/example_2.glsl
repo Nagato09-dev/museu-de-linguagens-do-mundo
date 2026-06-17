@@ -1,1 +1,1 @@
-// Example 2 in glsl
+// Variables & Types - Como declarar e usar variáveis. in GLSL

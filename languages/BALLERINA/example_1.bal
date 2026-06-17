@@ -1,1 +1,1 @@
-// Example 1 in Ballerina
+// Hello World - O básico de qualquer linguagem. in BALLERINA

@@ -1,1 +1,1 @@
-// Example 5 in idris
+// Functions - Criando blocos de código reutilizáveis. in IDRIS

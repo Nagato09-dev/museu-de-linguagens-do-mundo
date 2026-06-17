@@ -1,1 +1,1 @@
-// Example 2 in algol
+// Variables & Types - Como declarar e usar variáveis. in ALGOL

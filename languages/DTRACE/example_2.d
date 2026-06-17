@@ -1,1 +1,1 @@
-// Example 2 in DTrace
+// Variables & Types - Como declarar e usar variáveis. in DTRACE

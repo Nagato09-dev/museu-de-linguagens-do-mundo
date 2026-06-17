@@ -1,1 +1,1 @@
-// Example 8 in php
+// String Manipulation - Trabalhando com textos. in PHP

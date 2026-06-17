@@ -1,1 +1,1 @@
-// Example 9 in DIGITAL_Command_Language
+// Mathematics - Operações aritméticas básicas. in DIGITAL_COMMAND_LANGUAGE

@@ -1,1 +1,1 @@
-// Example 5 in KRL
+// Functions - Criando blocos de código reutilizáveis. in KRL

@@ -1,1 +1,1 @@
-// Example 1 in Agda
+// Hello World - O básico de qualquer linguagem. in AGDA

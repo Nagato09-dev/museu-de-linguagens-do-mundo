@@ -1,1 +1,1 @@
-// Example 5 in Grace
+// Functions - Criando blocos de código reutilizáveis. in GRACE

@@ -1,1 +1,1 @@
-// Example 7 in Grammatical_Framework
+// Error Handling - Lidando com exceções e erros. in GRAMMATICAL_FRAMEWORK

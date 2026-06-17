@@ -1,1 +1,1 @@
-// Example 4 in verilog
+// Loops - Repetindo tarefas com for/while. in VERILOG

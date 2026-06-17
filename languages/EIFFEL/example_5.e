@@ -1,1 +1,1 @@
-// Example 5 in eiffel
+// Functions - Criando blocos de código reutilizáveis. in EIFFEL

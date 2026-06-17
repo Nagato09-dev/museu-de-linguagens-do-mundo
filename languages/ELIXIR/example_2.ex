@@ -1,1 +1,1 @@
-// Example 2 in elixir
+// Variables & Types - Como declarar e usar variáveis. in ELIXIR

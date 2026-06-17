@@ -1,1 +1,1 @@
-// Example 9 in pascal
+(* Mathematics - Operações aritméticas básicas. in PASCAL *)

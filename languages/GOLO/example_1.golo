@@ -1,1 +1,1 @@
-// Example 1 in Golo
+// Hello World - O básico de qualquer linguagem. in GOLO

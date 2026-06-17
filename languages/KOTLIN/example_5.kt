@@ -1,1 +1,1 @@
-// Example 5 in kotlin
+// Functions - Criando blocos de código reutilizáveis. in KOTLIN

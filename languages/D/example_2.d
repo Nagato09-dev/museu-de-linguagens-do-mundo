@@ -1,1 +1,1 @@
-// Example 2 in d
+// Variables & Types - Como declarar e usar variáveis. in D

@@ -1,1 +1,1 @@
-// Example 1 in coffeescript
+console.log('Hello, World!');

@@ -1,1 +1,1 @@
-// Example 10 in assembly_x86
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in ASSEMBLY_X86

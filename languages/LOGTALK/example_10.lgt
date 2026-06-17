@@ -1,1 +1,1 @@
-// Example 10 in Logtalk
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in LOGTALK

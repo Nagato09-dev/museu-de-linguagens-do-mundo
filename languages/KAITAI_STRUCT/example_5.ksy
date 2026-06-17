@@ -1,1 +1,1 @@
-// Example 5 in Kaitai_Struct
+// Functions - Criando blocos de código reutilizáveis. in KAITAI_STRUCT

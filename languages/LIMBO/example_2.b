@@ -1,1 +1,1 @@
-// Example 2 in Limbo
+// Variables & Types - Como declarar e usar variáveis. in LIMBO

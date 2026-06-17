@@ -1,1 +1,1 @@
-// Example 9 in forth
+// Mathematics - Operações aritméticas básicas. in FORTH

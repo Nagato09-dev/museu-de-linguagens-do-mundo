@@ -1,1 +1,1 @@
-// Example 5 in GAMS
+// Functions - Criando blocos de código reutilizáveis. in GAMS

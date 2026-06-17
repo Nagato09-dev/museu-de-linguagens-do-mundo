@@ -1,1 +1,1 @@
-// Example 5 in brainfuck
+// Functions - Criando blocos de código reutilizáveis. in BRAINFUCK

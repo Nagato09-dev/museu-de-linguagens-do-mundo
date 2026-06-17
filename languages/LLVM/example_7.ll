@@ -1,1 +1,1 @@
-// Example 7 in LLVM
+// Error Handling - Lidando com exceções e erros. in LLVM

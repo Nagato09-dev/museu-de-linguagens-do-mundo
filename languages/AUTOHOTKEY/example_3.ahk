@@ -1,1 +1,1 @@
-// Example 3 in AutoHotkey
+// Control Flow - Estruturas condicionais (if/else). in AUTOHOTKEY

@@ -1,1 +1,1 @@
-// Example 6 in ECLiPSe
+// Data Structures - Listas, Arrays ou Mapas. in ECLIPSE

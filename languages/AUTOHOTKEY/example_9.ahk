@@ -1,1 +1,1 @@
-// Example 9 in AutoHotkey
+// Mathematics - Operações aritméticas básicas. in AUTOHOTKEY

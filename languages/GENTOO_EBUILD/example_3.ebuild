@@ -1,1 +1,1 @@
-// Example 3 in Gentoo_Ebuild
+// Control Flow - Estruturas condicionais (if/else). in GENTOO_EBUILD

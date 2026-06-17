@@ -1,1 +1,1 @@
-// Example 8 in ECLiPSe
+// String Manipulation - Trabalhando com textos. in ECLIPSE

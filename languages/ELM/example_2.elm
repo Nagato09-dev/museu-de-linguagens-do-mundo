@@ -1,1 +1,1 @@
-// Example 2 in elm
+// Variables & Types - Como declarar e usar variáveis. in ELM

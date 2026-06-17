@@ -1,1 +1,1 @@
-// Example 5 in haxe
+// Functions - Criando blocos de código reutilizáveis. in HAXE

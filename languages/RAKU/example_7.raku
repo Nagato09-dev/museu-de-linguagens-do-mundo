@@ -1,1 +1,1 @@
-// Example 7 in raku
+// Error Handling - Lidando com exceções e erros. in RAKU

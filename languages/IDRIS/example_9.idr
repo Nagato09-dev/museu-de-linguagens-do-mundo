@@ -1,1 +1,1 @@
-// Example 9 in idris
+// Mathematics - Operações aritméticas básicas. in IDRIS

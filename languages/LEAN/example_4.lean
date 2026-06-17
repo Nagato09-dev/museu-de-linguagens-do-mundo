@@ -1,1 +1,1 @@
-// Example 4 in Lean
+// Loops - Repetindo tarefas com for/while. in LEAN

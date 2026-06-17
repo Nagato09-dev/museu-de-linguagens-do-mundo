@@ -1,1 +1,1 @@
-// Example 4 in Lex
+// Loops - Repetindo tarefas com for/while. in LEX

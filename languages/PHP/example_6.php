@@ -1,1 +1,1 @@
-// Example 6 in php
+// Data Structures - Listas, Arrays ou Mapas. in PHP

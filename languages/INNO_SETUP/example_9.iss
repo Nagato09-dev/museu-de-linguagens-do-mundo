@@ -1,1 +1,1 @@
-// Example 9 in Inno_Setup
+// Mathematics - Operações aritméticas básicas. in INNO_SETUP

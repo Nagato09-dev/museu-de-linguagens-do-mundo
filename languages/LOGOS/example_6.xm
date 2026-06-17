@@ -1,1 +1,1 @@
-// Example 6 in Logos
+// Data Structures - Listas, Arrays ou Mapas. in LOGOS

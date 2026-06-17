@@ -1,1 +1,1 @@
-// Example 2 in v
+// Variables & Types - Como declarar e usar variáveis. in V

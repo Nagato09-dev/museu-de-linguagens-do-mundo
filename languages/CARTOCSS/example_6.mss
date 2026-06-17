@@ -1,1 +1,1 @@
-// Example 6 in CartoCSS
+// Data Structures - Listas, Arrays ou Mapas. in CARTOCSS

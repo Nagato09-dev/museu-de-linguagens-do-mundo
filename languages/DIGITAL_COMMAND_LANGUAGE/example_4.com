@@ -1,1 +1,1 @@
-// Example 4 in DIGITAL_Command_Language
+// Loops - Repetindo tarefas com for/while. in DIGITAL_COMMAND_LANGUAGE

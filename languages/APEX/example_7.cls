@@ -1,1 +1,1 @@
-// Example 7 in Apex
+// Error Handling - Lidando com exceções e erros. in APEX

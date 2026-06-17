@@ -1,1 +1,2 @@
-console.log('Hello from example 8');
+// String Manipulation - Trabalhando com textos.
+console.log('Learning String Manipulation - Trabalhando com textos. in JAVASCRIPT');

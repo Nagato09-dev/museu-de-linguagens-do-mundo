@@ -1,1 +1,1 @@
-// Example 8 in ECL
+// String Manipulation - Trabalhando com textos. in ECL

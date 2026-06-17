@@ -1,1 +1,1 @@
-// Example 2 in LookML
+// Variables & Types - Como declarar e usar variáveis. in LOOKML

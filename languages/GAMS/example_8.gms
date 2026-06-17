@@ -1,1 +1,1 @@
-// Example 8 in GAMS
+// String Manipulation - Trabalhando com textos. in GAMS

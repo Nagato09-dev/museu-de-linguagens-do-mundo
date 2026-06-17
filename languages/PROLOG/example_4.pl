@@ -1,1 +1,1 @@
-// Example 4 in prolog
+# Loops - Repetindo tarefas com for/while. in PROLOG

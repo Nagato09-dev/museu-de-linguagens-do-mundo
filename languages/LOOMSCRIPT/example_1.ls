@@ -1,1 +1,1 @@
-// Example 1 in LoomScript
+console.log('Hello, World!');

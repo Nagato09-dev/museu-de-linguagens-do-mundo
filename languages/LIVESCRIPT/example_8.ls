@@ -1,1 +1,2 @@
-// Example 8 in LiveScript
+// String Manipulation - Trabalhando com textos.
+console.log('Learning String Manipulation - Trabalhando com textos. in LIVESCRIPT');

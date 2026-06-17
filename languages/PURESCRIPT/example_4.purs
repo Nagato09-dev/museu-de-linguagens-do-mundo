@@ -1,1 +1,1 @@
-// Example 4 in purescript
+// Loops - Repetindo tarefas com for/while. in PURESCRIPT

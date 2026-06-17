@@ -1,1 +1,1 @@
-// Example 1 in haskell
+-- Hello World - O básico de qualquer linguagem. in HASKELL

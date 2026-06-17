@@ -1,1 +1,1 @@
-// Example 7 in JFlex
+// Error Handling - Lidando com exceções e erros. in JFLEX

@@ -1,1 +1,1 @@
-// Example 6 in Mask
+// Data Structures - Listas, Arrays ou Mapas. in MASK

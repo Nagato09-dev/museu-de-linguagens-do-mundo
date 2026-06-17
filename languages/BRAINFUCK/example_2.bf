@@ -1,1 +1,1 @@
-// Example 2 in brainfuck
+// Variables & Types - Como declarar e usar variáveis. in BRAINFUCK

@@ -1,1 +1,1 @@
-// Example 9 in vhdl
+// Mathematics - Operações aritméticas básicas. in VHDL

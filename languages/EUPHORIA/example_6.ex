@@ -1,1 +1,1 @@
-// Example 6 in Euphoria
+// Data Structures - Listas, Arrays ou Mapas. in EUPHORIA

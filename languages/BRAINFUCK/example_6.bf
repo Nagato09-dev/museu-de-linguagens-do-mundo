@@ -1,1 +1,1 @@
-// Example 6 in brainfuck
+// Data Structures - Listas, Arrays ou Mapas. in BRAINFUCK

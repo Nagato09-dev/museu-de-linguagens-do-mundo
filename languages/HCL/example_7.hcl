@@ -1,1 +1,1 @@
-// Example 7 in HCL
+// Error Handling - Lidando com exceções e erros. in HCL

@@ -1,1 +1,1 @@
-// Example 5 in Logos
+// Functions - Criando blocos de código reutilizáveis. in LOGOS

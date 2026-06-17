@@ -1,1 +1,1 @@
-// Example 4 in C2hs_Haskell
+// Loops - Repetindo tarefas com for/while. in C2HS_HASKELL

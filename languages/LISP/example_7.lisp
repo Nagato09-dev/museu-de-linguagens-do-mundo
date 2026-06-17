@@ -1,1 +1,1 @@
-// Example 7 in lisp
+// Error Handling - Lidando com exceções e erros. in LISP

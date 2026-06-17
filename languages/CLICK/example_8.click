@@ -1,1 +1,1 @@
-// Example 8 in Click
+// String Manipulation - Trabalhando com textos. in CLICK

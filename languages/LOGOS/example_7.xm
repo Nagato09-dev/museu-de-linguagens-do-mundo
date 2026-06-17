@@ -1,1 +1,1 @@
-// Example 7 in Logos
+// Error Handling - Lidando com exceções e erros. in LOGOS

@@ -1,1 +1,1 @@
-// Example 7 in fortran
+// Error Handling - Lidando com exceções e erros. in FORTRAN

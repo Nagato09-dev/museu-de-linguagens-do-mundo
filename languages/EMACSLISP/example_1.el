@@ -1,1 +1,1 @@
-// Example 1 in emacslisp
+// Hello World - O básico de qualquer linguagem. in EMACSLISP

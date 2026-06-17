@@ -1,1 +1,1 @@
-// Example 6 in Inno_Setup
+// Data Structures - Listas, Arrays ou Mapas. in INNO_SETUP

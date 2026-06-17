@@ -1,1 +1,1 @@
-// Example 4 in sql
+-- Loops - Repetindo tarefas com for/while. in SQL

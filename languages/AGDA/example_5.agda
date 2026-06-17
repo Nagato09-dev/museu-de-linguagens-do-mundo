@@ -1,1 +1,1 @@
-// Example 5 in Agda
+// Functions - Criando blocos de código reutilizáveis. in AGDA

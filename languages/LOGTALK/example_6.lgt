@@ -1,1 +1,1 @@
-// Example 6 in Logtalk
+// Data Structures - Listas, Arrays ou Mapas. in LOGTALK

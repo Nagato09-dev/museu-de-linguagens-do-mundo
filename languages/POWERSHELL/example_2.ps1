@@ -1,1 +1,1 @@
-// Example 2 in powershell
+// Variables & Types - Como declarar e usar variáveis. in POWERSHELL

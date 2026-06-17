@@ -1,1 +1,1 @@
-// Example 4 in forth
+// Loops - Repetindo tarefas com for/while. in FORTH

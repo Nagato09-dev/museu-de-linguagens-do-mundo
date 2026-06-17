@@ -1,1 +1,1 @@
-// Example 3 in Inno_Setup
+// Control Flow - Estruturas condicionais (if/else). in INNO_SETUP

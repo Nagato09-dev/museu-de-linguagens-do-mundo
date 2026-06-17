@@ -1,1 +1,1 @@
-// Example 2 in lisp
+// Variables & Types - Como declarar e usar variáveis. in LISP

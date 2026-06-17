@@ -1,1 +1,1 @@
-// Example 4 in r
+# Loops - Repetindo tarefas com for/while. in R

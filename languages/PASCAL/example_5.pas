@@ -1,1 +1,1 @@
-// Example 5 in pascal
+(* Functions - Criando blocos de código reutilizáveis. in PASCAL *)

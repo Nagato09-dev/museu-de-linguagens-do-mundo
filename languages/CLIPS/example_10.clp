@@ -1,1 +1,1 @@
-// Example 10 in Clips
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in CLIPS

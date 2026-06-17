@@ -1,1 +1,1 @@
-// Example 5 in boo
+// Functions - Criando blocos de código reutilizáveis. in BOO

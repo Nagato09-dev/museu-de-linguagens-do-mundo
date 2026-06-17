@@ -1,1 +1,1 @@
-// Example 5 in ocaml
+// Functions - Criando blocos de código reutilizáveis. in OCAML

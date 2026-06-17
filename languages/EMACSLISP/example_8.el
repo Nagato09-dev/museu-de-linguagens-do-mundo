@@ -1,1 +1,1 @@
-// Example 8 in emacslisp
+// String Manipulation - Trabalhando com textos. in EMACSLISP

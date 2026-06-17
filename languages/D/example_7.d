@@ -1,1 +1,1 @@
-// Example 7 in d
+// Error Handling - Lidando com exceções e erros. in D

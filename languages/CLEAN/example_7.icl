@@ -1,1 +1,1 @@
-// Example 7 in Clean
+// Error Handling - Lidando com exceções e erros. in CLEAN

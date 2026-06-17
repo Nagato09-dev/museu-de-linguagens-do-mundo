@@ -1,1 +1,1 @@
-// Example 1 in pascal
+(* Hello World - O básico de qualquer linguagem. in PASCAL *)

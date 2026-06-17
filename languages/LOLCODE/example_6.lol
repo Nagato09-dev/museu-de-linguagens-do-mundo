@@ -1,1 +1,1 @@
-// Example 6 in lolcode
+// Data Structures - Listas, Arrays ou Mapas. in LOLCODE

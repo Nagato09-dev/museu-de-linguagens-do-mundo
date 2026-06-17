@@ -1,1 +1,1 @@
-// Example 7 in matlab
+// Error Handling - Lidando com exceções e erros. in MATLAB

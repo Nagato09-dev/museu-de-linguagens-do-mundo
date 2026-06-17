@@ -1,1 +1,1 @@
-// Example 9 in JFlex
+// Mathematics - Operações aritméticas básicas. in JFLEX

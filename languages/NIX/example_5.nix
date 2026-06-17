@@ -1,1 +1,1 @@
-// Example 5 in nix
+// Functions - Criando blocos de código reutilizáveis. in NIX

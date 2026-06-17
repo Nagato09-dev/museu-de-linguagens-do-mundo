@@ -1,1 +1,1 @@
-// Example 6 in raku
+// Data Structures - Listas, Arrays ou Mapas. in RAKU

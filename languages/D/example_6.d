@@ -1,1 +1,1 @@
-// Example 6 in d
+// Data Structures - Listas, Arrays ou Mapas. in D

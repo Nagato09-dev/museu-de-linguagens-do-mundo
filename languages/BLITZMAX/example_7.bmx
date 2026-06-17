@@ -1,1 +1,1 @@
-// Example 7 in BlitzMax
+// Error Handling - Lidando com exceções e erros. in BLITZMAX

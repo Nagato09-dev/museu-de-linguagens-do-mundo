@@ -1,1 +1,1 @@
-// Example 2 in actionscript
+// Variables & Types - Como declarar e usar variáveis. in ACTIONSCRIPT

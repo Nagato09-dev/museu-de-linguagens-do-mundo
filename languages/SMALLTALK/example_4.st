@@ -1,1 +1,1 @@
-// Example 4 in smalltalk
+// Loops - Repetindo tarefas com for/while. in SMALLTALK

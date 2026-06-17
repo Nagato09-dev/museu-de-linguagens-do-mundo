@@ -1,1 +1,3 @@
-// Example 9 in cuda
+// Mathematics - Operações aritméticas básicas. in CUDA
+#include <stdio.h>
+int main() { printf("Mathematics - Operações aritméticas básicas.\n"); return 0; }

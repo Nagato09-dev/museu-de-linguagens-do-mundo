@@ -1,1 +1,1 @@
-// Example 9 in ada
+(* Mathematics - Operações aritméticas básicas. in ADA *)

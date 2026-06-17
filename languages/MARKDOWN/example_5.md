@@ -1,1 +1,1 @@
-// Example 5 in Markdown
+// Functions - Criando blocos de código reutilizáveis. in MARKDOWN

@@ -1,1 +1,1 @@
-// Example 8 in r
+# String Manipulation - Trabalhando com textos. in R

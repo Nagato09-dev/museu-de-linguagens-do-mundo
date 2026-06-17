@@ -1,1 +1,1 @@
-// Example 8 in fsharp
+// String Manipulation - Trabalhando com textos. in FSHARP

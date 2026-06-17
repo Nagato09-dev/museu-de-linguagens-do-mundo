@@ -1,1 +1,1 @@
-// Example 3 in haskell
+-- Control Flow - Estruturas condicionais (if/else). in HASKELL

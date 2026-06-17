@@ -1,1 +1,1 @@
-// Example 2 in ring
+// Variables & Types - Como declarar e usar variáveis. in RING

@@ -1,1 +1,1 @@
-// Example 1 in DIGITAL_Command_Language
+// Hello World - O básico de qualquer linguagem. in DIGITAL_COMMAND_LANGUAGE

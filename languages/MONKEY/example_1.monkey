@@ -1,1 +1,1 @@
-// Example 1 in monkey
+// Hello World - O básico de qualquer linguagem. in MONKEY

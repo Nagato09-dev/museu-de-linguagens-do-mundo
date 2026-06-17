@@ -1,1 +1,1 @@
-// Example 8 in Clips
+// String Manipulation - Trabalhando com textos. in CLIPS

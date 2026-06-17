@@ -1,1 +1,3 @@
-// Example 4 in cuda
+// Loops - Repetindo tarefas com for/while. in CUDA
+#include <stdio.h>
+int main() { printf("Loops - Repetindo tarefas com for/while.\n"); return 0; }

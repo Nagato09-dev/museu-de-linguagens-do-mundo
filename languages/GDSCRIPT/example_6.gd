@@ -1,1 +1,1 @@
-// Example 6 in gdscript
+// Data Structures - Listas, Arrays ou Mapas. in GDSCRIPT

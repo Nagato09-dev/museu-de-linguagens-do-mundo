@@ -1,1 +1,1 @@
-// Example 5 in Cython
+// Functions - Criando blocos de código reutilizáveis. in CYTHON

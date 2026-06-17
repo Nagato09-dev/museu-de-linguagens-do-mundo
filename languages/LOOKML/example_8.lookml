@@ -1,1 +1,1 @@
-// Example 8 in LookML
+// String Manipulation - Trabalhando com textos. in LOOKML

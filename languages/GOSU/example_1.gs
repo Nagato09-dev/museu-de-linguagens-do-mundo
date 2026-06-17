@@ -1,1 +1,1 @@
-// Example 1 in Gosu
+// Hello World - O básico de qualquer linguagem. in GOSU

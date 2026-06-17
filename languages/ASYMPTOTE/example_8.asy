@@ -1,1 +1,1 @@
-// Example 8 in Asymptote
+// String Manipulation - Trabalhando com textos. in ASYMPTOTE

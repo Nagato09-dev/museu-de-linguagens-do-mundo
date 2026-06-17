@@ -1,1 +1,1 @@
-// Example 4 in cobol
+// Loops - Repetindo tarefas com for/while. in COBOL

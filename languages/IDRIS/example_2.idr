@@ -1,1 +1,1 @@
-// Example 2 in idris
+// Variables & Types - Como declarar e usar variáveis. in IDRIS

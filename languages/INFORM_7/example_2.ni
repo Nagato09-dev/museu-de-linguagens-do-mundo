@@ -1,1 +1,1 @@
-// Example 2 in Inform_7
+// Variables & Types - Como declarar e usar variáveis. in INFORM_7

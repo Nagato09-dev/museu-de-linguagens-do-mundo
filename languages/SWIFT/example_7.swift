@@ -1,1 +1,1 @@
-// Example 7 in swift
+// Error Handling - Lidando com exceções e erros. in SWIFT

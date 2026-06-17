@@ -1,1 +1,1 @@
-// Example 5 in Gentoo_Ebuild
+// Functions - Criando blocos de código reutilizáveis. in GENTOO_EBUILD

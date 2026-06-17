@@ -1,1 +1,1 @@
-// Example 2 in scala
+// Variables & Types - Como declarar e usar variáveis. in SCALA

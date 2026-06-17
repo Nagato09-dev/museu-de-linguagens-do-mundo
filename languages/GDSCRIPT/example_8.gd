@@ -1,1 +1,1 @@
-// Example 8 in gdscript
+// String Manipulation - Trabalhando com textos. in GDSCRIPT

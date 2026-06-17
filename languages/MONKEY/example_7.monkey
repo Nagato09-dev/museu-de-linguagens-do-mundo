@@ -1,1 +1,1 @@
-// Example 7 in monkey
+// Error Handling - Lidando com exceções e erros. in MONKEY

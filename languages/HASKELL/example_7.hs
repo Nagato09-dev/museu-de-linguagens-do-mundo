@@ -1,1 +1,1 @@
-// Example 7 in haskell
+-- Error Handling - Lidando com exceções e erros. in HASKELL

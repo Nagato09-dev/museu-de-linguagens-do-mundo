@@ -1,1 +1,1 @@
-// Example 7 in ada
+(* Error Handling - Lidando com exceções e erros. in ADA *)

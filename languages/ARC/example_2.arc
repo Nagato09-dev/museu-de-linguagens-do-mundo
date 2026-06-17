@@ -1,1 +1,1 @@
-// Example 2 in Arc
+// Variables & Types - Como declarar e usar variáveis. in ARC

@@ -1,1 +1,1 @@
-// Example 7 in DIGITAL_Command_Language
+// Error Handling - Lidando com exceções e erros. in DIGITAL_COMMAND_LANGUAGE

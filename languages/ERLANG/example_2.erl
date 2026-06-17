@@ -1,1 +1,1 @@
-// Example 2 in erlang
+// Variables & Types - Como declarar e usar variáveis. in ERLANG

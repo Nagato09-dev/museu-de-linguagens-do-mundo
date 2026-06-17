@@ -1,1 +1,1 @@
-// Example 5 in LLVM
+// Functions - Criando blocos de código reutilizáveis. in LLVM

@@ -1,1 +1,1 @@
-// Example 9 in LSL
+// Mathematics - Operações aritméticas básicas. in LSL

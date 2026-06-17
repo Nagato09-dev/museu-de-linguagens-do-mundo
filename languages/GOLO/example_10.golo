@@ -1,1 +1,1 @@
-// Example 10 in Golo
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GOLO

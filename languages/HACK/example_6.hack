@@ -1,1 +1,1 @@
-// Example 6 in hack
+// Data Structures - Listas, Arrays ou Mapas. in HACK

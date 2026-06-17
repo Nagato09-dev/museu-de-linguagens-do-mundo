@@ -1,1 +1,1 @@
-// Example 1 in prolog
+# Hello World - O básico de qualquer linguagem. in PROLOG

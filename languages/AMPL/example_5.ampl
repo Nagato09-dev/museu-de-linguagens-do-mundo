@@ -1,1 +1,1 @@
-// Example 5 in AMPL
+// Functions - Criando blocos de código reutilizáveis. in AMPL

@@ -1,1 +1,1 @@
-// Example 9 in r
+# Mathematics - Operações aritméticas básicas. in R

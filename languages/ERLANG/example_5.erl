@@ -1,1 +1,1 @@
-// Example 5 in erlang
+// Functions - Criando blocos de código reutilizáveis. in ERLANG

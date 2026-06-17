@@ -1,1 +1,1 @@
-// Example 1 in Kaitai_Struct
+// Hello World - O básico de qualquer linguagem. in KAITAI_STRUCT

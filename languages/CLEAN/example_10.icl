@@ -1,1 +1,1 @@
-// Example 10 in Clean
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in CLEAN

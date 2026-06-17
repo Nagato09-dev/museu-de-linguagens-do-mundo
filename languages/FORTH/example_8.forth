@@ -1,1 +1,1 @@
-// Example 8 in forth
+// String Manipulation - Trabalhando com textos. in FORTH

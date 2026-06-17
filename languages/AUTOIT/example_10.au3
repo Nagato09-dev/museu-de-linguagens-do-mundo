@@ -1,1 +1,1 @@
-// Example 10 in AutoIt
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in AUTOIT

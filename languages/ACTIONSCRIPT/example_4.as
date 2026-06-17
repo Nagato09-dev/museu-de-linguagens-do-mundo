@@ -1,1 +1,1 @@
-// Example 4 in actionscript
+// Loops - Repetindo tarefas com for/while. in ACTIONSCRIPT

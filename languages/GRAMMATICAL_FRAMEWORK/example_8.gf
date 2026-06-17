@@ -1,1 +1,1 @@
-// Example 8 in Grammatical_Framework
+// String Manipulation - Trabalhando com textos. in GRAMMATICAL_FRAMEWORK

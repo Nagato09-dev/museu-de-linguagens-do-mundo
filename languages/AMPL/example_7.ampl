@@ -1,1 +1,1 @@
-// Example 7 in AMPL
+// Error Handling - Lidando com exceções e erros. in AMPL

@@ -1,1 +1,1 @@
-// Example 5 in pike
+// Functions - Criando blocos de código reutilizáveis. in PIKE

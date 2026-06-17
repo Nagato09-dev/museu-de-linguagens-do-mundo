@@ -1,1 +1,1 @@
-// Example 7 in Inform_7
+// Error Handling - Lidando com exceções e erros. in INFORM_7

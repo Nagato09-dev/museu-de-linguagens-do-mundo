@@ -1,1 +1,1 @@
-// Example 10 in JFlex
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in JFLEX

@@ -1,1 +1,1 @@
-// Example 5 in hack
+// Functions - Criando blocos de código reutilizáveis. in HACK

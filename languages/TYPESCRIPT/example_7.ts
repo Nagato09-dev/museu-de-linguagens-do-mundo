@@ -1,1 +1,2 @@
-console.log('Hello from example 7');
+// Error Handling - Lidando com exceções e erros.
+console.log('Learning Error Handling - Lidando com exceções e erros. in TYPESCRIPT');

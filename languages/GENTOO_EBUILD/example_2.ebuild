@@ -1,1 +1,1 @@
-// Example 2 in Gentoo_Ebuild
+// Variables & Types - Como declarar e usar variáveis. in GENTOO_EBUILD

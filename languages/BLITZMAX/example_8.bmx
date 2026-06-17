@@ -1,1 +1,1 @@
-// Example 8 in BlitzMax
+// String Manipulation - Trabalhando com textos. in BLITZMAX

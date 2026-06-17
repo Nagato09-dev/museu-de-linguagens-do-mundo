@@ -1,1 +1,1 @@
-// Example 7 in red
+// Error Handling - Lidando com exceções e erros. in RED

@@ -1,1 +1,1 @@
-// Example 1 in EQ
+// Hello World - O básico de qualquer linguagem. in EQ

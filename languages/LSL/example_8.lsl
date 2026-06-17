@@ -1,1 +1,1 @@
-// Example 8 in LSL
+// String Manipulation - Trabalhando com textos. in LSL

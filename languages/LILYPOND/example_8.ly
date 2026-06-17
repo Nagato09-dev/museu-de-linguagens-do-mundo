@@ -1,1 +1,1 @@
-// Example 8 in LilyPond
+// String Manipulation - Trabalhando com textos. in LILYPOND

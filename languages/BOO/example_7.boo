@@ -1,1 +1,1 @@
-// Example 7 in boo
+// Error Handling - Lidando com exceções e erros. in BOO

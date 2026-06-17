@@ -1,1 +1,1 @@
-// Example 7 in emacslisp
+// Error Handling - Lidando com exceções e erros. in EMACSLISP

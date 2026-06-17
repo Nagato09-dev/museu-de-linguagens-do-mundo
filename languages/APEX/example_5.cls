@@ -1,1 +1,1 @@
-// Example 5 in Apex
+// Functions - Criando blocos de código reutilizáveis. in APEX

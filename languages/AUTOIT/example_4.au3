@@ -1,1 +1,1 @@
-// Example 4 in AutoIt
+// Loops - Repetindo tarefas com for/while. in AUTOIT

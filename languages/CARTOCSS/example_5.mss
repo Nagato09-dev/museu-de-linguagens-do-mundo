@@ -1,1 +1,1 @@
-// Example 5 in CartoCSS
+// Functions - Criando blocos de código reutilizáveis. in CARTOCSS

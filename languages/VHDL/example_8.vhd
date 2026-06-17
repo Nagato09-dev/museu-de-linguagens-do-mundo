@@ -1,1 +1,1 @@
-// Example 8 in vhdl
+// String Manipulation - Trabalhando com textos. in VHDL

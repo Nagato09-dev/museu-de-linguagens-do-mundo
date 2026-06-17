@@ -1,1 +1,1 @@
-// Example 5 in ECL
+// Functions - Criando blocos de código reutilizáveis. in ECL

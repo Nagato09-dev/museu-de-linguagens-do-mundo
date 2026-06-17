@@ -1,1 +1,1 @@
-// Example 2 in Agda
+// Variables & Types - Como declarar e usar variáveis. in AGDA

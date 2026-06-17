@@ -1,1 +1,1 @@
-// Example 5 in solidity
+// Functions - Criando blocos de código reutilizáveis. in SOLIDITY

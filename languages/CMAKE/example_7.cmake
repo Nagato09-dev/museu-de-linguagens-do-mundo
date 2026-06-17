@@ -1,1 +1,1 @@
-// Example 7 in CMake
+// Error Handling - Lidando com exceções e erros. in CMAKE

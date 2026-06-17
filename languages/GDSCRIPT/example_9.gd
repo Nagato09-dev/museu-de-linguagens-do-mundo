@@ -1,1 +1,1 @@
-// Example 9 in gdscript
+// Mathematics - Operações aritméticas básicas. in GDSCRIPT

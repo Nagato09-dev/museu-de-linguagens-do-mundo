@@ -1,1 +1,1 @@
-// Example 9 in Igor_Pro
+// Mathematics - Operações aritméticas básicas. in IGOR_PRO

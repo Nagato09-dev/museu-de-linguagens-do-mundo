@@ -1,1 +1,1 @@
-// Example 6 in moonscript
+// Data Structures - Listas, Arrays ou Mapas. in MOONSCRIPT

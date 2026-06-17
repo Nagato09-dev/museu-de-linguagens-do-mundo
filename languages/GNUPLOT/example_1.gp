@@ -1,1 +1,1 @@
-// Example 1 in Gnuplot
+// Hello World - O básico de qualquer linguagem. in GNUPLOT

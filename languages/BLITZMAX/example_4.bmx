@@ -1,1 +1,1 @@
-// Example 4 in BlitzMax
+// Loops - Repetindo tarefas com for/while. in BLITZMAX

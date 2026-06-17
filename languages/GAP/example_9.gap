@@ -1,1 +1,1 @@
-// Example 9 in GAP
+// Mathematics - Operações aritméticas básicas. in GAP

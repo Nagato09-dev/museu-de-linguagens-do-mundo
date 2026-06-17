@@ -1,1 +1,1 @@
-// Example 7 in pike
+// Error Handling - Lidando com exceções e erros. in PIKE

@@ -1,1 +1,1 @@
-// Example 6 in Gosu
+// Data Structures - Listas, Arrays ou Mapas. in GOSU

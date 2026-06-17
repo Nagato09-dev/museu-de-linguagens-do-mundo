@@ -1,1 +1,1 @@
-// Example 9 in d
+// Mathematics - Operações aritméticas básicas. in D

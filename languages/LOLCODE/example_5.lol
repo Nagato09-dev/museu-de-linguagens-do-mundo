@@ -1,1 +1,1 @@
-// Example 5 in lolcode
+// Functions - Criando blocos de código reutilizáveis. in LOLCODE

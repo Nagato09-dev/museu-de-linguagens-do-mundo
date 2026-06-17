@@ -1,1 +1,1 @@
-// Example 9 in Gosu
+// Mathematics - Operações aritméticas básicas. in GOSU

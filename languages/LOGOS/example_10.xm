@@ -1,1 +1,1 @@
-// Example 10 in Logos
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in LOGOS

@@ -1,1 +1,1 @@
-// Example 10 in lolcode
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in LOLCODE

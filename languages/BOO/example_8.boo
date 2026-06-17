@@ -1,1 +1,1 @@
-// Example 8 in boo
+// String Manipulation - Trabalhando com textos. in BOO

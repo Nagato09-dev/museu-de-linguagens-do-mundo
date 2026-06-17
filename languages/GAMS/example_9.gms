@@ -1,1 +1,1 @@
-// Example 9 in GAMS
+// Mathematics - Operações aritméticas básicas. in GAMS

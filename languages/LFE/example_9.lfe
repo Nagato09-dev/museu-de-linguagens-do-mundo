@@ -1,1 +1,1 @@
-// Example 9 in LFE
+// Mathematics - Operações aritméticas básicas. in LFE

@@ -1,1 +1,1 @@
-// Example 7 in LSL
+// Error Handling - Lidando com exceções e erros. in LSL

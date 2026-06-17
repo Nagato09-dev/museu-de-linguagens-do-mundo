@@ -1,1 +1,1 @@
-// Example 1 in powershell
+// Hello World - O básico de qualquer linguagem. in POWERSHELL

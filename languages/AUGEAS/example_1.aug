@@ -1,1 +1,1 @@
-// Example 1 in Augeas
+// Hello World - O básico de qualquer linguagem. in AUGEAS

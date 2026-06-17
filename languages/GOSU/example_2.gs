@@ -1,1 +1,1 @@
-// Example 2 in Gosu
+// Variables & Types - Como declarar e usar variáveis. in GOSU

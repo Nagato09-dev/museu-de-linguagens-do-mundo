@@ -1,1 +1,1 @@
-// Example 5 in crystal
+// Functions - Criando blocos de código reutilizáveis. in CRYSTAL

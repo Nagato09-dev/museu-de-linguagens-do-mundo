@@ -1,1 +1,1 @@
-// Example 8 in chapel
+// String Manipulation - Trabalhando com textos. in CHAPEL

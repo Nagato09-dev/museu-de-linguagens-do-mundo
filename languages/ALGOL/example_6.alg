@@ -1,1 +1,1 @@
-// Example 6 in algol
+// Data Structures - Listas, Arrays ou Mapas. in ALGOL

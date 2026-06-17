@@ -1,1 +1,1 @@
-// Example 8 in CMake
+// String Manipulation - Trabalhando com textos. in CMAKE

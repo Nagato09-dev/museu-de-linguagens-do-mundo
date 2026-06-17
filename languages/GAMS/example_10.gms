@@ -1,1 +1,1 @@
-// Example 10 in GAMS
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GAMS

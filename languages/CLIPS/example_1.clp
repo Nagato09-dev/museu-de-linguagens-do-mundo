@@ -1,1 +1,1 @@
-// Example 1 in Clips
+// Hello World - O básico de qualquer linguagem. in CLIPS

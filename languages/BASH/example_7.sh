@@ -1,1 +1,3 @@
-// Example 7 in bash
+#!/bin/bash
+# Error Handling - Lidando com exceções e erros.
+echo "Learning Error Handling - Lidando com exceções e erros. in BASH"

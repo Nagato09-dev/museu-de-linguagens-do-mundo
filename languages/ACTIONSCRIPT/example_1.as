@@ -1,1 +1,1 @@
-// Example 1 in actionscript
+// Hello World - O básico de qualquer linguagem. in ACTIONSCRIPT

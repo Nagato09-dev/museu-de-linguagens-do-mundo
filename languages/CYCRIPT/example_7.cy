@@ -1,1 +1,1 @@
-// Example 7 in Cycript
+// Error Handling - Lidando com exceções e erros. in CYCRIPT

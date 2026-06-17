@@ -1,1 +1,1 @@
-// Example 2 in assembly_x86
+// Variables & Types - Como declarar e usar variáveis. in ASSEMBLY_X86

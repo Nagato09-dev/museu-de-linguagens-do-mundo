@@ -1,1 +1,1 @@
-// Example 7 in algol
+// Error Handling - Lidando com exceções e erros. in ALGOL

@@ -1,1 +1,1 @@
-// Example 5 in HyPhy
+// Functions - Criando blocos de código reutilizáveis. in HYPHY

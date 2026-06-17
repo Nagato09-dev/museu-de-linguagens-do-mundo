@@ -1,1 +1,1 @@
-// Example 6 in GDB
+// Data Structures - Listas, Arrays ou Mapas. in GDB

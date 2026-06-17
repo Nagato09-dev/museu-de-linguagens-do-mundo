@@ -1,1 +1,1 @@
-// Example 2 in swift
+// Variables & Types - Como declarar e usar variáveis. in SWIFT

@@ -1,1 +1,1 @@
-// Example 3 in purescript
+// Control Flow - Estruturas condicionais (if/else). in PURESCRIPT

@@ -1,1 +1,1 @@
-// Example 8 in algol
+// String Manipulation - Trabalhando com textos. in ALGOL

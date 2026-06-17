@@ -1,1 +1,1 @@
-// Example 8 in Bluespec
+// String Manipulation - Trabalhando com textos. in BLUESPEC

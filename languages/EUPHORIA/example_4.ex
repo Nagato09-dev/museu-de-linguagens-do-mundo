@@ -1,1 +1,1 @@
-// Example 4 in Euphoria
+// Loops - Repetindo tarefas com for/while. in EUPHORIA

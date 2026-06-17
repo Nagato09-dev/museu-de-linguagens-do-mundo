@@ -1,1 +1,1 @@
-// Example 8 in haskell
+-- String Manipulation - Trabalhando com textos. in HASKELL

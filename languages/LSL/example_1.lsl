@@ -1,1 +1,1 @@
-// Example 1 in LSL
+// Hello World - O básico de qualquer linguagem. in LSL

@@ -1,1 +1,1 @@
-// Example 6 in Lean
+// Data Structures - Listas, Arrays ou Mapas. in LEAN

@@ -1,1 +1,1 @@
-// Example 1 in julia
+# Hello World - O básico de qualquer linguagem. in JULIA

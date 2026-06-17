@@ -1,1 +1,1 @@
-// Example 6 in Gentoo_Ebuild
+// Data Structures - Listas, Arrays ou Mapas. in GENTOO_EBUILD

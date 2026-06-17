@@ -1,1 +1,1 @@
-// Example 1 in AutoIt
+// Hello World - O básico de qualquer linguagem. in AUTOIT

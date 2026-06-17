@@ -1,1 +1,1 @@
-// Example 5 in smalltalk
+// Functions - Criando blocos de código reutilizáveis. in SMALLTALK

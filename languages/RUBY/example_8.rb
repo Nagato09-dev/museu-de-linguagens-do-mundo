@@ -1,1 +1,1 @@
-// Example 8 in ruby
+# String Manipulation - Trabalhando com textos. in RUBY

@@ -1,1 +1,1 @@
-// Example 5 in janet
+// Functions - Criando blocos de código reutilizáveis. in JANET

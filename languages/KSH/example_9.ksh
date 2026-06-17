@@ -1,1 +1,3 @@
-// Example 9 in ksh
+#!/bin/bash
+# Mathematics - Operações aritméticas básicas.
+echo "Learning Mathematics - Operações aritméticas básicas. in KSH"

@@ -1,1 +1,1 @@
-// Example 5 in FLUX
+// Functions - Criando blocos de código reutilizáveis. in FLUX

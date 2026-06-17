@@ -1,1 +1,1 @@
-// Example 5 in lisp
+// Functions - Criando blocos de código reutilizáveis. in LISP

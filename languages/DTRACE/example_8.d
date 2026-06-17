@@ -1,1 +1,1 @@
-// Example 8 in DTrace
+// String Manipulation - Trabalhando com textos. in DTRACE

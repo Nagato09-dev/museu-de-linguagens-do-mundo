@@ -1,1 +1,1 @@
-// Example 7 in moonscript
+// Error Handling - Lidando com exceções e erros. in MOONSCRIPT

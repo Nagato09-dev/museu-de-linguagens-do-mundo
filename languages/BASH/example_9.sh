@@ -1,1 +1,3 @@
-// Example 9 in bash
+#!/bin/bash
+# Mathematics - Operações aritméticas básicas.
+echo "Learning Mathematics - Operações aritméticas básicas. in BASH"

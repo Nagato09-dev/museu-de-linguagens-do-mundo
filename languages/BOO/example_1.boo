@@ -1,1 +1,1 @@
-// Example 1 in boo
+// Hello World - O básico de qualquer linguagem. in BOO

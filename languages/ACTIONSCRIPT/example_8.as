@@ -1,1 +1,1 @@
-// Example 8 in actionscript
+// String Manipulation - Trabalhando com textos. in ACTIONSCRIPT

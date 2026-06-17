@@ -1,1 +1,3 @@
-// Example 9 in fish
+#!/bin/bash
+# Mathematics - Operações aritméticas básicas.
+echo "Learning Mathematics - Operações aritméticas básicas. in FISH"

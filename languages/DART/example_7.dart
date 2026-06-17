@@ -1,1 +1,1 @@
-// Example 7 in dart
+// Error Handling - Lidando com exceções e erros. in DART

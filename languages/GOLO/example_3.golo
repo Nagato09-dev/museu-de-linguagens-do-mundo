@@ -1,1 +1,1 @@
-// Example 3 in Golo
+// Control Flow - Estruturas condicionais (if/else). in GOLO

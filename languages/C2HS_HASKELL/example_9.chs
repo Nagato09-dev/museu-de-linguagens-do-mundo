@@ -1,1 +1,1 @@
-// Example 9 in C2hs_Haskell
+// Mathematics - Operações aritméticas básicas. in C2HS_HASKELL

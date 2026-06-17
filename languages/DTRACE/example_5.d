@@ -1,1 +1,1 @@
-// Example 5 in DTrace
+// Functions - Criando blocos de código reutilizáveis. in DTRACE

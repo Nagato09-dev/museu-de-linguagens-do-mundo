@@ -1,1 +1,1 @@
-// Example 4 in CartoCSS
+// Loops - Repetindo tarefas com for/while. in CARTOCSS

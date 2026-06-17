@@ -1,1 +1,1 @@
-// Example 6 in Gnuplot
+// Data Structures - Listas, Arrays ou Mapas. in GNUPLOT

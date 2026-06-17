@@ -1,1 +1,1 @@
-// Example 2 in purescript
+// Variables & Types - Como declarar e usar variáveis. in PURESCRIPT

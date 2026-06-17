@@ -1,1 +1,1 @@
-// Example 1 in factor
+// Hello World - O básico de qualquer linguagem. in FACTOR

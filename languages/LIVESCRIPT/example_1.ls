@@ -1,1 +1,1 @@
-// Example 1 in LiveScript
+console.log('Hello, World!');

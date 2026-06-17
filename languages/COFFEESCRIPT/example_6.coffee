@@ -1,1 +1,2 @@
-// Example 6 in coffeescript
+// Data Structures - Listas, Arrays ou Mapas.
+console.log('Learning Data Structures - Listas, Arrays ou Mapas. in COFFEESCRIPT');

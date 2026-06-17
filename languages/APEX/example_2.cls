@@ -1,1 +1,1 @@
-// Example 2 in Apex
+// Variables & Types - Como declarar e usar variáveis. in APEX

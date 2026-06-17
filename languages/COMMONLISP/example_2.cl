@@ -1,1 +1,1 @@
-// Example 2 in commonlisp
+// Variables & Types - Como declarar e usar variáveis. in COMMONLISP

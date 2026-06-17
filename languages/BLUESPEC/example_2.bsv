@@ -1,1 +1,1 @@
-// Example 2 in Bluespec
+// Variables & Types - Como declarar e usar variáveis. in BLUESPEC

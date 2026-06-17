@@ -1,1 +1,1 @@
-// Example 4 in ECLiPSe
+// Loops - Repetindo tarefas com for/while. in ECLIPSE

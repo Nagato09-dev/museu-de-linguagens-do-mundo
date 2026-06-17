@@ -1,1 +1,1 @@
-// Example 5 in ABAP
+// Functions - Criando blocos de código reutilizáveis. in ABAP

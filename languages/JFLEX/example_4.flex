@@ -1,1 +1,1 @@
-// Example 4 in JFlex
+// Loops - Repetindo tarefas com for/while. in JFLEX

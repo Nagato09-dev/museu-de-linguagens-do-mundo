@@ -1,1 +1,1 @@
-// Example 9 in hlsl
+// Mathematics - Operações aritméticas básicas. in HLSL

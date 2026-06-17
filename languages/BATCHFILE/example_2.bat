@@ -1,1 +1,1 @@
-// Example 2 in Batchfile
+// Variables & Types - Como declarar e usar variáveis. in BATCHFILE

@@ -1,1 +1,1 @@
-// Example 7 in ruby
+# Error Handling - Lidando com exceções e erros. in RUBY

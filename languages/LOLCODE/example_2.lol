@@ -1,1 +1,1 @@
-// Example 2 in lolcode
+// Variables & Types - Como declarar e usar variáveis. in LOLCODE

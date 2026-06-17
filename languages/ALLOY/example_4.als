@@ -1,1 +1,1 @@
-// Example 4 in Alloy
+// Loops - Repetindo tarefas com for/while. in ALLOY

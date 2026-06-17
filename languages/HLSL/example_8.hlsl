@@ -1,1 +1,1 @@
-// Example 8 in hlsl
+// String Manipulation - Trabalhando com textos. in HLSL

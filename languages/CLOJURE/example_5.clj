@@ -1,1 +1,1 @@
-// Example 5 in clojure
+// Functions - Criando blocos de código reutilizáveis. in CLOJURE

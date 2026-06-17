@@ -1,1 +1,3 @@
-print('Hello from example 2')
+x = 10
+y = 'Manus'
+print(f'{y} has {x} powers')

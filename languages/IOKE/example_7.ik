@@ -1,1 +1,1 @@
-// Example 7 in Ioke
+// Error Handling - Lidando com exceções e erros. in IOKE

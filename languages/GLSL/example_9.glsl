@@ -1,1 +1,1 @@
-// Example 9 in glsl
+// Mathematics - Operações aritméticas básicas. in GLSL

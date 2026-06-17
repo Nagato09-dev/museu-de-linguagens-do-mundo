@@ -1,1 +1,1 @@
-// Example 9 in Augeas
+// Mathematics - Operações aritméticas básicas. in AUGEAS

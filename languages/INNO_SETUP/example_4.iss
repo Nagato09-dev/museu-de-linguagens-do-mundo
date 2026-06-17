@@ -1,1 +1,1 @@
-// Example 4 in Inno_Setup
+// Loops - Repetindo tarefas com for/while. in INNO_SETUP

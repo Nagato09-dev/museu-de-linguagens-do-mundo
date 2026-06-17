@@ -1,1 +1,1 @@
-// Example 5 in GDB
+// Functions - Criando blocos de código reutilizáveis. in GDB

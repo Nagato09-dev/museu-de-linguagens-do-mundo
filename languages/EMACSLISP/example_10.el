@@ -1,1 +1,1 @@
-// Example 10 in emacslisp
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in EMACSLISP

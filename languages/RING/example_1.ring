@@ -1,1 +1,1 @@
-// Example 1 in ring
+// Hello World - O básico de qualquer linguagem. in RING

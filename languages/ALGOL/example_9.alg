@@ -1,1 +1,1 @@
-// Example 9 in algol
+// Mathematics - Operações aritméticas básicas. in ALGOL

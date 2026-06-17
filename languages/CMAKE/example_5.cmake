@@ -1,1 +1,1 @@
-// Example 5 in CMake
+// Functions - Criando blocos de código reutilizáveis. in CMAKE

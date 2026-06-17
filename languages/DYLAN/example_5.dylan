@@ -1,1 +1,1 @@
-// Example 5 in dylan
+// Functions - Criando blocos de código reutilizáveis. in DYLAN

@@ -1,1 +1,1 @@
-// Example 7 in Mako
+// Error Handling - Lidando com exceções e erros. in MAKO

@@ -1,1 +1,1 @@
-// Example 8 in Logos
+// String Manipulation - Trabalhando com textos. in LOGOS

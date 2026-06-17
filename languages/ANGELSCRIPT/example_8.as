@@ -1,1 +1,1 @@
-// Example 8 in AngelScript
+// String Manipulation - Trabalhando com textos. in ANGELSCRIPT

@@ -1,1 +1,1 @@
-// Example 9 in Brightscript
+// Mathematics - Operações aritméticas básicas. in BRIGHTSCRIPT

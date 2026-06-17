@@ -1,1 +1,1 @@
-// Example 8 in prolog
+# String Manipulation - Trabalhando com textos. in PROLOG

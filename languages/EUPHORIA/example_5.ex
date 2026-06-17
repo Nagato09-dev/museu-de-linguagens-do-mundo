@@ -1,1 +1,1 @@
-// Example 5 in Euphoria
+// Functions - Criando blocos de código reutilizáveis. in EUPHORIA

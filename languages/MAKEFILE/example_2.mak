@@ -1,1 +1,1 @@
-// Example 2 in Makefile
+// Variables & Types - Como declarar e usar variáveis. in MAKEFILE

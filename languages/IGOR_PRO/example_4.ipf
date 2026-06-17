@@ -1,1 +1,1 @@
-// Example 4 in Igor_Pro
+// Loops - Repetindo tarefas com for/while. in IGOR_PRO

@@ -1,1 +1,1 @@
-// Example 1 in forth
+// Hello World - O básico de qualquer linguagem. in FORTH

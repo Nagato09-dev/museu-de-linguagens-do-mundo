@@ -1,1 +1,1 @@
-// Example 8 in Cap_n_Proto
+// String Manipulation - Trabalhando com textos. in CAP_N_PROTO

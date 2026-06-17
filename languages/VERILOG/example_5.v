@@ -1,1 +1,1 @@
-// Example 5 in verilog
+// Functions - Criando blocos de código reutilizáveis. in VERILOG

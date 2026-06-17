@@ -1,1 +1,1 @@
-// Example 3 in Clean
+// Control Flow - Estruturas condicionais (if/else). in CLEAN

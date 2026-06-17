@@ -1,1 +1,1 @@
-// Example 7 in Kaitai_Struct
+// Error Handling - Lidando com exceções e erros. in KAITAI_STRUCT

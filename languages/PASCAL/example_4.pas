@@ -1,1 +1,1 @@
-// Example 4 in pascal
+(* Loops - Repetindo tarefas com for/while. in PASCAL *)

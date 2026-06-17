@@ -1,1 +1,1 @@
-// Example 5 in LookML
+// Functions - Criando blocos de código reutilizáveis. in LOOKML

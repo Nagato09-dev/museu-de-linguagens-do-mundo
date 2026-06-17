@@ -1,1 +1,1 @@
-// Example 10 in Gentoo_Ebuild
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GENTOO_EBUILD

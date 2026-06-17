@@ -1,1 +1,1 @@
-// Example 5 in Makefile
+// Functions - Criando blocos de código reutilizáveis. in MAKEFILE

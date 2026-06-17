@@ -1,1 +1,1 @@
-// Example 6 in scheme
+// Data Structures - Listas, Arrays ou Mapas. in SCHEME

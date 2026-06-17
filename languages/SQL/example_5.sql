@@ -1,1 +1,1 @@
-// Example 5 in sql
+-- Functions - Criando blocos de código reutilizáveis. in SQL

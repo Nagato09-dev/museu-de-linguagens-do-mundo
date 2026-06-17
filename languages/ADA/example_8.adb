@@ -1,1 +1,1 @@
-// Example 8 in ada
+(* String Manipulation - Trabalhando com textos. in ADA *)

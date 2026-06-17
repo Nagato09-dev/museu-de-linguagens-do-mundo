@@ -1,1 +1,1 @@
-// Example 8 in idris
+// String Manipulation - Trabalhando com textos. in IDRIS

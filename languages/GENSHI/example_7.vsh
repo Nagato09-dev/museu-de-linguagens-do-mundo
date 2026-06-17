@@ -1,1 +1,1 @@
-// Example 7 in Genshi
+// Error Handling - Lidando com exceções e erros. in GENSHI

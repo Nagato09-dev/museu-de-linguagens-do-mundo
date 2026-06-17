@@ -1,1 +1,1 @@
-// Example 10 in C2hs_Haskell
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in C2HS_HASKELL

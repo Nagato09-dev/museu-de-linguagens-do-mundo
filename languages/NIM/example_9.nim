@@ -1,1 +1,1 @@
-// Example 9 in nim
+// Mathematics - Operações aritméticas básicas. in NIM

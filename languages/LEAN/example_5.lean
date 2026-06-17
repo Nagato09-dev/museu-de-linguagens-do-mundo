@@ -1,1 +1,1 @@
-// Example 5 in Lean
+// Functions - Criando blocos de código reutilizáveis. in LEAN

@@ -1,1 +1,1 @@
-// Example 6 in Grammatical_Framework
+// Data Structures - Listas, Arrays ou Mapas. in GRAMMATICAL_FRAMEWORK

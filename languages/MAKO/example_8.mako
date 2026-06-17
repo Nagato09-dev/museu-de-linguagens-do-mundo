@@ -1,1 +1,1 @@
-// Example 8 in Mako
+// String Manipulation - Trabalhando com textos. in MAKO

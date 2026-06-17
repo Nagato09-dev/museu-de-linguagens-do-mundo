@@ -1,1 +1,1 @@
-// Example 7 in fantom
+// Error Handling - Lidando com exceções e erros. in FANTOM

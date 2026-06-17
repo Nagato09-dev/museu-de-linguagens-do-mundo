@@ -1,1 +1,1 @@
-// Example 9 in Logos
+// Mathematics - Operações aritméticas básicas. in LOGOS

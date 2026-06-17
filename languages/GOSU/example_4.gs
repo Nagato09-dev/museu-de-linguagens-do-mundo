@@ -1,1 +1,1 @@
-// Example 4 in Gosu
+// Loops - Repetindo tarefas com for/while. in GOSU

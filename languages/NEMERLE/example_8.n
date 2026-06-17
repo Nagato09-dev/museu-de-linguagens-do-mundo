@@ -1,1 +1,1 @@
-// Example 8 in nemerle
+// String Manipulation - Trabalhando com textos. in NEMERLE

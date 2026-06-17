@@ -1,1 +1,1 @@
-// Example 3 in Mask
+// Control Flow - Estruturas condicionais (if/else). in MASK

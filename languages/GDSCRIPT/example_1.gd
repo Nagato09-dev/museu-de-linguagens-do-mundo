@@ -1,1 +1,1 @@
-// Example 1 in gdscript
+// Hello World - O básico de qualquer linguagem. in GDSCRIPT

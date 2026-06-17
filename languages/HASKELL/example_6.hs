@@ -1,1 +1,1 @@
-// Example 6 in haskell
+-- Data Structures - Listas, Arrays ou Mapas. in HASKELL

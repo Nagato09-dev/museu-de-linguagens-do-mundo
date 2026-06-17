@@ -1,1 +1,1 @@
-// Example 1 in Arc
+// Hello World - O básico de qualquer linguagem. in ARC

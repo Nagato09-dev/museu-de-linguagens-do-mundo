@@ -1,1 +1,1 @@
-// Example 8 in LLVM
+// String Manipulation - Trabalhando com textos. in LLVM

@@ -1,1 +1,1 @@
-// Example 4 in vhdl
+// Loops - Repetindo tarefas com for/while. in VHDL

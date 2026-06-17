@@ -1,1 +1,1 @@
-// Example 2 in Igor_Pro
+// Variables & Types - Como declarar e usar variáveis. in IGOR_PRO

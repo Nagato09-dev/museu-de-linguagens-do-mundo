@@ -1,1 +1,1 @@
-// Example 3 in lolcode
+// Control Flow - Estruturas condicionais (if/else). in LOLCODE

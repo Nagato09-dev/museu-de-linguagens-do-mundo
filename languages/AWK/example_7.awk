@@ -1,1 +1,1 @@
-// Example 7 in awk
+// Error Handling - Lidando com exceções e erros. in AWK

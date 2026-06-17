@@ -1,1 +1,1 @@
-// Example 8 in moonscript
+// String Manipulation - Trabalhando com textos. in MOONSCRIPT

@@ -1,1 +1,1 @@
-// Example 7 in prolog
+# Error Handling - Lidando com exceções e erros. in PROLOG

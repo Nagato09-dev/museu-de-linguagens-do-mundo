@@ -1,1 +1,1 @@
-// Example 10 in Cycript
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in CYCRIPT

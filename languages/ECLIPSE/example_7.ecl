@@ -1,1 +1,1 @@
-// Example 7 in ECLiPSe
+// Error Handling - Lidando com exceções e erros. in ECLIPSE

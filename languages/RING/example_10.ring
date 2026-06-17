@@ -1,1 +1,1 @@
-// Example 10 in ring
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in RING

@@ -1,1 +1,1 @@
-// Example 2 in Gnuplot
+// Variables & Types - Como declarar e usar variáveis. in GNUPLOT

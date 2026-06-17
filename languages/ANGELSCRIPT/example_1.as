@@ -1,1 +1,1 @@
-// Example 1 in AngelScript
+// Hello World - O básico de qualquer linguagem. in ANGELSCRIPT

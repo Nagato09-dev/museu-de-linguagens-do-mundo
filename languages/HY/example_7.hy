@@ -1,1 +1,1 @@
-// Example 7 in Hy
+// Error Handling - Lidando com exceções e erros. in HY

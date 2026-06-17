@@ -1,1 +1,1 @@
-// Example 7 in Isabelle
+// Error Handling - Lidando com exceções e erros. in ISABELLE

@@ -1,1 +1,1 @@
-// Example 8 in Grace
+// String Manipulation - Trabalhando com textos. in GRACE

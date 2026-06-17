@@ -1,1 +1,1 @@
-// Example 8 in Gosu
+// String Manipulation - Trabalhando com textos. in GOSU

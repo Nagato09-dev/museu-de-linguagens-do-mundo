@@ -1,1 +1,1 @@
-// Example 6 in GAMS
+// Data Structures - Listas, Arrays ou Mapas. in GAMS

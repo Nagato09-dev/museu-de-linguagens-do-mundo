@@ -1,1 +1,1 @@
-// Example 9 in php
+// Mathematics - Operações aritméticas básicas. in PHP

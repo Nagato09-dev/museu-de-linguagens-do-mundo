@@ -1,1 +1,1 @@
-// Example 6 in JFlex
+// Data Structures - Listas, Arrays ou Mapas. in JFLEX

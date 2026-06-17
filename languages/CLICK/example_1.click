@@ -1,1 +1,1 @@
-// Example 1 in Click
+// Hello World - O básico de qualquer linguagem. in CLICK

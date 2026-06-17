@@ -1,1 +1,1 @@
-// Example 7 in crystal
+// Error Handling - Lidando com exceções e erros. in CRYSTAL

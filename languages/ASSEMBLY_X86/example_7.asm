@@ -1,1 +1,1 @@
-// Example 7 in assembly_x86
+// Error Handling - Lidando com exceções e erros. in ASSEMBLY_X86

@@ -1,1 +1,1 @@
-// Example 2 in Max
+// Variables & Types - Como declarar e usar variáveis. in MAX

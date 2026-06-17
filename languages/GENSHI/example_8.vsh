@@ -1,1 +1,1 @@
-// Example 8 in Genshi
+// String Manipulation - Trabalhando com textos. in GENSHI

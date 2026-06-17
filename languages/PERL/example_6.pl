@@ -1,1 +1,1 @@
-// Example 6 in perl
+# Data Structures - Listas, Arrays ou Mapas. in PERL

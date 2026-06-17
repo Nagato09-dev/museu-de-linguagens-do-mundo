@@ -1,1 +1,1 @@
-// Example 6 in prolog
+# Data Structures - Listas, Arrays ou Mapas. in PROLOG

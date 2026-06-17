@@ -1,1 +1,1 @@
-// Example 4 in factor
+// Loops - Repetindo tarefas com for/while. in FACTOR

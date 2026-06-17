@@ -1,1 +1,1 @@
-// Example 7 in Ballerina
+// Error Handling - Lidando com exceções e erros. in BALLERINA

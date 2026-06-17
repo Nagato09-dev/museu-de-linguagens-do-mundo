@@ -1,1 +1,1 @@
-// Example 5 in factor
+// Functions - Criando blocos de código reutilizáveis. in FACTOR

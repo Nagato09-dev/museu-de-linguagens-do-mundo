@@ -1,1 +1,1 @@
-// Example 8 in pascal
+(* String Manipulation - Trabalhando com textos. in PASCAL *)

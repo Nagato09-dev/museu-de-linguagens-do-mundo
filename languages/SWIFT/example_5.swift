@@ -1,1 +1,1 @@
-// Example 5 in swift
+// Functions - Criando blocos de código reutilizáveis. in SWIFT

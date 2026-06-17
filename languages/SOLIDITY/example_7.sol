@@ -1,1 +1,1 @@
-// Example 7 in solidity
+// Error Handling - Lidando com exceções e erros. in SOLIDITY

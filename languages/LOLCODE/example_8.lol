@@ -1,1 +1,1 @@
-// Example 8 in lolcode
+// String Manipulation - Trabalhando com textos. in LOLCODE

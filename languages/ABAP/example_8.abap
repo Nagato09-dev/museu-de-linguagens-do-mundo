@@ -1,1 +1,1 @@
-// Example 8 in ABAP
+// String Manipulation - Trabalhando com textos. in ABAP

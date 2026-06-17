@@ -1,1 +1,1 @@
-// Example 1 in Clean
+// Hello World - O básico de qualquer linguagem. in CLEAN

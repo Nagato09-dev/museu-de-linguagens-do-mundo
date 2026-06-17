@@ -1,1 +1,1 @@
-// Example 5 in Logtalk
+// Functions - Criando blocos de código reutilizáveis. in LOGTALK

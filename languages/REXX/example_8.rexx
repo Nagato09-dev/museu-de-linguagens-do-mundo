@@ -1,1 +1,1 @@
-// Example 8 in rexx
+// String Manipulation - Trabalhando com textos. in REXX

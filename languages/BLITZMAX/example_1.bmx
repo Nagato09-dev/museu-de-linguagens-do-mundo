@@ -1,1 +1,1 @@
-// Example 1 in BlitzMax
+// Hello World - O básico de qualquer linguagem. in BLITZMAX

@@ -1,1 +1,1 @@
-// Example 8 in factor
+// String Manipulation - Trabalhando com textos. in FACTOR

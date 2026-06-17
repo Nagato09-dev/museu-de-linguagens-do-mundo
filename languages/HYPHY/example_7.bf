@@ -1,1 +1,1 @@
-// Example 7 in HyPhy
+// Error Handling - Lidando com exceções e erros. in HYPHY

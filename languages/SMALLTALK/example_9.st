@@ -1,1 +1,1 @@
-// Example 9 in smalltalk
+// Mathematics - Operações aritméticas básicas. in SMALLTALK

@@ -1,1 +1,1 @@
-// Example 9 in Inform_7
+// Mathematics - Operações aritméticas básicas. in INFORM_7

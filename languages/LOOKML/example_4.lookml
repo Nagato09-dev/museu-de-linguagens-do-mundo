@@ -1,1 +1,1 @@
-// Example 4 in LookML
+// Loops - Repetindo tarefas com for/while. in LOOKML

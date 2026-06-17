@@ -1,1 +1,1 @@
-// Example 7 in erlang
+// Error Handling - Lidando com exceções e erros. in ERLANG

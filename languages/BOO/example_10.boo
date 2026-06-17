@@ -1,1 +1,1 @@
-// Example 10 in boo
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in BOO

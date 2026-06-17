@@ -1,1 +1,1 @@
-// Example 4 in Golo
+// Loops - Repetindo tarefas com for/while. in GOLO

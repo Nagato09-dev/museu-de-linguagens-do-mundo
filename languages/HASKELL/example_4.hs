@@ -1,1 +1,1 @@
-// Example 4 in haskell
+-- Loops - Repetindo tarefas com for/while. in HASKELL

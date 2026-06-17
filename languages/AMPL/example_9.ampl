@@ -1,1 +1,1 @@
-// Example 9 in AMPL
+// Mathematics - Operações aritméticas básicas. in AMPL

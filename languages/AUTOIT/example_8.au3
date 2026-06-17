@@ -1,1 +1,1 @@
-// Example 8 in AutoIt
+// String Manipulation - Trabalhando com textos. in AUTOIT

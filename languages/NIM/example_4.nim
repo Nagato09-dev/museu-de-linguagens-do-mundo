@@ -1,1 +1,1 @@
-// Example 4 in nim
+// Loops - Repetindo tarefas com for/while. in NIM

@@ -1,1 +1,1 @@
-// Example 10 in ECLiPSe
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in ECLIPSE

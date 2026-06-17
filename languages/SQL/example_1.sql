@@ -1,1 +1,1 @@
-// Example 1 in sql
+-- Hello World - O básico de qualquer linguagem. in SQL

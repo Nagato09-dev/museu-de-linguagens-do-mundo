@@ -1,1 +1,1 @@
-// Example 8 in GAP
+// String Manipulation - Trabalhando com textos. in GAP

@@ -1,1 +1,1 @@
-// Example 8 in Gnuplot
+// String Manipulation - Trabalhando com textos. in GNUPLOT

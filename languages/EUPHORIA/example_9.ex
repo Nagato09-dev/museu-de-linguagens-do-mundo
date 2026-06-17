@@ -1,1 +1,1 @@
-// Example 9 in Euphoria
+// Mathematics - Operações aritméticas básicas. in EUPHORIA

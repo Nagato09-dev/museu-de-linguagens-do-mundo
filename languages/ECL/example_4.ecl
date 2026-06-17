@@ -1,1 +1,1 @@
-// Example 4 in ECL
+// Loops - Repetindo tarefas com for/while. in ECL

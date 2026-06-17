@@ -1,1 +1,1 @@
-// Example 9 in AutoIt
+// Mathematics - Operações aritméticas básicas. in AUTOIT

@@ -1,1 +1,1 @@
-// Example 4 in algol
+// Loops - Repetindo tarefas com for/while. in ALGOL

@@ -1,1 +1,1 @@
-// Example 8 in Harbour
+// String Manipulation - Trabalhando com textos. in HARBOUR

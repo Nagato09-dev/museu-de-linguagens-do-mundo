@@ -1,1 +1,1 @@
-// Example 8 in nix
+// String Manipulation - Trabalhando com textos. in NIX

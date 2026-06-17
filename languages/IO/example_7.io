@@ -1,1 +1,1 @@
-// Example 7 in io
+// Error Handling - Lidando com exceções e erros. in IO

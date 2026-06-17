@@ -1,1 +1,1 @@
-// Example 5 in actionscript
+// Functions - Criando blocos de código reutilizáveis. in ACTIONSCRIPT

@@ -1,1 +1,1 @@
-// Example 8 in haxe
+// String Manipulation - Trabalhando com textos. in HAXE

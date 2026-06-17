@@ -1,1 +1,3 @@
-// Example 2 in LiveScript
+const name = 'Manus';
+let age = 1;
+console.log(`${name} is ${age} year old`);

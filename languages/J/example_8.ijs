@@ -1,1 +1,1 @@
-// Example 8 in j
+// String Manipulation - Trabalhando com textos. in J

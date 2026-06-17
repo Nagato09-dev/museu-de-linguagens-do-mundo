@@ -1,1 +1,1 @@
-// Example 7 in DM
+// Error Handling - Lidando com exceções e erros. in DM

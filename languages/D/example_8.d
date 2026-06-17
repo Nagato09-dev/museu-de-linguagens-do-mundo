@@ -1,1 +1,1 @@
-// Example 8 in d
+// String Manipulation - Trabalhando com textos. in D

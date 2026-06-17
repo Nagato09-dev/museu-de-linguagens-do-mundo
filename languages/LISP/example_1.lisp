@@ -1,1 +1,1 @@
-// Example 1 in lisp
+// Hello World - O básico de qualquer linguagem. in LISP

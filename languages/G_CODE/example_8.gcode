@@ -1,1 +1,1 @@
-// Example 8 in G-Code
+// String Manipulation - Trabalhando com textos. in G_CODE

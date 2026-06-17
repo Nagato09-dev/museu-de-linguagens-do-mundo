@@ -1,1 +1,1 @@
-// Example 10 in algol
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in ALGOL

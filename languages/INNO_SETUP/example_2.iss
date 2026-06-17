@@ -1,1 +1,1 @@
-// Example 2 in Inno_Setup
+// Variables & Types - Como declarar e usar variáveis. in INNO_SETUP

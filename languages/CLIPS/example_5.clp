@@ -1,1 +1,1 @@
-// Example 5 in Clips
+// Functions - Criando blocos de código reutilizáveis. in CLIPS

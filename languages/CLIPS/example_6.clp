@@ -1,1 +1,1 @@
-// Example 6 in Clips
+// Data Structures - Listas, Arrays ou Mapas. in CLIPS

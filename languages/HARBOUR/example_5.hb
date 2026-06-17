@@ -1,1 +1,1 @@
-// Example 5 in Harbour
+// Functions - Criando blocos de código reutilizáveis. in HARBOUR

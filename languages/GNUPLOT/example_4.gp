@@ -1,1 +1,1 @@
-// Example 4 in Gnuplot
+// Loops - Repetindo tarefas com for/while. in GNUPLOT

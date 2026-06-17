@@ -1,1 +1,1 @@
-// Example 5 in G-Code
+// Functions - Criando blocos de código reutilizáveis. in G_CODE

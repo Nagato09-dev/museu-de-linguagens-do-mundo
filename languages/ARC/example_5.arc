@@ -1,1 +1,1 @@
-// Example 5 in Arc
+// Functions - Criando blocos de código reutilizáveis. in ARC

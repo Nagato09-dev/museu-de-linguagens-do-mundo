@@ -1,1 +1,1 @@
-// Example 5 in Clean
+// Functions - Criando blocos de código reutilizáveis. in CLEAN

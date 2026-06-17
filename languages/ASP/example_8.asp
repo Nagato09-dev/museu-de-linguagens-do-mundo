@@ -1,1 +1,1 @@
-// Example 8 in Asp
+// String Manipulation - Trabalhando com textos. in ASP

@@ -1,1 +1,1 @@
-// Example 1 in Inform_7
+// Hello World - O básico de qualquer linguagem. in INFORM_7

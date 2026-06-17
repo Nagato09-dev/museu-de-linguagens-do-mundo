@@ -1,1 +1,1 @@
-// Example 8 in Max
+// String Manipulation - Trabalhando com textos. in MAX

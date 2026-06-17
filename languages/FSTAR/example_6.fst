@@ -1,1 +1,1 @@
-// Example 6 in Fstar
+// Data Structures - Listas, Arrays ou Mapas. in FSTAR

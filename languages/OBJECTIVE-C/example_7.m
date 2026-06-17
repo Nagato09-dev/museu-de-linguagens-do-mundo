@@ -1,1 +1,1 @@
-// Example 7 in objective-c
+// Error Handling - Lidando com exceções e erros. in OBJECTIVE-C

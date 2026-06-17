@@ -1,1 +1,1 @@
-// Example 6 in factor
+// Data Structures - Listas, Arrays ou Mapas. in FACTOR

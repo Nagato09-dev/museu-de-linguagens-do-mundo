@@ -1,1 +1,1 @@
-// Example 5 in Inform_7
+// Functions - Criando blocos de código reutilizáveis. in INFORM_7

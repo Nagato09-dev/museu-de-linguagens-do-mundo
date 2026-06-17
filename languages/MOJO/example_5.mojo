@@ -1,1 +1,1 @@
-// Example 5 in mojo
+// Functions - Criando blocos de código reutilizáveis. in MOJO

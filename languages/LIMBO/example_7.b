@@ -1,1 +1,1 @@
-// Example 7 in Limbo
+// Error Handling - Lidando com exceções e erros. in LIMBO

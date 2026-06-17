@@ -1,1 +1,1 @@
-// Example 2 in hack
+// Variables & Types - Como declarar e usar variáveis. in HACK

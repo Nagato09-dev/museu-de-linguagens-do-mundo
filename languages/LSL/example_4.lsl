@@ -1,1 +1,1 @@
-// Example 4 in LSL
+// Loops - Repetindo tarefas com for/while. in LSL

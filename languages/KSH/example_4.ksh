@@ -1,1 +1,3 @@
-// Example 4 in ksh
+#!/bin/bash
+# Loops - Repetindo tarefas com for/while.
+echo "Learning Loops - Repetindo tarefas com for/while. in KSH"

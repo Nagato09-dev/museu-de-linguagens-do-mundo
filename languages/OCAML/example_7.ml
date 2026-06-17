@@ -1,1 +1,1 @@
-// Example 7 in ocaml
+// Error Handling - Lidando com exceções e erros. in OCAML

@@ -1,1 +1,1 @@
-// Example 2 in AngelScript
+// Variables & Types - Como declarar e usar variáveis. in ANGELSCRIPT

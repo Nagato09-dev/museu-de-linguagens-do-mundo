@@ -1,1 +1,1 @@
-// Example 7 in powershell
+// Error Handling - Lidando com exceções e erros. in POWERSHELL

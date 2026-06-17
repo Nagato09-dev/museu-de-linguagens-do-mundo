@@ -1,1 +1,1 @@
-// Example 1 in odin
+// Hello World - O básico de qualquer linguagem. in ODIN

@@ -1,1 +1,1 @@
-// Example 4 in AngelScript
+// Loops - Repetindo tarefas com for/while. in ANGELSCRIPT

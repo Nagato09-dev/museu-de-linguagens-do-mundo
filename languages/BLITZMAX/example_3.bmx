@@ -1,1 +1,1 @@
-// Example 3 in BlitzMax
+// Control Flow - Estruturas condicionais (if/else). in BLITZMAX

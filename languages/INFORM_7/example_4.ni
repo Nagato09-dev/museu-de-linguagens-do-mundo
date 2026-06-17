@@ -1,1 +1,1 @@
-// Example 4 in Inform_7
+// Loops - Repetindo tarefas com for/while. in INFORM_7

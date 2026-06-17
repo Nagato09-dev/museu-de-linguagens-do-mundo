@@ -1,1 +1,1 @@
-// Example 6 in chapel
+// Data Structures - Listas, Arrays ou Mapas. in CHAPEL

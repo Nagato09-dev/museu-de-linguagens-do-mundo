@@ -1,1 +1,1 @@
-// Example 1 in cobol
+// Hello World - O básico de qualquer linguagem. in COBOL

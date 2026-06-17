@@ -1,1 +1,1 @@
-// Example 5 in EQ
+// Functions - Criando blocos de código reutilizáveis. in EQ

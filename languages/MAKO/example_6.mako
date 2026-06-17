@@ -1,1 +1,1 @@
-// Example 6 in Mako
+// Data Structures - Listas, Arrays ou Mapas. in MAKO

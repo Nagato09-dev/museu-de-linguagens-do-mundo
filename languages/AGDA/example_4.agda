@@ -1,1 +1,1 @@
-// Example 4 in Agda
+// Loops - Repetindo tarefas com for/while. in AGDA

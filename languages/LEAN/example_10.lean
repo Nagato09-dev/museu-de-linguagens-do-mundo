@@ -1,1 +1,1 @@
-// Example 10 in Lean
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in LEAN

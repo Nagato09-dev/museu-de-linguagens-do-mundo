@@ -1,1 +1,1 @@
-// Example 5 in fsharp
+// Functions - Criando blocos de código reutilizáveis. in FSHARP

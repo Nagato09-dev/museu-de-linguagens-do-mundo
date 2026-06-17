@@ -1,1 +1,1 @@
-// Example 8 in brainfuck
+// String Manipulation - Trabalhando com textos. in BRAINFUCK

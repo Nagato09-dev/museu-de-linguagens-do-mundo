@@ -1,1 +1,1 @@
-// Example 5 in Bluespec
+// Functions - Criando blocos de código reutilizáveis. in BLUESPEC

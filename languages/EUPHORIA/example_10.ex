@@ -1,1 +1,1 @@
-// Example 10 in Euphoria
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in EUPHORIA

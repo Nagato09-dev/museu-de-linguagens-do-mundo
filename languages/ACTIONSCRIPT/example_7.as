@@ -1,1 +1,1 @@
-// Example 7 in actionscript
+// Error Handling - Lidando com exceções e erros. in ACTIONSCRIPT

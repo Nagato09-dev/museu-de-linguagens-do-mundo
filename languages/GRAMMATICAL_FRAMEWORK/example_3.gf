@@ -1,1 +1,1 @@
-// Example 3 in Grammatical_Framework
+// Control Flow - Estruturas condicionais (if/else). in GRAMMATICAL_FRAMEWORK

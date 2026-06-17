@@ -1,1 +1,1 @@
-// Example 5 in cobol
+// Functions - Criando blocos de código reutilizáveis. in COBOL

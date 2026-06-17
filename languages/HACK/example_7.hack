@@ -1,1 +1,1 @@
-// Example 7 in hack
+// Error Handling - Lidando com exceções e erros. in HACK

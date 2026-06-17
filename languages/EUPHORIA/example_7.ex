@@ -1,1 +1,1 @@
-// Example 7 in Euphoria
+// Error Handling - Lidando com exceções e erros. in EUPHORIA

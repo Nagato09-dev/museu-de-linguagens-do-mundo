@@ -1,1 +1,1 @@
-// Example 6 in erlang
+// Data Structures - Listas, Arrays ou Mapas. in ERLANG

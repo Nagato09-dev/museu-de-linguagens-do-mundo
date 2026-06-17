@@ -1,1 +1,1 @@
-// Example 6 in AMPL
+// Data Structures - Listas, Arrays ou Mapas. in AMPL

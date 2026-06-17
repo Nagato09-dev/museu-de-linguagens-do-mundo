@@ -1,1 +1,1 @@
-// Example 5 in scala
+// Functions - Criando blocos de código reutilizáveis. in SCALA

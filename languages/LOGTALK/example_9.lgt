@@ -1,1 +1,1 @@
-// Example 9 in Logtalk
+// Mathematics - Operações aritméticas básicas. in LOGTALK

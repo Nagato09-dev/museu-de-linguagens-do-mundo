@@ -1,1 +1,1 @@
-// Example 10 in KRL
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in KRL

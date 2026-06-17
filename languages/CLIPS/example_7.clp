@@ -1,1 +1,1 @@
-// Example 7 in Clips
+// Error Handling - Lidando com exceções e erros. in CLIPS

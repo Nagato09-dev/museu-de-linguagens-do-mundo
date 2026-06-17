@@ -1,1 +1,1 @@
-// Example 8 in E
+// String Manipulation - Trabalhando com textos. in E

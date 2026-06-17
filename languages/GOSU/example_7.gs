@@ -1,1 +1,1 @@
-// Example 7 in Gosu
+// Error Handling - Lidando com exceções e erros. in GOSU

@@ -1,1 +1,1 @@
-// Example 7 in nim
+// Error Handling - Lidando com exceções e erros. in NIM

@@ -1,1 +1,1 @@
-// Example 1 in Inno_Setup
+// Hello World - O básico de qualquer linguagem. in INNO_SETUP

@@ -1,1 +1,1 @@
-// Example 8 in powershell
+// String Manipulation - Trabalhando com textos. in POWERSHELL

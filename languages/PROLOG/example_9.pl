@@ -1,1 +1,1 @@
-// Example 9 in prolog
+# Mathematics - Operações aritméticas básicas. in PROLOG

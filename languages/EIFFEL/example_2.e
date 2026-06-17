@@ -1,1 +1,1 @@
-// Example 2 in eiffel
+// Variables & Types - Como declarar e usar variáveis. in EIFFEL

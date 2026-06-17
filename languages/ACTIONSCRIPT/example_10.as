@@ -1,1 +1,1 @@
-// Example 10 in actionscript
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in ACTIONSCRIPT

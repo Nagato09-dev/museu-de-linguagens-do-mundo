@@ -1,1 +1,1 @@
-// Example 2 in GAP
+// Variables & Types - Como declarar e usar variáveis. in GAP

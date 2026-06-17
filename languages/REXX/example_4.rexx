@@ -1,1 +1,1 @@
-// Example 4 in rexx
+// Loops - Repetindo tarefas com for/while. in REXX

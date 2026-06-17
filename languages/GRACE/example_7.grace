@@ -1,1 +1,1 @@
-// Example 7 in Grace
+// Error Handling - Lidando com exceções e erros. in GRACE

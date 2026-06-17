@@ -1,1 +1,1 @@
-// Example 2 in sql
+-- Variables & Types - Como declarar e usar variáveis. in SQL

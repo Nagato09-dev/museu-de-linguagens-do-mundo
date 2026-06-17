@@ -1,1 +1,1 @@
-// Example 10 in prolog
+# Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in PROLOG

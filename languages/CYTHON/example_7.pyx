@@ -1,1 +1,1 @@
-// Example 7 in Cython
+// Error Handling - Lidando com exceções e erros. in CYTHON

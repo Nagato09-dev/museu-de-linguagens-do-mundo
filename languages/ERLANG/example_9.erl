@@ -1,1 +1,1 @@
-// Example 9 in erlang
+// Mathematics - Operações aritméticas básicas. in ERLANG

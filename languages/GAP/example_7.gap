@@ -1,1 +1,1 @@
-// Example 7 in GAP
+// Error Handling - Lidando com exceções e erros. in GAP

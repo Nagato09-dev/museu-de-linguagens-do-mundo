@@ -1,1 +1,1 @@
-// Example 2 in forth
+// Variables & Types - Como declarar e usar variáveis. in FORTH

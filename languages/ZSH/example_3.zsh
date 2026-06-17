@@ -1,1 +1,3 @@
-// Example 3 in zsh
+#!/bin/bash
+# Control Flow - Estruturas condicionais (if/else).
+echo "Learning Control Flow - Estruturas condicionais (if/else). in ZSH"

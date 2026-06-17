@@ -1,1 +1,1 @@
-// Example 3 in Inform_7
+// Control Flow - Estruturas condicionais (if/else). in INFORM_7

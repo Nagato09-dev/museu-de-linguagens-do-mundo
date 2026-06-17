@@ -1,1 +1,1 @@
-// Example 7 in E
+// Error Handling - Lidando com exceções e erros. in E

@@ -1,1 +1,1 @@
-// Example 7 in Gnuplot
+// Error Handling - Lidando com exceções e erros. in GNUPLOT

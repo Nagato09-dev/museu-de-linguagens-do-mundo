@@ -1,1 +1,1 @@
-// Example 2 in Brightscript
+// Variables & Types - Como declarar e usar variáveis. in BRIGHTSCRIPT

@@ -1,1 +1,1 @@
-// Example 7 in dockerfile
+// Error Handling - Lidando com exceções e erros. in DOCKERFILE

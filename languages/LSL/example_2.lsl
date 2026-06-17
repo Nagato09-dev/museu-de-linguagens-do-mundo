@@ -1,1 +1,1 @@
-// Example 2 in LSL
+// Variables & Types - Como declarar e usar variáveis. in LSL

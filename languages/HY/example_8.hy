@@ -1,1 +1,1 @@
-// Example 8 in Hy
+// String Manipulation - Trabalhando com textos. in HY

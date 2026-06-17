@@ -1,1 +1,1 @@
-// Example 7 in C2hs_Haskell
+// Error Handling - Lidando com exceções e erros. in C2HS_HASKELL

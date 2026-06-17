@@ -1,1 +1,1 @@
-// Example 8 in nim
+// String Manipulation - Trabalhando com textos. in NIM

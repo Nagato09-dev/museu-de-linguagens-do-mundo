@@ -1,1 +1,1 @@
-// Example 7 in forth
+// Error Handling - Lidando com exceções e erros. in FORTH

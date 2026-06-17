@@ -1,1 +1,1 @@
-// Example 2 in racket
+// Variables & Types - Como declarar e usar variáveis. in RACKET

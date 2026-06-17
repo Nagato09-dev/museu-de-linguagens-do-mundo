@@ -1,1 +1,2 @@
-// Example 7 in coffeescript
+// Error Handling - Lidando com exceções e erros.
+console.log('Learning Error Handling - Lidando com exceções e erros. in COFFEESCRIPT');

@@ -1,1 +1,1 @@
-// Example 3 in Kaitai_Struct
+// Control Flow - Estruturas condicionais (if/else). in KAITAI_STRUCT

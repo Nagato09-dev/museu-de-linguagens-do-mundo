@@ -1,1 +1,1 @@
-// Example 4 in Mako
+// Loops - Repetindo tarefas com for/while. in MAKO

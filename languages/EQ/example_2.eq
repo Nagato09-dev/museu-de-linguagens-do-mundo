@@ -1,1 +1,1 @@
-// Example 2 in EQ
+// Variables & Types - Como declarar e usar variáveis. in EQ

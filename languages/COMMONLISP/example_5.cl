@@ -1,1 +1,1 @@
-// Example 5 in commonlisp
+// Functions - Criando blocos de código reutilizáveis. in COMMONLISP

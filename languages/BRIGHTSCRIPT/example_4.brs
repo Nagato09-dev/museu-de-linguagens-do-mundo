@@ -1,1 +1,1 @@
-// Example 4 in Brightscript
+// Loops - Repetindo tarefas com for/while. in BRIGHTSCRIPT

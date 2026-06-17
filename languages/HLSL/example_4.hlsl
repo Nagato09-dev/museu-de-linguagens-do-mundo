@@ -1,1 +1,1 @@
-// Example 4 in hlsl
+// Loops - Repetindo tarefas com for/while. in HLSL

@@ -1,1 +1,1 @@
-// Example 2 in Cycript
+// Variables & Types - Como declarar e usar variáveis. in CYCRIPT

@@ -1,1 +1,1 @@
-// Example 5 in emacslisp
+// Functions - Criando blocos de código reutilizáveis. in EMACSLISP

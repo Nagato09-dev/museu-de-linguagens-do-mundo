@@ -1,1 +1,1 @@
-// Example 2 in Golo
+// Variables & Types - Como declarar e usar variáveis. in GOLO

@@ -1,1 +1,1 @@
-// Example 3 in gdscript
+// Control Flow - Estruturas condicionais (if/else). in GDSCRIPT

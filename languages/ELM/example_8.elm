@@ -1,1 +1,1 @@
-// Example 8 in elm
+// String Manipulation - Trabalhando com textos. in ELM

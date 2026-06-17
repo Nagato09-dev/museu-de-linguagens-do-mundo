@@ -1,1 +1,1 @@
-// Example 8 in Fstar
+// String Manipulation - Trabalhando com textos. in FSTAR

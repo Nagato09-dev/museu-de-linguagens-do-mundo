@@ -1,1 +1,1 @@
-// Example 6 in Alloy
+// Data Structures - Listas, Arrays ou Mapas. in ALLOY

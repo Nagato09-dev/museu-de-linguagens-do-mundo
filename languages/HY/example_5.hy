@@ -1,1 +1,1 @@
-// Example 5 in Hy
+// Functions - Criando blocos de código reutilizáveis. in HY

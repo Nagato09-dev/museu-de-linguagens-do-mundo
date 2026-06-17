@@ -1,1 +1,1 @@
-// Example 3 in AngelScript
+// Control Flow - Estruturas condicionais (if/else). in ANGELSCRIPT

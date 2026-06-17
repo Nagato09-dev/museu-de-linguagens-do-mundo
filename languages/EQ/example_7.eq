@@ -1,1 +1,1 @@
-// Example 7 in EQ
+// Error Handling - Lidando com exceções e erros. in EQ

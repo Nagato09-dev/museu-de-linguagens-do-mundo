@@ -1,1 +1,1 @@
-// Example 2 in moonscript
+// Variables & Types - Como declarar e usar variáveis. in MOONSCRIPT

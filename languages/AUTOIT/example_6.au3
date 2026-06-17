@@ -1,1 +1,1 @@
-// Example 6 in AutoIt
+// Data Structures - Listas, Arrays ou Mapas. in AUTOIT

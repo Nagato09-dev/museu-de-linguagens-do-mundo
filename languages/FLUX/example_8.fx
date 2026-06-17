@@ -1,1 +1,1 @@
-// Example 8 in FLUX
+// String Manipulation - Trabalhando com textos. in FLUX

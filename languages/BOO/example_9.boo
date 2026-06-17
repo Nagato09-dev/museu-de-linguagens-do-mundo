@@ -1,1 +1,1 @@
-// Example 9 in boo
+// Mathematics - Operações aritméticas básicas. in BOO

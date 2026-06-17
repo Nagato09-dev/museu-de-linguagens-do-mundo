@@ -1,1 +1,1 @@
-// Example 9 in moonscript
+// Mathematics - Operações aritméticas básicas. in MOONSCRIPT

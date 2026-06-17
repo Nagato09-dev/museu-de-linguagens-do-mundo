@@ -1,1 +1,1 @@
-// Example 9 in Kaitai_Struct
+// Mathematics - Operações aritméticas básicas. in KAITAI_STRUCT

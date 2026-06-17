@@ -1,1 +1,1 @@
-// Example 5 in r
+# Functions - Criando blocos de código reutilizáveis. in R

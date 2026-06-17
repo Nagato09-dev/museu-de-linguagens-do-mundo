@@ -1,1 +1,1 @@
-// Example 5 in ada
+(* Functions - Criando blocos de código reutilizáveis. in ADA *)

@@ -1,1 +1,1 @@
-// Example 2 in apl
+// Variables & Types - Como declarar e usar variáveis. in APL

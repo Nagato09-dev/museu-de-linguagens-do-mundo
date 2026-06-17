@@ -1,1 +1,1 @@
-// Example 1 in Euphoria
+// Hello World - O básico de qualquer linguagem. in EUPHORIA

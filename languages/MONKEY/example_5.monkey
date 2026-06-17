@@ -1,1 +1,1 @@
-// Example 5 in monkey
+// Functions - Criando blocos de código reutilizáveis. in MONKEY

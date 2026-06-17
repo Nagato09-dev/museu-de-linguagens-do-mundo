@@ -1,1 +1,1 @@
-// Example 8 in Augeas
+// String Manipulation - Trabalhando com textos. in AUGEAS

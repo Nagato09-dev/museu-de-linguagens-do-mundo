@@ -1,1 +1,1 @@
-// Example 6 in BlitzMax
+// Data Structures - Listas, Arrays ou Mapas. in BLITZMAX

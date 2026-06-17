@@ -1,1 +1,1 @@
-// Example 5 in racket
+// Functions - Criando blocos de código reutilizáveis. in RACKET

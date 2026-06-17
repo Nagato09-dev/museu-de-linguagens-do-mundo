@@ -1,1 +1,1 @@
-// Example 10 in AngelScript
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in ANGELSCRIPT

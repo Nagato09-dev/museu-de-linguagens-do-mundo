@@ -1,1 +1,1 @@
-// Example 6 in forth
+// Data Structures - Listas, Arrays ou Mapas. in FORTH

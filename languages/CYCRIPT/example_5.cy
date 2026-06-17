@@ -1,1 +1,1 @@
-// Example 5 in Cycript
+// Functions - Criando blocos de código reutilizáveis. in CYCRIPT

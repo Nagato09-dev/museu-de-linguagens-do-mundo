@@ -1,1 +1,1 @@
-// Example 4 in Clips
+// Loops - Repetindo tarefas com for/while. in CLIPS

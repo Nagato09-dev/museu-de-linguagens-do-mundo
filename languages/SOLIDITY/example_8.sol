@@ -1,1 +1,1 @@
-// Example 8 in solidity
+// String Manipulation - Trabalhando com textos. in SOLIDITY

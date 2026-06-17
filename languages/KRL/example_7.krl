@@ -1,1 +1,1 @@
-// Example 7 in KRL
+// Error Handling - Lidando com exceções e erros. in KRL

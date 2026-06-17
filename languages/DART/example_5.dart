@@ -1,1 +1,1 @@
-// Example 5 in dart
+// Functions - Criando blocos de código reutilizáveis. in DART

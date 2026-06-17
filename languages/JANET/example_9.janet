@@ -1,1 +1,1 @@
-// Example 9 in janet
+// Mathematics - Operações aritméticas básicas. in JANET

@@ -1,1 +1,1 @@
-// Example 8 in AutoHotkey
+// String Manipulation - Trabalhando com textos. in AUTOHOTKEY

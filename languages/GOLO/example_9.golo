@@ -1,1 +1,1 @@
-// Example 9 in Golo
+// Mathematics - Operações aritméticas básicas. in GOLO

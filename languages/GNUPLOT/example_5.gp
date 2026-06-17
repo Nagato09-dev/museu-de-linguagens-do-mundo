@@ -1,1 +1,1 @@
-// Example 5 in Gnuplot
+// Functions - Criando blocos de código reutilizáveis. in GNUPLOT

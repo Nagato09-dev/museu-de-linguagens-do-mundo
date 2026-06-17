@@ -1,1 +1,1 @@
-// Example 6 in emacslisp
+// Data Structures - Listas, Arrays ou Mapas. in EMACSLISP

@@ -1,1 +1,1 @@
-// Example 10 in Genshi
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GENSHI

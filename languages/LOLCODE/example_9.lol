@@ -1,1 +1,1 @@
-// Example 9 in lolcode
+// Mathematics - Operações aritméticas básicas. in LOLCODE

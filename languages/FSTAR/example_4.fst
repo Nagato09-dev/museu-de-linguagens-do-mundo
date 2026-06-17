@@ -1,1 +1,1 @@
-// Example 4 in Fstar
+// Loops - Repetindo tarefas com for/while. in FSTAR

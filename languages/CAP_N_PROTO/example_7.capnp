@@ -1,1 +1,1 @@
-// Example 7 in Cap_n_Proto
+// Error Handling - Lidando com exceções e erros. in CAP_N_PROTO

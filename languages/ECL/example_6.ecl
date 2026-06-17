@@ -1,1 +1,1 @@
-// Example 6 in ECL
+// Data Structures - Listas, Arrays ou Mapas. in ECL

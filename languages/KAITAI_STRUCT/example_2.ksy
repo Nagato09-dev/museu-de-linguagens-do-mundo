@@ -1,1 +1,1 @@
-// Example 2 in Kaitai_Struct
+// Variables & Types - Como declarar e usar variáveis. in KAITAI_STRUCT

@@ -1,1 +1,1 @@
-// Example 6 in apl
+// Data Structures - Listas, Arrays ou Mapas. in APL

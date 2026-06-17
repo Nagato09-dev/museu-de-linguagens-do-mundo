@@ -1,1 +1,1 @@
-// Example 8 in basic
+// String Manipulation - Trabalhando com textos. in BASIC

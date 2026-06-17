@@ -1,1 +1,1 @@
-// Example 7 in eiffel
+// Error Handling - Lidando com exceções e erros. in EIFFEL

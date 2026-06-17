@@ -1,1 +1,1 @@
-// Example 6 in actionscript
+// Data Structures - Listas, Arrays ou Mapas. in ACTIONSCRIPT

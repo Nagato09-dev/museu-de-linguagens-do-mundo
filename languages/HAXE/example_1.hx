@@ -1,1 +1,1 @@
-// Example 1 in haxe
+// Hello World - O básico de qualquer linguagem. in HAXE

@@ -1,1 +1,1 @@
-// Example 5 in DM
+// Functions - Criando blocos de código reutilizáveis. in DM

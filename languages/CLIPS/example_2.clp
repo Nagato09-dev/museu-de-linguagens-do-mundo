@@ -1,1 +1,1 @@
-// Example 2 in Clips
+// Variables & Types - Como declarar e usar variáveis. in CLIPS

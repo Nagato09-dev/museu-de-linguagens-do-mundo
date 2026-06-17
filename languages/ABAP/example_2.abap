@@ -1,1 +1,1 @@
-// Example 2 in ABAP
+// Variables & Types - Como declarar e usar variáveis. in ABAP

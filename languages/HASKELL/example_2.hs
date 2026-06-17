@@ -1,1 +1,1 @@
-// Example 2 in haskell
+-- Variables & Types - Como declarar e usar variáveis. in HASKELL

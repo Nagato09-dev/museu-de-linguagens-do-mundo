@@ -1,1 +1,1 @@
-// Example 10 in CartoCSS
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in CARTOCSS

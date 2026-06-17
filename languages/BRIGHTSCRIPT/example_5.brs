@@ -1,1 +1,1 @@
-// Example 5 in Brightscript
+// Functions - Criando blocos de código reutilizáveis. in BRIGHTSCRIPT

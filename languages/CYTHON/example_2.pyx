@@ -1,1 +1,1 @@
-// Example 2 in Cython
+// Variables & Types - Como declarar e usar variáveis. in CYTHON

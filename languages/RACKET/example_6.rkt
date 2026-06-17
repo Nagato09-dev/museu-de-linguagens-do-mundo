@@ -1,1 +1,1 @@
-// Example 6 in racket
+// Data Structures - Listas, Arrays ou Mapas. in RACKET

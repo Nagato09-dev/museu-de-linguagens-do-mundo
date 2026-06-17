@@ -1,1 +1,1 @@
-// Example 7 in Batchfile
+// Error Handling - Lidando com exceções e erros. in BATCHFILE

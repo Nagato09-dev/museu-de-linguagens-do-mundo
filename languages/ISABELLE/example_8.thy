@@ -1,1 +1,1 @@
-// Example 8 in Isabelle
+// String Manipulation - Trabalhando com textos. in ISABELLE

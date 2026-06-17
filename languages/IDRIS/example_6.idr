@@ -1,1 +1,1 @@
-// Example 6 in idris
+// Data Structures - Listas, Arrays ou Mapas. in IDRIS

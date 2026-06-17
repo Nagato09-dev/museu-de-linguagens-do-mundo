@@ -1,1 +1,1 @@
-// Example 2 in G-Code
+// Variables & Types - Como declarar e usar variáveis. in G_CODE

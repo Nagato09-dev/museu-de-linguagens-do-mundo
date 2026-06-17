@@ -1,1 +1,1 @@
-// Example 7 in Max
+// Error Handling - Lidando com exceções e erros. in MAX

@@ -1,1 +1,2 @@
-// Example 6 in JSX
+// Data Structures - Listas, Arrays ou Mapas.
+console.log('Learning Data Structures - Listas, Arrays ou Mapas. in JSX');

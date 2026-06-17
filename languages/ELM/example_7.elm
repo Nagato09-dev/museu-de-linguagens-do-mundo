@@ -1,1 +1,1 @@
-// Example 7 in elm
+// Error Handling - Lidando com exceções e erros. in ELM

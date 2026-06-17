@@ -1,1 +1,1 @@
-// Example 5 in AngelScript
+// Functions - Criando blocos de código reutilizáveis. in ANGELSCRIPT

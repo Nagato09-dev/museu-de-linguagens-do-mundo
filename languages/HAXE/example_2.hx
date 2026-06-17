@@ -1,1 +1,1 @@
-// Example 2 in haxe
+// Variables & Types - Como declarar e usar variáveis. in HAXE

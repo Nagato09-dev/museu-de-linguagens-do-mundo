@@ -1,1 +1,1 @@
-// Example 5 in AutoHotkey
+// Functions - Criando blocos de código reutilizáveis. in AUTOHOTKEY

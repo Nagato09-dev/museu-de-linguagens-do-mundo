@@ -1,1 +1,3 @@
-// Example 7 in ksh
+#!/bin/bash
+# Error Handling - Lidando com exceções e erros.
+echo "Learning Error Handling - Lidando com exceções e erros. in KSH"

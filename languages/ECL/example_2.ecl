@@ -1,1 +1,1 @@
-// Example 2 in ECL
+// Variables & Types - Como declarar e usar variáveis. in ECL

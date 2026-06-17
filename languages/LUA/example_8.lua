@@ -1,1 +1,1 @@
-// Example 8 in lua
+-- String Manipulation - Trabalhando com textos. in LUA

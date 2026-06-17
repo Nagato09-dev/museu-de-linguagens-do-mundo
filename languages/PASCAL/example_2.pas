@@ -1,1 +1,1 @@
-// Example 2 in pascal
+(* Variables & Types - Como declarar e usar variáveis. in PASCAL *)

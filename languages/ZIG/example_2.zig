@@ -1,1 +1,1 @@
-// Example 2 in zig
+// Variables & Types - Como declarar e usar variáveis. in ZIG

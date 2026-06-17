@@ -1,1 +1,1 @@
-// Example 7 in sql
+-- Error Handling - Lidando com exceções e erros. in SQL

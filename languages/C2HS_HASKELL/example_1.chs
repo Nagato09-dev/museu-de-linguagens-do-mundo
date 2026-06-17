@@ -1,1 +1,1 @@
-// Example 1 in C2hs_Haskell
+// Hello World - O básico de qualquer linguagem. in C2HS_HASKELL

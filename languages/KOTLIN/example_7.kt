@@ -1,1 +1,1 @@
-// Example 7 in kotlin
+// Error Handling - Lidando com exceções e erros. in KOTLIN

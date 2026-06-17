@@ -1,1 +1,1 @@
-// Example 5 in vhdl
+// Functions - Criando blocos de código reutilizáveis. in VHDL

@@ -1,1 +1,1 @@
-// Example 10 in Inform_7
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in INFORM_7

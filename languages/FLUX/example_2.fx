@@ -1,1 +1,1 @@
-// Example 2 in FLUX
+// Variables & Types - Como declarar e usar variáveis. in FLUX

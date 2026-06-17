@@ -1,1 +1,1 @@
-// Example 2 in DIGITAL_Command_Language
+// Variables & Types - Como declarar e usar variáveis. in DIGITAL_COMMAND_LANGUAGE

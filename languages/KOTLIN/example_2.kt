@@ -1,1 +1,1 @@
-// Example 2 in kotlin
+// Variables & Types - Como declarar e usar variáveis. in KOTLIN

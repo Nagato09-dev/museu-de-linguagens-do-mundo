@@ -1,1 +1,1 @@
-// Example 4 in idris
+// Loops - Repetindo tarefas com for/while. in IDRIS

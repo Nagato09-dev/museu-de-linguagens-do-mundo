@@ -1,1 +1,1 @@
-// Example 8 in Gentoo_Ebuild
+// String Manipulation - Trabalhando com textos. in GENTOO_EBUILD

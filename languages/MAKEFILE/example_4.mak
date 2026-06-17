@@ -1,1 +1,1 @@
-// Example 4 in Makefile
+// Loops - Repetindo tarefas com for/while. in MAKEFILE

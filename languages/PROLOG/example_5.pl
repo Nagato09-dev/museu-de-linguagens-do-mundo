@@ -1,1 +1,1 @@
-// Example 5 in prolog
+# Functions - Criando blocos de código reutilizáveis. in PROLOG

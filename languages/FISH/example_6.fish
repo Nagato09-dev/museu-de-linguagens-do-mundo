@@ -1,1 +1,3 @@
-// Example 6 in fish
+#!/bin/bash
+# Data Structures - Listas, Arrays ou Mapas.
+echo "Learning Data Structures - Listas, Arrays ou Mapas. in FISH"

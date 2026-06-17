@@ -1,1 +1,1 @@
-// Example 8 in Kaitai_Struct
+// String Manipulation - Trabalhando com textos. in KAITAI_STRUCT

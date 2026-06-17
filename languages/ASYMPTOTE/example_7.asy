@@ -1,1 +1,1 @@
-// Example 7 in Asymptote
+// Error Handling - Lidando com exceções e erros. in ASYMPTOTE

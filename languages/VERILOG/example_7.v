@@ -1,1 +1,1 @@
-// Example 7 in verilog
+// Error Handling - Lidando com exceções e erros. in VERILOG

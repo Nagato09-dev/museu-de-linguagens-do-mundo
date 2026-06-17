@@ -1,1 +1,1 @@
-// Example 10 in LFE
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in LFE

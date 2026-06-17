@@ -1,1 +1,1 @@
-// Example 9 in CartoCSS
+// Mathematics - Operações aritméticas básicas. in CARTOCSS

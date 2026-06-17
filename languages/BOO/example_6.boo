@@ -1,1 +1,1 @@
-// Example 6 in boo
+// Data Structures - Listas, Arrays ou Mapas. in BOO

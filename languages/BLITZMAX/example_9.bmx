@@ -1,1 +1,1 @@
-// Example 9 in BlitzMax
+// Mathematics - Operações aritméticas básicas. in BLITZMAX

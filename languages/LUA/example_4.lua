@@ -1,1 +1,1 @@
-// Example 4 in lua
+-- Loops - Repetindo tarefas com for/while. in LUA

@@ -1,1 +1,1 @@
-// Example 9 in actionscript
+// Mathematics - Operações aritméticas básicas. in ACTIONSCRIPT

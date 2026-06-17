@@ -1,1 +1,1 @@
-// Example 5 in Genshi
+// Functions - Criando blocos de código reutilizáveis. in GENSHI

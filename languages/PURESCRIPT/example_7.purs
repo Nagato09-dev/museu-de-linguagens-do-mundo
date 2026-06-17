@@ -1,1 +1,1 @@
-// Example 7 in purescript
+// Error Handling - Lidando com exceções e erros. in PURESCRIPT

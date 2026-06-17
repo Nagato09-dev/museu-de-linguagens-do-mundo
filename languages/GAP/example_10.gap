@@ -1,1 +1,1 @@
-// Example 10 in GAP
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GAP

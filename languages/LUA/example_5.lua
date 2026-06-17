@@ -1,1 +1,1 @@
-// Example 5 in lua
+-- Functions - Criando blocos de código reutilizáveis. in LUA

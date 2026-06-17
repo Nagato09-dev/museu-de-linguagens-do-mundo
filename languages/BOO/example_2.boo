@@ -1,1 +1,1 @@
-// Example 2 in boo
+// Variables & Types - Como declarar e usar variáveis. in BOO

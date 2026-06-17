@@ -1,1 +1,1 @@
-// Example 5 in perl
+# Functions - Criando blocos de código reutilizáveis. in PERL

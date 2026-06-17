@@ -1,1 +1,1 @@
-// Example 8 in CartoCSS
+// String Manipulation - Trabalhando com textos. in CARTOCSS

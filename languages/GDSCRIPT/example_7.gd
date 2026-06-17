@@ -1,1 +1,1 @@
-// Example 7 in gdscript
+// Error Handling - Lidando com exceções e erros. in GDSCRIPT

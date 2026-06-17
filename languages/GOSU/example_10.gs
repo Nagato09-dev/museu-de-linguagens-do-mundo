@@ -1,1 +1,1 @@
-// Example 10 in Gosu
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in GOSU

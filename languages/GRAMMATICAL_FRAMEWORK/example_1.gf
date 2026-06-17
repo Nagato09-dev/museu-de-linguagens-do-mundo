@@ -1,1 +1,1 @@
-// Example 1 in Grammatical_Framework
+// Hello World - O básico de qualquer linguagem. in GRAMMATICAL_FRAMEWORK

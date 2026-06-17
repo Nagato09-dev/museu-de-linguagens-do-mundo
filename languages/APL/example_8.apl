@@ -1,1 +1,1 @@
-// Example 8 in apl
+// String Manipulation - Trabalhando com textos. in APL

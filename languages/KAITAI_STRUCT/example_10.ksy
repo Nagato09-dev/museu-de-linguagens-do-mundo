@@ -1,1 +1,1 @@
-// Example 10 in Kaitai_Struct
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in KAITAI_STRUCT

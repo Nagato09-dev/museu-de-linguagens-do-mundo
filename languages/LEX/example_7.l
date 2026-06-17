@@ -1,1 +1,1 @@
-// Example 7 in Lex
+// Error Handling - Lidando com exceções e erros. in LEX

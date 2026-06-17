@@ -1,1 +1,1 @@
-// Example 10 in Inno_Setup
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in INNO_SETUP

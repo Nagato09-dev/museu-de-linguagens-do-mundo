@@ -1,1 +1,1 @@
-// Example 10 in j
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in J

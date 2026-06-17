@@ -1,1 +1,1 @@
-// Example 8 in glsl
+// String Manipulation - Trabalhando com textos. in GLSL

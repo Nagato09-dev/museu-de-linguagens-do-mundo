@@ -1,1 +1,1 @@
-// Example 2 in Ballerina
+// Variables & Types - Como declarar e usar variáveis. in BALLERINA

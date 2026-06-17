@@ -1,1 +1,1 @@
-// Example 7 in apl
+// Error Handling - Lidando com exceções e erros. in APL

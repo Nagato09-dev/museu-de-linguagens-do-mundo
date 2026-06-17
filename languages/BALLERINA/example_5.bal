@@ -1,1 +1,1 @@
-// Example 5 in Ballerina
+// Functions - Criando blocos de código reutilizáveis. in BALLERINA

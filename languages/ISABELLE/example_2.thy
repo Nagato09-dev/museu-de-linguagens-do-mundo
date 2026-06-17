@@ -1,1 +1,1 @@
-// Example 2 in Isabelle
+// Variables & Types - Como declarar e usar variáveis. in ISABELLE

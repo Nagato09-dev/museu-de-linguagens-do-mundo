@@ -1,1 +1,1 @@
-// Example 7 in ceylon
+// Error Handling - Lidando com exceções e erros. in CEYLON

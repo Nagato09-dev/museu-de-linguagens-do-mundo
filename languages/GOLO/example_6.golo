@@ -1,1 +1,1 @@
-// Example 6 in Golo
+// Data Structures - Listas, Arrays ou Mapas. in GOLO

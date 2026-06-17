@@ -1,1 +1,1 @@
-// Example 5 in fantom
+// Functions - Criando blocos de código reutilizáveis. in FANTOM

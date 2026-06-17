@@ -1,1 +1,1 @@
-// Example 1 in tcl
+# Hello World - O básico de qualquer linguagem. in TCL

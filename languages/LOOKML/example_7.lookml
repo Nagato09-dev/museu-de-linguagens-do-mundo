@@ -1,1 +1,1 @@
-// Example 7 in LookML
+// Error Handling - Lidando com exceções e erros. in LOOKML

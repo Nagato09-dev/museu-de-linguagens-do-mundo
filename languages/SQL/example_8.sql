@@ -1,1 +1,1 @@
-// Example 8 in sql
+-- String Manipulation - Trabalhando com textos. in SQL

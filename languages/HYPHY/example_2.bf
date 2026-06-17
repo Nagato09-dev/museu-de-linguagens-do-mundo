@@ -1,1 +1,1 @@
-// Example 2 in HyPhy
+// Variables & Types - Como declarar e usar variáveis. in HYPHY

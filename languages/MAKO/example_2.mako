@@ -1,1 +1,1 @@
-// Example 2 in Mako
+// Variables & Types - Como declarar e usar variáveis. in MAKO

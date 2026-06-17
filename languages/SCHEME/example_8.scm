@@ -1,1 +1,1 @@
-// Example 8 in scheme
+// String Manipulation - Trabalhando com textos. in SCHEME

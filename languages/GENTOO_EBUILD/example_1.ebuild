@@ -1,1 +1,1 @@
-// Example 1 in Gentoo_Ebuild
+// Hello World - O básico de qualquer linguagem. in GENTOO_EBUILD

@@ -1,1 +1,1 @@
-// Example 7 in tcl
+# Error Handling - Lidando com exceções e erros. in TCL

@@ -1,1 +1,1 @@
-// Example 2 in AutoIt
+// Variables & Types - Como declarar e usar variáveis. in AUTOIT

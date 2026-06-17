@@ -1,1 +1,1 @@
-// Example 10 in LSL
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in LSL

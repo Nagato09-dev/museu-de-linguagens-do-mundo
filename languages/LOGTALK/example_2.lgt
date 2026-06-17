@@ -1,1 +1,1 @@
-// Example 2 in Logtalk
+// Variables & Types - Como declarar e usar variáveis. in LOGTALK

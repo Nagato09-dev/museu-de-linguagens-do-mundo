@@ -1,1 +1,1 @@
-// Example 7 in pascal
+(* Error Handling - Lidando com exceções e erros. in PASCAL *)

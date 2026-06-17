@@ -1,1 +1,1 @@
-// Example 8 in smalltalk
+// String Manipulation - Trabalhando com textos. in SMALLTALK

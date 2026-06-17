@@ -1,1 +1,1 @@
-// Example 1 in raku
+// Hello World - O básico de qualquer linguagem. in RAKU

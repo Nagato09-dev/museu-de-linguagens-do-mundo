@@ -1,1 +1,1 @@
-// Example 2 in gdscript
+// Variables & Types - Como declarar e usar variáveis. in GDSCRIPT

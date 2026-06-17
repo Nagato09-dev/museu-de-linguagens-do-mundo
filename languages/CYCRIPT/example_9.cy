@@ -1,1 +1,1 @@
-// Example 9 in Cycript
+// Mathematics - Operações aritméticas básicas. in CYCRIPT

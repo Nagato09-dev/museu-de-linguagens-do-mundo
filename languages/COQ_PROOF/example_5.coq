@@ -1,1 +1,1 @@
-// Example 5 in coq_proof
+// Functions - Criando blocos de código reutilizáveis. in COQ_PROOF

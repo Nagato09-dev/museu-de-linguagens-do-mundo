@@ -1,1 +1,1 @@
-// Example 1 in KRL
+// Hello World - O básico de qualquer linguagem. in KRL

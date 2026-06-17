@@ -1,1 +1,1 @@
-// Example 6 in scala
+// Data Structures - Listas, Arrays ou Mapas. in SCALA

@@ -1,1 +1,3 @@
-// Example 10 in zsh
+#!/bin/bash
+# Advanced Concept - Um pequeno algoritmo (ex: Fibonacci).
+echo "Learning Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in ZSH"

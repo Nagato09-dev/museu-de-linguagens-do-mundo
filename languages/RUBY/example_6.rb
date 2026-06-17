@@ -1,1 +1,1 @@
-// Example 6 in ruby
+# Data Structures - Listas, Arrays ou Mapas. in RUBY

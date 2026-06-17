@@ -1,1 +1,1 @@
-// Example 3 in Gosu
+// Control Flow - Estruturas condicionais (if/else). in GOSU

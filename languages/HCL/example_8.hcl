@@ -1,1 +1,1 @@
-// Example 8 in HCL
+// String Manipulation - Trabalhando com textos. in HCL

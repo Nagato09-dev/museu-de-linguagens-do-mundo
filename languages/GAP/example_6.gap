@@ -1,1 +1,1 @@
-// Example 6 in GAP
+// Data Structures - Listas, Arrays ou Mapas. in GAP

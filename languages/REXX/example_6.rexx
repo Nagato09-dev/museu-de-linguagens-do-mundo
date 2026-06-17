@@ -1,1 +1,1 @@
-// Example 6 in rexx
+// Data Structures - Listas, Arrays ou Mapas. in REXX

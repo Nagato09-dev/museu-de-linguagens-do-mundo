@@ -1,1 +1,1 @@
-// Example 4 in GDB
+// Loops - Repetindo tarefas com for/while. in GDB

@@ -1,1 +1,1 @@
-// Example 4 in pike
+// Loops - Repetindo tarefas com for/while. in PIKE

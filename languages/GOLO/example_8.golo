@@ -1,1 +1,1 @@
-// Example 8 in Golo
+// String Manipulation - Trabalhando com textos. in GOLO

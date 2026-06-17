@@ -1,1 +1,1 @@
-// Example 10 in pike
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in PIKE

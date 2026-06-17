@@ -1,1 +1,4 @@
-print('Hello from example 3')
+if 10 > 5:
+    print('True')
+else:
+    print('False')

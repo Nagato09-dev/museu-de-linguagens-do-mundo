@@ -1,1 +1,1 @@
-// Example 4 in Grammatical_Framework
+// Loops - Repetindo tarefas com for/while. in GRAMMATICAL_FRAMEWORK

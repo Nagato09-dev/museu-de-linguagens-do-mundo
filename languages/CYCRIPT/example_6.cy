@@ -1,1 +1,1 @@
-// Example 6 in Cycript
+// Data Structures - Listas, Arrays ou Mapas. in CYCRIPT

@@ -1,1 +1,1 @@
-// Example 7 in lolcode
+// Error Handling - Lidando com exceções e erros. in LOLCODE

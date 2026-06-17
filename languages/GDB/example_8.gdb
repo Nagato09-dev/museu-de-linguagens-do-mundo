@@ -1,1 +1,1 @@
-// Example 8 in GDB
+// String Manipulation - Trabalhando com textos. in GDB

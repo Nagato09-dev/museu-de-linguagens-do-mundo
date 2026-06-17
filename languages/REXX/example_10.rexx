@@ -1,1 +1,1 @@
-// Example 10 in rexx
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in REXX

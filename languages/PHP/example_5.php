@@ -1,1 +1,1 @@
-// Example 5 in php
+// Functions - Criando blocos de código reutilizáveis. in PHP

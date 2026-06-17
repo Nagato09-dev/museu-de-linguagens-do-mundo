@@ -1,1 +1,1 @@
-// Example 1 in Brightscript
+// Hello World - O básico de qualquer linguagem. in BRIGHTSCRIPT

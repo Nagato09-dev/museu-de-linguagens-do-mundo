@@ -1,1 +1,1 @@
-// Example 10 in Brightscript
+// Advanced Concept - Um pequeno algoritmo (ex: Fibonacci). in BRIGHTSCRIPT

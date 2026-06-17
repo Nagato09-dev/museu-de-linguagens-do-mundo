@@ -1,1 +1,1 @@
-// Example 9 in pike
+// Mathematics - Operações aritméticas básicas. in PIKE

@@ -1,1 +1,1 @@
-// Example 5 in JFlex
+// Functions - Criando blocos de código reutilizáveis. in JFLEX

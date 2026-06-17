@@ -1,1 +1,1 @@
-// Example 9 in sql
+-- Mathematics - Operações aritméticas básicas. in SQL

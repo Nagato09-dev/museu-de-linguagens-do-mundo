@@ -1,1 +1,1 @@
-// Example 6 in nim
+// Data Structures - Listas, Arrays ou Mapas. in NIM

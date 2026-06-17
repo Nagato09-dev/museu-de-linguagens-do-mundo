@@ -1,1 +1,1 @@
-// Example 5 in Limbo
+// Functions - Criando blocos de código reutilizáveis. in LIMBO

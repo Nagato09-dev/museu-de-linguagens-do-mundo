@@ -1,1 +1,1 @@
-// Example 1 in awk
+// Hello World - O básico de qualquer linguagem. in AWK

@@ -1,1 +1,1 @@
-// Example 8 in purescript
+// String Manipulation - Trabalhando com textos. in PURESCRIPT

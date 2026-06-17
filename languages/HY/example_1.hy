@@ -1,1 +1,1 @@
-// Example 1 in Hy
+// Hello World - O básico de qualquer linguagem. in HY

@@ -1,1 +1,1 @@
-// Example 7 in Bluespec
+// Error Handling - Lidando com exceções e erros. in BLUESPEC

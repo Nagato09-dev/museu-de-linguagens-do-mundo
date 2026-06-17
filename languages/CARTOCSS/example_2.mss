@@ -1,1 +1,1 @@
-// Example 2 in CartoCSS
+// Variables & Types - Como declarar e usar variáveis. in CARTOCSS

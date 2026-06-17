@@ -1,1 +1,1 @@
-// Example 7 in Agda
+// Error Handling - Lidando com exceções e erros. in AGDA

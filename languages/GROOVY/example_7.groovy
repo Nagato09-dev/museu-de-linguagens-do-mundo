@@ -1,1 +1,1 @@
-// Example 7 in groovy
+// Error Handling - Lidando com exceções e erros. in GROOVY

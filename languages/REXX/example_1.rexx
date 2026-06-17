@@ -1,1 +1,1 @@
-// Example 1 in rexx
+// Hello World - O básico de qualquer linguagem. in REXX

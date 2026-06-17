@@ -1,1 +1,1 @@
-// Example 4 in gdscript
+// Loops - Repetindo tarefas com for/while. in GDSCRIPT

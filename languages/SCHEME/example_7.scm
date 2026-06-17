@@ -1,1 +1,1 @@
-// Example 7 in scheme
+// Error Handling - Lidando com exceções e erros. in SCHEME
