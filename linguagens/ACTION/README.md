@@ -10,16 +10,16 @@ Esta pasta contém exemplos de código em ACTION, organizados de forma progressi
 
 Os exemplos cobrem os seguintes tópicos:
 
-1. **exemplo_1.action** - Olá Mundo
-2. **exemplo_2.action** - Variáveis e Tipos
-3. **exemplo_3.action** - Controle de Fluxo
-4. **exemplo_4.action** - Loops (Repetições)
-5. **exemplo_5.action** - Funções
-6. **exemplo_6.action** - Estruturas de Dados
-7. **exemplo_7.action** - Tratamento de Erros
-8. **exemplo_8.action** - Manipulação de Strings
-9. **exemplo_9.action** - Matemática
-10. **exemplo_10.action** - Conceito Avançado / Algoritmos
+1. **exemplo_1.act** - Olá Mundo
+2. **exemplo_2.act** - Variáveis e Tipos
+3. **exemplo_3.act** - Controle de Fluxo
+4. **exemplo_4.act** - Loops (Repetições)
+5. **exemplo_5.act** - Funções
+6. **exemplo_6.act** - Estruturas de Dados
+7. **exemplo_7.act** - Tratamento de Erros
+8. **exemplo_8.act** - Manipulação de Strings
+9. **exemplo_9.act** - Matemática
+10. **exemplo_10.act** - Conceito Avançado / Algoritmos
 
 ## Como Usar
 
