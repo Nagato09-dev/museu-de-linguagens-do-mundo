@@ -1,2 +1,6 @@
-# CHAISCRIPT - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try {
+    var resultado = 10 / 0;
+    print("Resultado: " + resultado);
+} catch (e) {
+    print("Erro capturado: " + e.what());
+}

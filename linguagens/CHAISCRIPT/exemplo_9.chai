@@ -1,2 +1,2 @@
-# CHAISCRIPT - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+var numero = 25.0;
+print("Raiz quadrada de " + numero + ": " + sqrt(numero));

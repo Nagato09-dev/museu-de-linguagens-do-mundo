@@ -1,2 +1,3 @@
-# CHAISCRIPT - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+var texto = "chaiscript language";
+print("Original: " + texto);
+print("Maiúsculas: " + texto.toUpper());

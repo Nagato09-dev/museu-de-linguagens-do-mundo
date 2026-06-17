@@ -1,2 +1,4 @@
-# CHAISCRIPT - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+var lista = [1, 2, 3, 4, 5];
+
+print("Primeiro elemento: " + lista[0]);
+print("Lista completa: " + lista);
