@@ -1,2 +1,2 @@
-# CHUCK - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+10 => int x;
+"Olá" => string s;

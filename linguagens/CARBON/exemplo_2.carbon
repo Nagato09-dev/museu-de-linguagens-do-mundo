@@ -1,2 +1,2 @@
-# CARBON - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+var x: i32 = 10;
+var s: String = "Olá";

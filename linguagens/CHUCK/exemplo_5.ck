@@ -1,2 +1,1 @@
-# CHUCK - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+fun int square(int n) { return n * n; }

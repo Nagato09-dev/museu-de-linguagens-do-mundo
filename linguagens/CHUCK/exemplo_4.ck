@@ -1,2 +1,1 @@
-# CHUCK - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for (0 => int i; i < 10; i++) { <<< i >>>; }

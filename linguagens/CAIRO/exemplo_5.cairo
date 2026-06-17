@@ -1,2 +1,3 @@
-# CAIRO - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+fn square(n: u32) -> u32 {
+    n * n
+}

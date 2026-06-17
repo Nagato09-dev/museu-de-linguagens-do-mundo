@@ -1,2 +1,1 @@
-# CHUCK - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+Math.sqrt(16) => float r;

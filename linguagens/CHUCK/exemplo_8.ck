@@ -1,2 +1,1 @@
-# CHUCK - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+s + " Mundo" => string full;

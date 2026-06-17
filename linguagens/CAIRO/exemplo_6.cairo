@@ -1,2 +1,2 @@
-# CAIRO - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+let mut arr = ArrayTrait::new();
+arr.append(1);

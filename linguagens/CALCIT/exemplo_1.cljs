@@ -1,2 +1,1 @@
-# CALCIT - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+println "Olá Mundo"

@@ -1,2 +1,4 @@
-# CAIRO - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+use debug::PrintTrait;
+fn main() {
+    'Olá Mundo'.print();
+}

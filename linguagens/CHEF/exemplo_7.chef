@@ -1,2 +1,1 @@
-# CHEF - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+/* Erros em Chef não são padrão */

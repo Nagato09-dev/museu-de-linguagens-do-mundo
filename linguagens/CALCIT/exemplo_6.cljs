@@ -1,2 +1,1 @@
-# CALCIT - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+def list ([] 1 2 3)

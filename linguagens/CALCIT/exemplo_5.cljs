@@ -1,2 +1,1 @@
-# CALCIT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+defn square (n) (* n n)

@@ -1,2 +1,5 @@
-# CAIRO - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+// Cairo usa recursão para loops
+fn loop(i: u32) {
+    if i == 0 { return (); }
+    loop(i - 1);
+}

@@ -1,2 +1,1 @@
-# CARBON - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+var r: f64 = Math.Sqrt(16.0);

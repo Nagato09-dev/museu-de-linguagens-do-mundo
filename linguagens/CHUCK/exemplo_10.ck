@@ -1,2 +1,1 @@
-# CHUCK - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+SinOsc s => dac; 0.5 => s.gain; 1::second => now;

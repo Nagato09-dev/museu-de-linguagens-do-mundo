@@ -1,2 +1,1 @@
-# CALCIT - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+range 10 (fn (i) (println i))

@@ -1,2 +1,2 @@
-# CAIRO - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+let x: u256 = 10;
+let s: felt252 = 'Olá';

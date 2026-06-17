@@ -1,2 +1,5 @@
-# CARBON - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+package Explorer api;
+fn Main() -> i32 {
+  Print("Olá Mundo");
+  return 0;
+}

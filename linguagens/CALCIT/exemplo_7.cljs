@@ -1,2 +1,1 @@
-# CALCIT - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try (1 / 0) (fn (e) (println e))

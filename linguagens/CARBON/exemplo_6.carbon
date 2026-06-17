@@ -1,2 +1,1 @@
-# CARBON - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+var list: [i32; 3] = (1, 2, 3);

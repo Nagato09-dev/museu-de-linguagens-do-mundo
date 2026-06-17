@@ -1,2 +1,1 @@
-# CHUCK - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// ChucK foca em áudio em tempo real

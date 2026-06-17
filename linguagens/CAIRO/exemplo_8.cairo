@@ -1,2 +1,1 @@
-# CAIRO - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// felt252 são strings curtas
