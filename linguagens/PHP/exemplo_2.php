@@ -1,2 +1,4 @@
-# Variáveis e Tipos - Como armazenar dados.
-puts "Variáveis e Tipos - Como armazenar dados."
+// PHP - Variáveis e Tipos - Como armazenar dados.
+<?php
+echo "Variáveis e Tipos - Como armazenar dados.\n";
+?>

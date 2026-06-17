@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
+// TYPESCRIPT - Controle de Fluxo - Estruturas condicionais (se/então).
 console.log("Controle de Fluxo - Estruturas condicionais (se/então).");

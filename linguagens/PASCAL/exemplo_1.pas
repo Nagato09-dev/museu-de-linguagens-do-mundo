@@ -1,2 +1,5 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+// PASCAL - Olá Mundo - O básico de qualquer linguagem.
+program Main;
+begin
+    writeln('Olá Mundo - O básico de qualquer linguagem.');
+end.

@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+# CARBON - Variáveis e Tipos - Como armazenar dados.
+print("Variáveis e Tipos - Como armazenar dados.")

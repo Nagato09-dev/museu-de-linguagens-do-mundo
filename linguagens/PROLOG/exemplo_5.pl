@@ -1,2 +1,4 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+% PROLOG - Funções - Criando blocos de código reutilizáveis.
+main :-
+    write('Funções - Criando blocos de código reutilizáveis.'), nl.
+    halt.

@@ -1,2 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+" SMALLTALK - Manipulação de Strings - Trabalhando com textos. "
+Transcript show: 'Manipulação de Strings - Trabalhando com textos.'; cr.

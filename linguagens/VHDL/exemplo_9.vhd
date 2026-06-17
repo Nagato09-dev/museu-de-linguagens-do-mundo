@@ -1,2 +1,6 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+// VHDL - Matemática - Operações aritméticas básicas.
+module main;
+  initial begin
+    $display("Matemática - Operações aritméticas básicas.");
+  end
+endmodule

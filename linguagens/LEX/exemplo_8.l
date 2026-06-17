@@ -1,2 +1,5 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+// LEX - Manipulação de Strings - Trabalhando com textos.
+int main() {
+    printf("Manipulação de Strings - Trabalhando com textos.\n");
+    return 0;
+}

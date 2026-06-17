@@ -1,2 +1,5 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+// LEX - Funções - Criando blocos de código reutilizáveis.
+int main() {
+    printf("Funções - Criando blocos de código reutilizáveis.\n");
+    return 0;
+}

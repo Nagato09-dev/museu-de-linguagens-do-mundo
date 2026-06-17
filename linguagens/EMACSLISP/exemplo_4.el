@@ -1,2 +1,2 @@
-;; Loops - Repetindo tarefas com para/enquanto.
+;; EMACSLISP - Loops - Repetindo tarefas com para/enquanto.
 (print "Loops - Repetindo tarefas com para/enquanto.")

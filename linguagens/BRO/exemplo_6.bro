@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+# BRO - Estruturas de Dados - Listas, Vetores ou Mapas.
+print("Estruturas de Dados - Listas, Vetores ou Mapas.")

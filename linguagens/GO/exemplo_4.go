@@ -1,4 +1,4 @@
-// Loops - Repetindo tarefas com para/enquanto.
+// GO - Loops - Repetindo tarefas com para/enquanto.
 package main
 import "fmt"
 func main() {

@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+# GLEAM - Estruturas de Dados - Listas, Vetores ou Mapas.
+print("Estruturas de Dados - Listas, Vetores ou Mapas.")

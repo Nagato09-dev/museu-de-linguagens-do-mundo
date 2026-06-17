@@ -1,4 +1,4 @@
-/* Tratamento de Erros - Lidando com exceções e falhas. */
+/* CARTOCSS - Tratamento de Erros - Lidando com exceções e falhas. */
 .example {
     content: 'Tratamento de Erros - Lidando com exceções e falhas.';
 }

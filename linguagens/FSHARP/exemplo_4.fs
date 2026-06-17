@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+(* FSHARP - Loops - Repetindo tarefas com para/enquanto. *)
+print_endline "Loops - Repetindo tarefas com para/enquanto.";;

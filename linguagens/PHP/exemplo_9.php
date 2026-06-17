@@ -1,2 +1,4 @@
-# Matemática - Operações aritméticas básicas.
-puts "Matemática - Operações aritméticas básicas."
+// PHP - Matemática - Operações aritméticas básicas.
+<?php
+echo "Matemática - Operações aritméticas básicas.\n";
+?>

@@ -1,2 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+" SMALLTALK - Olá Mundo - O básico de qualquer linguagem. "
+Transcript show: 'Olá Mundo - O básico de qualquer linguagem.'; cr.

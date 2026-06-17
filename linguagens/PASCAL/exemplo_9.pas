@@ -1,2 +1,5 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+// PASCAL - Matemática - Operações aritméticas básicas.
+program Main;
+begin
+    writeln('Matemática - Operações aritméticas básicas.');
+end.

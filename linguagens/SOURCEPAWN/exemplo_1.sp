@@ -1,2 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+# SOURCEPAWN - Olá Mundo - O básico de qualquer linguagem.
+print("Olá Mundo - O básico de qualquer linguagem.")

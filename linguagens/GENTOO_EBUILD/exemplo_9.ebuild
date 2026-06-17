@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+# GENTOO_EBUILD - Matemática - Operações aritméticas básicas.
+echo "Matemática - Operações aritméticas básicas."

@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+# TI_PROGRAM - Tratamento de Erros - Lidando com exceções e falhas.
+print("Tratamento de Erros - Lidando com exceções e falhas.")

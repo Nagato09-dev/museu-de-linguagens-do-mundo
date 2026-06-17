@@ -1,2 +1,3 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+REM DIGITAL_COMMAND_LANGUAGE - Manipulação de Strings - Trabalhando com textos.
+@echo off
+    echo Manipulação de Strings - Trabalhando com textos.

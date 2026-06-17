@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+# GAME_MAKER_LANGUAGE - Funções - Criando blocos de código reutilizáveis.
+print("Funções - Criando blocos de código reutilizáveis.")

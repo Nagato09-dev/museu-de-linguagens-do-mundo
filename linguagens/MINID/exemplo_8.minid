@@ -1,2 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+# MINID - Manipulação de Strings - Trabalhando com textos.
+print("Manipulação de Strings - Trabalhando com textos.")

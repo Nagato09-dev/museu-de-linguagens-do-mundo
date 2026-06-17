@@ -1,2 +1,5 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+// COMPONENT_PASCAL - Estruturas de Dados - Listas, Vetores ou Mapas.
+program Main;
+begin
+    writeln('Estruturas de Dados - Listas, Vetores ou Mapas.');
+end.

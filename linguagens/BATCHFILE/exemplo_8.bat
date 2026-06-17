@@ -1,3 +1,3 @@
-# Manipulação de Strings - Trabalhando com textos.
-#!/bin/bash
-    echo "Manipulação de Strings - Trabalhando com textos."
+REM BATCHFILE - Manipulação de Strings - Trabalhando com textos.
+@echo off
+    echo Manipulação de Strings - Trabalhando com textos.

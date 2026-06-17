@@ -1,2 +1,4 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+% PROLOG - Olá Mundo - O básico de qualquer linguagem.
+main :-
+    write('Olá Mundo - O básico de qualquer linguagem.'), nl.
+    halt.

@@ -1,2 +1,5 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+// MODULA_2 - Estruturas de Dados - Listas, Vetores ou Mapas.
+program Main;
+begin
+    writeln('Estruturas de Dados - Listas, Vetores ou Mapas.');
+end.

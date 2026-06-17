@@ -1,2 +1,5 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+// ADA - Loops - Repetindo tarefas com para/enquanto.
+program Main;
+begin
+    writeln('Loops - Repetindo tarefas com para/enquanto.');
+end.

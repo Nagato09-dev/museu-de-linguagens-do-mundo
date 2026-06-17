@@ -1,2 +1,4 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+// HACK - Controle de Fluxo - Estruturas condicionais (se/então).
+<?php
+echo "Controle de Fluxo - Estruturas condicionais (se/então).\n";
+?>

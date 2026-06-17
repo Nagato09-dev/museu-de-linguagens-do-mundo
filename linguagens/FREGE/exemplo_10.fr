@@ -1,2 +1,4 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+-- FREGE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+main :: IO ()
+main = do
+    putStrLn "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."

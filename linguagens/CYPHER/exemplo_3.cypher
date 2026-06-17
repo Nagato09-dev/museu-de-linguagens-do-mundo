@@ -1,2 +1,2 @@
--- Controle de Fluxo - Estruturas condicionais (se/então).
+-- CYPHER - Controle de Fluxo - Estruturas condicionais (se/então).
 SELECT 'Controle de Fluxo - Estruturas condicionais (se/então).';

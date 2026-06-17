@@ -1,4 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-nome='Manus'
-idade=1
-echo "$nome tem $idade ano(s)"
+# SHELL - Variáveis e Tipos - Como armazenar dados.
+print("Variáveis e Tipos - Como armazenar dados.")

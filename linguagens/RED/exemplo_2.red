@@ -1,2 +1,2 @@
-# Variáveis e Tipos - Como armazenar dados.
-puts "Variáveis e Tipos - Como armazenar dados."
+# RED - Variáveis e Tipos - Como armazenar dados.
+print("Variáveis e Tipos - Como armazenar dados.")

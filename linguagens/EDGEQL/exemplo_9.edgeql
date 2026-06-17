@@ -1,2 +1,2 @@
--- Matemática - Operações aritméticas básicas.
+-- EDGEQL - Matemática - Operações aritméticas básicas.
 SELECT 'Matemática - Operações aritméticas básicas.';

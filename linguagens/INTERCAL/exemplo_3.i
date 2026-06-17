@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-// Controle de Fluxo - Estruturas condicionais (se/então).
+# INTERCAL - Controle de Fluxo - Estruturas condicionais (se/então).
+print("Controle de Fluxo - Estruturas condicionais (se/então).")

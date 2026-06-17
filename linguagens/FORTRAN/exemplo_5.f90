@@ -1,2 +1,4 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+! FORTRAN - Funções - Criando blocos de código reutilizáveis.
+PROGRAM MAIN
+    PRINT *, "Funções - Criando blocos de código reutilizáveis."
+END PROGRAM MAIN

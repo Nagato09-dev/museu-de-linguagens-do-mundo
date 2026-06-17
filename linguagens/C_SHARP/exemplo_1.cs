@@ -1,2 +1,7 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+// C_SHARP - Olá Mundo - O básico de qualquer linguagem.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Olá Mundo - O básico de qualquer linguagem.");
+    }
+}

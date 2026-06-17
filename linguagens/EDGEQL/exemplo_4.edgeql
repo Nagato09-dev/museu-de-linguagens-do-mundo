@@ -1,2 +1,2 @@
--- Loops - Repetindo tarefas com para/enquanto.
+-- EDGEQL - Loops - Repetindo tarefas com para/enquanto.
 SELECT 'Loops - Repetindo tarefas com para/enquanto.';

@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-// Funções - Criando blocos de código reutilizáveis.
+# WHITESPACE - Funções - Criando blocos de código reutilizáveis.
+print("Funções - Criando blocos de código reutilizáveis.")

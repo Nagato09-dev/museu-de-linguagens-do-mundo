@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+# HCL - Funções - Criando blocos de código reutilizáveis.
+print("Funções - Criando blocos de código reutilizáveis.")

@@ -1,2 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+# GENTOO - Manipulação de Strings - Trabalhando com textos.
+echo "Manipulação de Strings - Trabalhando com textos."

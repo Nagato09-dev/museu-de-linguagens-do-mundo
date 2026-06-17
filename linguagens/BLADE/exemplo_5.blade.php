@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+# BLADE - Funções - Criando blocos de código reutilizáveis.
+print("Funções - Criando blocos de código reutilizáveis.")

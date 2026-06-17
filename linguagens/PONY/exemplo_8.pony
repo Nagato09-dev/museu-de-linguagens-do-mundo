@@ -1,5 +1,3 @@
-// Manipulação de Strings - Trabalhando com textos.
+// PONY - Manipulação de Strings - Trabalhando com textos.
 actor Main is new create(env: Env) =>
-  let s1 = "Olá"
-  let s2 = "Mundo"
-  env.out.print(s1 + ", " + s2 + "!")
+env.out.print("Manipulação de Strings - Trabalhando com textos.")

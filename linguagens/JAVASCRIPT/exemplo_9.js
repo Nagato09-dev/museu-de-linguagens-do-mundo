@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log(Math.sqrt(16));
+// JAVASCRIPT - Matemática - Operações aritméticas básicas.
+console.log("Matemática - Operações aritméticas básicas.");

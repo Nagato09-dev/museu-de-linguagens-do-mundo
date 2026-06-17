@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+# C_SHELL - Controle de Fluxo - Estruturas condicionais (se/então).
+echo "Controle de Fluxo - Estruturas condicionais (se/então)."

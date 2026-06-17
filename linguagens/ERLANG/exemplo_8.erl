@@ -1,2 +1,5 @@
-# Manipulação de Strings - Trabalhando com textos.
-puts "Manipulação de Strings - Trabalhando com textos."
+% ERLANG - Manipulação de Strings - Trabalhando com textos.
+-module(main).
+-export([start/0]).
+start() ->
+    io:format("Manipulação de Strings - Trabalhando com textos.~n").

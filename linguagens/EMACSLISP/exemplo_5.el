@@ -1,2 +1,2 @@
-;; Funções - Criando blocos de código reutilizáveis.
+;; EMACSLISP - Funções - Criando blocos de código reutilizáveis.
 (print "Funções - Criando blocos de código reutilizáveis.")

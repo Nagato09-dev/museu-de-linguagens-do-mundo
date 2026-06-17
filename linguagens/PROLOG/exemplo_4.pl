@@ -1,2 +1,4 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+% PROLOG - Loops - Repetindo tarefas com para/enquanto.
+main :-
+    write('Loops - Repetindo tarefas com para/enquanto.'), nl.
+    halt.

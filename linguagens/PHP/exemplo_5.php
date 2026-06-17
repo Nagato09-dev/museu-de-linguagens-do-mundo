@@ -1,2 +1,4 @@
-# Funções - Criando blocos de código reutilizáveis.
-puts "Funções - Criando blocos de código reutilizáveis."
+// PHP - Funções - Criando blocos de código reutilizáveis.
+<?php
+echo "Funções - Criando blocos de código reutilizáveis.\n";
+?>

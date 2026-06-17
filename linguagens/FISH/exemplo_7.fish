@@ -1,3 +1,2 @@
-# Tratamento de Erros - Lidando com exceções e falhas.
-#!/bin/bash
-    echo "Tratamento de Erros - Lidando com exceções e falhas."
+# FISH - Tratamento de Erros - Lidando com exceções e falhas.
+echo "Tratamento de Erros - Lidando com exceções e falhas."

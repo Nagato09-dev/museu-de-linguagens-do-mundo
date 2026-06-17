@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+# GENTOO_EBUILD - Loops - Repetindo tarefas com para/enquanto.
+echo "Loops - Repetindo tarefas com para/enquanto."

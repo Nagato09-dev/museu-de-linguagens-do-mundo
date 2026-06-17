@@ -1,2 +1,5 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+// AWK - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+int main() {
+    printf("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n");
+    return 0;
+}

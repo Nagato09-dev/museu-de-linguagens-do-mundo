@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+\ FACTOR - Funções - Criando blocos de código reutilizáveis.
+." Funções - Criando blocos de código reutilizáveis." CR

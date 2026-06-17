@@ -1,2 +1,4 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+// HACK - Matemática - Operações aritméticas básicas.
+<?php
+echo "Matemática - Operações aritméticas básicas.\n";
+?>

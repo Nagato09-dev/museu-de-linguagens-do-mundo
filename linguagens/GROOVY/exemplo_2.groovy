@@ -1,2 +1,6 @@
-# Variáveis e Tipos - Como armazenar dados.
-puts "Variáveis e Tipos - Como armazenar dados."
+// GROOVY - Variáveis e Tipos - Como armazenar dados.
+public class Main {
+    public static void main(String[] args) {
+    System.out.println("Variáveis e Tipos - Como armazenar dados.");
+    }
+}

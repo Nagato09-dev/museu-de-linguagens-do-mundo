@@ -1,2 +1,4 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+! FLANG - Variáveis e Tipos - Como armazenar dados.
+PROGRAM MAIN
+    PRINT *, "Variáveis e Tipos - Como armazenar dados."
+END PROGRAM MAIN

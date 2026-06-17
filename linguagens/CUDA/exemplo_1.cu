@@ -1,5 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-int main() {
-    printf("Olá Mundo - O básico de qualquer linguagem.\n");
-    return 0;
-}
+# CUDA - Olá Mundo - O básico de qualquer linguagem.
+print("Olá Mundo - O básico de qualquer linguagem.")

@@ -1,5 +1,7 @@
-// Matemática - Operações aritméticas básicas.
-int main() {
-    printf("Matemática - Operações aritméticas básicas.\n");
-    return 0;
+// CSHARP - Matemática - Operações aritméticas básicas.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Matemática - Operações aritméticas básicas.");
+    }
 }

@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+# BITBAKE - Loops - Repetindo tarefas com para/enquanto.
+echo "Loops - Repetindo tarefas com para/enquanto."

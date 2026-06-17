@@ -1,2 +1,2 @@
-# Tratamento de Erros - Lidando com exceções e falhas.
-puts "Tratamento de Erros - Lidando com exceções e falhas."
+# RED - Tratamento de Erros - Lidando com exceções e falhas.
+print("Tratamento de Erros - Lidando com exceções e falhas.")

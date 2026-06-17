@@ -1,5 +1,7 @@
-// Variáveis e Tipos - Como armazenar dados.
-int main() {
-    printf("Variáveis e Tipos - Como armazenar dados.\n");
-    return 0;
+// CSHARP - Variáveis e Tipos - Como armazenar dados.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Variáveis e Tipos - Como armazenar dados.");
+    }
 }

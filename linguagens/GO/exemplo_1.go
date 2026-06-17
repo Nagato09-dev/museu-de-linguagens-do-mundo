@@ -1,4 +1,4 @@
-// Olá Mundo - O básico de qualquer linguagem.
+// GO - Olá Mundo - O básico de qualquer linguagem.
 package main
 import "fmt"
 func main() {

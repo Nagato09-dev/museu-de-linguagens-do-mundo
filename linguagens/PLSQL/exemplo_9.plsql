@@ -1,2 +1,2 @@
--- Matemática - Operações aritméticas básicas.
+-- PLSQL - Matemática - Operações aritméticas básicas.
 SELECT 'Matemática - Operações aritméticas básicas.';

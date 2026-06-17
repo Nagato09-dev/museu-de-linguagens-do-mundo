@@ -1,2 +1,2 @@
-;; Variáveis e Tipos - Como armazenar dados.
+;; SCHEME - Variáveis e Tipos - Como armazenar dados.
 (print "Variáveis e Tipos - Como armazenar dados.")

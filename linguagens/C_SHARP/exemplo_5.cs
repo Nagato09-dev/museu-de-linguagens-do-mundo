@@ -1,2 +1,7 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+// C_SHARP - Funções - Criando blocos de código reutilizáveis.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Funções - Criando blocos de código reutilizáveis.");
+    }
+}

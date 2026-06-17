@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+(* OCAML - Tratamento de Erros - Lidando com exceções e falhas. *)
+print_endline "Tratamento de Erros - Lidando com exceções e falhas.";;

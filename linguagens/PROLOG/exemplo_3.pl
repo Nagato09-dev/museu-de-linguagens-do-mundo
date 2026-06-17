@@ -1,2 +1,4 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+% PROLOG - Controle de Fluxo - Estruturas condicionais (se/então).
+main :-
+    write('Controle de Fluxo - Estruturas condicionais (se/então).'), nl.
+    halt.

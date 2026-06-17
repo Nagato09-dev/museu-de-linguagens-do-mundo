@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+# NEXTFLOW - Estruturas de Dados - Listas, Vetores ou Mapas.
+print("Estruturas de Dados - Listas, Vetores ou Mapas.")

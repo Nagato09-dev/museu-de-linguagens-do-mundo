@@ -1,6 +1,6 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-public class Exemplo{num_exemplo} {
+// JAVA - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+    System.out.println("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
     }
 }

@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+' BLITZMAX - Variáveis e Tipos - Como armazenar dados.
+PRINT "Variáveis e Tipos - Como armazenar dados."

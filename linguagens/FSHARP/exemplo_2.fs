@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+(* FSHARP - Variáveis e Tipos - Como armazenar dados. *)
+print_endline "Variáveis e Tipos - Como armazenar dados.";;

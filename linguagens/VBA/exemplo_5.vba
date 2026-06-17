@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+' VBA - Funções - Criando blocos de código reutilizáveis.
+PRINT "Funções - Criando blocos de código reutilizáveis."

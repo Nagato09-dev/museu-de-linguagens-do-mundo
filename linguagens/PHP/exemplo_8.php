@@ -1,2 +1,4 @@
-# Manipulação de Strings - Trabalhando com textos.
-puts "Manipulação de Strings - Trabalhando com textos."
+// PHP - Manipulação de Strings - Trabalhando com textos.
+<?php
+echo "Manipulação de Strings - Trabalhando com textos.\n";
+?>

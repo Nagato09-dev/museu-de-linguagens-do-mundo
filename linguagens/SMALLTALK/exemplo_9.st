@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+" SMALLTALK - Matemática - Operações aritméticas básicas. "
+Transcript show: 'Matemática - Operações aritméticas básicas.'; cr.

@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+;; COMMON_LISP - Loops - Repetindo tarefas com para/enquanto.
+(print "Loops - Repetindo tarefas com para/enquanto.")

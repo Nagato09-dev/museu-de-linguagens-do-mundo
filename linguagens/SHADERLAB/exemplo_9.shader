@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+# SHADERLAB - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

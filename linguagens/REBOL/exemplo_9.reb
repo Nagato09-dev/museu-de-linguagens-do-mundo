@@ -1,2 +1,2 @@
-# Matemática - Operações aritméticas básicas.
-puts "Matemática - Operações aritméticas básicas."
+# REBOL - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

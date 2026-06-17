@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+# COQ_PROOF - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

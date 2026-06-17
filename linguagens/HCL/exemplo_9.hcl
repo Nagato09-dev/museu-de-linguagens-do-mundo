@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+# HCL - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

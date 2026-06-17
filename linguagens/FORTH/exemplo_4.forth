@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+\ FORTH - Loops - Repetindo tarefas com para/enquanto.
+." Loops - Repetindo tarefas com para/enquanto." CR

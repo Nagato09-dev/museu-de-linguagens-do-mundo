@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+\ FORTH - Estruturas de Dados - Listas, Vetores ou Mapas.
+." Estruturas de Dados - Listas, Vetores ou Mapas." CR

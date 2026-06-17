@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+\ FORTH - Tratamento de Erros - Lidando com exceções e falhas.
+." Tratamento de Erros - Lidando com exceções e falhas." CR

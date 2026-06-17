@@ -1,2 +1,2 @@
-;; Matemática - Operações aritméticas básicas.
+;; COMMONLISP - Matemática - Operações aritméticas básicas.
 (print "Matemática - Operações aritméticas básicas.")

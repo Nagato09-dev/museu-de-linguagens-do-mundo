@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+# GENTOO - Variáveis e Tipos - Como armazenar dados.
+echo "Variáveis e Tipos - Como armazenar dados."

@@ -1,3 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-texto='Olá, Mundo'
-echo "${texto^^}" # Converte para maiúsculas
+# SHELL - Manipulação de Strings - Trabalhando com textos.
+print("Manipulação de Strings - Trabalhando com textos.")

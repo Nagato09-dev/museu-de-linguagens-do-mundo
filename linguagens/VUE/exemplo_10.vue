@@ -1,2 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+<!-- VUE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). -->
+<div>Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).</div>

@@ -1,5 +1,7 @@
-// Olá Mundo - O básico de qualquer linguagem.
-int main() {
-    printf("Olá Mundo - O básico de qualquer linguagem.\n");
-    return 0;
+// C# - Olá Mundo - O básico de qualquer linguagem.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Olá Mundo - O básico de qualquer linguagem.");
+    }
 }

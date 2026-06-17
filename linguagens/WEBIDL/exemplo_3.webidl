@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
+// WEBIDL - Controle de Fluxo - Estruturas condicionais (se/então).
 console.log("Controle de Fluxo - Estruturas condicionais (se/então).");

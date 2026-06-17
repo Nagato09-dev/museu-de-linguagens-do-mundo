@@ -1,2 +1,7 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+// C_SHARP - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+    }
+}

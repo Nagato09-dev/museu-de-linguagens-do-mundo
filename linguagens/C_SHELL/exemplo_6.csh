@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+# C_SHELL - Estruturas de Dados - Listas, Vetores ou Mapas.
+echo "Estruturas de Dados - Listas, Vetores ou Mapas."

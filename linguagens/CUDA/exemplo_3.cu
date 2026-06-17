@@ -1,5 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-int main() {
-    printf("Controle de Fluxo - Estruturas condicionais (se/então).\n");
-    return 0;
-}
+# CUDA - Controle de Fluxo - Estruturas condicionais (se/então).
+print("Controle de Fluxo - Estruturas condicionais (se/então).")

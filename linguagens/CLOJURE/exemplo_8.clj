@@ -1,2 +1,2 @@
-;; Manipulação de Strings - Trabalhando com textos.
+;; CLOJURE - Manipulação de Strings - Trabalhando com textos.
 (print "Manipulação de Strings - Trabalhando com textos.")

@@ -1,2 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+(* F_SHARP - Olá Mundo - O básico de qualquer linguagem. *)
+print_endline "Olá Mundo - O básico de qualquer linguagem.";;

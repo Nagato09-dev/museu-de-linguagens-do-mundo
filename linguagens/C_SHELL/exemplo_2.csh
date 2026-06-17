@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+# C_SHELL - Variáveis e Tipos - Como armazenar dados.
+echo "Variáveis e Tipos - Como armazenar dados."

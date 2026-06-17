@@ -1,5 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-int main() {
-    printf("Funções - Criando blocos de código reutilizáveis.\n");
-    return 0;
-}
+# VALA - Funções - Criando blocos de código reutilizáveis.
+print("Funções - Criando blocos de código reutilizáveis.")

@@ -1,2 +1,4 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+-- IDRIS - Matemática - Operações aritméticas básicas.
+main :: IO ()
+main = do
+    putStrLn "Matemática - Operações aritméticas básicas."

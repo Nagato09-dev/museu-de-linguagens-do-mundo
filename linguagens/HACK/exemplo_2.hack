@@ -1,2 +1,4 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+// HACK - Variáveis e Tipos - Como armazenar dados.
+<?php
+echo "Variáveis e Tipos - Como armazenar dados.\n";
+?>

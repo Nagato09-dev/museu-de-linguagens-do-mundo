@@ -1,2 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+' HARBOUR - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+PRINT "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."

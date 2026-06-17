@@ -1,2 +1,4 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+// HACK - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+<?php
+echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n";
+?>

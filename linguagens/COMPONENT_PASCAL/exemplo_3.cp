@@ -1,2 +1,5 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+// COMPONENT_PASCAL - Controle de Fluxo - Estruturas condicionais (se/então).
+program Main;
+begin
+    writeln('Controle de Fluxo - Estruturas condicionais (se/então).');
+end.

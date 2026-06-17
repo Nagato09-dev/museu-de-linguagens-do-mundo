@@ -1,3 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-saudacao() { echo "Olá, $1"; }
-saudacao 'Mundo'
+# SHELL - Funções - Criando blocos de código reutilizáveis.
+print("Funções - Criando blocos de código reutilizáveis.")

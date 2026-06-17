@@ -1,2 +1,4 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+-- HASKELL - Olá Mundo - O básico de qualquer linguagem.
+main :: IO ()
+main = do
+    putStrLn "Olá Mundo - O básico de qualquer linguagem."

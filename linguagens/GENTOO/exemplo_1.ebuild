@@ -1,2 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+# GENTOO - Olá Mundo - O básico de qualquer linguagem.
+echo "Olá Mundo - O básico de qualquer linguagem."

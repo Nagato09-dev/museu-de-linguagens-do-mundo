@@ -1,2 +1,5 @@
-# Olá Mundo - O básico de qualquer linguagem.
-puts "Olá Mundo - O básico de qualquer linguagem."
+% ERLANG - Olá Mundo - O básico de qualquer linguagem.
+-module(main).
+-export([start/0]).
+start() ->
+    io:format("Olá Mundo - O básico de qualquer linguagem.~n").

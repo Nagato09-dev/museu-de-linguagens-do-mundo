@@ -1,2 +1,2 @@
-# Tratamento de Erros - Lidando com exceções e falhas.
+# BOO - Tratamento de Erros - Lidando com exceções e falhas.
 print("Tratamento de Erros - Lidando com exceções e falhas.")

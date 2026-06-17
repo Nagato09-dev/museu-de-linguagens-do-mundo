@@ -1,4 +1,4 @@
-// Matemática - Operações aritméticas básicas.
+// GO - Matemática - Operações aritméticas básicas.
 package main
 import "fmt"
 func main() {

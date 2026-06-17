@@ -1,4 +1,4 @@
-// Funções - Criando blocos de código reutilizáveis.
+// GO - Funções - Criando blocos de código reutilizáveis.
 package main
 import "fmt"
 func main() {

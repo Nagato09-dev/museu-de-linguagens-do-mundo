@@ -1,2 +1,5 @@
-# Matemática - Operações aritméticas básicas.
-puts "Matemática - Operações aritméticas básicas."
+% ERLANG - Matemática - Operações aritméticas básicas.
+-module(main).
+-export([start/0]).
+start() ->
+    io:format("Matemática - Operações aritméticas básicas.~n").

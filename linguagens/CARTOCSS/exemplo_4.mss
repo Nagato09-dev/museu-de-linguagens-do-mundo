@@ -1,4 +1,4 @@
-/* Loops - Repetindo tarefas com para/enquanto. */
+/* CARTOCSS - Loops - Repetindo tarefas com para/enquanto. */
 .example {
     content: 'Loops - Repetindo tarefas com para/enquanto.';
 }

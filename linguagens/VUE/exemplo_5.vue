@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+<!-- VUE - Funções - Criando blocos de código reutilizáveis. -->
+<div>Funções - Criando blocos de código reutilizáveis.</div>

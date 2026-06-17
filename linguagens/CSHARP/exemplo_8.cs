@@ -1,5 +1,7 @@
-// Manipulação de Strings - Trabalhando com textos.
-int main() {
-    printf("Manipulação de Strings - Trabalhando com textos.\n");
-    return 0;
+// CSHARP - Manipulação de Strings - Trabalhando com textos.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Manipulação de Strings - Trabalhando com textos.");
+    }
 }

@@ -1,2 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+# INFORM_7 - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

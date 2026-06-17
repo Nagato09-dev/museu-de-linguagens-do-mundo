@@ -1,3 +1,2 @@
-# Variáveis e Tipos - Como armazenar dados.
-#!/bin/bash
-    echo "Variáveis e Tipos - Como armazenar dados."
+# KSH - Variáveis e Tipos - Como armazenar dados.
+echo "Variáveis e Tipos - Como armazenar dados."

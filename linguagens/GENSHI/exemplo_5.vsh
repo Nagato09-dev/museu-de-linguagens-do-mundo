@@ -1,2 +1,2 @@
-# Funções - Criando blocos de código reutilizáveis.
+# GENSHI - Funções - Criando blocos de código reutilizáveis.
 print("Funções - Criando blocos de código reutilizáveis.")

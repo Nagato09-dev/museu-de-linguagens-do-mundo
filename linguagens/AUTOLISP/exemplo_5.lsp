@@ -1,2 +1,2 @@
-;; Funções - Criando blocos de código reutilizáveis.
+;; AUTOLISP - Funções - Criando blocos de código reutilizáveis.
 (print "Funções - Criando blocos de código reutilizáveis.")

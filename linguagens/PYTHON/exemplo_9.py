@@ -1,3 +1,2 @@
-# Matemática - Operações aritméticas básicas.
-import math
-print(math.sqrt(16))
+# PYTHON - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

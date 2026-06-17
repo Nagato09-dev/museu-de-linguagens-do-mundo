@@ -1,3 +1,3 @@
-# Matemática - Operações aritméticas básicas.
-#!/bin/bash
-    echo "Matemática - Operações aritméticas básicas."
+REM BATCHFILE - Matemática - Operações aritméticas básicas.
+@echo off
+    echo Matemática - Operações aritméticas básicas.

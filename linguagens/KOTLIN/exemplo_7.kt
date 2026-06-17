@@ -1,2 +1,6 @@
-# Tratamento de Erros - Lidando com exceções e falhas.
-puts "Tratamento de Erros - Lidando com exceções e falhas."
+// KOTLIN - Tratamento de Erros - Lidando com exceções e falhas.
+public class Main {
+    public static void main(String[] args) {
+    System.out.println("Tratamento de Erros - Lidando com exceções e falhas.");
+    }
+}

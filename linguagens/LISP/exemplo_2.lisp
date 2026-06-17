@@ -1,2 +1,2 @@
-;; Variáveis e Tipos - Como armazenar dados.
+;; LISP - Variáveis e Tipos - Como armazenar dados.
 (print "Variáveis e Tipos - Como armazenar dados.")

@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
+// JSX - Matemática - Operações aritméticas básicas.
 console.log("Matemática - Operações aritméticas básicas.");

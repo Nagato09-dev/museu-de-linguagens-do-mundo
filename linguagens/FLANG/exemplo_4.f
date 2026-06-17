@@ -1,2 +1,4 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+! FLANG - Loops - Repetindo tarefas com para/enquanto.
+PROGRAM MAIN
+    PRINT *, "Loops - Repetindo tarefas com para/enquanto."
+END PROGRAM MAIN

@@ -1,2 +1,4 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+-- ELM - Variáveis e Tipos - Como armazenar dados.
+main :: IO ()
+main = do
+    putStrLn "Variáveis e Tipos - Como armazenar dados."

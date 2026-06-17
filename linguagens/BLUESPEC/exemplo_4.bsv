@@ -1,2 +1,6 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+// BLUESPEC - Loops - Repetindo tarefas com para/enquanto.
+module main;
+  initial begin
+    $display("Loops - Repetindo tarefas com para/enquanto.");
+  end
+endmodule

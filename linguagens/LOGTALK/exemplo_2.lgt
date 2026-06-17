@@ -1,2 +1,4 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+% LOGTALK - Variáveis e Tipos - Como armazenar dados.
+main :-
+    write('Variáveis e Tipos - Como armazenar dados.'), nl.
+    halt.

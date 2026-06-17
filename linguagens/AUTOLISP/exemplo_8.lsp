@@ -1,2 +1,2 @@
-;; Manipulação de Strings - Trabalhando com textos.
+;; AUTOLISP - Manipulação de Strings - Trabalhando com textos.
 (print "Manipulação de Strings - Trabalhando com textos.")

@@ -1,2 +1,2 @@
--- Loops - Repetindo tarefas com para/enquanto.
+-- PLSQL - Loops - Repetindo tarefas com para/enquanto.
 SELECT 'Loops - Repetindo tarefas com para/enquanto.';

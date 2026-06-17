@@ -1,3 +1,2 @@
-# Variáveis e Tipos - Como armazenar dados.
-#!/bin/bash
-    echo "Variáveis e Tipos - Como armazenar dados."
+# POWERSHELL - Variáveis e Tipos - Como armazenar dados.
+Write-Host "Variáveis e Tipos - Como armazenar dados."

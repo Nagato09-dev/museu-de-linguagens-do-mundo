@@ -1,2 +1,4 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+// HACK - Tratamento de Erros - Lidando com exceções e falhas.
+<?php
+echo "Tratamento de Erros - Lidando com exceções e falhas.\n";
+?>

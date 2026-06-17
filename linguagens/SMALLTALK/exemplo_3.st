@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+" SMALLTALK - Controle de Fluxo - Estruturas condicionais (se/então). "
+Transcript show: 'Controle de Fluxo - Estruturas condicionais (se/então).'; cr.

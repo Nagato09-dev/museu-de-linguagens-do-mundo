@@ -1,5 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-int main() {
-    printf("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n");
-    return 0;
-}
+# NIM - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

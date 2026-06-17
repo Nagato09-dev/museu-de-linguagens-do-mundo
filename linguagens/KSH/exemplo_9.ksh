@@ -1,3 +1,2 @@
-# Matemática - Operações aritméticas básicas.
-#!/bin/bash
-    echo "Matemática - Operações aritméticas básicas."
+# KSH - Matemática - Operações aritméticas básicas.
+echo "Matemática - Operações aritméticas básicas."

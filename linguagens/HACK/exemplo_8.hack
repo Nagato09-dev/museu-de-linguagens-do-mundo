@@ -1,2 +1,4 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+// HACK - Manipulação de Strings - Trabalhando com textos.
+<?php
+echo "Manipulação de Strings - Trabalhando com textos.\n";
+?>

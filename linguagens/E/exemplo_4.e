@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+# E - Loops - Repetindo tarefas com para/enquanto.
+print("Loops - Repetindo tarefas com para/enquanto.")

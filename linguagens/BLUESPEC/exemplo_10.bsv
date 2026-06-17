@@ -1,2 +1,6 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+// BLUESPEC - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+module main;
+  initial begin
+    $display("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+  end
+endmodule

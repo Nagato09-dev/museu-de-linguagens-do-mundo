@@ -1,2 +1,2 @@
-# Controle de Fluxo - Estruturas condicionais (se/então).
-puts "Controle de Fluxo - Estruturas condicionais (se/então)."
+# CRYSTAL - Controle de Fluxo - Estruturas condicionais (se/então).
+print("Controle de Fluxo - Estruturas condicionais (se/então).")

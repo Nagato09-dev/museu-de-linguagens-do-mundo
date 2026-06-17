@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
+// COFFEESCRIPT - Tratamento de Erros - Lidando com exceções e falhas.
 console.log("Tratamento de Erros - Lidando com exceções e falhas.");

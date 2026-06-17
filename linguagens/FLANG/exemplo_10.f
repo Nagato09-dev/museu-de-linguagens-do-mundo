@@ -1,2 +1,4 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+! FLANG - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+PROGRAM MAIN
+    PRINT *, "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+END PROGRAM MAIN

@@ -1,2 +1,2 @@
-;; Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+;; LISP - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
 (print "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

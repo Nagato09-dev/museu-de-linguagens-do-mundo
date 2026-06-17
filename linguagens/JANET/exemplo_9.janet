@@ -1,2 +1,2 @@
-;; Matemática - Operações aritméticas básicas.
+;; JANET - Matemática - Operações aritméticas básicas.
 (print "Matemática - Operações aritméticas básicas.")

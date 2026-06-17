@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+# BITBAKE - Estruturas de Dados - Listas, Vetores ou Mapas.
+echo "Estruturas de Dados - Listas, Vetores ou Mapas."

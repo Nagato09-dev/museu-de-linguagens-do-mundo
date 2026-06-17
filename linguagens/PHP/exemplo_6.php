@@ -1,2 +1,4 @@
-# Estruturas de Dados - Listas, Vetores ou Mapas.
-puts "Estruturas de Dados - Listas, Vetores ou Mapas."
+// PHP - Estruturas de Dados - Listas, Vetores ou Mapas.
+<?php
+echo "Estruturas de Dados - Listas, Vetores ou Mapas.\n";
+?>

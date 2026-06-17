@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
+// TYPESCRIPT - Variáveis e Tipos - Como armazenar dados.
 console.log("Variáveis e Tipos - Como armazenar dados.");

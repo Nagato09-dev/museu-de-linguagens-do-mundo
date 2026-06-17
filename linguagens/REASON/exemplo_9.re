@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+(* REASON - Matemática - Operações aritméticas básicas. *)
+print_endline "Matemática - Operações aritméticas básicas.";;

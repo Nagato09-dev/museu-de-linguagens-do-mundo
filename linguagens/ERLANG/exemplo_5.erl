@@ -1,2 +1,5 @@
-# Funções - Criando blocos de código reutilizáveis.
-puts "Funções - Criando blocos de código reutilizáveis."
+% ERLANG - Funções - Criando blocos de código reutilizáveis.
+-module(main).
+-export([start/0]).
+start() ->
+    io:format("Funções - Criando blocos de código reutilizáveis.~n").

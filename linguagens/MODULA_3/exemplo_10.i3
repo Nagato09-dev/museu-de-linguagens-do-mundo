@@ -1,2 +1,5 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+// MODULA_3 - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+program Main;
+begin
+    writeln('Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).');
+end.

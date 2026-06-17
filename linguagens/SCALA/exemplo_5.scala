@@ -1,2 +1,6 @@
-# Funções - Criando blocos de código reutilizáveis.
-puts "Funções - Criando blocos de código reutilizáveis."
+// SCALA - Funções - Criando blocos de código reutilizáveis.
+public class Main {
+    public static void main(String[] args) {
+    System.out.println("Funções - Criando blocos de código reutilizáveis.");
+    }
+}

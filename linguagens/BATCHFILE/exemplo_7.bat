@@ -1,3 +1,3 @@
-# Tratamento de Erros - Lidando com exceções e falhas.
-#!/bin/bash
-    echo "Tratamento de Erros - Lidando com exceções e falhas."
+REM BATCHFILE - Tratamento de Erros - Lidando com exceções e falhas.
+@echo off
+    echo Tratamento de Erros - Lidando com exceções e falhas.

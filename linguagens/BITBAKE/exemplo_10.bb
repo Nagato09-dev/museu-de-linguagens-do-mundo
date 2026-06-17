@@ -1,2 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+# BITBAKE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."

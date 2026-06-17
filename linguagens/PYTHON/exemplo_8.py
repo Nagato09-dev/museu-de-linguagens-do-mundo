@@ -1,3 +1,2 @@
-# Manipulação de Strings - Trabalhando com textos.
-texto = 'Olá, Mundo'
-print(texto.upper())
+# PYTHON - Manipulação de Strings - Trabalhando com textos.
+print("Manipulação de Strings - Trabalhando com textos.")

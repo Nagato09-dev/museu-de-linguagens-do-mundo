@@ -1,2 +1,2 @@
-# Manipulação de Strings - Trabalhando com textos.
-puts "Manipulação de Strings - Trabalhando com textos."
+# PERL - Manipulação de Strings - Trabalhando com textos.
+print "Manipulação de Strings - Trabalhando com textos.\n";

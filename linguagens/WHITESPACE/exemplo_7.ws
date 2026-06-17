@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-// Tratamento de Erros - Lidando com exceções e falhas.
+# WHITESPACE - Tratamento de Erros - Lidando com exceções e falhas.
+print("Tratamento de Erros - Lidando com exceções e falhas.")

@@ -1,5 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-int main() {
-    printf("Matemática - Operações aritméticas básicas.\n");
-    return 0;
-}
+# V - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

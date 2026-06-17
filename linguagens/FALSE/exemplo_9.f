@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-// Matemática - Operações aritméticas básicas.
+# FALSE - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

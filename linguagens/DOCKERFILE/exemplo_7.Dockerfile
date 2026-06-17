@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+# DOCKERFILE - Tratamento de Erros - Lidando com exceções e falhas.
+echo "Tratamento de Erros - Lidando com exceções e falhas."

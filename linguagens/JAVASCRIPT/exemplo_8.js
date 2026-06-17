@@ -1,3 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-let texto = 'Olá, Mundo';
-console.log(texto.toUpperCase());
+// JAVASCRIPT - Manipulação de Strings - Trabalhando com textos.
+console.log("Manipulação de Strings - Trabalhando com textos.");

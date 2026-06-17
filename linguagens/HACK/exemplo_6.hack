@@ -1,2 +1,4 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+// HACK - Estruturas de Dados - Listas, Vetores ou Mapas.
+<?php
+echo "Estruturas de Dados - Listas, Vetores ou Mapas.\n";
+?>

@@ -1,2 +1,4 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+! FORTRAN - Estruturas de Dados - Listas, Vetores ou Mapas.
+PROGRAM MAIN
+    PRINT *, "Estruturas de Dados - Listas, Vetores ou Mapas."
+END PROGRAM MAIN

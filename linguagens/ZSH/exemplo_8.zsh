@@ -1,3 +1,2 @@
-# Manipulação de Strings - Trabalhando com textos.
-#!/bin/bash
-    echo "Manipulação de Strings - Trabalhando com textos."
+# ZSH - Manipulação de Strings - Trabalhando com textos.
+echo "Manipulação de Strings - Trabalhando com textos."

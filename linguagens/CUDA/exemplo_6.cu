@@ -1,5 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-int main() {
-    printf("Estruturas de Dados - Listas, Vetores ou Mapas.\n");
-    return 0;
-}
+# CUDA - Estruturas de Dados - Listas, Vetores ou Mapas.
+print("Estruturas de Dados - Listas, Vetores ou Mapas.")

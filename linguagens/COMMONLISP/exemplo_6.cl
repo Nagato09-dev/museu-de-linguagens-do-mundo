@@ -1,2 +1,2 @@
-;; Estruturas de Dados - Listas, Vetores ou Mapas.
+;; COMMONLISP - Estruturas de Dados - Listas, Vetores ou Mapas.
 (print "Estruturas de Dados - Listas, Vetores ou Mapas.")

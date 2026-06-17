@@ -1,2 +1,6 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+* COBOL - Controle de Fluxo - Estruturas condicionais (se/então).
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO.
+PROCEDURE DIVISION.
+        DISPLAY "Controle de Fluxo - Estruturas condicionais (se/então).".
+    STOP RUN.

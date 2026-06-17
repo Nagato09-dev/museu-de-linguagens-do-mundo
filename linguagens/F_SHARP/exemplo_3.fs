@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+(* F_SHARP - Controle de Fluxo - Estruturas condicionais (se/então). *)
+print_endline "Controle de Fluxo - Estruturas condicionais (se/então).";;

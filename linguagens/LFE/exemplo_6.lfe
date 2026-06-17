@@ -1,2 +1,5 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+% LFE - Estruturas de Dados - Listas, Vetores ou Mapas.
+-module(main).
+-export([start/0]).
+start() ->
+    io:format("Estruturas de Dados - Listas, Vetores ou Mapas.~n").

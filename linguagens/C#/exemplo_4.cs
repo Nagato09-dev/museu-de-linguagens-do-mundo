@@ -1,5 +1,7 @@
-// Loops - Repetindo tarefas com para/enquanto.
-int main() {
-    printf("Loops - Repetindo tarefas com para/enquanto.\n");
-    return 0;
+// C# - Loops - Repetindo tarefas com para/enquanto.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Loops - Repetindo tarefas com para/enquanto.");
+    }
 }

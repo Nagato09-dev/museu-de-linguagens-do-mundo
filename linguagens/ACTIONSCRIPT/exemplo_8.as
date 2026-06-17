@@ -1,2 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
+// ACTIONSCRIPT - Manipulação de Strings - Trabalhando com textos.
 console.log("Manipulação de Strings - Trabalhando com textos.");

@@ -1,2 +1,2 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+" SELF - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). "
+Transcript show: 'Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).'; cr.

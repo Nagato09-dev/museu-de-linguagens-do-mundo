@@ -1,3 +1,2 @@
-# Controle de Fluxo - Estruturas condicionais (se/então).
-#!/bin/bash
-    echo "Controle de Fluxo - Estruturas condicionais (se/então)."
+# ZSH - Controle de Fluxo - Estruturas condicionais (se/então).
+echo "Controle de Fluxo - Estruturas condicionais (se/então)."

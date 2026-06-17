@@ -1,2 +1,4 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+% LOGTALK - Estruturas de Dados - Listas, Vetores ou Mapas.
+main :-
+    write('Estruturas de Dados - Listas, Vetores ou Mapas.'), nl.
+    halt.

@@ -1,4 +1,4 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
+// D - Estruturas de Dados - Listas, Vetores ou Mapas.
 int main() {
     printf("Estruturas de Dados - Listas, Vetores ou Mapas.\n");
     return 0;

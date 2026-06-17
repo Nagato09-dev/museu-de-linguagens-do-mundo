@@ -1,2 +1,5 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+// BISON - Variáveis e Tipos - Como armazenar dados.
+int main() {
+    printf("Variáveis e Tipos - Como armazenar dados.\n");
+    return 0;
+}

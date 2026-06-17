@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+" SELF - Funções - Criando blocos de código reutilizáveis. "
+Transcript show: 'Funções - Criando blocos de código reutilizáveis.'; cr.

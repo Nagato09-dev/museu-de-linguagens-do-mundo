@@ -1,2 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-// Manipulação de Strings - Trabalhando com textos.
+# INTERCAL - Manipulação de Strings - Trabalhando com textos.
+print("Manipulação de Strings - Trabalhando com textos.")

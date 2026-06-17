@@ -1,3 +1,2 @@
-# Matemática - Operações aritméticas básicas.
-#!/bin/bash
-    echo "Matemática - Operações aritméticas básicas."
+# BASH - Matemática - Operações aritméticas básicas.
+echo "Matemática - Operações aritméticas básicas."

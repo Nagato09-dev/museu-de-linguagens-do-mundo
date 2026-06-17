@@ -1,5 +1,7 @@
-// Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-int main() {
-    printf("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n");
-    return 0;
+// C# - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+    }
 }

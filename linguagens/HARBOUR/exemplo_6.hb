@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+' HARBOUR - Estruturas de Dados - Listas, Vetores ou Mapas.
+PRINT "Estruturas de Dados - Listas, Vetores ou Mapas."

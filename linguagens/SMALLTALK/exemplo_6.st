@@ -1,2 +1,2 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+" SMALLTALK - Estruturas de Dados - Listas, Vetores ou Mapas. "
+Transcript show: 'Estruturas de Dados - Listas, Vetores ou Mapas.'; cr.

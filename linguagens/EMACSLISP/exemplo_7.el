@@ -1,2 +1,2 @@
-;; Tratamento de Erros - Lidando com exceções e falhas.
+;; EMACSLISP - Tratamento de Erros - Lidando com exceções e falhas.
 (print "Tratamento de Erros - Lidando com exceções e falhas.")

@@ -1,2 +1,4 @@
-# Controle de Fluxo - Estruturas condicionais (se/então).
-puts "Controle de Fluxo - Estruturas condicionais (se/então)."
+// PHP - Controle de Fluxo - Estruturas condicionais (se/então).
+<?php
+echo "Controle de Fluxo - Estruturas condicionais (se/então).\n";
+?>

@@ -1,2 +1,4 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+% PROLOG - Manipulação de Strings - Trabalhando com textos.
+main :-
+    write('Manipulação de Strings - Trabalhando com textos.'), nl.
+    halt.

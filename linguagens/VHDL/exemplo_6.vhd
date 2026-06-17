@@ -1,2 +1,6 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+// VHDL - Estruturas de Dados - Listas, Vetores ou Mapas.
+module main;
+  initial begin
+    $display("Estruturas de Dados - Listas, Vetores ou Mapas.");
+  end
+endmodule

@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+' VISUAL_BASIC - Variáveis e Tipos - Como armazenar dados.
+PRINT "Variáveis e Tipos - Como armazenar dados."

@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-expr 10 + 5
+# SHELL - Matemática - Operações aritméticas básicas.
+print("Matemática - Operações aritméticas básicas.")

@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+(* F_SHARP - Tratamento de Erros - Lidando com exceções e falhas. *)
+print_endline "Tratamento de Erros - Lidando com exceções e falhas.";;

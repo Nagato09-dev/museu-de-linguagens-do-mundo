@@ -1,2 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+' XBASE - Tratamento de Erros - Lidando com exceções e falhas.
+PRINT "Tratamento de Erros - Lidando com exceções e falhas."

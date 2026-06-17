@@ -1,2 +1,4 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+! FLANG - Olá Mundo - O básico de qualquer linguagem.
+PROGRAM MAIN
+    PRINT *, "Olá Mundo - O básico de qualquer linguagem."
+END PROGRAM MAIN

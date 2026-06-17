@@ -1,3 +1,2 @@
-# Funções - Criando blocos de código reutilizáveis.
-#!/bin/bash
-    echo "Funções - Criando blocos de código reutilizáveis."
+# BASH - Funções - Criando blocos de código reutilizáveis.
+echo "Funções - Criando blocos de código reutilizáveis."

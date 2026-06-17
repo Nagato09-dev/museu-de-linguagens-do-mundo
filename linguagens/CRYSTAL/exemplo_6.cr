@@ -1,2 +1,2 @@
-# Estruturas de Dados - Listas, Vetores ou Mapas.
-puts "Estruturas de Dados - Listas, Vetores ou Mapas."
+# CRYSTAL - Estruturas de Dados - Listas, Vetores ou Mapas.
+print("Estruturas de Dados - Listas, Vetores ou Mapas.")

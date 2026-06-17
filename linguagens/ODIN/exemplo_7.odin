@@ -1,5 +1,2 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-int main() {
-    printf("Tratamento de Erros - Lidando com exceções e falhas.\n");
-    return 0;
-}
+# ODIN - Tratamento de Erros - Lidando com exceções e falhas.
+print("Tratamento de Erros - Lidando com exceções e falhas.")

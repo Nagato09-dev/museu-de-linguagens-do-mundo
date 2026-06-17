@@ -1,2 +1,4 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+// HACK - Loops - Repetindo tarefas com para/enquanto.
+<?php
+echo "Loops - Repetindo tarefas com para/enquanto.\n";
+?>

@@ -1,2 +1,5 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+// ADA - Funções - Criando blocos de código reutilizáveis.
+program Main;
+begin
+    writeln('Funções - Criando blocos de código reutilizáveis.');
+end.

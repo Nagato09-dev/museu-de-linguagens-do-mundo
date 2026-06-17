@@ -1,2 +1,2 @@
-# Funções - Criando blocos de código reutilizáveis.
-puts "Funções - Criando blocos de código reutilizáveis."
+# RING - Funções - Criando blocos de código reutilizáveis.
+print("Funções - Criando blocos de código reutilizáveis.")

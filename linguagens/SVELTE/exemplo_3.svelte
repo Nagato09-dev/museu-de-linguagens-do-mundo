@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+<!-- SVELTE - Controle de Fluxo - Estruturas condicionais (se/então). -->
+<div>Controle de Fluxo - Estruturas condicionais (se/então).</div>

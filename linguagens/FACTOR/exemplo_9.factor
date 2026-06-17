@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+\ FACTOR - Matemática - Operações aritméticas básicas.
+." Matemática - Operações aritméticas básicas." CR

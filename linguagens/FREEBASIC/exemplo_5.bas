@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+' FREEBASIC - Funções - Criando blocos de código reutilizáveis.
+PRINT "Funções - Criando blocos de código reutilizáveis."

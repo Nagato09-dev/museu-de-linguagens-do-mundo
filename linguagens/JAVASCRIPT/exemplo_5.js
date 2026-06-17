@@ -1,5 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-function saudacao(nome) {
-    return `Olá, ${nome}`;
-}
-console.log(saudacao('Mundo'));
+// JAVASCRIPT - Funções - Criando blocos de código reutilizáveis.
+console.log("Funções - Criando blocos de código reutilizáveis.");

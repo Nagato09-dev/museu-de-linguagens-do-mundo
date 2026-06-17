@@ -1,2 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+\ FORTH - Olá Mundo - O básico de qualquer linguagem.
+." Olá Mundo - O básico de qualquer linguagem." CR

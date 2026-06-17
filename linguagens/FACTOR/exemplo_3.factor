@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+\ FACTOR - Controle de Fluxo - Estruturas condicionais (se/então).
+." Controle de Fluxo - Estruturas condicionais (se/então)." CR

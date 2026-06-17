@@ -1,2 +1,2 @@
-# Olá Mundo - O básico de qualquer linguagem.
-puts "Olá Mundo - O básico de qualquer linguagem."
+# PERL - Olá Mundo - O básico de qualquer linguagem.
+print "Olá Mundo - O básico de qualquer linguagem.\n";

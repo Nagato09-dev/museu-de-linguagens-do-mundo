@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+<!-- SVELTE - Variáveis e Tipos - Como armazenar dados. -->
+<div>Variáveis e Tipos - Como armazenar dados.</div>

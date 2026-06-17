@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
+// TYPESCRIPT - Loops - Repetindo tarefas com para/enquanto.
 console.log("Loops - Repetindo tarefas com para/enquanto.");

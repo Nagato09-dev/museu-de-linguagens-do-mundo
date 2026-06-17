@@ -1,6 +1,6 @@
-// Funções - Criando blocos de código reutilizáveis.
-public class Exemplo{num_exemplo} {
+// JAVA - Funções - Criando blocos de código reutilizáveis.
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Funções - Criando blocos de código reutilizáveis.");
+    System.out.println("Funções - Criando blocos de código reutilizáveis.");
     }
 }

@@ -1,4 +1,4 @@
-/* Manipulação de Strings - Trabalhando com textos. */
+/* CARTOCSS - Manipulação de Strings - Trabalhando com textos. */
 .example {
     content: 'Manipulação de Strings - Trabalhando com textos.';
 }

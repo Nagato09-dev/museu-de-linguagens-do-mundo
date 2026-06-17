@@ -1,2 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+' BLITZMAX - Olá Mundo - O básico de qualquer linguagem.
+PRINT "Olá Mundo - O básico de qualquer linguagem."

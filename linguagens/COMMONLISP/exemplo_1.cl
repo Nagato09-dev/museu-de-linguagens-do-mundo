@@ -1,2 +1,2 @@
-;; Olá Mundo - O básico de qualquer linguagem.
+;; COMMONLISP - Olá Mundo - O básico de qualquer linguagem.
 (print "Olá Mundo - O básico de qualquer linguagem.")

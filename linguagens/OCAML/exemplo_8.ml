@@ -1,2 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+(* OCAML - Manipulação de Strings - Trabalhando com textos. *)
+print_endline "Manipulação de Strings - Trabalhando com textos.";;

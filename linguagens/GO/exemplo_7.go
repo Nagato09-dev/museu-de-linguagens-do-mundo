@@ -1,4 +1,4 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
+// GO - Tratamento de Erros - Lidando com exceções e falhas.
 package main
 import "fmt"
 func main() {

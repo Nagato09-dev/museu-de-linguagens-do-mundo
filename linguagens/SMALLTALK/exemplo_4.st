@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+" SMALLTALK - Loops - Repetindo tarefas com para/enquanto. "
+Transcript show: 'Loops - Repetindo tarefas com para/enquanto.'; cr.

@@ -1,2 +1,5 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+// BISON - Tratamento de Erros - Lidando com exceções e falhas.
+int main() {
+    printf("Tratamento de Erros - Lidando com exceções e falhas.\n");
+    return 0;
+}

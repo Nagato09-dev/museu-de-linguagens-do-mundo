@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
+// COFFEESCRIPT - Matemática - Operações aritméticas básicas.
 console.log("Matemática - Operações aritméticas básicas.");

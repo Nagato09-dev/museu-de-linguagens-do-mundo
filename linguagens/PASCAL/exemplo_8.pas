@@ -1,2 +1,5 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+// PASCAL - Manipulação de Strings - Trabalhando com textos.
+program Main;
+begin
+    writeln('Manipulação de Strings - Trabalhando com textos.');
+end.

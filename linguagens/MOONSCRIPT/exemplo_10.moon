@@ -1,2 +1,2 @@
-# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-puts "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+# MOONSCRIPT - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

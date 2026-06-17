@@ -1,2 +1,2 @@
-;; Tratamento de Erros - Lidando com exceções e falhas.
+;; RACKET - Tratamento de Erros - Lidando com exceções e falhas.
 (print "Tratamento de Erros - Lidando com exceções e falhas.")

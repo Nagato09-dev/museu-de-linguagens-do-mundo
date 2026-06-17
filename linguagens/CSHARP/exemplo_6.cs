@@ -1,5 +1,7 @@
-// Estruturas de Dados - Listas, Vetores ou Mapas.
-int main() {
-    printf("Estruturas de Dados - Listas, Vetores ou Mapas.\n");
-    return 0;
+// CSHARP - Estruturas de Dados - Listas, Vetores ou Mapas.
+using System;
+class Program {
+    static void Main() {
+    Console.WriteLine("Estruturas de Dados - Listas, Vetores ou Mapas.");
+    }
 }

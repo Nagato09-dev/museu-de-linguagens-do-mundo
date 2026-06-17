@@ -1,2 +1,2 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+# SHADERLAB - Controle de Fluxo - Estruturas condicionais (se/então).
+print("Controle de Fluxo - Estruturas condicionais (se/então).")

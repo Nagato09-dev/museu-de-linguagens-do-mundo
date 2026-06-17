@@ -1,2 +1,2 @@
--- Variáveis e Tipos - Como armazenar dados.
+-- PLSQL - Variáveis e Tipos - Como armazenar dados.
 SELECT 'Variáveis e Tipos - Como armazenar dados.';

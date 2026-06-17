@@ -1,2 +1,6 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+// BLUESPEC - Tratamento de Erros - Lidando com exceções e falhas.
+module main;
+  initial begin
+    $display("Tratamento de Erros - Lidando com exceções e falhas.");
+  end
+endmodule

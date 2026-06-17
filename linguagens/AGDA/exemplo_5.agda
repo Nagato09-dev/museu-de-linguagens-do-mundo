@@ -1,2 +1,4 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+-- AGDA - Funções - Criando blocos de código reutilizáveis.
+main :: IO ()
+main = do
+    putStrLn "Funções - Criando blocos de código reutilizáveis."

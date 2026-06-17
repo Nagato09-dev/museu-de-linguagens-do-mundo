@@ -1,2 +1,6 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+// VHDL - Funções - Criando blocos de código reutilizáveis.
+module main;
+  initial begin
+    $display("Funções - Criando blocos de código reutilizáveis.");
+  end
+endmodule

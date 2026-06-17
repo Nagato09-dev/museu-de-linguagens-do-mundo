@@ -1,3 +1,2 @@
-# Olá Mundo - O básico de qualquer linguagem.
-#!/bin/bash
-    echo "Olá Mundo - O básico de qualquer linguagem."
+# FISH - Olá Mundo - O básico de qualquer linguagem.
+echo "Olá Mundo - O básico de qualquer linguagem."

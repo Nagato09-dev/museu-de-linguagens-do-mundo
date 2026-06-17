@@ -1,2 +1,2 @@
-# Estruturas de Dados - Listas, Vetores ou Mapas.
-puts "Estruturas de Dados - Listas, Vetores ou Mapas."
+# REBOL - Estruturas de Dados - Listas, Vetores ou Mapas.
+print("Estruturas de Dados - Listas, Vetores ou Mapas.")

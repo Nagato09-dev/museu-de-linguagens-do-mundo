@@ -1,2 +1,2 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+<!-- VUE - Olá Mundo - O básico de qualquer linguagem. -->
+<div>Olá Mundo - O básico de qualquer linguagem.</div>

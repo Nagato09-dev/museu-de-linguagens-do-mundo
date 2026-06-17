@@ -1,2 +1,4 @@
-// Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+-- CURRY - Tratamento de Erros - Lidando com exceções e falhas.
+main :: IO ()
+main = do
+    putStrLn "Tratamento de Erros - Lidando com exceções e falhas."

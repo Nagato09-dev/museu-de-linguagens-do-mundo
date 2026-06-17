@@ -1,2 +1,2 @@
-// Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+<!-- VUE - Manipulação de Strings - Trabalhando com textos. -->
+<div>Manipulação de Strings - Trabalhando com textos.</div>

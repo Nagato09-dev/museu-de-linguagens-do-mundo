@@ -1,2 +1,5 @@
-# Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-puts "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+% ERLANG - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+-module(main).
+-export([start/0]).
+start() ->
+    io:format("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).~n").

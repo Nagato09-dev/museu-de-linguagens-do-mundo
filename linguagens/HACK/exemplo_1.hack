@@ -1,2 +1,4 @@
-// Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+// HACK - Olá Mundo - O básico de qualquer linguagem.
+<?php
+echo "Olá Mundo - O básico de qualquer linguagem.\n";
+?>

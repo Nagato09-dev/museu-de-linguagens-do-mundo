@@ -1,2 +1,2 @@
-// Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+# CMAKE - Funções - Criando blocos de código reutilizáveis.
+echo "Funções - Criando blocos de código reutilizáveis."

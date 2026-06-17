@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+' PUREBASIC - Matemática - Operações aritméticas básicas.
+PRINT "Matemática - Operações aritméticas básicas."

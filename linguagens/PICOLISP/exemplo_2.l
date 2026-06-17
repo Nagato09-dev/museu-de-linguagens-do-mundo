@@ -1,2 +1,2 @@
-;; Variáveis e Tipos - Como armazenar dados.
+;; PICOLISP - Variáveis e Tipos - Como armazenar dados.
 (print "Variáveis e Tipos - Como armazenar dados.")

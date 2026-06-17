@@ -1,2 +1,2 @@
-;; Tratamento de Erros - Lidando com exceções e falhas.
+;; JANET - Tratamento de Erros - Lidando com exceções e falhas.
 (print "Tratamento de Erros - Lidando com exceções e falhas.")

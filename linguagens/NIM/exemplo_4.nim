@@ -1,5 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-int main() {
-    printf("Loops - Repetindo tarefas com para/enquanto.\n");
-    return 0;
-}
+# NIM - Loops - Repetindo tarefas com para/enquanto.
+print("Loops - Repetindo tarefas com para/enquanto.")

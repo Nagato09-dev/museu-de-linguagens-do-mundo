@@ -1,2 +1,2 @@
-// Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+" SMALLTALK - Variáveis e Tipos - Como armazenar dados. "
+Transcript show: 'Variáveis e Tipos - Como armazenar dados.'; cr.

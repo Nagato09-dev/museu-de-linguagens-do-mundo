@@ -1,2 +1,2 @@
-;; Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+;; AUTOLISP - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
 (print "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")

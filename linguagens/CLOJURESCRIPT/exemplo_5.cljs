@@ -1,2 +1,2 @@
-;; Funções - Criando blocos de código reutilizáveis.
+;; CLOJURESCRIPT - Funções - Criando blocos de código reutilizáveis.
 (print "Funções - Criando blocos de código reutilizáveis.")

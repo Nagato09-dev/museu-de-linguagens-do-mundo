@@ -1,2 +1,2 @@
-# Variáveis e Tipos - Como armazenar dados.
-puts "Variáveis e Tipos - Como armazenar dados."
+# SWIFT - Variáveis e Tipos - Como armazenar dados.
+print("Variáveis e Tipos - Como armazenar dados.")

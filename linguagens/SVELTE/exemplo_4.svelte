@@ -1,2 +1,2 @@
-// Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+<!-- SVELTE - Loops - Repetindo tarefas com para/enquanto. -->
+<div>Loops - Repetindo tarefas com para/enquanto.</div>

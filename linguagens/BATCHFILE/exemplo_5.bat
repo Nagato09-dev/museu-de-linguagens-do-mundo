@@ -1,3 +1,3 @@
-# Funções - Criando blocos de código reutilizáveis.
-#!/bin/bash
-    echo "Funções - Criando blocos de código reutilizáveis."
+REM BATCHFILE - Funções - Criando blocos de código reutilizáveis.
+@echo off
+    echo Funções - Criando blocos de código reutilizáveis.

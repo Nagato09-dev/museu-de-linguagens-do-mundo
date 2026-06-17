@@ -1,2 +1,4 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+! FLANG - Controle de Fluxo - Estruturas condicionais (se/então).
+PROGRAM MAIN
+    PRINT *, "Controle de Fluxo - Estruturas condicionais (se/então)."
+END PROGRAM MAIN

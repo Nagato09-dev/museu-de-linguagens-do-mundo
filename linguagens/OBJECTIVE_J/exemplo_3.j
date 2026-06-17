@@ -1,2 +1,5 @@
-// Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+// OBJECTIVE_J - Controle de Fluxo - Estruturas condicionais (se/então).
+int main() {
+    printf("Controle de Fluxo - Estruturas condicionais (se/então).\n");
+    return 0;
+}

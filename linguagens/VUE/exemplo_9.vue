@@ -1,2 +1,2 @@
-// Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+<!-- VUE - Matemática - Operações aritméticas básicas. -->
+<div>Matemática - Operações aritméticas básicas.</div>

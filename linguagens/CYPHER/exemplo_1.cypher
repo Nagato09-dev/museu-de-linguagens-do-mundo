@@ -1,2 +1,2 @@
--- Olá Mundo - O básico de qualquer linguagem.
+-- CYPHER - Olá Mundo - O básico de qualquer linguagem.
 SELECT 'Olá Mundo - O básico de qualquer linguagem.';
