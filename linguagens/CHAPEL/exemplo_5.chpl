@@ -1,2 +1,8 @@
-# CHAPEL - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+// exemplo_5.chpl - Função / Procedimento
+proc saudacao(nome: string): string {
+  return "Olá, " + nome + "!";
+}
+
+proc main() {
+  writeln(saudacao("Usuário"));
+}

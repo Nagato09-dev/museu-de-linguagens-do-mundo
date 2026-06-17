@@ -1,4 +1,10 @@
-// Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
+// exercicio_3.chpl - Verificação de Pontuação
+proc main() {
+  var pontuacao: int = 85;
 
-let idade = 20;
-console.log(idade >= 18 ? 'Maior de idade' : 'Menor de idade');
+  if pontuacao >= 70 then {
+    writeln("Aprovado");
+  } else {
+    writeln("Reprovado");
+  }
+}

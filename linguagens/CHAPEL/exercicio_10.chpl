@@ -1,3 +1,8 @@
-// Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba.
+// exercicio_10.chpl - Ordenação de Palavras
+proc main() {
+  var palavras: [0..2] string = ["zebra", "macaco", "elefante"];
+  writeln("Original: ", palavras);
 
-// Solução autêntica para Exercício 10 em js
+  palavras.sort();
+  writeln("Ordenado: ", palavras);
+}

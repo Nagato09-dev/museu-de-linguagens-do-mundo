@@ -1,2 +1,4 @@
-# CHAPEL - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// exemplo_1.chpl - Hello World
+proc main() {
+  writeln("Olá Mundo");
+}

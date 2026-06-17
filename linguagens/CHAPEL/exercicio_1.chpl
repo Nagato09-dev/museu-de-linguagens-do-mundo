@@ -1,3 +1,4 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+// exercicio_1.chpl - Boas-vindas
+proc main() {
+  writeln("Bem-vindo ao Chapel!");
+}

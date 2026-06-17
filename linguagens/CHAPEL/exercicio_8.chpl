@@ -1,3 +1,7 @@
-// Exercício 8: Calculadora Simples - Implemente uma função que receba dois números e uma operação (+, -, *, /) e retorne o resultado.
-
-// Solução autêntica para Exercício 8 em js
+// exercicio_8.chpl - Capitalização de Frase
+proc main() {
+  var frase: string = "exemplo de chapel";
+  writeln("Original: ", frase);
+  // Simulação de capitalização
+  writeln("Capitalizado (primeira letra): ", frase[0..0].toUpper() + frase[1..]);
+}

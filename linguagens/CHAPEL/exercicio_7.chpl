@@ -1,3 +1,10 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
-
-// Solução autêntica para Exercício 7 em js
+// exercicio_7.chpl - Tratamento de Divisão por Zero
+proc main() {
+  try {
+    var divisor: int = 0;
+    var valor = 5 / divisor;
+    writeln("Valor: ", valor);
+  } catch e: Error {
+    writeln("Erro de divisão: ", e.message());
+  }
+}

@@ -1,3 +1,6 @@
-// Exercício 4: Lista de Compras - Crie uma lista de 5 itens. Exiba a lista completa, remova um item e exiba a lista atualizada.
-
-// Solução autêntica para Exercício 4 em js
+// exercicio_4.chpl - Loop Simples
+proc main() {
+  for i in 1..3 {
+    writeln("Exercício Loop: ", i);
+  }
+}

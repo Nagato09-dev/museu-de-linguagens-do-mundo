@@ -1,3 +1,5 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
-
-// Solução autêntica para Exercício 6 em js
+// exercicio_6.chpl - Array de Frutas
+proc main() {
+  var frutas: [0..2] string = ["maçã", "banana", "laranja"];
+  writeln("Minhas frutas: ", frutas);
+}

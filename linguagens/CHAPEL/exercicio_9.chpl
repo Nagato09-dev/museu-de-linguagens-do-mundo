@@ -1,3 +1,8 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
+// exercicio_9.chpl - Potência
+use Math;
 
-// Solução autêntica para Exercício 9 em js
+proc main() {
+  var base: real = 3.0;
+  var expoente: real = 4.0;
+  writeln("Potência: ", pow(base, expoente));
+}
