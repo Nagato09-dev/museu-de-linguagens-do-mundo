@@ -1,10 +1,13 @@
 # Ruby
 
+## 📅 Data de Criação
+**1995**
+
 ## 📖 História
-A linguagem RUBY possui raízes no desenvolvimento de software especializado e evoluiu para atender necessidades específicas de sua comunidade.
+Criada por Yukihiro Matsumoto no Japão.
 
 ## 🚀 Uso Real
-Atualmente, é utilizada em nichos acadêmicos, sistemas legados ou projetos de código aberto que valorizam suas características únicas.
+Web (Rails).
 
 ## ✨ Curiosidade
-Uma das características marcantes de RUBY é sua sintaxe distintiva que influenciou diversos outros projetos na área de linguagens de programação.
+Foco na felicidade do programador.

@@ -1,10 +1,13 @@
 # Java
 
+## 📅 Data de Criação
+**1995**
+
 ## 📖 História
-Desenvolvida por James Gosling na Sun Microsystems em 1995.
+Criada por James Gosling na Sun Microsystems.
 
 ## 🚀 Uso Real
-Sistemas corporativos, aplicativos Android e sistemas embarcados.
+Enterprise e Android.
 
 ## ✨ Curiosidade
-Seu nome original era Oak, inspirado em uma árvore de carvalho fora do escritório de Gosling.
+O mascote é o Duke.

@@ -1,10 +1,13 @@
 # Mupad
 
+## 📅 Data de Criação
+**N/A**
+
 ## 📖 História
-A linguagem MUPAD possui raízes no desenvolvimento de software especializado e evoluiu para atender necessidades específicas de sua comunidade.
+A linguagem MUPAD foi desenvolvida para resolver desafios técnicos específicos de sua época.
 
 ## 🚀 Uso Real
-Atualmente, é utilizada em nichos acadêmicos, sistemas legados ou projetos de código aberto que valorizam suas características únicas.
+Utilizada em sistemas especializados e projetos de nicho.
 
 ## ✨ Curiosidade
-Uma das características marcantes de MUPAD é sua sintaxe distintiva que influenciou diversos outros projetos na área de linguagens de programação.
+Possui uma comunidade dedicada que mantém sua evolução constante.

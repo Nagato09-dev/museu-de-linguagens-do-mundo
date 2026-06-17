@@ -1,10 +1,13 @@
 # Actionscript
 
+## 📅 Data de Criação
+**1998**
+
 ## 📖 História
-Desenvolvida pela Macromedia (agora Adobe) em 1998 para o Flash.
+Criada pela Macromedia para o Flash Player.
 
 ## 🚀 Uso Real
-Anteriormente usada para animações web e jogos em Flash.
+Animações Legadas.
 
 ## ✨ Curiosidade
-É baseada no ECMAScript, a mesma especificação que deu origem ao JavaScript.
+Implementação do ECMAScript.

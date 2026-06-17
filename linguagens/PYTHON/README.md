@@ -1,10 +1,13 @@
 # Python
 
+## 📅 Data de Criação
+**1991**
+
 ## 📖 História
-Criada por Guido van Rossum e lançada em 1991.
+Criada por Guido van Rossum nos Países Baixos.
 
 ## 🚀 Uso Real
-Ciência de dados, Inteligência Artificial, Desenvolvimento Web e Automação.
+IA, Ciência de Dados e Web.
 
 ## ✨ Curiosidade
-O nome foi inspirado no grupo de comédia britânico Monty Python.
+Inspirado no Monty Python.

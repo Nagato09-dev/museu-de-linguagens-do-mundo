@@ -1,10 +1,13 @@
 # Rust
 
+## 📅 Data de Criação
+**2010**
+
 ## 📖 História
-Iniciada por Graydon Hoare na Mozilla Research em 2006, lançada em 2010.
+Iniciada por Graydon Hoare na Mozilla.
 
 ## 🚀 Uso Real
-Sistemas de alta performance, infraestrutura de rede e WebAssembly.
+Sistemas Seguros.
 
 ## ✨ Curiosidade
-Foi eleita a linguagem 'mais amada' pelos desenvolvedores no Stack Overflow por vários anos seguidos.
+Foco total em segurança de memória.

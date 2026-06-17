@@ -1,10 +1,13 @@
 # Go
 
+## 📅 Data de Criação
+**2009**
+
 ## 📖 História
-A linguagem GO possui raízes no desenvolvimento de software especializado e evoluiu para atender necessidades específicas de sua comunidade.
+Desenvolvida pelo Google (Pike, Thompson, Griesemer).
 
 ## 🚀 Uso Real
-Atualmente, é utilizada em nichos acadêmicos, sistemas legados ou projetos de código aberto que valorizam suas características únicas.
+Cloud e Microserviços.
 
 ## ✨ Curiosidade
-Uma das características marcantes de GO é sua sintaxe distintiva que influenciou diversos outros projetos na área de linguagens de programação.
+O mascote é um Gopher.

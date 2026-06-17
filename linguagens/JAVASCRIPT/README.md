@@ -1,10 +1,13 @@
 # Javascript
 
+## 📅 Data de Criação
+**1995**
+
 ## 📖 História
-Criada por Brendan Eich em apenas 10 dias em 1995 para o Netscape.
+Desenvolvida por Brendan Eich na Netscape em 10 dias.
 
 ## 🚀 Uso Real
-Desenvolvimento web (front-end e back-end), aplicativos móveis e jogos.
+Web, Mobile e Servidores.
 
 ## ✨ Curiosidade
-Originalmente se chamava Mocha, depois LiveScript, antes de se tornar JavaScript.
+Originalmente chamada de Mocha.

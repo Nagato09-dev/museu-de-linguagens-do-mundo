@@ -1,10 +1,13 @@
 # C
 
+## 📅 Data de Criação
+**1972**
+
 ## 📖 História
-Criada por Dennis Ritchie entre 1969 e 1973 nos Laboratórios Bell.
+Desenvolvida por Dennis Ritchie nos Bell Labs.
 
 ## 🚀 Uso Real
-Sistemas operacionais, compiladores e sistemas de baixo nível.
+Sistemas Operacionais.
 
 ## ✨ Curiosidade
-Foi criada para reescrever o sistema operacional Unix.
+Evolução da linguagem B.

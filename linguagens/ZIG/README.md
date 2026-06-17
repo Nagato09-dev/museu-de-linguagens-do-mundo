@@ -1,10 +1,13 @@
 # Zig
 
+## 📅 Data de Criação
+**2016**
+
 ## 📖 História
-A linguagem ZIG possui raízes no desenvolvimento de software especializado e evoluiu para atender necessidades específicas de sua comunidade.
+Criada por Andrew Kelley como sucessora do C.
 
 ## 🚀 Uso Real
-Atualmente, é utilizada em nichos acadêmicos, sistemas legados ou projetos de código aberto que valorizam suas características únicas.
+Sistemas e Compiladores.
 
 ## ✨ Curiosidade
-Uma das características marcantes de ZIG é sua sintaxe distintiva que influenciou diversos outros projetos na área de linguagens de programação.
+Não possui fluxo de controle oculto.
