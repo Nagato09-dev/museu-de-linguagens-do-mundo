@@ -1,2 +1,1 @@
-# APEX - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+Decimal res = Math.sqrt(16);

@@ -1,2 +1,5 @@
-# APEX - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try {
+  Integer res = 1 / 0;
+} catch (Exception e) {
+  System.debug(e.getMessage());
+}

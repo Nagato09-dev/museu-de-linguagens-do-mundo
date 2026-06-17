@@ -1,2 +1,2 @@
-# APPLESCRIPT - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+set x to 10
+set s to "Olá"

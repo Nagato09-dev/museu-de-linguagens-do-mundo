@@ -1,2 +1,1 @@
-# APEX - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+List<Integer> list = new List<Integer>{1, 2, 3};

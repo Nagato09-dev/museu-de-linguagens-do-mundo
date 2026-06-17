@@ -1,2 +1,1 @@
-# ARDUINO - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// Arduino não tem try/catch padrão

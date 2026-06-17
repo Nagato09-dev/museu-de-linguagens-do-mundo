@@ -1,2 +1,1 @@
-# APPLESCRIPT - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+tell application "Finder" to activate

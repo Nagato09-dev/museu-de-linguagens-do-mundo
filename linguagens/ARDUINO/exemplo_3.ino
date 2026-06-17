@@ -1,2 +1,5 @@
-# ARDUINO - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if (x > 5) {
+  digitalWrite(13, HIGH);
+} else {
+  digitalWrite(13, LOW);
+}

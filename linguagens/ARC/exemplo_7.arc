@@ -1,2 +1,1 @@
-;; ARC - Tratamento de Erros - Lidando com exceções e falhas.
-(print "Tratamento de Erros - Lidando com exceções e falhas.")
+(on-err (fn (e) (prn "Erro")) (fn () (/ 1 0)))

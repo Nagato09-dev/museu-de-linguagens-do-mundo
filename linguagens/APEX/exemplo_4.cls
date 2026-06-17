@@ -1,2 +1,3 @@
-# APEX - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for (Integer i = 0; i < 10; i++) {
+  System.debug(i);
+}

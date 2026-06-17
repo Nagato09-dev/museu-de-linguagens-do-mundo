@@ -1,2 +1,1 @@
-# APL - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+⎕TRAP ← 0 'STOP'

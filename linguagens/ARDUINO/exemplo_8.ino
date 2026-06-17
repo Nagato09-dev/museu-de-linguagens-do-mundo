@@ -1,2 +1,1 @@
-# ARDUINO - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+String full = String("Olá") + " Mundo";

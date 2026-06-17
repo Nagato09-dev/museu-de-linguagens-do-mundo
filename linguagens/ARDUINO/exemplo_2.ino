@@ -1,2 +1,2 @@
-# ARDUINO - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+int x = 10;
+String s = "Olá";

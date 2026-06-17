@@ -1,2 +1,1 @@
-# APPLESCRIPT - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+set full to "Olá" & " Mundo"

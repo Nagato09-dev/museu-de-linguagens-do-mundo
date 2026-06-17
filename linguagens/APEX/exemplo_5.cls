@@ -1,2 +1,3 @@
-# APEX - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+public Integer square(Integer n) {
+  return n * n;
+}

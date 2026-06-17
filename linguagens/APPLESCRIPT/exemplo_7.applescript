@@ -1,2 +1,5 @@
-# APPLESCRIPT - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try
+  set res to 1 / 0
+  on error errMsg
+  display dialog errMsg
+end try

@@ -1,2 +1,3 @@
-# APPLESCRIPT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+on square(n)
+  return n * n
+end square

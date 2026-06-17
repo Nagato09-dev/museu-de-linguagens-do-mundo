@@ -1,2 +1,5 @@
-# APEX - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if (x > 5) {
+  System.debug('Maior');
+} else {
+  System.debug('Menor');
+}

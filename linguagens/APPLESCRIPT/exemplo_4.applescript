@@ -1,2 +1,3 @@
-# APPLESCRIPT - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+repeat with i from 1 to 10
+  log i
+end repeat

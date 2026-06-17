@@ -1,2 +1,1 @@
-# APPLESCRIPT - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+set myList to {1, 2, 3}

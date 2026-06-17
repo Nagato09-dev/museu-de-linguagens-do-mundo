@@ -1,2 +1,2 @@
-# APEX - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+Integer x = 10;
+String s = 'Olá';

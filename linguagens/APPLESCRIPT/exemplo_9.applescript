@@ -1,2 +1,1 @@
-# APPLESCRIPT - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+set res to (16 ^ 0.5)
