@@ -302,6 +302,38 @@
             background: rgba(0, 0, 0, 0.5);
         }
 
+        /* View Mode Toggle */
+        .view-controls {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+
+        .view-btn {
+            padding: 10px 20px;
+            border: 1px solid rgba(212, 175, 55, 0.4);
+            border-radius: 20px;
+            background: rgba(212, 175, 55, 0.05);
+            color: var(--primary-gold);
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.9em;
+        }
+
+        .view-btn:hover {
+            background: rgba(212, 175, 55, 0.15);
+            border-color: var(--primary-gold);
+        }
+
+        .view-btn.active {
+            background: var(--primary-gold);
+            color: var(--bg-color);
+            box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+        }
+
         /* Grid de Linguagens com Transição */
         .languages-grid {
             display: grid;
@@ -309,6 +341,10 @@
             gap: 25px;
             margin-bottom: 60px;
             animation: gridFadeIn 0.5s ease-out;
+        }
+
+        .languages-grid.list-view {
+            grid-template-columns: 1fr;
         }
 
         @keyframes gridFadeIn {
@@ -337,6 +373,12 @@
             overflow: hidden;
             backdrop-filter: blur(10px);
             animation: cardFadeIn 0.5s ease-out;
+        }
+
+        .languages-grid.list-view .language-card {
+            flex-direction: row;
+            align-items: center;
+            padding: 20px 30px;
         }
 
         @keyframes cardFadeIn {
@@ -368,22 +410,97 @@
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
         }
 
+        .languages-grid.list-view .language-card:hover {
+            transform: translateX(10px);
+        }
+
         .language-card:hover::after {
             opacity: 1;
+        }
+
+        .language-card-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .languages-grid.list-view .language-card-header {
+            margin-bottom: 0;
+            flex: 1;
+        }
+
+        .language-icon {
+            font-size: 2.5em;
+            min-width: 60px;
+            text-align: center;
+        }
+
+        .languages-grid.list-view .language-icon {
+            font-size: 2em;
+        }
+
+        .language-card-title {
+            flex: 1;
         }
 
         .language-card h3 {
             font-family: 'Orbitron', sans-serif;
             font-size: 1.5em;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             color: var(--primary-gold);
             font-weight: 700;
+        }
+
+        .languages-grid.list-view .language-card h3 {
+            font-size: 1.3em;
+            margin-bottom: 5px;
+        }
+
+        .language-meta {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 12px;
+            font-size: 0.85em;
+        }
+
+        .meta-tag {
+            background: rgba(212, 175, 55, 0.1);
+            color: var(--primary-gold);
+            padding: 4px 10px;
+            border-radius: 8px;
+            border: 1px solid rgba(212, 175, 55, 0.2);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .meta-year {
+            background: rgba(0, 242, 255, 0.1);
+            color: var(--accent-cyan);
+            border-color: rgba(0, 242, 255, 0.2);
         }
 
         .language-card p {
             font-size: 0.95em;
             color: var(--text-dim);
-            margin-bottom: 20px;
+            margin-bottom: 15px;
+        }
+
+        .languages-grid.list-view .language-card p {
+            display: none;
+        }
+
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .languages-grid.list-view .card-footer {
+            gap: 15px;
         }
 
         .language-card .badge {
@@ -395,17 +512,35 @@
             padding: 8px 16px;
             border-radius: 10px;
             font-size: 0.85em;
-            width: fit-content;
             font-weight: 700;
             border: 1px solid rgba(212, 175, 55, 0.2);
             transition: all 0.3s;
             text-transform: uppercase;
             letter-spacing: 1px;
+            cursor: pointer;
         }
 
         .language-card:hover .badge {
             background: var(--primary-gold);
             color: var(--bg-color);
+        }
+
+        .favorite-btn {
+            background: none;
+            border: none;
+            font-size: 1.5em;
+            cursor: pointer;
+            transition: all 0.3s;
+            color: var(--text-dim);
+        }
+
+        .favorite-btn:hover {
+            color: var(--primary-gold);
+            transform: scale(1.2);
+        }
+
+        .favorite-btn.favorited {
+            color: var(--primary-gold);
         }
 
         .no-results {
@@ -632,6 +767,8 @@
             .modal-content { height: 95vh; width: 98%; }
             .modal-header, .modal-body, .modal-tabs { padding: 20px; }
             .category-btn { font-size: 0.75em; padding: 10px 15px; }
+            .language-card { padding: 20px; }
+            .languages-grid.list-view .language-card { flex-direction: column; align-items: flex-start; }
         }
     </style>
 </head>
@@ -721,6 +858,21 @@
                 <span class="category-icon">🔧</span>
                 <span>Hardware</span>
                 <span class="category-counter" id="counter-hardware">0</span>
+            </button>
+            <button class="category-btn" data-category="favorites">
+                <span class="category-icon">⭐</span>
+                <span>Favoritos</span>
+                <span class="category-counter" id="counter-favorites">0</span>
+            </button>
+        </div>
+
+        <!-- View Mode Toggle -->
+        <div class="view-controls">
+            <button class="view-btn active" id="gridViewBtn" data-view="grid">
+                <i class="fas fa-th"></i> Grade
+            </button>
+            <button class="view-btn" id="listViewBtn" data-view="list">
+                <i class="fas fa-list"></i> Lista
             </button>
         </div>
 
@@ -837,6 +989,47 @@
         const languages = [];
         let currentCategory = 'all';
         let currentLanguage = null;
+        let viewMode = 'grid';
+        let favorites = JSON.parse(localStorage.getItem('favoriteLanguages')) || [];
+
+        // Mapeamento de ícones para linguagens (50+ linguagens)
+        const languageIcons = {
+            'PYTHON': '🐍', 'JAVASCRIPT': '📜', 'JAVA': '☕', 'CSHARP': '#️⃣', 'C++': '⚙️',
+            'C': '🔤', 'RUBY': '💎', 'PHP': '🐘', 'RUST': '🦀', 'GO': '🐹',
+            'TYPESCRIPT': '📘', 'KOTLIN': '🎯', 'SWIFT': '🍎', 'HASKELL': 'λ',
+            'SCALA': '🎨', 'CLOJURE': '🔮', 'ERLANG': '📡', 'ELIXIR': '💧',
+            'PERL': '🐪', 'BASH': '🐚', 'SQL': '🗄️', 'HTML': '🌐', 'CSS': '🎨',
+            'DART': '🎯', 'R': '📊', 'MATLAB': '📈', 'JULIA': '🚀', 'LUA': '🌙',
+            'GROOVY': '🎭', 'COBOL': '📼', 'FORTRAN': '⚡', 'ADA': '🛡️',
+            'LISP': '🧠', 'SCHEME': '🔗', 'RACKET': '🎪', 'OCAML': '🐫',
+            'F#': '🎻', 'PROLOG': '🧩', 'VHDL': '🔌', 'VERILOG': '⚡',
+            'ASSEMBLY_X86': '🔧', 'BRAINFUCK': '🧠', 'LOLCODE': '😹', 'BEFUNGE': '🌀',
+            'CRYSTAL': '💎', 'NIM': '🎯', 'ZIG': '⚡', 'D': '🔷', 'V': '⚡',
+            'CARBON': '♦️', 'CHAPEL': '🏛️', 'ODIN': '⚔️', 'MOJO': '🔥',
+            'NODEJS': '🟢', 'DENO': '🦕', 'BUN': '🥐', 'NEXTFLOW': '🔄',
+            'DOCKER': '🐳', 'KUBERNETES': '☸️', 'TERRAFORM': '🏗️', 'ANSIBLE': '🤖',
+            'JENKINS': '🔄', 'GITLAB': '🦊', 'GITHUB': '🐙', 'BITBUCKET': '🪣',
+            'JINJA': '🎀', 'MARKDOWN': '📝', 'JSON': '📦', 'YAML': '📋',
+            'XML': '📄', 'TOML': '🎯', 'PROTOBUF': '📨', 'GRAPHQL': '📊',
+            'REST': '🌐', 'SOAP': '🧼', 'GRPC': '📡', 'WEBSOCKET': '🔌'
+        };
+
+        // Anos de criação das linguagens
+        const languageYears = {
+            'PYTHON': 1991, 'JAVASCRIPT': 1995, 'JAVA': 1995, 'CSHARP': 2000, 'C++': 1985,
+            'C': 1972, 'RUBY': 1995, 'PHP': 1995, 'RUST': 2010, 'GO': 2009,
+            'TYPESCRIPT': 2012, 'KOTLIN': 2011, 'SWIFT': 2014, 'HASKELL': 1990,
+            'SCALA': 2003, 'CLOJURE': 2007, 'ERLANG': 1986, 'ELIXIR': 2011,
+            'PERL': 1987, 'BASH': 1989, 'SQL': 1974, 'HTML': 1993, 'CSS': 1996,
+            'DART': 2011, 'R': 1993, 'MATLAB': 1984, 'JULIA': 2012, 'LUA': 1993,
+            'GROOVY': 2003, 'COBOL': 1959, 'FORTRAN': 1957, 'ADA': 1980,
+            'LISP': 1958, 'SCHEME': 1975, 'RACKET': 1995, 'OCAML': 1996,
+            'F#': 2005, 'PROLOG': 1972, 'VHDL': 1987, 'VERILOG': 1984,
+            'ASSEMBLY_X86': 1971, 'BRAINFUCK': 1993, 'LOLCODE': 2007, 'BEFUNGE': 1993,
+            'CRYSTAL': 2014, 'NIM': 2008, 'ZIG': 2016, 'D': 2001, 'V': 2019,
+            'CARBON': 2022, 'CHAPEL': 2009, 'ODIN': 2016, 'MOJO': 2023,
+            'NODEJS': 2009, 'DENO': 2018, 'BUN': 2021, 'NEXTFLOW': 2013
+        };
 
         // Categorização expandida de linguagens
         const languageCategories = {
@@ -906,20 +1099,19 @@
             languages.push({
                 name: lang,
                 path: `linguagens/${lang}`,
-                category: getLanguageCategory(lang)
+                category: getLanguageCategory(lang),
+                icon: languageIcons[lang] || '💻',
+                year: languageYears[lang] || 'Desconhecido'
             });
         });
 
         function getLanguageCategory(lang) {
             for (const [category, langs] of Object.entries(languageCategories)) {
-                if (langs.includes(lang)) {
-                    return category;
-                }
+                if (langs.includes(lang)) return category;
             }
             return 'all';
         }
 
-        // Função para atualizar contadores de categorias
         function updateCategoryCounters() {
             const categories = Object.keys(languageCategories);
             categories.forEach(cat => {
@@ -928,15 +1120,31 @@
                 if (counter) counter.textContent = count;
             });
             document.getElementById('counter-all').textContent = languages.length;
+            document.getElementById('counter-favorites').textContent = favorites.length;
         }
 
-        // Função para atualizar barra de progresso
         function updateProgressBar(displayedCount, totalCount) {
             const percentage = Math.round((displayedCount / totalCount) * 100);
             document.getElementById('progressFill').style.width = percentage + '%';
             document.getElementById('progress-percentage').textContent = percentage + '%';
             document.getElementById('displayed-count').textContent = displayedCount;
             document.getElementById('total-count').textContent = totalCount;
+        }
+
+        function toggleFavorite(langName) {
+            const index = favorites.indexOf(langName);
+            if (index > -1) {
+                favorites.splice(index, 1);
+            } else {
+                favorites.push(langName);
+            }
+            localStorage.setItem('favoriteLanguages', JSON.stringify(favorites));
+            updateCategoryCounters();
+            renderLanguages(getFilteredLanguages());
+        }
+
+        function isFavorited(langName) {
+            return favorites.includes(langName);
         }
 
         function renderLanguages(languagesToRender) {
@@ -952,18 +1160,57 @@
             languagesToRender.forEach(lang => {
                 const card = document.createElement('div');
                 card.className = 'language-card';
+                const isFav = isFavorited(lang.name);
                 card.innerHTML = `
-                    <div>
-                        <h3>${lang.name}</h3>
-                        <p>Explore a história, exemplos e exercícios desta tecnologia.</p>
+                    <div class="language-card-header">
+                        <div class="language-icon">${lang.icon}</div>
+                        <div class="language-card-title">
+                            <h3>${lang.name}</h3>
+                            <div class="language-meta">
+                                <span class="meta-tag">${lang.category.toUpperCase()}</span>
+                                <span class="meta-tag meta-year">${lang.year}</span>
+                            </div>
+                        </div>
                     </div>
-                    <span class="badge"><i class="fas fa-eye"></i> Detalhes</span>
+                    <p>Explore a história, exemplos e exercícios desta tecnologia.</p>
+                    <div class="card-footer">
+                        <span class="badge"><i class="fas fa-eye"></i> Detalhes</span>
+                        <button class="favorite-btn ${isFav ? 'favorited' : ''}" title="Adicionar aos favoritos">
+                            <i class="fas fa-star"></i>
+                        </button>
+                    </div>
                 `;
-                card.addEventListener('click', () => openLanguageModal(lang));
+                
+                const detailsBtn = card.querySelector('.badge');
+                detailsBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    openLanguageModal(lang);
+                });
+
+                const favBtn = card.querySelector('.favorite-btn');
+                favBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    toggleFavorite(lang.name);
+                });
+
                 grid.appendChild(card);
             });
 
             updateProgressBar(languagesToRender.length, languages.length);
+        }
+
+        function getFilteredLanguages() {
+            const searchTerm = document.getElementById('searchInput').value.toUpperCase();
+            
+            if (currentCategory === 'favorites') {
+                return languages.filter(lang => favorites.includes(lang.name) && lang.name.toUpperCase().includes(searchTerm));
+            }
+            
+            return languages.filter(lang => {
+                const matchesSearch = lang.name.toUpperCase().includes(searchTerm);
+                const matchesCategory = currentCategory === 'all' || lang.category === currentCategory;
+                return matchesSearch && matchesCategory;
+            });
         }
 
         async function openLanguageModal(lang) {
@@ -1041,6 +1288,7 @@
             return div.innerHTML;
         }
 
+        // Event Listeners
         document.getElementById('closeBtn').addEventListener('click', () => {
             document.getElementById('languageModal').classList.remove('active');
         });
@@ -1065,23 +1313,28 @@
                 document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
                 currentCategory = btn.getAttribute('data-category');
-                filterLanguages();
+                renderLanguages(getFilteredLanguages());
             });
         });
 
-        document.getElementById('searchInput').addEventListener('input', (e) => {
-            filterLanguages(e.target.value);
+        document.getElementById('searchInput').addEventListener('input', () => {
+            renderLanguages(getFilteredLanguages());
         });
 
-        function filterLanguages(searchTerm = '') {
-            const term = searchTerm.toUpperCase();
-            const filtered = languages.filter(lang => {
-                const matchesSearch = lang.name.toUpperCase().includes(term);
-                const matchesCategory = currentCategory === 'all' || lang.category === currentCategory;
-                return matchesSearch && matchesCategory;
-            });
-            renderLanguages(filtered);
-        }
+        // View Mode Toggle
+        document.getElementById('gridViewBtn').addEventListener('click', () => {
+            viewMode = 'grid';
+            document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+            document.getElementById('gridViewBtn').classList.add('active');
+            document.getElementById('languagesGrid').classList.remove('list-view');
+        });
+
+        document.getElementById('listViewBtn').addEventListener('click', () => {
+            viewMode = 'list';
+            document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+            document.getElementById('listViewBtn').classList.add('active');
+            document.getElementById('languagesGrid').classList.add('list-view');
+        });
 
         // Inicialização
         updateCategoryCounters();
