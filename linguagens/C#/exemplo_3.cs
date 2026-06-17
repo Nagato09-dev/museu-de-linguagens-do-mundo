@@ -1,7 +1,3 @@
-// C# - Controle de Fluxo - Estruturas condicionais (se/então).
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Controle de Fluxo - Estruturas condicionais (se/então).");
-    }
+if (x > 5) {
+    Console.WriteLine("Maior");
 }

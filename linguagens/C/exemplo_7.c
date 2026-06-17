@@ -1,5 +1,2 @@
-// C - Tratamento de Erros - Lidando com exceções e falhas.
-int main() {
-    printf("Tratamento de Erros - Lidando com exceções e falhas.\n");
-    return 0;
-}
+#include <errno.h>
+if (f == NULL) perror("Erro");

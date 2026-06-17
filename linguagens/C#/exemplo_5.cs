@@ -1,7 +1,1 @@
-// C# - Funções - Criando blocos de código reutilizáveis.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Funções - Criando blocos de código reutilizáveis.");
-    }
-}
+int Square(int n) => n * n;

@@ -1,5 +1,3 @@
-// C++ - Controle de Fluxo - Estruturas condicionais (se/então).
-int main() {
-    printf("Controle de Fluxo - Estruturas condicionais (se/então).\n");
-    return 0;
+if (x > 5) {
+    std::cout << "Maior" << std::endl;
 }

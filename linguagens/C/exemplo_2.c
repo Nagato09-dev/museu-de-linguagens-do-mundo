@@ -1,5 +1,2 @@
-// C - Variáveis e Tipos - Como armazenar dados.
-int main() {
-    printf("Variáveis e Tipos - Como armazenar dados.\n");
-    return 0;
-}
+int x = 10;
+char s[] = "Olá";

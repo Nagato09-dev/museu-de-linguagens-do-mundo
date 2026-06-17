@@ -1,5 +1,6 @@
-// C - Olá Mundo - O básico de qualquer linguagem.
+#include <stdio.h>
+
 int main() {
-    printf("Olá Mundo - O básico de qualquer linguagem.\n");
+    printf("Olá Mundo\n");
     return 0;
 }

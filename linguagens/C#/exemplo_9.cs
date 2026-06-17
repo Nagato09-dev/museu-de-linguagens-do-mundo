@@ -1,7 +1,1 @@
-// C# - Matemática - Operações aritméticas básicas.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Matemática - Operações aritméticas básicas.");
-    }
-}
+double r = Math.Sqrt(16);

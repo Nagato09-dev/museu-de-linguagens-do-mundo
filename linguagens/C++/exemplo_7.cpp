@@ -1,5 +1,1 @@
-// C++ - Tratamento de Erros - Lidando com exceções e falhas.
-int main() {
-    printf("Tratamento de Erros - Lidando com exceções e falhas.\n");
-    return 0;
-}
+try { throw std::runtime_error("Erro"); } catch (const std::exception& e) { }

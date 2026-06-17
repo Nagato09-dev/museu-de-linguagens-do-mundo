@@ -1,5 +1,2 @@
-// C - Manipulação de Strings - Trabalhando com textos.
-int main() {
-    printf("Manipulação de Strings - Trabalhando com textos.\n");
-    return 0;
-}
+char full[20];
+sprintf(full, "%s %s", "Olá", "Mundo");

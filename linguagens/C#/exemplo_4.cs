@@ -1,7 +1,3 @@
-// C# - Loops - Repetindo tarefas com para/enquanto.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Loops - Repetindo tarefas com para/enquanto.");
-    }
+for (int i = 0; i < 10; i++) {
+    Console.WriteLine(i);
 }

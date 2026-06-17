@@ -1,5 +1,1 @@
-// C - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-int main() {
-    printf("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n");
-    return 0;
-}
+struct Node { int val; struct Node* next; };

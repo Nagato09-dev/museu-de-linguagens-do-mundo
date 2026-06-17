@@ -1,5 +1,6 @@
-// C++ - Olá Mundo - O básico de qualquer linguagem.
+#include <iostream>
+
 int main() {
-    printf("Olá Mundo - O básico de qualquer linguagem.\n");
+    std::cout << "Olá Mundo" << std::endl;
     return 0;
 }

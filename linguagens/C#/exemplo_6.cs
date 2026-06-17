@@ -1,7 +1,1 @@
-// C# - Estruturas de Dados - Listas, Vetores ou Mapas.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Estruturas de Dados - Listas, Vetores ou Mapas.");
-    }
-}
+var list = new List<int> { 1, 2, 3 };
