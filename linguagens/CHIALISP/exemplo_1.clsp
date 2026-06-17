@@ -1,3 +1,1 @@
-(mod (message)
-  (q . "Hello World from Chialisp!")
-)
+(mod () (list "Olá, Mundo!"))

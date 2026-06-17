@@ -1,1 +1,7 @@
-fn Add(a: i32, b: i32) -> i32 { return a + b; }
+package Geometry api;
+import "C++" as cpp;
+
+fn Main() -> i32 {
+  Print("Olá, Mundo!");
+  return 0;
+}

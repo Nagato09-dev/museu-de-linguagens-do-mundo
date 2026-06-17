@@ -1,1 +1,1 @@
-// ChucK foca em áudio em tempo real
+// Sintaxe para error em CHUCK

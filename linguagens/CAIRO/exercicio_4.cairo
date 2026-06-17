@@ -1,1 +1,4 @@
-loop { if cond { break; } }
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

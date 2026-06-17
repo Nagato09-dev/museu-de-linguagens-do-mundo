@@ -1,1 +1,1 @@
-let res = a + b;
+// Sintaxe para math em CAIRO

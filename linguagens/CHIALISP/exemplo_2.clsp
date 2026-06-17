@@ -1,5 +1,1 @@
-(mod (amount name)
-  (defconstant MY_AMOUNT 100)
-  (defconstant MY_NAME (q . "Chialisp Dev"))
-  (q . (MY_AMOUNT MY_NAME))
-)
+(defconstant X 42)

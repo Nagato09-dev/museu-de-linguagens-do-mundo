@@ -1,11 +1,1 @@
-(mod (count)
-  ; Chialisp não tem loops tradicionais. Usa recursão.
-  ; Este exemplo retorna uma lista de números de 0 a count-1
-  (defun generate-list (n acc)
-    (if (= n 0)
-        acc
-        (generate-list (- n 1) (c (- n 1) acc))
-    )
-  )
-  (generate-list count (q . ())) ; Chamada inicial
-)
+// Sintaxe para loop em CHIALISP

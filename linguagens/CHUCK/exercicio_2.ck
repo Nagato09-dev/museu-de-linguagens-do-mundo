@@ -1,1 +1,1 @@
-true => int active;
+<<< "Olá, Mundo!" >>>;

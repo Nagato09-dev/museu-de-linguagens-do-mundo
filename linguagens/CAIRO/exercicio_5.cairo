@@ -1,1 +1,4 @@
-fn add(a: u32, b: u32) -> u32 { a + b }
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

@@ -1,5 +1,1 @@
-(mod (val1 val2)
-  (defconstant EX_VAR1 val1)
-  (defconstant EX_VAR2 val2)
-  (q . (EX_VAR1 EX_VAR2))
-)
+(mod () (list "Olá, Mundo!"))

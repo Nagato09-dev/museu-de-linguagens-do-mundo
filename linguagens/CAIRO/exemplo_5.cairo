@@ -1,3 +1,3 @@
-fn square(n: u32) -> u32 {
-    n * n
+fn soma(a: felt252, b: felt252) -> felt252 {
+    a + b
 }

@@ -1,1 +1,1 @@
-// felt252 são strings curtas
+// Sintaxe para string em CAIRO

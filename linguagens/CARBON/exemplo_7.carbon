@@ -1,1 +1,1 @@
-// Carbon foca em segurança
+// Sintaxe para error em CARBON

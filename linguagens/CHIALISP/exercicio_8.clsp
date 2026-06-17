@@ -1,4 +1,1 @@
-(mod (word)
-  ; Retorna a string original, pois manipulação de maiúsculas não é trivial.
-  (q . word)
-)
+(mod () (list "Olá, Mundo!"))

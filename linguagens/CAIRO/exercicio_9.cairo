@@ -1,1 +1,4 @@
-let x = 10_u256;
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

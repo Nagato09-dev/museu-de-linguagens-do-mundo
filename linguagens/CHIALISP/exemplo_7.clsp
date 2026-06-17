@@ -1,6 +1,1 @@
-(mod (divisor)
-  ; Tratamento de erros em Chialisp é feito com 'assert'
-  ; Se a condição for falsa, o puzzle falha.
-  (assert (not (= divisor 0)))
-  (/ 10 divisor)
-)
+// Sintaxe para error em CHIALISP

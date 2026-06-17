@@ -1,1 +1,1 @@
-Math.random2(100, 1000) => s.freq;
+<<< "Olá, Mundo!" >>>;

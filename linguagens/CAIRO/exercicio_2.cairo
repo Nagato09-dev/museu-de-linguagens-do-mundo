@@ -1,1 +1,4 @@
-let b: bool = true;
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

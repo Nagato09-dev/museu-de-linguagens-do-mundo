@@ -1,3 +1,3 @@
-fn Square(n: i32) -> i32 {
-  return n * n;
+fn Soma(a: i32, b: i32) -> i32 {
+  return a + b;
 }

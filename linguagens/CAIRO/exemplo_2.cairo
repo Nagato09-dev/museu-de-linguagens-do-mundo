@@ -1,2 +1,2 @@
-let x: u256 = 10;
-let s: felt252 = 'Olá';
+let x = 42;
+let s: felt252 = 'Cairo';

@@ -1,2 +1,1 @@
-#[storage]
-struct Storage { val: u256 }
+// Sintaxe para sort em CAIRO

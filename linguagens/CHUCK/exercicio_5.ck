@@ -1,1 +1,1 @@
-fun void run() { }
+<<< "Olá, Mundo!" >>>;

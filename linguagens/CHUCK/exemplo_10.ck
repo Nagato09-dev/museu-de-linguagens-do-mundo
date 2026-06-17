@@ -1,1 +1,1 @@
-SinOsc s => dac; 0.5 => s.gain; 1::second => now;
+// Sintaxe para sort em CHUCK

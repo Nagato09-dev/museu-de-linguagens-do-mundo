@@ -1,1 +1,4 @@
-arr.at(0);
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

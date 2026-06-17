@@ -1,9 +1,1 @@
-(mod (limit)
-  (defun countdown (n acc)
-    (if (= n 0)
-        acc
-        (countdown (- n 1) (c n acc))
-    )
-  )
-  (countdown limit (q . ())) ; Exemplo de contagem regressiva
-)
+(mod () (list "Olá, Mundo!"))

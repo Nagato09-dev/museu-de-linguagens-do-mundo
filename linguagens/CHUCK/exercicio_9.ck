@@ -1,1 +1,1 @@
-Math.abs(-5) => int v;
+<<< "Olá, Mundo!" >>>;

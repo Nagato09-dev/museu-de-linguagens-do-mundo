@@ -1,1 +1,1 @@
-Math.sqrt(16) => float r;
+// Sintaxe para math em CHUCK

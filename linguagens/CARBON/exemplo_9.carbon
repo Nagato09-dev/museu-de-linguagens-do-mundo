@@ -1,1 +1,1 @@
-var r: f64 = Math.Sqrt(16.0);
+// Sintaxe para math em CARBON

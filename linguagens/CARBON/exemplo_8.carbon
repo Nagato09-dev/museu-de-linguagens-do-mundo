@@ -1,1 +1,1 @@
-var full: String = "Olá " + "Mundo";
+// Sintaxe para string em CARBON

@@ -1,1 +1,1 @@
-s + " Mundo" => string full;
+// Sintaxe para string em CHUCK

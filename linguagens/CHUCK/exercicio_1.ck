@@ -1,1 +1,1 @@
-<<< "Hello ChucK" >>>;
+<<< "Olá, Mundo!" >>>;

@@ -1,2 +1,2 @@
-var x: i32 = 10;
-var s: String = "Olá";
+var x: i32 = 42;
+var s: String = "Carbon";

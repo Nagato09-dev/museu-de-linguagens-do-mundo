@@ -1,1 +1,4 @@
-match val { 1 => { }, _ => { } }
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

@@ -1,4 +1,1 @@
-(mod (denominator)
-  (assert (not (= denominator 0)))
-  (/ 100 denominator)
-)
+(mod () (list "Olá, Mundo!"))

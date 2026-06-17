@@ -1,1 +1,1 @@
-class MyClass { var id: i32; }
+// Sintaxe para sort em CARBON

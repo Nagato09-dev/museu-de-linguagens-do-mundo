@@ -1,4 +1,1 @@
-(mod (data_list)
-  ; Retorna a lista original. Ordenação complexa não é trivial em Chialisp.
-  (q . data_list)
-)
+(mod () (list "Olá, Mundo!"))

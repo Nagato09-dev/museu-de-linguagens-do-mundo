@@ -1,1 +1,4 @@
-let s = 'abc';
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

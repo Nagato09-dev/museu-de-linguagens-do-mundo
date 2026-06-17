@@ -1,5 +1,1 @@
-(mod (unsorted_list)
-  ; Ordenação não é um conceito direto em Chialisp para listas arbitrárias.
-  ; Este exemplo retorna a lista original, pois a ordenação complexa não é trivial.
-  (q . unsorted_list)
-)
+// Sintaxe para sort em CHIALISP

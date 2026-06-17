@@ -1,1 +1,1 @@
-assert(x != 0, 'Erro: Zero');
+// Sintaxe para error em CAIRO

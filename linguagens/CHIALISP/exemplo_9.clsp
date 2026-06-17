@@ -1,4 +1,1 @@
-(mod (num)
-  ; Raiz quadrada não é nativa. Usamos uma operação matemática simples.
-  (* num num)
-)
+// Sintaxe para math em CHIALISP

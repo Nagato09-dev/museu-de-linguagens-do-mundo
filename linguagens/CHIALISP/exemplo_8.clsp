@@ -1,5 +1,1 @@
-(mod (input_string)
-  ; Chialisp tem manipulação de string limitada. Não há toUpperCase nativo.
-  ; Este exemplo apenas retorna a string original.
-  (q . input_string)
-)
+// Sintaxe para string em CHIALISP

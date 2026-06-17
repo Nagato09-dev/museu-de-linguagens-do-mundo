@@ -1,1 +1,4 @@
-'Hello Cairo'.print();
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

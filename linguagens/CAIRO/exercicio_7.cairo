@@ -1,1 +1,4 @@
-panic(ArrayTrait::new());
+use debug::PrintTrait;
+fn main() {
+    'Olá, Mundo!'.print();
+}

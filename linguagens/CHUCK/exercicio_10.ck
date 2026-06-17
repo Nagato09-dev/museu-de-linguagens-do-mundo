@@ -1,1 +1,1 @@
-adc => dac;
+<<< "Olá, Mundo!" >>>;

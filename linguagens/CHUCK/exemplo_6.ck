@@ -1,1 +1,1 @@
-[1, 2, 3] @=> int list[];
+// Sintaxe para list em CHUCK

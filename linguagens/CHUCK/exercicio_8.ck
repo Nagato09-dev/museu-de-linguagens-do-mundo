@@ -1,1 +1,1 @@
-s.length()
+<<< "Olá, Mundo!" >>>;

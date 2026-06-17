@@ -1,6 +1,1 @@
-(mod (a b)
-  (defun add-numbers (x y)
-    (+ x y)
-  )
-  (add-numbers a b)
-)
+(defun soma (a b) (+ a b))

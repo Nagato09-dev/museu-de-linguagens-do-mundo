@@ -1,2 +1,1 @@
-let mut arr = ArrayTrait::new();
-arr.append(1);
+// Sintaxe para list em CAIRO

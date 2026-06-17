@@ -1,1 +1,1 @@
-float arr[5];
+<<< "Olá, Mundo!" >>>;

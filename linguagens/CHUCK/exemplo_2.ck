@@ -1,2 +1,2 @@
-10 => int x;
-"Olá" => string s;
+42 => int x;
+"ChucK" => string s;
