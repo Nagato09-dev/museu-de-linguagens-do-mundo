@@ -1,3 +1,5 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
+@0x8a72c1a067e7c9f9;
 
-// Solução autêntica para Exercício 6 em js
+struct ExerciseInventory {
+  productIds @0 :List(UInt64);
+}

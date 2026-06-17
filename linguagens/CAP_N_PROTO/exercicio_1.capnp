@@ -1,3 +1,5 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
+@0x8a72c1a067e7c9f9;
 
-console.log('Olá, Mundo!');
+struct ExerciseGreeting {
+  greeting @0 :Text;
+}

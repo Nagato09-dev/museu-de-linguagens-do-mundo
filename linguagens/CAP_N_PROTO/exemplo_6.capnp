@@ -1,2 +1,5 @@
-# CAP_N_PROTO - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+@0x8a72c1a067e7c9f9;
+
+struct MyList {
+  elements @0 :List(Int32);
+}

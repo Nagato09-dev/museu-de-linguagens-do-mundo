@@ -1,3 +1,8 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
+@0x8a72c1a067e7c9f9;
 
-// Solução autêntica para Exercício 7 em js
+struct ExerciseValidation {
+  union {
+    valid @0 :Void;
+    invalidReason @1 :Text;
+  }
+}

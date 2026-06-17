@@ -1,5 +1,7 @@
-// Exercício 2: Soma e Média - Declare três variáveis numéricas, some-as e exiba ambos os resultados.
+@0x8a72c1a067e7c9f9;
 
-let a=10, b=20, c=30;
-let soma = a+b+c;
-console.log(`Soma: ${soma}, Média: ${soma/3}`);
+struct ExerciseVariables {
+  name @0 :Text;
+  age @1 :UInt16;
+  isActive @2 :Bool;
+}

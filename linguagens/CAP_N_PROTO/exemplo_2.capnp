@@ -1,2 +1,8 @@
-# CAP_N_PROTO - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+@0x8a72c1a067e7c9f9;
+
+struct DataTypes {
+  intValue @0 :Int32;
+  floatValue @1 :Float32;
+  booleanValue @2 :Bool;
+  stringValue @3 :Text;
+}

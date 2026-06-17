@@ -1,6 +1,6 @@
-// Exercício 5: Contagem Regressiva - Faça uma contagem regressiva de 10 até 0, exibindo cada número e 'FOGO!' ao final.
+@0x8a72c1a067e7c9f9;
 
-for (let i = 10; i >= 0; i--) {
-    console.log(i);
+interface UserManagement {
+  createUser @0 (username :Text, password :Text) -> (success :Bool);
+  deleteUser @1 (userId :UInt64) -> (success :Bool);
 }
-console.log('FOGO!');

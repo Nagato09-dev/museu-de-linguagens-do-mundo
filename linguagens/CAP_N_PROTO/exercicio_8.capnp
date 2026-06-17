@@ -1,3 +1,6 @@
-// Exercício 8: Calculadora Simples - Implemente uma função que receba dois números e uma operação (+, -, *, /) e retorne o resultado.
+@0x8a72c1a067e7c9f9;
 
-// Solução autêntica para Exercício 8 em js
+struct ExerciseTextTransform {
+  originalText @0 :Text;
+  transformedText @1 :Text;
+}

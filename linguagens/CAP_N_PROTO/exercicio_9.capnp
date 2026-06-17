@@ -1,3 +1,7 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
+@0x8a72c1a067e7c9f9;
 
-// Solução autêntica para Exercício 9 em js
+struct ExerciseCalculation {
+  operand1 @0 :Int32;
+  operand2 @1 :Int32;
+  result @2 :Int32;
+}

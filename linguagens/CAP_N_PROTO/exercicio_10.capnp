@@ -1,3 +1,6 @@
-// Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba.
+@0x8a72c1a067e7c9f9;
 
-// Solução autêntica para Exercício 10 em js
+struct ExerciseRankings {
+  unsortedScores @0 :List(UInt32);
+  sortedScores @1 :List(UInt32);
+}
