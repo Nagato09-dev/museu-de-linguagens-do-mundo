@@ -1,2 +1,5 @@
-# ZSH - Controle de Fluxo - Estruturas condicionais (se/então).
-echo "Controle de Fluxo - Estruturas condicionais (se/então)."
+if [[ $x -gt 10 ]]; then
+  echo "Maior"
+else
+  echo "Menor"
+fi

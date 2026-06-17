@@ -1,2 +1,5 @@
-// TYPESCRIPT - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+if (x > 10) {
+    console.log("Maior");
+} else {
+    console.log("Menor");
+}

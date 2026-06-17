@@ -1,3 +1,10 @@
-// Exercício 8: Calculadora Simples - Implemente uma função que receba dois números e uma operação (+, -, *, /) e retorne o resultado.
-
-// Solução autêntica para Exercício 8 em js
+entity hello_world is
+end hello_world;
+architecture sim of hello_world is
+begin
+  process
+  begin
+    report "Olá, Mundo!";
+    wait;
+  end process;
+end sim;

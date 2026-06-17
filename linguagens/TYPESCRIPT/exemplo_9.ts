@@ -1,2 +1,1 @@
-// TYPESCRIPT - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+// Sintaxe para math em TYPESCRIPT

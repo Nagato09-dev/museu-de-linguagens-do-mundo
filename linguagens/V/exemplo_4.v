@@ -1,2 +1,3 @@
-# V - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for i in 0 .. 5 {
+    println(i)
+}

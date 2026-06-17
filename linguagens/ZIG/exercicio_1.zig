@@ -1,3 +1,4 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+const std = @import("std");
+pub fn main() !void {
+    std.debug.print("Olá, Mundo!\n", .{});
+}

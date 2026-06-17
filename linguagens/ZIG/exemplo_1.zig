@@ -1,2 +1,4 @@
-# ZIG - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+const std = @import("std");
+pub fn main() !void {
+    std.debug.print("Olá, Mundo!\n", .{});
+}

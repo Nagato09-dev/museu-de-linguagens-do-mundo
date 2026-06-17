@@ -1,2 +1,1 @@
-// TYPESCRIPT - Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+const soma = (a: number, b: number): number => a + b;

@@ -1,2 +1,1 @@
-// TYPESCRIPT - Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+// Sintaxe para error em TYPESCRIPT

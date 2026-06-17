@@ -1,2 +1,4 @@
-# ZIG - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+var i: usize = 0;
+while (i < 5) : (i += 1) {
+    // ...
+}

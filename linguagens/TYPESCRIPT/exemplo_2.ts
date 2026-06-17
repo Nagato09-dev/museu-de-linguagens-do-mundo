@@ -1,2 +1,2 @@
-// TYPESCRIPT - Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+let x: number = 42;
+const s: string = "TS";

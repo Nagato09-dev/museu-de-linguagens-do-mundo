@@ -1,3 +1,10 @@
-// Exercício 4: Lista de Compras - Crie uma lista de 5 itens. Exiba a lista completa, remova um item e exiba a lista atualizada.
-
-// Solução autêntica para Exercício 4 em js
+entity hello_world is
+end hello_world;
+architecture sim of hello_world is
+begin
+  process
+  begin
+    report "Olá, Mundo!";
+    wait;
+  end process;
+end sim;

@@ -1,2 +1,1 @@
-# TCL - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for {set i 1} {$i <= 5} {incr i} { puts $i }

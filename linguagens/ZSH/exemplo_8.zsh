@@ -1,2 +1,1 @@
-# ZSH - Manipulação de Strings - Trabalhando com textos.
-echo "Manipulação de Strings - Trabalhando com textos."
+// Sintaxe para string em ZSH

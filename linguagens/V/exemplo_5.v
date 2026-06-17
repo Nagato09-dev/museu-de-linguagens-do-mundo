@@ -1,2 +1,3 @@
-# V - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+fn soma(a int, b int) int {
+    return a + b
+}

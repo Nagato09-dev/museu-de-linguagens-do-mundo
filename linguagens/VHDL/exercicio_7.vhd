@@ -1,3 +1,10 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
-
-// Solução autêntica para Exercício 7 em js
+entity hello_world is
+end hello_world;
+architecture sim of hello_world is
+begin
+  process
+  begin
+    report "Olá, Mundo!";
+    wait;
+  end process;
+end sim;

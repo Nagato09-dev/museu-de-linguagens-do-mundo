@@ -1,3 +1,10 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
-
-// Solução autêntica para Exercício 6 em js
+entity hello_world is
+end hello_world;
+architecture sim of hello_world is
+begin
+  process
+  begin
+    report "Olá, Mundo!";
+    wait;
+  end process;
+end sim;

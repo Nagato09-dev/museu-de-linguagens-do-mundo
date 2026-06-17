@@ -1,6 +1,10 @@
-// VHDL - Olá Mundo - O básico de qualquer linguagem.
-module main;
-  initial begin
-    $display("Olá Mundo - O básico de qualquer linguagem.");
-  end
-endmodule
+entity hello_world is
+end hello_world;
+architecture sim of hello_world is
+begin
+  process
+  begin
+    report "Olá, Mundo!";
+    wait;
+  end process;
+end sim;

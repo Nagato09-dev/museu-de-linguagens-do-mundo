@@ -1,2 +1,1 @@
-// TYPESCRIPT - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+// Sintaxe para sort em TYPESCRIPT

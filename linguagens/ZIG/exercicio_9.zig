@@ -1,3 +1,4 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
-
-// Solução autêntica para Exercício 9 em js
+const std = @import("std");
+pub fn main() !void {
+    std.debug.print("Olá, Mundo!\n", .{});
+}

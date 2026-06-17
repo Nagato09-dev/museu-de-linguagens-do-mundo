@@ -1,2 +1,1 @@
-# ZSH - Funções - Criando blocos de código reutilizáveis.
-echo "Funções - Criando blocos de código reutilizáveis."
+// Sintaxe para func em ZSH

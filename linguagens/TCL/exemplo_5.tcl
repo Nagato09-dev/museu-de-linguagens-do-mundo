@@ -1,2 +1,1 @@
-# TCL - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+proc soma {a b} { return [expr $a + $b] }

@@ -1,2 +1,2 @@
-# TCL - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+set x 42
+set s "Tcl"

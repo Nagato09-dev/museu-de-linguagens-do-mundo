@@ -1,2 +1,2 @@
-# ZSH - Variáveis e Tipos - Como armazenar dados.
-echo "Variáveis e Tipos - Como armazenar dados."
+x=42
+s="Zsh"

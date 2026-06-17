@@ -1,2 +1,2 @@
-# ZIG - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+var x: i32 = 42;
+const s = "Zig";

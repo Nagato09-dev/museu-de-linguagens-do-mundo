@@ -1,4 +1,10 @@
-// Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
-
-let idade = 20;
-console.log(idade >= 18 ? 'Maior de idade' : 'Menor de idade');
+entity hello_world is
+end hello_world;
+architecture sim of hello_world is
+begin
+  process
+  begin
+    report "Olá, Mundo!";
+    wait;
+  end process;
+end sim;
