@@ -1,1 +1,1 @@
-minimize Total_Cost: sum {j in J} c[j] * x[j];
+-- Sintaxe para sort em AMPL

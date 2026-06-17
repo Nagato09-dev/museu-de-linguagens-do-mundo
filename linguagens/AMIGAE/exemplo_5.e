@@ -1,1 +1,1 @@
-PROC square(n) IS n*n
+PROC soma(a, b) IS a+b

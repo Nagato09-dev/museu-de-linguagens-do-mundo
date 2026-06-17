@@ -1,1 +1,1 @@
-fun square[n: Int]: Int { mul[n, n] }
+fun add [a, b: Int]: Int { a + b }

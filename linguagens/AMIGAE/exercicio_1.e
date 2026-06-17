@@ -1,1 +1,5 @@
-PROC main() WriteF('Hello Amiga') ENDPROC
+PROC main() HANDLE
+  WriteF('Olá, Mundo!\n')
+EXCEPT DO
+  nop()
+ENDPROC

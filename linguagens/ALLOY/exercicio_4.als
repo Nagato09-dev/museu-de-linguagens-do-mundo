@@ -1,1 +1,2 @@
-fact { #User > 0 }
+sig HelloWorld {}
+run {} for 1

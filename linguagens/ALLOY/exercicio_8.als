@@ -1,1 +1,2 @@
-sig Name { }
+sig HelloWorld {}
+run {} for 1

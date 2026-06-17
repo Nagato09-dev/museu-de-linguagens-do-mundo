@@ -1,1 +1,1 @@
-if a == b then { }
+print "Olá, Mundo!";

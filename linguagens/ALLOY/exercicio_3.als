@@ -1,1 +1,2 @@
-pred exists [u: User] { some u }
+sig HelloWorld {}
+run {} for 1

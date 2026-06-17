@@ -1,1 +1,1 @@
-solve;
+print "Olá, Mundo!";

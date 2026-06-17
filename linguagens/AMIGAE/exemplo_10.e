@@ -1,3 +1,1 @@
-OBJECT my_obj
-  id:INT
-ENDOBJECT
+-- Sintaxe para sort em AMIGAE

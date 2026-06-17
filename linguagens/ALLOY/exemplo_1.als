@@ -1,2 +1,2 @@
-sig Message { text: one String }
-fact { one m: Message | m.text = "Olá Mundo" }
+sig HelloWorld {}
+run {} for 1

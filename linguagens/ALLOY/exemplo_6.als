@@ -1,1 +1,1 @@
-sig Set { elements: set Node }
+-- Sintaxe para list em ALLOY

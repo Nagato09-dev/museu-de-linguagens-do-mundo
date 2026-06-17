@@ -1,1 +1,1 @@
-while x < 10 { let x := x + 1; }
+print "Olá, Mundo!";

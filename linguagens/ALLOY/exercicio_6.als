@@ -1,1 +1,2 @@
-sig List { next: lone List }
+sig HelloWorld {}
+run {} for 1

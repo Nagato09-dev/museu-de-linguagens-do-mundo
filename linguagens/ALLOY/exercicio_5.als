@@ -1,1 +1,2 @@
-fun getID [u: User]: Int { u.id }
+sig HelloWorld {}
+run {} for 1

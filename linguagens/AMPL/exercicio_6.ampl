@@ -1,1 +1,1 @@
-set J := 1..n;
+print "Olá, Mundo!";

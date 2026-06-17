@@ -1,1 +1,2 @@
-DEF x:INT, s[20]:CHAR
+DEF x:INT
+x:=42

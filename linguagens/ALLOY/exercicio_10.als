@@ -1,1 +1,2 @@
-run { some User }
+sig HelloWorld {}
+run {} for 1

@@ -1,1 +1,1 @@
-DEF list[10]:ARRAY OF INT
+-- Sintaxe para list em AMIGAE

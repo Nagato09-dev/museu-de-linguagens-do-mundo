@@ -1,1 +1,1 @@
-IF x=0 THEN Raise("ERRO")
+-- Sintaxe para error em AMIGAE

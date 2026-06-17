@@ -1,1 +1,1 @@
-print "Result: ", val;
+print "Olá, Mundo!";

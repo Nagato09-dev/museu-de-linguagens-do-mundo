@@ -1,1 +1,1 @@
-pred isGreater[n: Node] { n.value > 5 }
+pred isPositive [x: Int] { x > 0 }

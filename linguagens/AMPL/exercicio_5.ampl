@@ -1,1 +1,1 @@
-subject to constraint1: x + y <= 10;
+print "Olá, Mundo!";

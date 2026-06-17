@@ -1,1 +1,1 @@
-function square(n) { return n*n; }
+function soma(a, b) { return a + b; }

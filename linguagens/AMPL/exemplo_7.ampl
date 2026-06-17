@@ -1,1 +1,1 @@
-check x + y <= 100;
+-- Sintaxe para error em AMPL

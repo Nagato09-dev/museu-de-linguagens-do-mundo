@@ -1,1 +1,5 @@
-IF val < 0 THEN val := -val
+PROC main() HANDLE
+  WriteF('Olá, Mundo!\n')
+EXCEPT DO
+  nop()
+ENDPROC

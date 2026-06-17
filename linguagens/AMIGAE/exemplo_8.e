@@ -1,1 +1,1 @@
-StrCopy(s, 'Olá Mundo')
+-- Sintaxe para string em AMIGAE

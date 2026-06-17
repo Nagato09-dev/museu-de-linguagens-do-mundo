@@ -1,2 +1,2 @@
 var x >= 0;
-param a := 10;
+let x := 42;

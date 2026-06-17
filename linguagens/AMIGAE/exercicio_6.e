@@ -1,1 +1,5 @@
-DEF arr[5]:ARRAY
+PROC main() HANDLE
+  WriteF('Olá, Mundo!\n')
+EXCEPT DO
+  nop()
+ENDPROC

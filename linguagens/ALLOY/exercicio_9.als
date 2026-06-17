@@ -1,1 +1,2 @@
-pred sum [a, b, c: Int] { c = plus[a, b] }
+sig HelloWorld {}
+run {} for 1

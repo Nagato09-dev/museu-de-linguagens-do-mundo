@@ -1,1 +1,1 @@
-fun add[a, b: Int]: Int { plus[a, b] }
+-- Sintaxe para math em ALLOY

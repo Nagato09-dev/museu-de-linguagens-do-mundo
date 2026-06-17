@@ -1,2 +1,2 @@
--- Alloy não tem loops, usa quantificadores
-fact { all n: Node | n.value > 0 }
+-- Alloy usa restrições quantificadas
+all x: Int | x > 0

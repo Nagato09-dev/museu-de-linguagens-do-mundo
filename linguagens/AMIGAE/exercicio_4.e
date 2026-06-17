@@ -1,1 +1,5 @@
-WHILE x > 0 DO x := x - 1
+PROC main() HANDLE
+  WriteF('Olá, Mundo!\n')
+EXCEPT DO
+  nop()
+ENDPROC

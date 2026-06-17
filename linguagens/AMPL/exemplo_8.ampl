@@ -1,1 +1,1 @@
-display "Olá Mundo";
+-- Sintaxe para string em AMPL

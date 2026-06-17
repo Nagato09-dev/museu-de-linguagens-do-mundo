@@ -1,1 +1,2 @@
-check { all u: User | u.id >= 0 }
+sig HelloWorld {}
+run {} for 1

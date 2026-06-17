@@ -1,1 +1,1 @@
-check {i in I} x[i] >= 0;
+print "Olá, Mundo!";

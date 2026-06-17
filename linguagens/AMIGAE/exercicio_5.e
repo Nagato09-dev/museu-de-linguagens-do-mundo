@@ -1,1 +1,5 @@
-PROC add(a, b) IS a + b
+PROC main() HANDLE
+  WriteF('Olá, Mundo!\n')
+EXCEPT DO
+  nop()
+ENDPROC

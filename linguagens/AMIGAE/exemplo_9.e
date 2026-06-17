@@ -1,1 +1,1 @@
-x := a + b
+-- Sintaxe para math em AMIGAE

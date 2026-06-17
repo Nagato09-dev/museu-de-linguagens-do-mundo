@@ -1,1 +1,1 @@
-print "Hello AMPL";
+print "Olá, Mundo!";

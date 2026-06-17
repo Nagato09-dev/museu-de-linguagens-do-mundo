@@ -1,1 +1,2 @@
-sig User { id: one Int }
+sig HelloWorld {}
+run {} for 1

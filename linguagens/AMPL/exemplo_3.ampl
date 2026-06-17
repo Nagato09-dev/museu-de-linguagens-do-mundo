@@ -1,1 +1,1 @@
-if x > 5 then { print "Maior"; }
+if x > 10 then { print "Maior"; } else { print "Menor"; }

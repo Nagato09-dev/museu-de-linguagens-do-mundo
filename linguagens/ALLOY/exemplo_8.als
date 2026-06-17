@@ -1,1 +1,1 @@
--- Alloy foca em relações, não strings
+-- Sintaxe para string em ALLOY

@@ -1,1 +1,1 @@
-module myModel
+-- Sintaxe para sort em ALLOY
