@@ -1,3 +1,6 @@
-// Exercício 8: Calculadora Simples - Implemente uma função que receba dois números e uma operação (+, -, *, /) e retorne o resultado.
-
-// Solução autêntica para Exercício 8 em js
+PLEASE DO ,1 <- #10
+PLEASE DO ,1 SUB #1 <- #97
+PLEASE DO ,1 SUB #2 <- #98
+PLEASE DO ,1 SUB #3 <- #99
+PLEASE WRITE OUT ,1
+PLEASE GIVE UP

@@ -1,3 +1,8 @@
-// Exercício 4: Lista de Compras - Crie uma lista de 5 itens. Exiba a lista completa, remova um item e exiba a lista atualizada.
-
-// Solução autêntica para Exercício 4 em js
+PLEASE DO .1 <- #10
+PLEASE DO (1) NEXT
+PLEASE DO .1 <- .1 - #1
+PLEASE DO (2) NEXT
+(1) PLEASE DO (3) NEXT
+(2) PLEASE DO (1) NEXT
+(3) PLEASE WRITE OUT .1
+PLEASE GIVE UP

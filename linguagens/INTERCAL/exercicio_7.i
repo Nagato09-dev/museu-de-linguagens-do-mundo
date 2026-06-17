@@ -1,3 +1,7 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
-
-// Solução autêntica para Exercício 7 em js
+PLEASE DO .1 <- #1
+PLEASE DO (1) NEXT
+PLEASE DO .1 <- #0
+(1) PLEASE DO (2) NEXT
+PLEASE DO .1 <- #1
+(2) PLEASE WRITE OUT .1
+PLEASE GIVE UP

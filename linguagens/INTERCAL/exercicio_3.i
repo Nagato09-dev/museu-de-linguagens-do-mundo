@@ -1,4 +1,7 @@
-// Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
-
-let idade = 20;
-console.log(idade >= 18 ? 'Maior de idade' : 'Menor de idade');
+PLEASE DO .1 <- #7
+PLEASE DO (1) NEXT
+PLEASE DO .1 <- #14
+(1) PLEASE DO (2) NEXT
+PLEASE DO .1 <- #21
+(2) PLEASE WRITE OUT .1
+PLEASE GIVE UP

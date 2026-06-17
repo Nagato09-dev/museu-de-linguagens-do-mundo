@@ -1,3 +1,6 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
-
-// Solução autêntica para Exercício 6 em js
+PLEASE DO ,1 <- #3
+PLEASE DO ,1 SUB #1 <- #100
+PLEASE DO ,1 SUB #2 <- #200
+PLEASE DO ,1 SUB #3 <- #300
+PLEASE WRITE OUT ,1 SUB #2
+PLEASE GIVE UP

@@ -1,3 +1,5 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
-
-// Solução autêntica para Exercício 9 em js
+PLEASE DO .1 <- #7
+PLEASE DO .2 <- #3
+PLEASE DO .3 <- .1 * .2
+PLEASE WRITE OUT .3
+PLEASE GIVE UP

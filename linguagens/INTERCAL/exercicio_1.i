@@ -1,3 +1,10 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+PLEASE DO ,1 <- #13
+PLEASE DO ,1 SUB #1 <- #238
+PLEASE DO ,1 SUB #2 <- #108
+PLEASE DO ,1 SUB #3 <- #112
+PLEASE DO ,1 SUB #4 <- #0
+PLEASE DO ,1 SUB #5 <- #64
+PLEASE DO ,1 SUB #6 <- #194
+PLEASE DO ,1 SUB #7 <- #48
+PLEASE READ OUT ,1
+PLEASE GIVE UP

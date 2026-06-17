@@ -1,2 +1,7 @@
-# INTERCAL - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+PLEASE DO .1 <- #1
+PLEASE DO (1) NEXT
+PLEASE DO .1 <- #0
+(1) PLEASE DO (2) NEXT
+PLEASE DO .1 <- #1
+(2) PLEASE WRITE OUT .1
+PLEASE GIVE UP

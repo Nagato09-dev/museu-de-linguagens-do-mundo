@@ -1,2 +1,6 @@
-# INTERCAL - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+PLEASE DO .1 <- #5
+PLEASE DO SUBROUTINE (1) .1
+PLEASE WRITE OUT .1
+PLEASE GIVE UP
+(1) PLEASE DO .1 <- .1 * #2
+PLEASE RETURN FROM (1)

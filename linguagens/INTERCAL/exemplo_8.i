@@ -1,2 +1,8 @@
-# INTERCAL - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+PLEASE DO ,1 <- #10
+PLEASE DO ,1 SUB #1 <- #72
+PLEASE DO ,1 SUB #2 <- #69
+PLEASE DO ,1 SUB #3 <- #76
+PLEASE DO ,1 SUB #4 <- #76
+PLEASE DO ,1 SUB #5 <- #79
+PLEASE WRITE OUT ,1
+PLEASE GIVE UP

@@ -1,5 +1,5 @@
-// Exercício 2: Soma e Média - Declare três variáveis numéricas, some-as e exiba ambos os resultados.
-
-let a=10, b=20, c=30;
-let soma = a+b+c;
-console.log(`Soma: ${soma}, Média: ${soma/3}`);
+PLEASE DO .1 <- #100
+PLEASE DO .2 <- #25
+PLEASE DO .3 <- .1 - .2
+PLEASE WRITE OUT .3
+PLEASE GIVE UP

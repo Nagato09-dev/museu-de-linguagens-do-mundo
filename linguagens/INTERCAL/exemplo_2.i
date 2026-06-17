@@ -1,2 +1,5 @@
-# INTERCAL - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+PLEASE DO .1 <- #10
+PLEASE DO .2 <- #20
+PLEASE DO .3 <- .1 + .2
+PLEASE WRITE OUT .3
+PLEASE GIVE UP

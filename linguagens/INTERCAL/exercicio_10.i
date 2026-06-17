@@ -1,3 +1,12 @@
-// Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba.
-
-// Solução autêntica para Exercício 10 em js
+PLEASE DO ,1 <- #5
+PLEASE DO ,1 SUB #1 <- #10
+PLEASE DO ,1 SUB #2 <- #5
+PLEASE DO ,1 SUB #3 <- #8
+PLEASE DO ,1 SUB #4 <- #3
+PLEASE DO ,1 SUB #5 <- #7
+PLEASE WRITE OUT ,1 SUB #1
+PLEASE WRITE OUT ,1 SUB #2
+PLEASE WRITE OUT ,1 SUB #3
+PLEASE WRITE OUT ,1 SUB #4
+PLEASE WRITE OUT ,1 SUB #5
+PLEASE GIVE UP

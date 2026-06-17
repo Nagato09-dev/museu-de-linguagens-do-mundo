@@ -1,2 +1,7 @@
-# INTERCAL - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+PLEASE DO .1 <- #5
+PLEASE DO (1) NEXT
+PLEASE DO .1 <- #10
+(1) PLEASE DO (2) NEXT
+PLEASE DO .1 <- #15
+(2) PLEASE WRITE OUT .1
+PLEASE GIVE UP

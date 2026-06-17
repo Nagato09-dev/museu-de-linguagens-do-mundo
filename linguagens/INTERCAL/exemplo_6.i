@@ -1,2 +1,6 @@
-# INTERCAL - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+PLEASE DO ,1 <- #5
+PLEASE DO ,1 SUB #1 <- #10
+PLEASE DO ,1 SUB #2 <- #20
+PLEASE DO ,1 SUB #3 <- #30
+PLEASE WRITE OUT ,1 SUB #1
+PLEASE GIVE UP
