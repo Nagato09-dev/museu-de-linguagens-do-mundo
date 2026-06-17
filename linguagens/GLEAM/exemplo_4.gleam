@@ -1,1 +1,1 @@
-list.each(list.range(0, 4), io.debug)
+// Sintaxe para loop em GLEAM

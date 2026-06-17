@@ -1,1 +1,1 @@
-var area = 3.14 * r * r;
+show_debug_message("Olá, Mundo!");

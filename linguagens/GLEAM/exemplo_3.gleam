@@ -1,4 +1,4 @@
-case x > 0 {
-  True -> io.println("Positivo")
-  False -> io.println("Negativo")
+case x > 10 {
+  True -> io.println("Maior")
+  False -> io.println("Menor")
 }

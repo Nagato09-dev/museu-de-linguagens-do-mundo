@@ -1,1 +1,1 @@
-var lista = [1, 2, 3];
+// Sintaxe para list em GAME_MAKER_LANGUAGE

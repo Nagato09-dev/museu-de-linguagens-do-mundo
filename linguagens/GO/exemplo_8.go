@@ -1,1 +1,1 @@
-strings.ToUpper("go")
+// Sintaxe para string em GO

@@ -1,1 +1,1 @@
-for (var i = 10; i >= 1; i--) show_debug_message(string(i));
+show_debug_message("Olá, Mundo!");

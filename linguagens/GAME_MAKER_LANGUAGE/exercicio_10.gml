@@ -1,1 +1,1 @@
-array_contains(lista, 2);
+show_debug_message("Olá, Mundo!");

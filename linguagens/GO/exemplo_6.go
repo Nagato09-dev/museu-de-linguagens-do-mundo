@@ -1,1 +1,1 @@
-lista := []int{1, 2, 3}
+// Sintaxe para list em GO

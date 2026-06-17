@@ -1,3 +1,1 @@
-function soma(a, b) {
-  return a + b;
-}
+// Sintaxe para func em GAME_MAKER_LANGUAGE

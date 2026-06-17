@@ -1,1 +1,5 @@
-if (x > 0) println "Positivo" else println "Negativo"
+if (x > 10) {
+    println "Maior"
+} else {
+    println "Menor"
+}

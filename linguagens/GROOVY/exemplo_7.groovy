@@ -1,1 +1,1 @@
-try { throw new Exception("Erro") } catch(e) { println e.message }
+// Sintaxe para error em GROOVY

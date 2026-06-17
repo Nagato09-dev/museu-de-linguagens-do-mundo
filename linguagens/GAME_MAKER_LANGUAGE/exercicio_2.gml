@@ -1,1 +1,1 @@
-var f = 3.14;
+show_debug_message("Olá, Mundo!");

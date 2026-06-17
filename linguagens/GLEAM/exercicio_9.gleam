@@ -1,1 +1,4 @@
-3.14 *. r *. r
+import gleam/io
+public fn main() {
+  io.println("Olá, Mundo!")
+}

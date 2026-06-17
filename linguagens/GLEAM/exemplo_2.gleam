@@ -1,3 +1,2 @@
-let idade = 25
-let nome = "Gleam"
-io.println(nome <> " tem " <> int.to_string(idade) <> " anos")
+let x = 42
+let s = "Gleam"

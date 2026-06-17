@@ -1,1 +1,5 @@
-for _, v := range lista { if v == 2 { return true } }
+package main
+import "fmt"
+func main() {
+    fmt.Println("Olá, Mundo!")
+}

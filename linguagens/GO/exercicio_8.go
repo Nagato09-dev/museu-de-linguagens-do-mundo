@@ -1,1 +1,5 @@
-// reverse string manual
+package main
+import "fmt"
+func main() {
+    fmt.Println("Olá, Mundo!")
+}

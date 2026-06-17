@@ -1,1 +1,5 @@
-fmt.Println("Nagato09-dev")
+package main
+import "fmt"
+func main() {
+    fmt.Println("Olá, Mundo!")
+}

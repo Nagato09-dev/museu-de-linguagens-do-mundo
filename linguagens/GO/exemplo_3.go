@@ -1,5 +1,5 @@
-if x > 0 {
-    fmt.Println("Positivo")
+if x > 10 {
+    fmt.Println("Maior")
 } else {
-    fmt.Println("Negativo")
+    fmt.Println("Menor")
 }

@@ -1,3 +1,1 @@
-float soma(float a, float b) {
-  return a + b;
-}
+// Sintaxe para func em GLSL

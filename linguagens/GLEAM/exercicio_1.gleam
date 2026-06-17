@@ -1,1 +1,4 @@
-io.println("Nagato09-dev")
+import gleam/io
+public fn main() {
+  io.println("Olá, Mundo!")
+}

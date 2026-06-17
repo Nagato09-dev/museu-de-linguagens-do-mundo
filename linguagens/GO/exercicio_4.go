@@ -1,1 +1,5 @@
-for i := 10; i >= 1; i-- { fmt.Println(i) }
+package main
+import "fmt"
+func main() {
+    fmt.Println("Olá, Mundo!")
+}

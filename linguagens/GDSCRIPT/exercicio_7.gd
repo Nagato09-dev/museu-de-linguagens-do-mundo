@@ -1,1 +1,3 @@
-if error != OK: pass
+extends Node
+func _ready():
+    print("Olá, Mundo!")

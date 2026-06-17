@@ -1,1 +1,5 @@
-3.14 * r * r
+package main
+import "fmt"
+func main() {
+    fmt.Println("Olá, Mundo!")
+}

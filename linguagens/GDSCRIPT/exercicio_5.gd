@@ -1,1 +1,3 @@
-func mult(a, b): return a * b
+extends Node
+func _ready():
+    print("Olá, Mundo!")

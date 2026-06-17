@@ -1,2 +1,1 @@
-int idade = 25;
-float f = 3.14;
+// Sintaxe para vars em GLSL

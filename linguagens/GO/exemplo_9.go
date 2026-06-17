@@ -1,1 +1,1 @@
-math.Sqrt(16)
+// Sintaxe para math em GO

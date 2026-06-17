@@ -1,1 +1,3 @@
-lista.append(3)
+extends Node
+func _ready():
+    print("Olá, Mundo!")

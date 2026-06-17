@@ -1,1 +1,3 @@
-// reverse string manual
+extends Node
+func _ready():
+    print("Olá, Mundo!")

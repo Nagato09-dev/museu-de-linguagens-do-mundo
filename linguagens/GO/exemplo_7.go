@@ -1,3 +1,1 @@
-if err != nil {
-    fmt.Println(err)
-}
+// Sintaxe para error em GO

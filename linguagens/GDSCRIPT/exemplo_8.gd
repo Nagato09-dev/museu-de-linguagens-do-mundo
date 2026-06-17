@@ -1,1 +1,1 @@
-"gdscript".to_upper()
+// Sintaxe para string em GDSCRIPT

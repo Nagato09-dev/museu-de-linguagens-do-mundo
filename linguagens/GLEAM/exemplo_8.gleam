@@ -1,1 +1,1 @@
-string.uppercase("gleam")
+// Sintaxe para string em GLEAM

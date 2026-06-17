@@ -1,1 +1,1 @@
-list.sort(lista, int.compare)
+// Sintaxe para sort em GLEAM

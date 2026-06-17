@@ -1,1 +1,1 @@
-sqrt(16);
+// Sintaxe para math em GAME_MAKER_LANGUAGE

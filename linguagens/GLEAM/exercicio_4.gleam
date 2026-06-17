@@ -1,1 +1,4 @@
-list.each(list.reverse(list.range(1, 10)), io.debug)
+import gleam/io
+public fn main() {
+  io.println("Olá, Mundo!")
+}

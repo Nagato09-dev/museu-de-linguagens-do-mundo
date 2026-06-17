@@ -1,1 +1,1 @@
-try { } catch(e) { }
+println "Olá, Mundo!"

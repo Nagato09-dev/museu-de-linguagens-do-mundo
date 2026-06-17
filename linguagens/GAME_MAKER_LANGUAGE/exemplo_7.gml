@@ -1,5 +1,1 @@
-try {
-  throw("Erro GML");
-} catch(e) {
-  show_debug_message(e.message);
-}
+// Sintaxe para error em GAME_MAKER_LANGUAGE

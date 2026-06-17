@@ -1,1 +1,4 @@
-let f = 3.14
+import gleam/io
+public fn main() {
+  io.println("Olá, Mundo!")
+}

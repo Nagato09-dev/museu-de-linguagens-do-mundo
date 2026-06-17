@@ -1,1 +1,1 @@
-// Sort manual em shaders
+// Sintaxe para sort em GLSL

@@ -1,1 +1,3 @@
-PI * pow(r, 2)
+extends Node
+func _ready():
+    print("Olá, Mundo!")

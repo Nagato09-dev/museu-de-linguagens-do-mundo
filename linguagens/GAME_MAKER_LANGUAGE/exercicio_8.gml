@@ -1,1 +1,1 @@
-string_reverse("gml");
+show_debug_message("Olá, Mundo!");

@@ -1,1 +1,1 @@
-array_push(lista, 3);
+show_debug_message("Olá, Mundo!");

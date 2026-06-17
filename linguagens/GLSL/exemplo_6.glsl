@@ -1,1 +1,1 @@
-float lista[3] = float[](1.0, 2.0, 3.0);
+// Sintaxe para list em GLSL

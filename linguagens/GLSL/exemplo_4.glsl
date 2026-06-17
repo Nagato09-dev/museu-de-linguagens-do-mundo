@@ -1,3 +1,1 @@
-for (int i = 0; i < 5; i++) {
-  // shader loop
-}
+// Sintaxe para loop em GLSL

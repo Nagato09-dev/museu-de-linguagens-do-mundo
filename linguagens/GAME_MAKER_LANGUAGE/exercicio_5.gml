@@ -1,1 +1,1 @@
-function mult(a, b) { return a * b; }
+show_debug_message("Olá, Mundo!");

@@ -1,1 +1,1 @@
-try { } catch(e) { }
+show_debug_message("Olá, Mundo!");

@@ -1,1 +1,1 @@
-show_debug_message("Nagato09-dev");
+show_debug_message("Olá, Mundo!");

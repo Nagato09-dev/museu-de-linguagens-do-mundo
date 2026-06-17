@@ -1,3 +1,1 @@
-pub fn soma(a: Int, b: Int) -> Int {
-  a + b
-}
+// Sintaxe para func em GLEAM

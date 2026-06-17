@@ -1,1 +1,1 @@
-lista << 3
+println "Olá, Mundo!"

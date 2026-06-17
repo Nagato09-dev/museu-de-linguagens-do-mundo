@@ -1,1 +1,1 @@
-sort.Ints(lista)
+// Sintaxe para sort em GO

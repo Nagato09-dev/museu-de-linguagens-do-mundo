@@ -1,1 +1,1 @@
-// GLSL não tem try-catch
+// Sintaxe para error em GLSL

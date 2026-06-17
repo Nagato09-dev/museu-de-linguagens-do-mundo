@@ -1,1 +1,3 @@
-var f: float = 3.14
+extends Node
+func _ready():
+    print("Olá, Mundo!")

@@ -1,5 +1,5 @@
-if (x > 0) {
-  show_debug_message("Positivo");
+if (x > 10) {
+    show_debug_message("Maior");
 } else {
-  show_debug_message("Negativo");
+    show_debug_message("Menor");
 }

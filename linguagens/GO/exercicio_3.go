@@ -1,1 +1,5 @@
-if n % 2 == 0 { fmt.Println("Par") }
+package main
+import "fmt"
+func main() {
+    fmt.Println("Olá, Mundo!")
+}

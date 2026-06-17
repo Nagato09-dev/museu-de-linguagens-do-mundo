@@ -1,1 +1,1 @@
-Math.PI * r**2
+println "Olá, Mundo!"

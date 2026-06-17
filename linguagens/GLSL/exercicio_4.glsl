@@ -1,1 +1,3 @@
-for (int i = 10; i >= 1; i--) { }
+void main() {
+    gl_FragColor = vec4(1.0, 0.0, 0.0, 1.0);
+}

@@ -1,1 +1,1 @@
-// GLSL não tem funções de string
+// Sintaxe para string em GLSL

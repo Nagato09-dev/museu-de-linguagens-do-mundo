@@ -1,1 +1,1 @@
-"groovy".reverse()
+println "Olá, Mundo!"

@@ -1,1 +1,3 @@
-if n % 2 == 0: print("Par")
+extends Node
+func _ready():
+    print("Olá, Mundo!")

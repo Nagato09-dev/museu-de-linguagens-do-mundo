@@ -1,3 +1,2 @@
-def idade = 25
-def nome = "Groovy"
-println "${nome} tem ${idade} anos"
+def x = 42
+String s = "Groovy"

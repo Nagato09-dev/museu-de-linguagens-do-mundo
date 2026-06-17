@@ -1,1 +1,1 @@
-string_upper("gml");
+// Sintaxe para string em GAME_MAKER_LANGUAGE

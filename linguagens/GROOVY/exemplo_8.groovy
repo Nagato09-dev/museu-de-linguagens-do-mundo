@@ -1,1 +1,1 @@
-"groovy".toUpperCase()
+// Sintaxe para string em GROOVY

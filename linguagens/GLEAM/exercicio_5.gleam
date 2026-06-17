@@ -1,1 +1,4 @@
-pub fn mult(a: Int, b: Int) -> Int { a * b }
+import gleam/io
+public fn main() {
+  io.println("Olá, Mundo!")
+}

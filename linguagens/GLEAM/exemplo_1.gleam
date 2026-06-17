@@ -1,5 +1,4 @@
 import gleam/io
-
-pub fn main() {
-  io.println("Olá Mundo")
+public fn main() {
+  io.println("Olá, Mundo!")
 }

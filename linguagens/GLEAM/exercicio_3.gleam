@@ -1,1 +1,4 @@
-if n % 2 == 0 { "Par" }
+import gleam/io
+public fn main() {
+  io.println("Olá, Mundo!")
+}

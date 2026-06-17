@@ -1,1 +1,3 @@
-print("Nagato09-dev")
+extends Node
+func _ready():
+    print("Olá, Mundo!")

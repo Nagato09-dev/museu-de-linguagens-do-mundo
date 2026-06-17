@@ -1,1 +1,1 @@
-if (n % 2 == 0) show_debug_message("Par");
+show_debug_message("Olá, Mundo!");

@@ -1,1 +1,1 @@
-array_sort(lista, true);
+// Sintaxe para sort em GAME_MAKER_LANGUAGE

@@ -1,1 +1,1 @@
-// GDScript usa sinais ou verificações para erros
+// Sintaxe para error em GDSCRIPT

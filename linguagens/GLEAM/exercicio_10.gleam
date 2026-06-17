@@ -1,1 +1,4 @@
-list.contains(lista, 2)
+import gleam/io
+public fn main() {
+  io.println("Olá, Mundo!")
+}
