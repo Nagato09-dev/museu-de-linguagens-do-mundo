@@ -1,2 +1,1 @@
-// Exemplo 10 para GLSL
-// Sintaxe autêntica
+// Sort manual em shaders

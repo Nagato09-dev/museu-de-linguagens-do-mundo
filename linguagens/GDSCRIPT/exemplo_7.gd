@@ -1,2 +1,1 @@
-# GDScript não tem try/catch tradicional
-# Usa-se verificações de erro ou assert
+// GDScript usa sinais ou verificações para erros

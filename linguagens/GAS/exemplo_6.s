@@ -1,2 +1,1 @@
-// Exemplo 6 para GAS
-// Sintaxe autêntica
+lista: .long 1, 2, 3

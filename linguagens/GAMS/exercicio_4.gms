@@ -1,1 +1,1 @@
-// Exercício 4 para GAMS
+loop(i$(ord(i) >= 1), Display i.tl);

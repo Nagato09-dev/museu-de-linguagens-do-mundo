@@ -1,1 +1,1 @@
-// Exercício 1 para GAS
+.ascii "Nagato09-dev"

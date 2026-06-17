@@ -1,1 +1,1 @@
-println Math.sqrt(16.0)
+Math.sqrt(16)

@@ -1,1 +1,1 @@
-println n % 2 == 0 ? "Par" : "Ímpar"
+if (n % 2 == 0) println "Par"

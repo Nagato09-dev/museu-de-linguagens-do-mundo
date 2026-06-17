@@ -1,1 +1,1 @@
-// Exercício 5 para GOLO
+function mult = |a, b| -> a * b

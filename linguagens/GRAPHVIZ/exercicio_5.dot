@@ -1,1 +1,1 @@
-// Exercício 5 para GRAPHVIZ
+graph G { mult -- a; mult -- b; }

@@ -1,1 +1,1 @@
-// Exercício 1 para GAMS
+Display "Nagato09-dev";

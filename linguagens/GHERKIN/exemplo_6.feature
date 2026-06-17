@@ -1,2 +1,3 @@
-Given a lista:
-  | 1 | 2 | 3 |
+Scenario: Lista
+    Given a lista:
+      | 1 | 2 | 3 |

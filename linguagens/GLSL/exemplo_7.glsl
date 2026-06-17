@@ -1,2 +1,1 @@
-// Exemplo 7 para GLSL
-// Sintaxe autêntica
+// GLSL não tem try-catch

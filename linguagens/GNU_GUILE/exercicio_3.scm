@@ -1,1 +1,1 @@
-// Exercício 3 para GNU_GUILE
+(if (= 0 (modulo n 2)) (display "Par"))

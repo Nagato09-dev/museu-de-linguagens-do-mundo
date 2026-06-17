@@ -1,1 +1,1 @@
-// Exercício 8 para GOLFSCRIPT
+"golfscript" -1 % n

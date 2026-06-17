@@ -1,1 +1,1 @@
-// Exercício 3 para GAME_MAKER_LANGUAGE
+if (n % 2 == 0) show_debug_message("Par");

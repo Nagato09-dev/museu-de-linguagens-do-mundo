@@ -1,2 +1,1 @@
-// Exemplo 8 para GAMS
-// Sintaxe autêntica
+// GAMS não tem upper nativo em versões básicas

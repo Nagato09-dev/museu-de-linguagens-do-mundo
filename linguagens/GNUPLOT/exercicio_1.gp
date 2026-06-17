@@ -1,1 +1,1 @@
-// Exercício 1 para GNUPLOT
+print "Nagato09-dev"

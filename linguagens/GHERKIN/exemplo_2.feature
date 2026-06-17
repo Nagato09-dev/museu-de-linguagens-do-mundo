@@ -1,4 +1,3 @@
-Feature: Variáveis
-  Scenario: Definir idade
-    Given que a idade é 25
-    And o nome é "Gherkin"
+Scenario: Variáveis
+    Given que o nome é "Gherkin"
+    And a idade é 25

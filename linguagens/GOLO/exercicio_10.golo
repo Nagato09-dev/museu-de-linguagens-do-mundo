@@ -1,1 +1,1 @@
-// Exercício 10 para GOLO
+lista: contains(2)

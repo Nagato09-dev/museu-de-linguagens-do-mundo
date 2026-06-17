@@ -1,2 +1,2 @@
-// Exemplo 5 para GODOT
-// Sintaxe autêntica
+func soma(a: int, b: int) -> int:
+    return a + b

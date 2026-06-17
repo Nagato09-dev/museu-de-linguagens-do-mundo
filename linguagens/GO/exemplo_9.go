@@ -1,5 +1,1 @@
-package main
-import ("fmt"; "math")
-func main() {
-    fmt.Println(math.Sqrt(16.0))
-}
+math.Sqrt(16)

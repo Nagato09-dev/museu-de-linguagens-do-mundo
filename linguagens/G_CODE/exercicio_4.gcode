@@ -1,1 +1,4 @@
-// Exercício 4 para G_CODE
+#1 = 10
+WHILE [#1 GE 1] DO1
+  #1 = [#1 - 1]
+END1

@@ -1,1 +1,1 @@
-// Exercício 9 para GENTOO_EBUILD
+echo "3.14 * ${R} * ${R}" | bc

@@ -1,2 +1,1 @@
-// Exemplo 7 para GOLFSCRIPT
-// Sintaxe autêntica
+// GolfScript não tem try-catch

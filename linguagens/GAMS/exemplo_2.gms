@@ -1,2 +1,3 @@
-// Exemplo 2 para GAMS
-// Sintaxe autêntica
+Scalar idade /25/;
+String nome /"GAMS"/;
+Display nome, idade;

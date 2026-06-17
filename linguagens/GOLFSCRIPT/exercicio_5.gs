@@ -1,1 +1,1 @@
-// Exercício 5 para GOLFSCRIPT
+{ * }:mult;

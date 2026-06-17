@@ -1,1 +1,1 @@
-// Exercício 3 para GRAPHVIZ
+graph G { n [color=blue]; }

@@ -1,2 +1,1 @@
-// Exemplo 10 para GNUPLOT
-// Sintaxe autêntica
+plot "data.txt" smooth unique

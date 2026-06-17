@@ -1,1 +1,1 @@
-And eu busco o valor 2
+And 2 está na lista

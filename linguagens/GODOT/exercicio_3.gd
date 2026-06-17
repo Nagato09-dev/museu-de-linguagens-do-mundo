@@ -1,1 +1,1 @@
-// Exercício 3 para GODOT
+if n % 2 == 0: print("Par")

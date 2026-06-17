@@ -1,1 +1,1 @@
-// Exercício 10 para GNU_GUILE
+(member 2 lista)

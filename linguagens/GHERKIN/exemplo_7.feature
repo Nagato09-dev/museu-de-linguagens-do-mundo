@@ -1,2 +1,2 @@
 Scenario: Erro
-  Given uma falha ocorre
+    Then deve ocorrer um erro

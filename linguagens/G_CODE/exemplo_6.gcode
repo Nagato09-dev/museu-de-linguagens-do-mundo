@@ -1,2 +1,1 @@
-// Exemplo 6 para G_CODE
-// Sintaxe autêntica
+(G-Code não tem listas nativas, usa variáveis numeradas)

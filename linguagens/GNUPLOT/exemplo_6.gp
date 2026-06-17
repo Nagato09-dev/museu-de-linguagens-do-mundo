@@ -1,2 +1,1 @@
-// Exemplo 6 para GNUPLOT
-// Sintaxe autêntica
+array lista[3] = [1, 2, 3]

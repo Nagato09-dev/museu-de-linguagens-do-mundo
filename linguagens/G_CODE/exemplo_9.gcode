@@ -1,2 +1,1 @@
-// Exemplo 9 para G_CODE
-// Sintaxe autêntica
+#1 = SQRT[16]

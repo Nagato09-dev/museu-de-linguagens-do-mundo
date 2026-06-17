@@ -1,1 +1,1 @@
-// Exercício 4 para GOLO
+foreach (i in [10..1]) { println(i) }

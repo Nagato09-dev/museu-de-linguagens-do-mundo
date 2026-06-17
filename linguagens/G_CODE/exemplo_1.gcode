@@ -1,2 +1,4 @@
-// Exemplo 1 para G_CODE
-// Sintaxe autêntica
+(Olá Mundo)
+G21 (Milímetros)
+G90 (Absoluto)
+M30 (Fim)

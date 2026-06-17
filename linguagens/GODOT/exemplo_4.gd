@@ -1,2 +1,2 @@
-// Exemplo 4 para GODOT
-// Sintaxe autêntica
+for i in range(5):
+    print(i)

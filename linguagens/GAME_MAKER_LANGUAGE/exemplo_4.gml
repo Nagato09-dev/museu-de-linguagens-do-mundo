@@ -1,2 +1,3 @@
-// Exemplo 4 para GAME_MAKER_LANGUAGE
-// Sintaxe autêntica
+for (var i = 0; i < 5; i++) {
+  show_debug_message(string(i));
+}

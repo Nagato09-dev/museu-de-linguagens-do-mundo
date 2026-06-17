@@ -1,2 +1,1 @@
-// Exemplo 3 para GNUPLOT
-// Sintaxe autêntica
+if (x > 0) { print "Positivo" } else { print "Negativo" }

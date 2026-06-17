@@ -1,1 +1,1 @@
-// Exercício 9 para GODOT
+PI * pow(r, 2)

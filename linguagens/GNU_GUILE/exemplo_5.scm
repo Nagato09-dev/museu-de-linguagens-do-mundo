@@ -1,2 +1,1 @@
-// Exemplo 5 para GNU_GUILE
-// Sintaxe autêntica
+(define (soma a b) (+ a b))

@@ -1,1 +1,1 @@
-// Exercício 5 para GAMS
+Parameter mult(a, b); mult = a * b;

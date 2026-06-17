@@ -1,2 +1,4 @@
-// Exemplo 5 para GRAPHVIZ
-// Sintaxe autêntica
+graph G {
+  soma -- a;
+  soma -- b;
+}

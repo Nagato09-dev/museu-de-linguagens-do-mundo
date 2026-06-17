@@ -1,2 +1,3 @@
-// Exemplo 5 para GAME_MAKER_LANGUAGE
-// Sintaxe autêntica
+function soma(a, b) {
+  return a + b;
+}

@@ -1,1 +1,1 @@
-// Exercício 6 para GAMS
+Set j /j1*j4/; Parameter lista(j);

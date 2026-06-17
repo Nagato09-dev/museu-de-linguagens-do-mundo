@@ -1,1 +1,1 @@
-// Exercício 4 para GOLFSCRIPT
+10 { . n 1 - } /

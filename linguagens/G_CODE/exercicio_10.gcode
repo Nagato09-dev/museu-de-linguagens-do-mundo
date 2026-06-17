@@ -1,1 +1,1 @@
-// Exercício 10 para G_CODE
+(Busca manual)

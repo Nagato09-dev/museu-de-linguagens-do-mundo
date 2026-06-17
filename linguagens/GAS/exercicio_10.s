@@ -1,1 +1,1 @@
-// Exercício 10 para GAS
+repne scasb

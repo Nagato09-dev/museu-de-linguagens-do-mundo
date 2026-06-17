@@ -1,1 +1,1 @@
-// Exercício 4 para GRAPHVIZ
+graph G { 10 -- 9 -- 8; }

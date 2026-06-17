@@ -1,2 +1,1 @@
-// Exemplo 10 para GOLFSCRIPT
-// Sintaxe autêntica
+[3 1 4] $ n

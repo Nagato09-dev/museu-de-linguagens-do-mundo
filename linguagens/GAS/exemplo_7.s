@@ -1,2 +1,1 @@
-// Exemplo 7 para GAS
-// Sintaxe autêntica
+// GAS não tem try-catch nativo

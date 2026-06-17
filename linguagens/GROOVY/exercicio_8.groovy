@@ -1,1 +1,1 @@
-println "groovy".reverse()
+"groovy".reverse()

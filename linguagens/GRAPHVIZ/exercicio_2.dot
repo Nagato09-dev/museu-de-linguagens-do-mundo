@@ -1,1 +1,1 @@
-// Exercício 2 para GRAPHVIZ
+graph G { label="3.14"; }

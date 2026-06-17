@@ -1,1 +1,1 @@
-if error: print("Erro")
+if error != OK: pass

@@ -1,2 +1,1 @@
-// Exemplo 8 para GOLFSCRIPT
-// Sintaxe autêntica
+"golfscript" { 32 - } % n

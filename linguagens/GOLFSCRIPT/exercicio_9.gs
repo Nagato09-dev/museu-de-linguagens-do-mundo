@@ -1,1 +1,1 @@
-// Exercício 9 para GOLFSCRIPT
+3.14 r r * * n

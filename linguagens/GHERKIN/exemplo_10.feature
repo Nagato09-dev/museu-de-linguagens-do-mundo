@@ -1,1 +1,1 @@
-Then a lista ordenada é [1, 1, 3, 4, 5]
+When eu ordeno a lista

@@ -1,1 +1,1 @@
-// Exercício 2 para GAMS
+Scalar f /3.14/;

@@ -1,1 +1,1 @@
-// Exercício 10 para GAMS
+if (lista("2"), Display "Achou");

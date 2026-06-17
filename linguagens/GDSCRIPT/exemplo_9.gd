@@ -1,1 +1,1 @@
-print(sqrt(16.0))
+sqrt(16.0)

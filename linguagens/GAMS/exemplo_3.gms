@@ -1,2 +1,5 @@
-// Exemplo 3 para GAMS
-// Sintaxe autêntica
+if (x > 0,
+  Display "Positivo";
+else
+  Display "Negativo";
+);

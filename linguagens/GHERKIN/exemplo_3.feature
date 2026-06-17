@@ -1,4 +1,3 @@
-Feature: Condicional
-  Scenario: Verificar número
-    Given que o número é 5
+Scenario: Condição
+    Given que x é 5
     Then o resultado deve ser "Positivo"

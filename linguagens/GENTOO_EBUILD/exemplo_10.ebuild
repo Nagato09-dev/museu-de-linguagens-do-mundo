@@ -1,2 +1,1 @@
-// Exemplo 10 para GENTOO_EBUILD
-// Sintaxe autêntica
+echo ${MY_LIST[@]} | tr " " "\n" | sort

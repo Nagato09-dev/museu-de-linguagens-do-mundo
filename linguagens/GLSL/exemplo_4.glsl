@@ -1,2 +1,3 @@
-// Exemplo 4 para GLSL
-// Sintaxe autêntica
+for (int i = 0; i < 5; i++) {
+  // shader loop
+}

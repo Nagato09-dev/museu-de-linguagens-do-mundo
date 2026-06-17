@@ -1,1 +1,1 @@
-// Exercício 2 para GENTOO_EBUILD
+F=3.14

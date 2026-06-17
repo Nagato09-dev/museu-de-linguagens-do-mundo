@@ -1,2 +1,1 @@
-// Exemplo 8 para GNUPLOT
-// Sintaxe autêntica
+// Gnuplot não tem upper nativo

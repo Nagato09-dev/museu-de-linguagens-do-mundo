@@ -1,2 +1,2 @@
-// Exemplo 1 para GOLO
-// Sintaxe autêntica
+module hello
+function main = |args| { println("Olá Mundo") }

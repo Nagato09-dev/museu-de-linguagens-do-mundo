@@ -1,2 +1,2 @@
-// Exemplo 2 para G_CODE
-// Sintaxe autêntica
+#1 = 25 (idade)
+(Nagato09-dev tem #1 anos)

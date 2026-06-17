@@ -1,1 +1,1 @@
-// Exercício 3 para GENTOO_EBUILD
+if [[ $((N % 2)) -eq 0 ]]; then einfo "Par"; fi

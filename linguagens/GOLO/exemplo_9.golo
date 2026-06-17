@@ -1,2 +1,1 @@
-// Exemplo 9 para GOLO
-// Sintaxe autêntica
+java.lang.Math.sqrt(16.0)

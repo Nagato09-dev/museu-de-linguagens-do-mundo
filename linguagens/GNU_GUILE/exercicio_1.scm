@@ -1,1 +1,1 @@
-// Exercício 1 para GNU_GUILE
+(display "Nagato09-dev")

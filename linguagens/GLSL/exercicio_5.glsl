@@ -1,1 +1,1 @@
-// Exercício 5 para GLSL
+float mult(float a, float b) { return a * b; }

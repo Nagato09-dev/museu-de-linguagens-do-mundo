@@ -1,2 +1,1 @@
-// Exemplo 9 para GENTOO_EBUILD
-// Sintaxe autêntica
+echo "sqrt(16)" | bc

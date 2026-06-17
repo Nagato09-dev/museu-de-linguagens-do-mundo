@@ -1,2 +1,3 @@
-// Exemplo 5 para GENTOO_EBUILD
-// Sintaxe autêntica
+soma() {
+  echo $(($1 + $2))
+}

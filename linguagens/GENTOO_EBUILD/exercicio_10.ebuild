@@ -1,1 +1,1 @@
-// Exercício 10 para GENTOO_EBUILD
+[[ " ${MY_LIST[*]} " =~ " 2 " ]]

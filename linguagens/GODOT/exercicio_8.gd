@@ -1,1 +1,1 @@
-// Exercício 8 para GODOT
+// reverse string manual

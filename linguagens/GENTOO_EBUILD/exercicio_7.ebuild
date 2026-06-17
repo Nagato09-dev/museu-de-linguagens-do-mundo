@@ -1,1 +1,1 @@
-// Exercício 7 para GENTOO_EBUILD
+assert

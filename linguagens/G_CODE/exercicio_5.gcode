@@ -1,1 +1,3 @@
-// Exercício 5 para G_CODE
+O200 SUB
+  #3 = [#1 * #2]
+O200 ENDSUB

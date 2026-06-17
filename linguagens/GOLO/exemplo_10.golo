@@ -1,2 +1,1 @@
-// Exemplo 10 para GOLO
-// Sintaxe autêntica
+list[3, 1, 4]: sort(|a, b| -> a: compareTo(b))

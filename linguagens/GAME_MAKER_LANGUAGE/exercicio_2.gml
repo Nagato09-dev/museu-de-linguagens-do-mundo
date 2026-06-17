@@ -1,1 +1,1 @@
-// Exercício 2 para GAME_MAKER_LANGUAGE
+var f = 3.14;

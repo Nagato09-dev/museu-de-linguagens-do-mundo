@@ -1,1 +1,1 @@
-// Exercício 7 para GAMS
+abort$(condition) "Msg";

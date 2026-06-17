@@ -1,1 +1,1 @@
-// Exercício 5 para GENTOO_EBUILD
+mult() { echo $(($1 * $2)); }

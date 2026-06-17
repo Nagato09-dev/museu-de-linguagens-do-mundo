@@ -1,2 +1,3 @@
-// Exemplo 4 para GAMS
-// Sintaxe autêntica
+loop(i$(ord(i) <= 5),
+  Display i.tl;
+);

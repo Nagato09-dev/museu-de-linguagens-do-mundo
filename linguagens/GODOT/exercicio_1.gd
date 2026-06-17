@@ -1,1 +1,1 @@
-// Exercício 1 para GODOT
+print("Nagato09-dev")

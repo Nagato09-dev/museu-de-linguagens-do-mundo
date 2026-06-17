@@ -1,2 +1,2 @@
-// Exemplo 5 para GAMS
-// Sintaxe autêntica
+Parameter soma(a, b);
+soma = a + b;

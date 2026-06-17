@@ -1,2 +1,1 @@
-// Exemplo 10 para GNU_GUILE
-// Sintaxe autêntica
+(sort '(3 1 4) <)

@@ -1,2 +1,5 @@
-// Exemplo 7 para GAME_MAKER_LANGUAGE
-// Sintaxe autêntica
+try {
+  throw("Erro GML");
+} catch(e) {
+  show_debug_message(e.message);
+}

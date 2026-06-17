@@ -1,1 +1,1 @@
-// Exercício 2 para GNU_GUILE
+(define f 3.14)

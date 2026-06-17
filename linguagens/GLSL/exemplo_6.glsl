@@ -1,2 +1,1 @@
-// Exemplo 6 para GLSL
-// Sintaxe autêntica
+float lista[3] = float[](1.0, 2.0, 3.0);

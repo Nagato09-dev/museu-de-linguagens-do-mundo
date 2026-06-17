@@ -1,1 +1,1 @@
-// Exercício 1 para GLSL
+// Nagato09-dev

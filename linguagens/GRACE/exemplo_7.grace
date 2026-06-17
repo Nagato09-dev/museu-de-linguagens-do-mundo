@@ -1,2 +1,1 @@
-// Exemplo 7 para GRACE
-// Sintaxe autêntica
+// Grace usa blocos para controle de fluxo

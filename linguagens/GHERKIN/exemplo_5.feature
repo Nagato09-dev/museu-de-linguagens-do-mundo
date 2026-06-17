@@ -1,4 +1,3 @@
-Feature: Funções
-  Scenario: Somar
+Scenario: Soma
     When eu somo 5 e 3
-    Then o total é 8
+    Then o resultado é 8

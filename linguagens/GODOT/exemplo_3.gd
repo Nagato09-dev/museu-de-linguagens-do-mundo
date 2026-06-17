@@ -1,2 +1,4 @@
-// Exemplo 3 para GODOT
-// Sintaxe autêntica
+if x > 0:
+    print("Positivo")
+else:
+    print("Negativo")

@@ -1,1 +1,1 @@
-// Exercício 5 para GRACE
+method mult(a, b) { a * b }

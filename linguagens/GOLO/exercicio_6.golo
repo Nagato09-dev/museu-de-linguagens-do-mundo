@@ -1,1 +1,1 @@
-// Exercício 6 para GOLO
+lista: add(3)

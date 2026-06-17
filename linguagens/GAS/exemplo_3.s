@@ -1,2 +1,3 @@
-// Exemplo 3 para GAS
-// Sintaxe autêntica
+cmp $0, %rax
+jg positivo
+jmp negativo

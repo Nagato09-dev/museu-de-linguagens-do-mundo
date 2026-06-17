@@ -1,1 +1,1 @@
-Result(Ok, Error)
+Error("Erro")

@@ -1,1 +1,1 @@
-// Exercício 10 para GOLFSCRIPT
+lista 2 ?

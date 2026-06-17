@@ -1,1 +1,1 @@
-// Exercício 10 para GLSL
+// Search manual

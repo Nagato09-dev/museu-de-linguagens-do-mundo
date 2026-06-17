@@ -1,1 +1,1 @@
-// Exercício 6 para GNUPLOT
+lista[4] = 3

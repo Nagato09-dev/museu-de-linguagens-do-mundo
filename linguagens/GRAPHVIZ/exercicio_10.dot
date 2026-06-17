@@ -1,1 +1,1 @@
-// Exercício 10 para GRAPHVIZ
+graph G { 2 [style=filled]; }

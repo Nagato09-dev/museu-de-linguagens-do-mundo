@@ -1,2 +1,1 @@
-// Exemplo 6 para GNU_GUILE
-// Sintaxe autêntica
+(define lista '(1 2 3))

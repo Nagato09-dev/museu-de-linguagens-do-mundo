@@ -1,2 +1,1 @@
-// Exemplo 4 para GNUPLOT
-// Sintaxe autêntica
+do for [i=0:4] { print i }

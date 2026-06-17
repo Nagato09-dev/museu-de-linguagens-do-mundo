@@ -1,2 +1,1 @@
-// Exemplo 8 para GLSL
-// Sintaxe autêntica
+// GLSL não tem funções de string

@@ -1,1 +1,1 @@
-// Exercício 5 para GODOT
+func mult(a, b): return a * b

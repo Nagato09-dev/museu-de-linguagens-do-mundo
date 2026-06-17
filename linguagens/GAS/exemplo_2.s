@@ -1,2 +1,2 @@
-// Exemplo 2 para GAS
-// Sintaxe autêntica
+idade: .long 25
+nome: .asciz "GAS"

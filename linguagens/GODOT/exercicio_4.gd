@@ -1,1 +1,1 @@
-// Exercício 4 para GODOT
+for i in range(10, 0, -1): print(i)

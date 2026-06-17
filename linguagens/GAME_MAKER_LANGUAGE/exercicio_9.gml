@@ -1,1 +1,1 @@
-// Exercício 9 para GAME_MAKER_LANGUAGE
+var area = 3.14 * r * r;

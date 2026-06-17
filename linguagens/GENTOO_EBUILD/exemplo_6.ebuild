@@ -1,2 +1,1 @@
-// Exemplo 6 para GENTOO_EBUILD
-// Sintaxe autêntica
+MY_LIST=(1 2 3)

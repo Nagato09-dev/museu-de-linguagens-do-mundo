@@ -1,1 +1,1 @@
-// Exercício 4 para GNUPLOT
+do for [i=10:1:-1] { print i }

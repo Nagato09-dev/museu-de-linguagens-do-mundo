@@ -1,1 +1,1 @@
-// Exercício 4 para GRACE
+for (10.downTo(1)) do { i -> print(i) }

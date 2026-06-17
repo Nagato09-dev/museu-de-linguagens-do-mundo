@@ -1,1 +1,1 @@
-Then deve ser par
+Then n deve ser par

@@ -1,2 +1,1 @@
-// Exemplo 8 para GAS
-// Sintaxe autêntica
+// Conversão manual ASCII

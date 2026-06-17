@@ -1,2 +1,1 @@
-// Exemplo 5 para GRACE
-// Sintaxe autêntica
+method soma(a, b) { a + b }

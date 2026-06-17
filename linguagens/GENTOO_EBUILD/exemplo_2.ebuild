@@ -1,2 +1,2 @@
-// Exemplo 2 para GENTOO_EBUILD
-// Sintaxe autêntica
+MY_AGE=25
+MY_NAME="Gentoo"

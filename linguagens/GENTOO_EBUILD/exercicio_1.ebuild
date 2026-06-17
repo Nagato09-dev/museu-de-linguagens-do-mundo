@@ -1,1 +1,1 @@
-// Exercício 1 para GENTOO_EBUILD
+einfo "Nagato09-dev"

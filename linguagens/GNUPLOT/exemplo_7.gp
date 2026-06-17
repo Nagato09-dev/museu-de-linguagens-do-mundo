@@ -1,2 +1,1 @@
-// Exemplo 7 para GNUPLOT
-// Sintaxe autêntica
+// Gnuplot trata erros via mensagens de console

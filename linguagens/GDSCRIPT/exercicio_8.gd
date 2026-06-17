@@ -1,1 +1,1 @@
-s.reverse()
+// reverse string manual

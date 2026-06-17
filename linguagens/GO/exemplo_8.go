@@ -1,5 +1,1 @@
-package main
-import ("fmt"; "strings")
-func main() {
-    fmt.Println(strings.ToUpper("go lang"))
-}
+strings.ToUpper("go")

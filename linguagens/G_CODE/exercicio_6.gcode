@@ -1,1 +1,1 @@
-// Exercício 6 para G_CODE
+#100 = 10

@@ -1,1 +1,1 @@
-list.reverse(list.range(1, 10))
+list.each(list.reverse(list.range(1, 10)), io.debug)

@@ -1,1 +1,1 @@
-// Exercício 6 para GLSL
+lista[3] = 10.0;

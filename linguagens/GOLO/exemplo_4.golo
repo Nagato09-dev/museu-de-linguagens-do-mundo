@@ -1,2 +1,1 @@
-// Exemplo 4 para GOLO
-// Sintaxe autêntica
+for (var i = 0, i < 5, i = i + 1) { println(i) }

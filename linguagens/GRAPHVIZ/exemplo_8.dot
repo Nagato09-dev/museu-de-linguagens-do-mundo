@@ -1,2 +1,1 @@
-// Exemplo 8 para GRAPHVIZ
-// Sintaxe autêntica
+graph G { label="GRAPHVIZ"; }

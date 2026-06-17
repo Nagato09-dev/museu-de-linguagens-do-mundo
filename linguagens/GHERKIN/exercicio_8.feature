@@ -1,1 +1,1 @@
-Then a string invertida é "nikrehg"
+When eu inverto a string

@@ -1,2 +1,1 @@
-// Exemplo 9 para GAS
-// Sintaxe autêntica
+// sqrt via FPU ou SSE

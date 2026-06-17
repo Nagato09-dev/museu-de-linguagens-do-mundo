@@ -1,1 +1,1 @@
-// Exercício 5 para GAME_MAKER_LANGUAGE
+function mult(a, b) { return a * b; }

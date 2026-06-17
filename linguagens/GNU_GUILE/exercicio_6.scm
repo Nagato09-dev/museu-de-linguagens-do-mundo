@@ -1,1 +1,1 @@
-// Exercício 6 para GNU_GUILE
+(cons 3 lista)

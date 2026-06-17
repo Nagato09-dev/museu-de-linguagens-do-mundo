@@ -1,2 +1,1 @@
-import gleam/list
-list.each([0, 1, 2, 3, 4], io.debug)
+list.each(list.range(0, 4), io.debug)

@@ -1,2 +1,1 @@
-def list = [3, 1, 4, 1, 5].sort()
-println list
+[3, 1, 4].sort()

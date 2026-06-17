@@ -1,1 +1,1 @@
-lista.has(2)
+2 in lista

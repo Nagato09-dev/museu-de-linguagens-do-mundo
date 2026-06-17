@@ -1,1 +1,1 @@
-// Exercício 9 para G_CODE
+#1 = [3.14 * #2 * #2]

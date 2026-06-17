@@ -1,2 +1,1 @@
-// Exemplo 4 para GOLFSCRIPT
-// Sintaxe autêntica
+5 { . n } /

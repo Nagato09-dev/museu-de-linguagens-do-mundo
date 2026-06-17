@@ -1,2 +1,1 @@
-// Exemplo 7 para GODOT
-// Sintaxe autêntica
+// GDScript usa sinais ou verificações para erros

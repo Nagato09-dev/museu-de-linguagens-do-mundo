@@ -1,1 +1,1 @@
-When eu multiplico a por b
+When eu multiplico a e b

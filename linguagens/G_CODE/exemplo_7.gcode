@@ -1,2 +1,2 @@
-// Exemplo 7 para G_CODE
-// Sintaxe autêntica
+(G-Code usa alarmes para erros)
+M0 (Parada de emergência)

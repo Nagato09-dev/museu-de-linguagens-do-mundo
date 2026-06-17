@@ -1,1 +1,1 @@
-// Exercício 9 para GAMS
+area = 3.14 * sqr(r);

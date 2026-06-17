@@ -1,1 +1,1 @@
-// Exercício 10 para GAME_MAKER_LANGUAGE
+array_contains(lista, 2);

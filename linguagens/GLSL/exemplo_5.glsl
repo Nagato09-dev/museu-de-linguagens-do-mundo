@@ -1,2 +1,3 @@
-// Exemplo 5 para GLSL
-// Sintaxe autêntica
+float soma(float a, float b) {
+  return a + b;
+}

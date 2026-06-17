@@ -1,1 +1,1 @@
-// Exercício 6 para GOLFSCRIPT
+lista 3 +

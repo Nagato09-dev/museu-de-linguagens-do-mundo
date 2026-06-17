@@ -1,1 +1,1 @@
-// Exercício 3 para GOLFSCRIPT
+n 2 % 0 = { "Par" } if n

@@ -1,2 +1,1 @@
-// Exemplo 4 para GNU_GUILE
-// Sintaxe autêntica
+(do ((i 0 (+ i 1))) ((= i 5)) (display i) (newline))

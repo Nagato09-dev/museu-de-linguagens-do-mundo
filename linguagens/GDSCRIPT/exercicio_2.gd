@@ -1,1 +1,1 @@
-var f = 3.14
+var f: float = 3.14

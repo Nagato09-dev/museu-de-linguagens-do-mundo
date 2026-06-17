@@ -1,1 +1,1 @@
-println "groovy".toUpperCase()
+"groovy".toUpperCase()

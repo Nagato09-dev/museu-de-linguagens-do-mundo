@@ -1,1 +1,1 @@
-// Exercício 1 para GAME_MAKER_LANGUAGE
+show_debug_message("Nagato09-dev");

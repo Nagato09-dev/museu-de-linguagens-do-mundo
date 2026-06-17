@@ -1,2 +1,1 @@
-// Exemplo 5 para GOLO
-// Sintaxe autêntica
+function soma = |a, b| { return a + b }

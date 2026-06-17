@@ -1,1 +1,1 @@
-// Exercício 4 para GAME_MAKER_LANGUAGE
+for (var i = 10; i >= 1; i--) show_debug_message(string(i));

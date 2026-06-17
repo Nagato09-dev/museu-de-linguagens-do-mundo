@@ -1,2 +1,1 @@
-// Exemplo 7 para GNU_GUILE
-// Sintaxe autêntica
+(catch #t (lambda () (error "Erro")) (lambda (key . args) (display "Erro capturado")))

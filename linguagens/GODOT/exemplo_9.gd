@@ -1,2 +1,1 @@
-// Exemplo 9 para GODOT
-// Sintaxe autêntica
+sqrt(16.0)

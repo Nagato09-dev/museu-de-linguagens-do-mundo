@@ -1,1 +1,1 @@
-// Exercício 10 para GODOT
+2 in lista

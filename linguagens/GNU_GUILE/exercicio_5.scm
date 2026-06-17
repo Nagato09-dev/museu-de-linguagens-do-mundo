@@ -1,1 +1,1 @@
-// Exercício 5 para GNU_GUILE
+(define (mult a b) (* a b))

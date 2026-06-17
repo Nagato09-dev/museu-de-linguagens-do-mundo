@@ -1,1 +1,1 @@
-// Exercício 7 para GAME_MAKER_LANGUAGE
+try { } catch(e) { }

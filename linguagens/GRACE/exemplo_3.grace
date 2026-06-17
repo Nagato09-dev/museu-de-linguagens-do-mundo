@@ -1,2 +1,5 @@
-// Exemplo 3 para GRACE
-// Sintaxe autêntica
+if (x > 0) then {
+  print "Positivo"
+} else {
+  print "Negativo"
+}

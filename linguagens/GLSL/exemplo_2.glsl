@@ -1,2 +1,2 @@
-// Exemplo 2 para GLSL
-// Sintaxe autêntica
+int idade = 25;
+float f = 3.14;

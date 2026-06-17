@@ -1,1 +1,1 @@
-// Exercício 2 para GAS
+f: .float 3.14

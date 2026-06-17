@@ -1,1 +1,1 @@
-// Exercício 2 para G_CODE
+#1 = 3.14

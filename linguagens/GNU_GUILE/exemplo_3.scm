@@ -1,2 +1,1 @@
-// Exemplo 3 para GNU_GUILE
-// Sintaxe autêntica
+(if (> x 0) (display "Positivo") (display "Negativo"))

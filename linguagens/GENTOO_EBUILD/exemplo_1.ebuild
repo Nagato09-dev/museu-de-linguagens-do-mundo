@@ -1,2 +1,3 @@
-// Exemplo 1 para GENTOO_EBUILD
-// Sintaxe autêntica
+EAPI=8
+DESCRIPTION="Olá Mundo"
+HOMEPAGE="https://gentoo.org"

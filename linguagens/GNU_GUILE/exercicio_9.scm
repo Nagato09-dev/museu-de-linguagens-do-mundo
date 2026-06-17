@@ -1,1 +1,1 @@
-// Exercício 9 para GNU_GUILE
+(* 3.14 (* r r))

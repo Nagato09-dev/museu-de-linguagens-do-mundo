@@ -1,1 +1,1 @@
-// Exercício 2 para GOLFSCRIPT
+3.14

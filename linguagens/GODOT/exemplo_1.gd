@@ -1,2 +1,3 @@
-// Exemplo 1 para GODOT
-// Sintaxe autêntica
+extends Node
+func _ready():
+    print("Olá Mundo")

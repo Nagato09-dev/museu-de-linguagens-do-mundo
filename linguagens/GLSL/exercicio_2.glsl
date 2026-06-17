@@ -1,1 +1,1 @@
-// Exercício 2 para GLSL
+float f = 3.14;

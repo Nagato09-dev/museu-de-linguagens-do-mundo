@@ -1,1 +1,1 @@
-// Exercício 4 para GAS
+mov $10, %rcx

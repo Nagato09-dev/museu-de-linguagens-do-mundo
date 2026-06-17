@@ -1,6 +1,2 @@
-Scenario Outline: Loop
-  Given o número <num>
-  Examples:
-    | num |
-    | 1   |
-    | 2   |
+Scenario: Loop
+    Given que eu conto de 0 a 4

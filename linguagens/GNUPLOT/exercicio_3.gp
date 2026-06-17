@@ -1,1 +1,1 @@
-// Exercício 3 para GNUPLOT
+if (int(n) % 2 == 0) print "Par"

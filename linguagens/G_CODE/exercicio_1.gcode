@@ -1,1 +1,1 @@
-// Exercício 1 para G_CODE
+(Nagato09-dev)

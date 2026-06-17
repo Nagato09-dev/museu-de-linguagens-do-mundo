@@ -1,2 +1,2 @@
-// Exemplo 7 para GAMS
-// Sintaxe autêntica
+// GAMS usa abort para erros fatais
+abort$(error) "Erro GAMS";

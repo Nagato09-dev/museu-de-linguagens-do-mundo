@@ -1,4 +1,4 @@
-var idade = 25
-var nome = "GDScript"
+var idade: int = 25
+var nome: String = "GDScript"
 func _ready():
     print(nome + " tem " + str(idade) + " anos")

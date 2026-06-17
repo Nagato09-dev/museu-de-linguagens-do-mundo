@@ -1,1 +1,1 @@
-// Exercício 6 para GODOT
+lista.append(3)

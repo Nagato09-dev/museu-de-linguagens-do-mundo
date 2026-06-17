@@ -1,2 +1,1 @@
-// Exemplo 5 para GOLFSCRIPT
-// Sintaxe autêntica
+{ + }:soma; 5 3 soma n

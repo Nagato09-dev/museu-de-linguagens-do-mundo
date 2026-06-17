@@ -1,2 +1,1 @@
-// Exemplo 6 para GOLO
-// Sintaxe autêntica
+let lista = list[1, 2, 3]

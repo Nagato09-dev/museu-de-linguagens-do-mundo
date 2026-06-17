@@ -1,1 +1,1 @@
-if err != nil { panic(err) }
+if err != nil { }

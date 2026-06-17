@@ -1,1 +1,1 @@
-print("gdscript".to_upper())
+"gdscript".to_upper()

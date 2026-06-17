@@ -1,2 +1,3 @@
-// Exemplo 3 para GENTOO_EBUILD
-// Sintaxe autêntica
+if [[ ${X} -gt 0 ]]; then
+  einfo "Positivo"
+fi

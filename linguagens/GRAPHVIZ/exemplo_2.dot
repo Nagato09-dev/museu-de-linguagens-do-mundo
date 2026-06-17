@@ -1,2 +1,4 @@
-// Exemplo 2 para GRAPHVIZ
-// Sintaxe autêntica
+graph G {
+  idade [label="25"];
+  nome [label="Graphviz"];
+}

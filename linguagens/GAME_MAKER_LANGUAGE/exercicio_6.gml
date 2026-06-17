@@ -1,1 +1,1 @@
-// Exercício 6 para GAME_MAKER_LANGUAGE
+array_push(lista, 3);

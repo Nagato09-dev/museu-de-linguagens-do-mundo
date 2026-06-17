@@ -1,1 +1,1 @@
-// Exercício 5 para GNUPLOT
+mult(a, b) = a * b

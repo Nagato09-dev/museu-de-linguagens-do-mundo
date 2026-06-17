@@ -1,2 +1,1 @@
-// Exemplo 2 para GOLFSCRIPT
-// Sintaxe autêntica
+25:i; "GolfScript":n; n " tem " i " anos"n

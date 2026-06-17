@@ -1,2 +1,4 @@
-// Exemplo 5 para GAS
-// Sintaxe autêntica
+soma:
+    add %rsi, %rdi
+    mov %rdi, %rax
+    ret

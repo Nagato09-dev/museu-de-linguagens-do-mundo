@@ -1,2 +1,1 @@
-// Exemplo 7 para GOLO
-// Sintaxe autêntica
+try { throw RuntimeException("Erro") } catch (e) { println(e: getMessage()) }

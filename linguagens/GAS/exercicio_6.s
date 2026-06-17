@@ -1,1 +1,1 @@
-// Exercício 6 para GAS
+.long 10

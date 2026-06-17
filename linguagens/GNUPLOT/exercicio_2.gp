@@ -1,1 +1,1 @@
-// Exercício 2 para GNUPLOT
+f = 3.14

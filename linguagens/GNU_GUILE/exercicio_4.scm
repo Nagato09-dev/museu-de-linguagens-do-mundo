@@ -1,1 +1,1 @@
-// Exercício 4 para GNU_GUILE
+(do ((i 10 (- i 1))) ((= i 0)) (display i))

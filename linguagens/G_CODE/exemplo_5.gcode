@@ -1,2 +1,3 @@
-// Exemplo 5 para G_CODE
-// Sintaxe autêntica
+O100 SUB
+  #3 = [#1 + #2]
+O100 ENDSUB

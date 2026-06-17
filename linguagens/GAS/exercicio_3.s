@@ -1,1 +1,2 @@
-// Exercício 3 para GAS
+test $1, %al
+jz par

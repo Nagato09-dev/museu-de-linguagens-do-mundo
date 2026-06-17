@@ -1,1 +1,1 @@
-pub fn mult(a, b) { a * b }
+pub fn mult(a: Int, b: Int) -> Int { a * b }

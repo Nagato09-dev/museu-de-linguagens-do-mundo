@@ -1,1 +1,1 @@
-// Exercício 6 para GENTOO_EBUILD
+MY_LIST+=(3)

@@ -1,1 +1,1 @@
-// Exercício 8 para GAME_MAKER_LANGUAGE
+string_reverse("gml");

@@ -1,1 +1,1 @@
-// Exercício 4 para GLSL
+for (int i = 10; i >= 1; i--) { }

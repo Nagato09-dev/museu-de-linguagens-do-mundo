@@ -1,1 +1,1 @@
-// Exercício 7 para GNUPLOT
+set errorbars

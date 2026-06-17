@@ -1,1 +1,1 @@
-Then o texto em maiúsculo é "GHERKIN"
+When eu converto para maiúsculo

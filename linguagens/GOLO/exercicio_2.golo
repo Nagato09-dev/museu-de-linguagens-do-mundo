@@ -1,1 +1,1 @@
-// Exercício 2 para GOLO
+let f = 3.14

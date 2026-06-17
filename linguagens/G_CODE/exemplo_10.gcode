@@ -1,2 +1,2 @@
-// Exemplo 10 para G_CODE
-// Sintaxe autêntica
+(Movimento linear)
+G1 X10 Y10 F100

@@ -1,1 +1,1 @@
-// Exercício 7 para G_CODE
+M0

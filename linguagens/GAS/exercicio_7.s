@@ -1,1 +1,1 @@
-// Exercício 7 para GAS
+int $3

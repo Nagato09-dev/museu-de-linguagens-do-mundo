@@ -1,1 +1,1 @@
-But um erro é capturado
+Then falha

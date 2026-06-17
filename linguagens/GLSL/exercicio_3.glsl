@@ -1,1 +1,1 @@
-// Exercício 3 para GLSL
+if (mod(n, 2.0) == 0.0) { }

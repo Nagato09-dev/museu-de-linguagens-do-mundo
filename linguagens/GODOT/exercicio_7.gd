@@ -1,1 +1,1 @@
-// Exercício 7 para GODOT
+if error != OK: pass

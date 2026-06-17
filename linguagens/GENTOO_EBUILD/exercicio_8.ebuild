@@ -1,1 +1,1 @@
-// Exercício 8 para GENTOO_EBUILD
+echo "gentoo" | rev

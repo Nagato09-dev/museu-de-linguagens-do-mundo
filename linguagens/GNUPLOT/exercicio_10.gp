@@ -1,1 +1,1 @@
-// Exercício 10 para GNUPLOT
+// Busca manual

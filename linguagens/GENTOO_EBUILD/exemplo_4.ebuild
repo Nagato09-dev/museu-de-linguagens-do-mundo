@@ -1,2 +1,3 @@
-// Exemplo 4 para GENTOO_EBUILD
-// Sintaxe autêntica
+for i in {0..4}; do
+  einfo ${i}
+done

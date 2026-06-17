@@ -1,2 +1,1 @@
-// Exemplo 4 para GRACE
-// Sintaxe autêntica
+for (0..4) do { i -> print(i) }

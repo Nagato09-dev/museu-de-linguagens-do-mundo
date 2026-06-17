@@ -1,1 +1,1 @@
-// Exercício 8 para G_CODE
+(Inversão manual)

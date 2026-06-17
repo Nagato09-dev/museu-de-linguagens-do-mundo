@@ -1,1 +1,1 @@
-// Exercício 3 para GAMS
+if (mod(n, 2) = 0, Display "Par");

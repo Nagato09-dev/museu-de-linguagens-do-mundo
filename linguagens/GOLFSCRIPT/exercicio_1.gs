@@ -1,1 +1,1 @@
-// Exercício 1 para GOLFSCRIPT
+"Nagato09-dev" n

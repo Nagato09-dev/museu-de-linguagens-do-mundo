@@ -1,2 +1,1 @@
-// Exemplo 9 para GAMS
-// Sintaxe autêntica
+result = sqrt(16);

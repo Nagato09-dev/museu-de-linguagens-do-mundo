@@ -1,1 +1,1 @@
-// Exercício 2 para GODOT
+var f: float = 3.14

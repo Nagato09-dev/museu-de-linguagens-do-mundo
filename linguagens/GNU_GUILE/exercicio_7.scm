@@ -1,1 +1,1 @@
-// Exercício 7 para GNU_GUILE
+(catch ...)

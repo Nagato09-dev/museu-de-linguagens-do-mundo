@@ -1,2 +1,1 @@
-// Exemplo 10 para GAMS
-// Sintaxe autêntica
+// GAMS lida com conjuntos ordenados nativamente

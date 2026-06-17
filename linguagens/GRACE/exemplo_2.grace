@@ -1,2 +1,3 @@
-// Exemplo 2 para GRACE
-// Sintaxe autêntica
+var idade := 25
+var nome := "Grace"
+print "{nome} tem {idade} anos"

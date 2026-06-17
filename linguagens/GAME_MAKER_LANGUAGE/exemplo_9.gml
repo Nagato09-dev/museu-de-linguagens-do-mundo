@@ -1,2 +1,1 @@
-// Exemplo 9 para GAME_MAKER_LANGUAGE
-// Sintaxe autêntica
+sqrt(16);

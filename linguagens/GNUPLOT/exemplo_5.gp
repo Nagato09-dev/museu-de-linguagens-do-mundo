@@ -1,2 +1,2 @@
-// Exemplo 5 para GNUPLOT
-// Sintaxe autêntica
+soma(a, b) = a + b
+print soma(5, 3)

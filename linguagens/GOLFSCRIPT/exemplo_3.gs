@@ -1,2 +1,1 @@
-// Exemplo 3 para GOLFSCRIPT
-// Sintaxe autêntica
+5:x; x 0 > { "Positivo" } { "Negativo" } if n

@@ -1,1 +1,1 @@
-sort.SearchInts(l, x)
+for _, v := range lista { if v == 2 { return true } }

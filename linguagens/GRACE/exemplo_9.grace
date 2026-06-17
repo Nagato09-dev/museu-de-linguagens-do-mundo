@@ -1,2 +1,1 @@
-// Exemplo 9 para GRACE
-// Sintaxe autêntica
+16.sqrt
