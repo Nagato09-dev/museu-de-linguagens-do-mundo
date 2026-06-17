@@ -1,2 +1,1 @@
-// Exemplo 8 para DNS_ZONE
-// Sintaxe autêntica sendo preparada
+ipv6 IN AAAA 2001:db8::1

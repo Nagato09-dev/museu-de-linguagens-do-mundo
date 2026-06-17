@@ -1,2 +1,1 @@
-// Exemplo 6 para DNS_ZONE
-// Sintaxe autêntica sendo preparada
+_sip._tcp IN SRV 10 60 5060 sip.exemplo.com.

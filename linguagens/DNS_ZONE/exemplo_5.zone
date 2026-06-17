@@ -1,2 +1,1 @@
-// Exemplo 5 para DNS_ZONE
-// Sintaxe autêntica sendo preparada
+ftp IN CNAME www.exemplo.com.

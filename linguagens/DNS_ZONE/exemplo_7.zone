@@ -1,2 +1,1 @@
-// Exemplo 7 para DNS_ZONE
-// Sintaxe autêntica sendo preparada
+@ IN TXT "v=spf1 include:_spf.google.com ~all"

@@ -1,2 +1,2 @@
-// Exemplo 3 para DNS_ZONE
-// Sintaxe autêntica sendo preparada
+@ IN A 192.168.1.1
+www IN A 192.168.1.1
