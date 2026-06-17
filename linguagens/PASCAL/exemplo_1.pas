@@ -1,5 +1,4 @@
-// PASCAL - Olá Mundo - O básico de qualquer linguagem.
-program Main;
+program Hello;
 begin
-    writeln('Olá Mundo - O básico de qualquer linguagem.');
+  writeln('Olá, Mundo!');
 end.

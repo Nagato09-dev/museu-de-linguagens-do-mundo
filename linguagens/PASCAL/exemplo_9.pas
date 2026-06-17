@@ -1,5 +1,1 @@
-// PASCAL - Matemática - Operações aritméticas básicas.
-program Main;
-begin
-    writeln('Matemática - Operações aritméticas básicas.');
-end.
+// Sintaxe para math em PASCAL

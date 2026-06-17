@@ -1,2 +1,1 @@
-# PERL - Controle de Fluxo - Estruturas condicionais (se/então).
-print "Controle de Fluxo - Estruturas condicionais (se/então).\n";
+if ($x > 10) { print "Maior\n"; } else { print "Menor\n"; }

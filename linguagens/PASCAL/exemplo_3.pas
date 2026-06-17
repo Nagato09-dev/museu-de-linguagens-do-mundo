@@ -1,5 +1,1 @@
-// PASCAL - Controle de Fluxo - Estruturas condicionais (se/então).
-program Main;
-begin
-    writeln('Controle de Fluxo - Estruturas condicionais (se/então).');
-end.
+if x > 10 then writeln('Maior') else writeln('Menor');

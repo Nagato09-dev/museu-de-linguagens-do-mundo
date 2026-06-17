@@ -1,2 +1,1 @@
-# PERL - Funções - Criando blocos de código reutilizáveis.
-print "Funções - Criando blocos de código reutilizáveis.\n";
+sub soma { my ($a, $b) = @_; return $a + $b; }

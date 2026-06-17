@@ -1,4 +1,1 @@
-% PROLOG - Manipulação de Strings - Trabalhando com textos.
-main :-
-    write('Manipulação de Strings - Trabalhando com textos.'), nl.
-    halt.
+// Sintaxe para string em PROLOG

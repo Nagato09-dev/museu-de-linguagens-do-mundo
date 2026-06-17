@@ -1,2 +1,1 @@
-# PERL - Loops - Repetindo tarefas com para/enquanto.
-print "Loops - Repetindo tarefas com para/enquanto.\n";
+for (my $i = 1; $i <= 5; $i++) { print "$i\n"; }

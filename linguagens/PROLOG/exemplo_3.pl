@@ -1,4 +1,2 @@
-% PROLOG - Controle de Fluxo - Estruturas condicionais (se/então).
-main :-
-    write('Controle de Fluxo - Estruturas condicionais (se/então).'), nl.
-    halt.
+maior(X) :- X > 10, write('Maior').
+maior(_) :- write('Menor').

@@ -1,5 +1,1 @@
-// PASCAL - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-program Main;
-begin
-    writeln('Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).');
-end.
+// Sintaxe para sort em PASCAL

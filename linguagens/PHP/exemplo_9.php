@@ -1,4 +1,1 @@
-// PHP - Matemática - Operações aritméticas básicas.
-<?php
-echo "Matemática - Operações aritméticas básicas.\n";
-?>
+// Sintaxe para math em PHP

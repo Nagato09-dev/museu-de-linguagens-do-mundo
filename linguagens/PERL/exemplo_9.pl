@@ -1,2 +1,1 @@
-# PERL - Matemática - Operações aritméticas básicas.
-print "Matemática - Operações aritméticas básicas.\n";
+// Sintaxe para math em PERL

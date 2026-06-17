@@ -1,2 +1,1 @@
-# PERL - Olá Mundo - O básico de qualquer linguagem.
-print "Olá Mundo - O básico de qualquer linguagem.\n";
+print "Olá, Mundo!\n";

@@ -1,5 +1,1 @@
-// PASCAL - Loops - Repetindo tarefas com para/enquanto.
-program Main;
-begin
-    writeln('Loops - Repetindo tarefas com para/enquanto.');
-end.
+for i := 1 to 5 do writeln(i);

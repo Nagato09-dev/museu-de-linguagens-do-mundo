@@ -1,4 +1,1 @@
-% PROLOG - Matemática - Operações aritméticas básicas.
-main :-
-    write('Matemática - Operações aritméticas básicas.'), nl.
-    halt.
+// Sintaxe para math em PROLOG

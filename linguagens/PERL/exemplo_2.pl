@@ -1,2 +1,2 @@
-# PERL - Variáveis e Tipos - Como armazenar dados.
-print "Variáveis e Tipos - Como armazenar dados.\n";
+my $x = 42;
+my $s = "Perl";

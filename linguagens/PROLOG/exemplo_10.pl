@@ -1,4 +1,1 @@
-% PROLOG - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-main :-
-    write('Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).'), nl.
-    halt.
+// Sintaxe para sort em PROLOG

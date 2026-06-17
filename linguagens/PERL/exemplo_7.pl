@@ -1,2 +1,1 @@
-# PERL - Tratamento de Erros - Lidando com exceções e falhas.
-print "Tratamento de Erros - Lidando com exceções e falhas.\n";
+// Sintaxe para error em PERL

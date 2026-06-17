@@ -1,2 +1,1 @@
-# POWERSHELL - Matemática - Operações aritméticas básicas.
-Write-Host "Matemática - Operações aritméticas básicas."
+// Sintaxe para math em POWERSHELL

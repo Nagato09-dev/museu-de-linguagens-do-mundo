@@ -1,5 +1,4 @@
-// PASCAL - Funções - Criando blocos de código reutilizáveis.
-program Main;
+function soma(a, b: integer): integer;
 begin
-    writeln('Funções - Criando blocos de código reutilizáveis.');
-end.
+  soma := a + b;
+end;

@@ -1,4 +1,1 @@
-% PROLOG - Funções - Criando blocos de código reutilizáveis.
-main :-
-    write('Funções - Criando blocos de código reutilizáveis.'), nl.
-    halt.
+soma(A, B, R) :- R is A + B.

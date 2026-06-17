@@ -1,4 +1,1 @@
-% PROLOG - Estruturas de Dados - Listas, Vetores ou Mapas.
-main :-
-    write('Estruturas de Dados - Listas, Vetores ou Mapas.'), nl.
-    halt.
+// Sintaxe para list em PROLOG

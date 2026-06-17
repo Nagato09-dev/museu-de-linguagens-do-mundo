@@ -1,2 +1,1 @@
-# POWERSHELL - Controle de Fluxo - Estruturas condicionais (se/então).
-Write-Host "Controle de Fluxo - Estruturas condicionais (se/então)."
+if ($x -gt 10) { Write-Host "Maior" } else { Write-Host "Menor" }

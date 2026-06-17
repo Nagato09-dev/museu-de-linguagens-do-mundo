@@ -1,4 +1,1 @@
-// PHP - Controle de Fluxo - Estruturas condicionais (se/então).
-<?php
-echo "Controle de Fluxo - Estruturas condicionais (se/então).\n";
-?>
+if ($x > 10) { echo "Maior"; } else { echo "Menor"; }
