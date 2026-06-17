@@ -1,0 +1,1 @@
+// Exemplo 6 em MOVE

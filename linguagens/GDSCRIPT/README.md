@@ -1,13 +1,13 @@
 # Gdscript
 
 ## 📅 Data de Criação
-**N/A**
+**2014**
 
 ## 📖 História
-A linguagem GDSCRIPT foi desenvolvida para resolver desafios técnicos específicos de sua época.
+Linguagem integrada à engine Godot.
 
 ## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Desenvolvimento de Jogos.
 
 ## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+Sintaxe muito parecida com Python.

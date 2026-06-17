@@ -1,2 +1,1 @@
-# GLEAM - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 em GLEAM

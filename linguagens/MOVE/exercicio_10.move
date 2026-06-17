@@ -1,0 +1,1 @@
+// Solução do exercício 10 em MOVE

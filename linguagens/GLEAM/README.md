@@ -1,13 +1,13 @@
 # Gleam
 
 ## 📅 Data de Criação
-**N/A**
+**2019**
 
 ## 📖 História
-A linguagem GLEAM foi desenvolvida para resolver desafios técnicos específicos de sua época.
+Linguagem funcional que roda na BEAM (Erlang VM).
 
 ## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Sistemas distribuídos.
 
 ## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+Foco em tipos seguros e performance.
