@@ -1,2 +1,6 @@
-# ZAP - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+-- Exemplo 5: Funções em Zap
+fun greet(name)
+  print "Olá, " + name + "!"
+end
+
+greet("Mundo")

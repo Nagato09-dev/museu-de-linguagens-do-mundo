@@ -1,3 +1,9 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
+-- Exercício 7: Busca em Texto em Zap
+let sentence = "Esta é uma frase de exemplo para busca."
+let wordToFind = "exemplo"
 
-// Solução autêntica para Exercício 7 em js
+if sentence.contains(wordToFind) then
+  print "A palavra \"" + wordToFind + "\" foi encontrada na frase."
+else
+  print "A palavra \"" + wordToFind + "\" não foi encontrada na frase."
+end

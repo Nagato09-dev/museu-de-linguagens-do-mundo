@@ -1,5 +1,10 @@
-// Exercício 2: Soma e Média - Declare três variáveis numéricas, some-as e exiba ambos os resultados.
+-- Exercício 2: Soma e Média em Zap
+let a = 10
+let b = 20
+let c = 30
 
-let a=10, b=20, c=30;
-let soma = a+b+c;
-console.log(`Soma: ${soma}, Média: ${soma/3}`);
+let sum = a + b + c
+let average = sum / 3
+
+print "Soma: " + sum
+print "Média: " + average

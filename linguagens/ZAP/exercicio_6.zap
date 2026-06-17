@@ -1,3 +1,5 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
-
-// Solução autêntica para Exercício 6 em js
+-- Exercício 6: Inversão de Palavra em Zap
+let word = "programacao"
+let reversedWord = word | reduce (acc, char -> char + acc) ""
+print "Palavra original: " + word
+print "Palavra invertida: " + reversedWord

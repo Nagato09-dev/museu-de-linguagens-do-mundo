@@ -1,2 +1,4 @@
-# ZAP - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+-- Exemplo 6: Estruturas de Dados (Listas) em Zap
+let fruits = ["apple", "banana", "cherry"]
+print fruits[0]
+print fruits.length
