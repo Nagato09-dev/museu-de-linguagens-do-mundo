@@ -1,0 +1,2 @@
+<!-- Olá Mundo - O básico de qualquer linguagem. -->
+<div id='app'>Aprendendo Olá Mundo - O básico de qualquer linguagem. em VUE</div>
