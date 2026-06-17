@@ -1,2 +1,2 @@
-x = 10
-s = 1.5 /* bc é numérico */
+x = 42
+s = 0 /* bc não tem strings em variáveis */

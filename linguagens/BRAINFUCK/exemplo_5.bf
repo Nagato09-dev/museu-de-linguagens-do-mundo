@@ -1,1 +1,1 @@
-/* Funções não existem em BF */
+// Sintaxe para func em BRAINFUCK

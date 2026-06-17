@@ -1,1 +1,1 @@
-/* IF: [ - ] */
+// Sintaxe para if em BRAINFUCK

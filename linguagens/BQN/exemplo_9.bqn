@@ -1,1 +1,1 @@
-√16
+// Sintaxe para math em BQN

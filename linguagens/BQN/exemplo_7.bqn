@@ -1,1 +1,1 @@
-/* BQN foca em arrays, erros são raros */
+// Sintaxe para error em BQN

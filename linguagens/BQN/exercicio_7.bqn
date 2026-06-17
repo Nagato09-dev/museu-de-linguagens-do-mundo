@@ -1,1 +1,1 @@
-assert
+"Olá, Mundo!"

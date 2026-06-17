@@ -1,1 +1,1 @@
-/* Não há tratamento de erros */
+// Sintaxe para error em BRAINFUCK

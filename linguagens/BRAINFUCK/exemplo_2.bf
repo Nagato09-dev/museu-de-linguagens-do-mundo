@@ -1,1 +1,1 @@
-/* Variáveis são células de memória */
+// Sintaxe para vars em BRAINFUCK

@@ -1,1 +1,1 @@
-matrix ← 3‿3⥊↕9
+// Sintaxe para sort em BQN

@@ -1,1 +1,1 @@
-"Olá" ∾ " Mundo"
+// Sintaxe para string em BQN

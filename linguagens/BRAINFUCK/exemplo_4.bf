@@ -1,1 +1,1 @@
-/* LOOP: [ ] */
+// Sintaxe para loop em BRAINFUCK

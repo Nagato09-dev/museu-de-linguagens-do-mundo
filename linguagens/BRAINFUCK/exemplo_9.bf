@@ -1,1 +1,1 @@
-++ [ > +++ < - ] > .
+// Sintaxe para math em BRAINFUCK

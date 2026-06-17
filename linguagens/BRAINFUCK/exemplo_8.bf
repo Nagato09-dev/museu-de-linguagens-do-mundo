@@ -1,1 +1,1 @@
-/* Strings são sequências de bytes */
+// Sintaxe para string em BRAINFUCK

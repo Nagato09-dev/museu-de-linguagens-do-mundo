@@ -1,1 +1,1 @@
-{x>5?"Maior";"Menor"}
+{x>10?"Maior";"Menor"}

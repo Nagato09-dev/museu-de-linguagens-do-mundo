@@ -1,1 +1,1 @@
-/* BF é Turing-completo */
+// Sintaxe para sort em BRAINFUCK

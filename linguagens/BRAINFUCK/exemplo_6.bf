@@ -1,1 +1,1 @@
-/* Dados são a própria fita */
+// Sintaxe para list em BRAINFUCK

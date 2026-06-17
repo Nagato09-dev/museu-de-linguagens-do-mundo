@@ -1,1 +1,1 @@
-"Hello BQN"
+"Olá, Mundo!"
