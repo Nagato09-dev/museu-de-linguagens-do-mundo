@@ -1,1 +1,1 @@
-List<Integer> lista = Arrays.asList(1, 2, 3);
+// Sintaxe para list em JAVA

@@ -1,1 +1,1 @@
-uppercase("julia")
+// Sintaxe para string em JULIA

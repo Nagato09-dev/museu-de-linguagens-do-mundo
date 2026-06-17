@@ -1,1 +1,1 @@
-mult(a, b) = a * b
+println("Olá, Mundo!")

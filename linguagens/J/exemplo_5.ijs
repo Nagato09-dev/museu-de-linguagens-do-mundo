@@ -1,3 +1,1 @@
-NB. Função / procedimento
-double =: 2 * ]
-double 5
+// Sintaxe para func em J

@@ -1,1 +1,1 @@
-pi * r^2
+println("Olá, Mundo!")

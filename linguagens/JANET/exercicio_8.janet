@@ -1,1 +1,1 @@
-(string/reverse "janet")
+(print "Olá, Mundo!")

@@ -1,5 +1,5 @@
-if (x > 0) {
-    System.out.println("Positivo");
+if (x > 10) {
+    System.out.println("Maior");
 } else {
-    System.out.println("Negativo");
+    System.out.println("Menor");
 }

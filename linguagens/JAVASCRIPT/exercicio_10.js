@@ -1,1 +1,1 @@
-lista.includes(2);
+console.log("Olá, Mundo!");

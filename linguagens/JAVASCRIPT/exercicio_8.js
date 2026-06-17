@@ -1,1 +1,1 @@
-"javascript".split("").reverse().join("");
+console.log("Olá, Mundo!");

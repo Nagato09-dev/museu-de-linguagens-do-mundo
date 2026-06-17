@@ -1,1 +1,1 @@
-(for i 10 0 (print i))
+(print "Olá, Mundo!")

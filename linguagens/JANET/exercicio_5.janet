@@ -1,1 +1,1 @@
-(defn mult [a b] (* a b))
+(print "Olá, Mundo!")

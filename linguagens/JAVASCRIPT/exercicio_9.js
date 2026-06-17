@@ -1,1 +1,1 @@
-Math.PI * r ** 2;
+console.log("Olá, Mundo!");

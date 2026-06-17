@@ -1,1 +1,1 @@
-const mult = (a, b) => a * b;
+console.log("Olá, Mundo!");

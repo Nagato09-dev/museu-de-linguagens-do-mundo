@@ -1,1 +1,1 @@
-(if (= 0 (% n 2)) (print "Par"))
+(print "Olá, Mundo!")

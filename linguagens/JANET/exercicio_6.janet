@@ -1,1 +1,1 @@
-(array/push lista 3)
+(print "Olá, Mundo!")

@@ -1,3 +1,2 @@
-(def idade 25)
-(def nome "Janet")
-(print nome " tem " idade " anos")
+(def x 42)
+(var s "Janet")

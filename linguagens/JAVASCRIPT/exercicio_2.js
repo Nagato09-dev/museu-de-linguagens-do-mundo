@@ -1,1 +1,1 @@
-const f = 3.14;
+console.log("Olá, Mundo!");

@@ -1,1 +1,1 @@
-(try (error "Erro") ([err] (print err)))
+// Sintaxe para error em JANET

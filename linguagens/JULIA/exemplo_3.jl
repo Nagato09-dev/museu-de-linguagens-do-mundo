@@ -1,5 +1,5 @@
-if x > 0
-    println("Positivo")
+if x > 10
+    println("Maior")
 else
-    println("Negativo")
+    println("Menor")
 end

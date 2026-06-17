@@ -1,1 +1,1 @@
-try { } catch (e) { }
+console.log("Olá, Mundo!");

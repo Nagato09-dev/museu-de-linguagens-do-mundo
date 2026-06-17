@@ -1,5 +1,5 @@
-if (x > 0) {
-    console.log("Positivo");
+if (x > 10) {
+    console.log("Maior");
 } else {
-    console.log("Negativo");
+    console.log("Menor");
 }

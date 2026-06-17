@@ -1,1 +1,1 @@
-(if (> x 0) (print "Positivo") (print "Negativo"))
+(if (> x 10) (print "Maior") (print "Menor"))

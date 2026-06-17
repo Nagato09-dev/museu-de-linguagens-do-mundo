@@ -1,1 +1,1 @@
-try ... catch ... end
+println("Olá, Mundo!")

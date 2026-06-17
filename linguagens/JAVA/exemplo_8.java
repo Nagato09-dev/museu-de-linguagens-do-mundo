@@ -1,1 +1,1 @@
-"java".toUpperCase();
+// Sintaxe para string em JAVA

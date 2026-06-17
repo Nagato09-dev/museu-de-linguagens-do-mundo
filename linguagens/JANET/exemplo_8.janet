@@ -1,1 +1,1 @@
-(string/upper "janet")
+// Sintaxe para string em JANET

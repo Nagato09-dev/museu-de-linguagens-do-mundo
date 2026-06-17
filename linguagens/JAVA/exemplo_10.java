@@ -1,1 +1,1 @@
-Collections.sort(lista);
+// Sintaxe para sort em JAVA

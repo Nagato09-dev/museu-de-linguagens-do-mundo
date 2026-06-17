@@ -1,1 +1,5 @@
-if (n % 2 == 0) System.out.println("Par");
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}

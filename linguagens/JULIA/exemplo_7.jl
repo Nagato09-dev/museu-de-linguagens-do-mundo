@@ -1,5 +1,1 @@
-try
-    error("Erro")
-catch e
-    println(e)
-end
+// Sintaxe para error em JULIA

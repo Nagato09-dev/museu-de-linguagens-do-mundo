@@ -1,3 +1,2 @@
-const idade = 25;
-const nome = "JavaScript";
-console.log(`${nome} tem ${idade} anos`);
+let x = 42;
+const s = "JS";

@@ -1,1 +1,1 @@
-"javascript".toUpperCase();
+// Sintaxe para string em JAVASCRIPT

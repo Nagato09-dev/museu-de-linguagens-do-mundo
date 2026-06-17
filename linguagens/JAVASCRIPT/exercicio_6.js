@@ -1,1 +1,1 @@
-lista.push(3);
+console.log("Olá, Mundo!");
