@@ -1,2 +1,4 @@
-// Exemplo 3 para GLEAM
-// Sintaxe autêntica
+case x > 0 {
+  True -> "Positivo"
+  False -> "Negativo"
+}

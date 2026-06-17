@@ -1,2 +1,1 @@
-// Exemplo 10 para GHERKIN
-// Sintaxe autêntica
+Then a lista ordenada é [1, 1, 3, 4, 5]

@@ -1,2 +1,1 @@
-// Exemplo 9 para GHERKIN
-// Sintaxe autêntica
+When eu calculo a raiz de 16

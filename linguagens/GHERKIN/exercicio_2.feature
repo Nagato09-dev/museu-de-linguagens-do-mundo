@@ -1,1 +1,1 @@
-// Exercício 2 para GHERKIN
+And o valor é 3.14

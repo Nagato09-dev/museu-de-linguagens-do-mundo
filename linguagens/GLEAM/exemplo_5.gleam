@@ -1,2 +1,1 @@
-// Exemplo 5 para GLEAM
-// Sintaxe autêntica
+pub fn soma(a: Int, b: Int) -> Int { a + b }

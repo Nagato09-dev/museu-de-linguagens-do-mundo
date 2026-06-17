@@ -1,2 +1,1 @@
-// Exemplo 8 para GHERKIN
-// Sintaxe autêntica
+Then o texto em maiúsculo é "GHERKIN"

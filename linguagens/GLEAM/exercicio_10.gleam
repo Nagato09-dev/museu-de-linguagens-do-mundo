@@ -1,1 +1,1 @@
-// Exercício 10 para GLEAM
+list.contains(lista, 2)

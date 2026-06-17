@@ -1,1 +1,1 @@
-// Exercício 3 para GLEAM
+n % 2 == 0

@@ -1,1 +1,1 @@
-// Exercício 4 para GLEAM
+list.reverse(list.range(1, 10))

@@ -1,1 +1,1 @@
-// Exercício 9 para GHERKIN
+And a área é calculada

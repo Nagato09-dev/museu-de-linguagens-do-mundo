@@ -1,1 +1,1 @@
-// Exercício 10 para GHERKIN
+And eu busco o valor 2

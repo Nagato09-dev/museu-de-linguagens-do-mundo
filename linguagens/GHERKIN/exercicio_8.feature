@@ -1,1 +1,1 @@
-// Exercício 8 para GHERKIN
+Then a string invertida é "nikrehg"

@@ -1,2 +1,2 @@
-// Exemplo 9 para GLEAM
-// Sintaxe autêntica
+import gleam/float
+float.square_root(16.0)

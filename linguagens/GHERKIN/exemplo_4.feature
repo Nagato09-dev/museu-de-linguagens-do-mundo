@@ -1,2 +1,6 @@
-// Exemplo 4 para GHERKIN
-// Sintaxe autêntica
+Scenario Outline: Loop
+  Given o número <num>
+  Examples:
+    | num |
+    | 1   |
+    | 2   |

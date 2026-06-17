@@ -1,1 +1,1 @@
-// Exercício 7 para GHERKIN
+But um erro é capturado

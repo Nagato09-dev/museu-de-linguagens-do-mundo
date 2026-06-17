@@ -1,1 +1,1 @@
-// Exercício 8 para GLEAM
+string.reverse("gleam")

@@ -1,1 +1,1 @@
-// Exercício 6 para GHERKIN
+And eu adiciono 3 à lista

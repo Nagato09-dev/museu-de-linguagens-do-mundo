@@ -1,2 +1,2 @@
-// Exemplo 6 para GHERKIN
-// Sintaxe autêntica
+Given a lista:
+  | 1 | 2 | 3 |

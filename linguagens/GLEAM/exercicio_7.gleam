@@ -1,1 +1,1 @@
-// Exercício 7 para GLEAM
+Result(Ok, Error)

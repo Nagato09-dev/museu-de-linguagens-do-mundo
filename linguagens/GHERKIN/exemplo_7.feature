@@ -1,2 +1,2 @@
-// Exemplo 7 para GHERKIN
-// Sintaxe autêntica
+Scenario: Erro
+  Given uma falha ocorre

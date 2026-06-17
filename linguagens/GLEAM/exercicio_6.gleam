@@ -1,1 +1,1 @@
-// Exercício 6 para GLEAM
+[3, ..lista]

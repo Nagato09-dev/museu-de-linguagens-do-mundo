@@ -1,1 +1,1 @@
-// Exercício 3 para GHERKIN
+Then deve ser par

@@ -1,2 +1,5 @@
-// Exemplo 1 para GLEAM
-// Sintaxe autêntica
+import gleam/io
+
+pub fn main() {
+  io.println("Olá Mundo")
+}

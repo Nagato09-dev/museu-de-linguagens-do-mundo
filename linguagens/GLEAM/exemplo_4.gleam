@@ -1,2 +1,2 @@
-// Exemplo 4 para GLEAM
-// Sintaxe autêntica
+import gleam/list
+list.each([0, 1, 2, 3, 4], io.debug)

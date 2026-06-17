@@ -1,2 +1,2 @@
-// Exemplo 2 para GLEAM
-// Sintaxe autêntica
+let idade = 25
+let nome = "Gleam"

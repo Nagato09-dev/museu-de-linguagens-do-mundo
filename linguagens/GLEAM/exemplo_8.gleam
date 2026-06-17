@@ -1,2 +1,2 @@
-// Exemplo 8 para GLEAM
-// Sintaxe autêntica
+import gleam/string
+string.uppercase("gleam")

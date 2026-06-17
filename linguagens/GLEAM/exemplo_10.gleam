@@ -1,2 +1,1 @@
-// Exemplo 10 para GLEAM
-// Sintaxe autêntica
+list.sort([3, 1, 4, 1, 5], Int.compare)

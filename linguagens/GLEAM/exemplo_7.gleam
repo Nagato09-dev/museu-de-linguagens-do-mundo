@@ -1,2 +1,1 @@
-// Exemplo 7 para GLEAM
-// Sintaxe autêntica
+import gleam/result
