@@ -1,1 +1,3 @@
-2 e. lista
+NB. Ordene um array de strings alfabeticamente
+palavras =. 'banana';'maçã';'abacaxi'
+/:~ palavras

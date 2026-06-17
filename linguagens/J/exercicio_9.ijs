@@ -1,1 +1,2 @@
-3.14 * r * r
+NB. Calcule o valor absoluto de -5
+| _5
