@@ -1,5 +1,5 @@
 theory Hello
 imports Main
 begin
-  definition "hello = ''Olá Mundo''"
+  lemma "Olá, Mundo!" = "Olá, Mundo!" by simp
 end

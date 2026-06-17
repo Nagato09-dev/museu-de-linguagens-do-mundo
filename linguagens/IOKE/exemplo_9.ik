@@ -1,2 +1,1 @@
-# IOKE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Sintaxe para math em IOKE

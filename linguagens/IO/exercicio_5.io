@@ -1,1 +1,1 @@
-mult := method(a, b, a * b)
+"Olá, Mundo!" println

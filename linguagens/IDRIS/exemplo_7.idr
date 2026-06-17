@@ -1,1 +1,1 @@
--- Idris usa tipos para evitar erros
+// Sintaxe para error em IDRIS

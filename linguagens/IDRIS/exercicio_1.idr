@@ -1,1 +1,3 @@
-main = putStrLn "Nagato09-dev"
+module Main
+main : IO ()
+main = putStrLn "Olá, Mundo!"

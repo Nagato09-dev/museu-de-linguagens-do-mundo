@@ -1,3 +1,2 @@
-idade := 25
-nome := "Io"
-(nome .. " tem " .. idade .. " anos") println
+x := 42
+s := "Io"

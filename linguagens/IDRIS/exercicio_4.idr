@@ -1,1 +1,3 @@
-traverse_ print (reverse [1..10])
+module Main
+main : IO ()
+main = putStrLn "Olá, Mundo!"

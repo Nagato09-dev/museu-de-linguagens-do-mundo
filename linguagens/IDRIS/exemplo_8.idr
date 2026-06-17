@@ -1,1 +1,1 @@
-toUpper "idris"
+// Sintaxe para string em IDRIS

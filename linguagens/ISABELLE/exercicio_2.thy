@@ -1,1 +1,5 @@
-definition "f = 3.14"
+theory Hello
+imports Main
+begin
+  lemma "Olá, Mundo!" = "Olá, Mundo!" by simp
+end

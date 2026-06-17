@@ -1,1 +1,1 @@
-"io" asUppercase
+// Sintaxe para string em IO

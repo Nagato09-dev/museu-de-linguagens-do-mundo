@@ -1,2 +1,1 @@
-# IOKE - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+5 times(i, i println)

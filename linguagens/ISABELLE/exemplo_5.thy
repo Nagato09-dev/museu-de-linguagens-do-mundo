@@ -1,1 +1,1 @@
-definition soma :: "nat \<Rightarrow> nat \<Rightarrow> nat" where "soma a b = a + b"
+// Sintaxe para func em ISABELLE

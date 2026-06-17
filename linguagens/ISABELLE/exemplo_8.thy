@@ -1,1 +1,1 @@
-String.uppercase ''isabelle''
+// Sintaxe para string em ISABELLE

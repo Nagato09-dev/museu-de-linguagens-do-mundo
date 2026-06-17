@@ -1,1 +1,3 @@
-mult a b = a * b
+module Main
+main : IO ()
+main = putStrLn "Olá, Mundo!"

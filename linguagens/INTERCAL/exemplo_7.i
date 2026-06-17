@@ -1,7 +1,1 @@
-PLEASE DO .1 <- #1
-PLEASE DO (1) NEXT
-PLEASE DO .1 <- #0
-(1) PLEASE DO (2) NEXT
-PLEASE DO .1 <- #1
-(2) PLEASE WRITE OUT .1
-PLEASE GIVE UP
+// Sintaxe para error em INTERCAL

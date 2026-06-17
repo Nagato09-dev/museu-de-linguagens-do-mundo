@@ -1,5 +1,1 @@
-PLEASE DO .1 <- #10
-PLEASE DO .2 <- #20
-PLEASE DO .3 <- .1 + .2
-PLEASE WRITE OUT .3
-PLEASE GIVE UP
+// Sintaxe para vars em INTERCAL

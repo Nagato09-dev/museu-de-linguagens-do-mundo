@@ -1,2 +1,1 @@
-e := try("Erro" raise)
-e catch(Exception, e println)
+// Sintaxe para error em IO

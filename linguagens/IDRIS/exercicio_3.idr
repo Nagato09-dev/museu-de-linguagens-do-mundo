@@ -1,1 +1,3 @@
-if n `mod` 2 == 0 then "Par" else "Ímpar"
+module Main
+main : IO ()
+main = putStrLn "Olá, Mundo!"

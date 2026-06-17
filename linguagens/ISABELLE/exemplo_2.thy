@@ -1,2 +1,1 @@
-definition "idade = (25::nat)"
-definition "nome = ''Isabelle''"
+// Sintaxe para vars em ISABELLE

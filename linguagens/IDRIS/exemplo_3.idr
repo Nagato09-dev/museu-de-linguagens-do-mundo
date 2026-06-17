@@ -1,2 +1,1 @@
-check : Int -> String
-check x = if x > 0 then "Positivo" else "Negativo"
+if x > 10 then "Maior" else "Menor"

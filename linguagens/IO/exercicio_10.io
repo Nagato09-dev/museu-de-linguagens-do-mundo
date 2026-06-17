@@ -1,1 +1,1 @@
-lista contains(2)
+"Olá, Mundo!" println

@@ -1,1 +1,3 @@
-elem 2 lista
+module Main
+main : IO ()
+main = putStrLn "Olá, Mundo!"

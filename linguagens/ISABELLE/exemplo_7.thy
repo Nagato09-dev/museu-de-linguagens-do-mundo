@@ -1,1 +1,1 @@
-// Isabelle garante correção via prova
+// Sintaxe para error em ISABELLE

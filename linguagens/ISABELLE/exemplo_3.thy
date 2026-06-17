@@ -1,1 +1,1 @@
-if x > 0 then ''Positivo'' else ''Negativo''
+// Sintaxe para if em ISABELLE

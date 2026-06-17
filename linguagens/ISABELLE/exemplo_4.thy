@@ -1,1 +1,1 @@
-// Isabelle usa recursão para loops
+// Sintaxe para loop em ISABELLE

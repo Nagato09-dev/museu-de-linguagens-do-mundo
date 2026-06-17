@@ -1,1 +1,1 @@
-lista append(3)
+"Olá, Mundo!" println

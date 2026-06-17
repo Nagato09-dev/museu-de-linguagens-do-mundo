@@ -1,1 +1,3 @@
-Result Error Int
+module Main
+main : IO ()
+main = putStrLn "Olá, Mundo!"
