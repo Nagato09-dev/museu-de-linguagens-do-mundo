@@ -1,2 +1,1 @@
-! Fortran tradicional não tem try/catch
-! Usa-se iostat em I/O
+// Fortran usa códigos de erro (iostat)

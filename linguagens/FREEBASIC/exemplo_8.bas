@@ -1,2 +1,1 @@
-// Exemplo 8 para FREEBASIC
-// Sintaxe autêntica
+Print UCase("freebasic")

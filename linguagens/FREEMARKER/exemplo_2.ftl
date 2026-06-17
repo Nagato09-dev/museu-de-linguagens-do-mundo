@@ -1,2 +1,1 @@
-// Exemplo 2 para FREEMARKER
-// Sintaxe autêntica
+${nome} tem ${idade} anos

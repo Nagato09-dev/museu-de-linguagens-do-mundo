@@ -1,2 +1,5 @@
-// Exemplo 7 para FREEBASIC
-// Sintaxe autêntica
+On Error Goto ErrorHandler
+Error 1
+Exit Sub
+ErrorHandler:
+  Print "Erro capturado"

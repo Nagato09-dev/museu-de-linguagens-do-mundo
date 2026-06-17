@@ -1,1 +1,1 @@
-// Exercício 5 para FSTAR
+let mult a b = a * b

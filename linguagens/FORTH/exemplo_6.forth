@@ -1,1 +1,1 @@
-CREATE AR 1 , 2 , 3 ,
+CREATE lista 1 , 2 , 3 ,

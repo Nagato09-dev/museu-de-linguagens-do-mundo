@@ -1,2 +1,1 @@
-// Exemplo 6 para FLIX
-// Sintaxe autêntica
+let lista = 1 :: 2 :: 3 :: Nil

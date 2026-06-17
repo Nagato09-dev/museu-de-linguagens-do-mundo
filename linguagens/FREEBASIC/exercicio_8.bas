@@ -1,1 +1,1 @@
-// Exercício 8 para FREEBASIC
+Print Reverse("freebasic")

@@ -1,1 +1,1 @@
-// Exercício 4 para FREEMARKER
+<#list 10..1 as i>${i}</#list>

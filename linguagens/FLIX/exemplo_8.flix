@@ -1,2 +1,1 @@
-// Exemplo 8 para FLIX
-// Sintaxe autêntica
+String.toUpperCase("flix")

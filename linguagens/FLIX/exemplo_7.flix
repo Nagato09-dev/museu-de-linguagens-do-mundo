@@ -1,2 +1,1 @@
-// Exemplo 7 para FLIX
-// Sintaxe autêntica
+// Flix usa Result para erros

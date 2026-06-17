@@ -1,1 +1,1 @@
-// Exercício 6 para FLIX
+3 :: lista

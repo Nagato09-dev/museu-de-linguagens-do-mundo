@@ -1,2 +1,1 @@
-// Exemplo 9 para FREEBASIC
-// Sintaxe autêntica
+Print Sqr(16)

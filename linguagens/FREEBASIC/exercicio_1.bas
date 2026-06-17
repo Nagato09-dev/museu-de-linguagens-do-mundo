@@ -1,1 +1,1 @@
-// Exercício 1 para FREEBASIC
+Print "Nagato09-dev"

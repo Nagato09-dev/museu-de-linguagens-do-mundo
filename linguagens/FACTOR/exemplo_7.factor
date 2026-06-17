@@ -1,1 +1,1 @@
-[ 1 0 / ] [ drop "Erro" print ] recover
+[ "Erro" throw ] [ . ] recover

@@ -1,2 +1,1 @@
-// Exemplo 4 para FLIX
-// Sintaxe autêntica
+List.range(0, 5) |> List.forEach(println)

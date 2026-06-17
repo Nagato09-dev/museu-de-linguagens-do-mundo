@@ -1,2 +1,2 @@
-// Exemplo 4 para FENNEL
-// Sintaxe autêntica
+(for [i 0 4]
+  (print i))

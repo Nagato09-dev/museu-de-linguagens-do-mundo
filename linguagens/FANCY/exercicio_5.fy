@@ -1,1 +1,1 @@
-// Exercício 5 para FANCY
+def mult: a and: b { a * b }

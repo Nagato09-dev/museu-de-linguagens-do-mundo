@@ -1,1 +1,1 @@
-echo(n % 2 == 0 ? "Par" : "Ímpar")
+if (n % 2 == 0) echo("Par")

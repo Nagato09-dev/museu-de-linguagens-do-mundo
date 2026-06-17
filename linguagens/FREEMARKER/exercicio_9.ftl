@@ -1,1 +1,1 @@
-// Exercício 9 para FREEMARKER
+${3.14 * r * r}

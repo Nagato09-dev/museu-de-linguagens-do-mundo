@@ -1,1 +1,1 @@
-// Exercício 10 para FREEBASIC
+For i=1 To 3: If lista(i)=2 Then Print "Achou": End If: Next

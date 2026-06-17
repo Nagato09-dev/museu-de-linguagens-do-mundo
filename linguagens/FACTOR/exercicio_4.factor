@@ -1,1 +1,1 @@
-10 [ 10 swap - . ] each-integer
+10 [ 1 + . ] backward-each-integer

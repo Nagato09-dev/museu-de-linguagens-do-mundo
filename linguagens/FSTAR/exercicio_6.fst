@@ -1,1 +1,1 @@
-// Exercício 6 para FSTAR
+3 :: lista

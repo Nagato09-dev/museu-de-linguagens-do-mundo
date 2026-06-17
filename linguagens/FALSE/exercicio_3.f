@@ -1,1 +1,1 @@
-// Exercício 3 para FALSE
+n; 2 / 2 * n; = [ "Par" ] ?

@@ -1,2 +1,1 @@
-// Exemplo 7 para FENNEL
-// Sintaxe autêntica
+(pcall #(error "Erro Fennel"))

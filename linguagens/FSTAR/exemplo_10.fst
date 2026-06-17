@@ -1,2 +1,1 @@
-// Exemplo 10 para FSTAR
-// Sintaxe autêntica
+List.sortWith (fun x y -> x - y) [3; 1; 4]

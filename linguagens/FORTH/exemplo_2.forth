@@ -1,2 +1,3 @@
-10 CONSTANT A
-: MOSTRAR A . ;
+VARIABLE idade 25 idade !
+VARIABLE nome s" Forth" nome !
+idade @ .

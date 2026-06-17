@@ -1,1 +1,1 @@
-// Exercício 7 para FLIX
+Result.Err("Erro")

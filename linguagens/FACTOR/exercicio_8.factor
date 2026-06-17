@@ -1,1 +1,1 @@
-"factor" reverse print
+reverse

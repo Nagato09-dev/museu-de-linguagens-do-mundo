@@ -1,1 +1,1 @@
-// Exercício 2 para FREEBASIC
+Dim f As Single = 3.14

@@ -1,1 +1,3 @@
-// Exercício 4 para FREEBASIC
+For i As Integer = 10 To 1 Step -1
+  Print i
+Next

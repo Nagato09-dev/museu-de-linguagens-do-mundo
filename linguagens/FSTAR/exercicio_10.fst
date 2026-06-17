@@ -1,1 +1,1 @@
-// Exercício 10 para FSTAR
+List.mem 2 lista

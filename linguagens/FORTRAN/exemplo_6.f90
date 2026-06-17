@@ -1,2 +1,1 @@
-integer, dimension(3) :: arr = (/1, 2, 3/)
-print *, arr
+integer, dimension(3) :: lista = (/1, 2, 3/)

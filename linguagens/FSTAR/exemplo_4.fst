@@ -1,2 +1,1 @@
-// Exemplo 4 para FSTAR
-// Sintaxe autêntica
+// F* é puramente funcional, loops via recursão

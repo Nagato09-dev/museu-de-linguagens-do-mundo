@@ -1,1 +1,1 @@
-// Exercício 3 para FANCY
+n even? if_true: { "Par" println }

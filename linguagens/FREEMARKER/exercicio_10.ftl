@@ -1,1 +1,1 @@
-// Exercício 10 para FREEMARKER
+<#if lista?seq_contains(2)>Achou</#if>

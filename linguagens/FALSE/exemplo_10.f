@@ -1,2 +1,1 @@
-// Exemplo 10 para FALSE
-// Sintaxe autêntica
+3 1 4

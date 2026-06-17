@@ -1,1 +1,1 @@
-// Exercício 3 para FREEBASIC
+If n Mod 2 = 0 Then Print "Par"

@@ -1,1 +1,1 @@
-// Exercício 7 para FREEBASIC
+Try ... Catch ... End Try

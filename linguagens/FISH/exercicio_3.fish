@@ -1,1 +1,1 @@
-// Exercício 3 para FISH
+n? 2 % 0 = ;

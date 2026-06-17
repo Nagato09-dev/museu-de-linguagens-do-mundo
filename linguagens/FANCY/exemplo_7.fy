@@ -1,2 +1,1 @@
-// Exemplo 7 para FANCY
-// Sintaxe autêntica
+try { "Erro" raise } catch Error => e { e message println }

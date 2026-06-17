@@ -1,2 +1,1 @@
-// Exemplo 9 para FALSE
-// Sintaxe autêntica
+16 % // FALSE não tem sqrt nativo

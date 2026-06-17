@@ -1,1 +1,1 @@
-read(*,*,iostat=ios)
+read(..., iostat=ios)

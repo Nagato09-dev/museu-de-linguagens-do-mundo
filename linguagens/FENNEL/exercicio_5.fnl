@@ -1,1 +1,1 @@
-// Exercício 5 para FENNEL
+(fn mult [a b] (* a b))

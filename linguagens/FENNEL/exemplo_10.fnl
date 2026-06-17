@@ -1,2 +1,1 @@
-// Exemplo 10 para FENNEL
-// Sintaxe autêntica
+(table.sort [3 1 4])

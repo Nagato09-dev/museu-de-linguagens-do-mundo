@@ -1,5 +1,5 @@
 program vars
-  integer :: a = 10
-  character(len=10) :: s = "Fortran"
-  print *, a, s
+  integer :: idade = 25
+  character(len=10) :: nome = "Fortran"
+  print *, nome, " tem ", idade, " anos"
 end program vars

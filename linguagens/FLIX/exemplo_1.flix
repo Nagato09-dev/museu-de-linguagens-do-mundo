@@ -1,2 +1,1 @@
-// Exemplo 1 para FLIX
-// Sintaxe autêntica
+def main(): Unit = println("Olá Mundo")

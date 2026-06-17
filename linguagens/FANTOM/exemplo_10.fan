@@ -1,2 +1,1 @@
-list := [3, 1, 4, 1, 5].sort
-echo(list)
+[3, 1, 4].sort

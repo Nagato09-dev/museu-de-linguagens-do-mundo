@@ -1,2 +1,5 @@
-// Exemplo 7 para FREEMARKER
-// Sintaxe autêntica
+<#attempt>
+  ${erro}
+<#recover>
+  Erro capturado
+</#attempt>

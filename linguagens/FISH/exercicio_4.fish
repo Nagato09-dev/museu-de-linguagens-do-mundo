@@ -1,1 +1,1 @@
-// Exercício 4 para FISH
+10:i! [i?1=?; i?. 1- :i!] v

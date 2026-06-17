@@ -1,1 +1,1 @@
-// Exercício 3 para FENNEL
+(if (= 0 (% n 2)) (print "Par"))

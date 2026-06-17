@@ -1,2 +1,3 @@
-// Exemplo 2 para FREEBASIC
-// Sintaxe autêntica
+Dim idade As Integer = 25
+Dim nome As String = "FreeBASIC"
+Print nome & " tem " & idade & " anos"

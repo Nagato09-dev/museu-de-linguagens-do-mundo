@@ -1,2 +1,1 @@
-// Exemplo 8 para FANCY
-// Sintaxe autêntica
+"fancy" upcase println

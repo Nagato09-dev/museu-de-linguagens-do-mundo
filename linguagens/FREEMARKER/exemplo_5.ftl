@@ -1,2 +1,3 @@
-// Exemplo 5 para FREEMARKER
-// Sintaxe autêntica
+<#function soma a b>
+  <#return a + b>
+</#function>

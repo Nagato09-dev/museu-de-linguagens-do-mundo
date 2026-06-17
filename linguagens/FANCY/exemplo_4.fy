@@ -1,2 +1,1 @@
-// Exemplo 4 para FANCY
-// Sintaxe autêntica
+5 times: |i| { i println }

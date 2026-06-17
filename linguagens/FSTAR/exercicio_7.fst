@@ -1,1 +1,1 @@
-// Exercício 7 para FSTAR
+failwith "Erro"

@@ -1,1 +1,1 @@
-// Exercício 1 para FANCY
+"Nagato09-dev" println

@@ -1,1 +1,1 @@
-any(arr == val)
+any(lista == 2)

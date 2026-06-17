@@ -1,1 +1,1 @@
-for (i := 10; i >= 1; i--) echo(i)
+(10..1).each |i| { echo(i) }

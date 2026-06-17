@@ -1,1 +1,1 @@
-// Exercício 6 para FREEMARKER
+<#assign lista = lista + [3]>

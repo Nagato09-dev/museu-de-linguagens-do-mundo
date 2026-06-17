@@ -1,1 +1,1 @@
-// Exercício 1 para FSTAR
+FStar.IO.print_string "Nagato09-dev"

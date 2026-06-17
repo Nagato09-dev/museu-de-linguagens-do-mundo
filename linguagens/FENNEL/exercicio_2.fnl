@@ -1,1 +1,1 @@
-// Exercício 2 para FENNEL
+(local f 3.14)

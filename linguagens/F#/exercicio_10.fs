@@ -1,1 +1,1 @@
-List.contains 2 [1; 2; 3]
+List.contains 2 lista

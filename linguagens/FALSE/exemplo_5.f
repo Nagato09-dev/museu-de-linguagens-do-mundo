@@ -1,2 +1,1 @@
-// Exemplo 5 para FALSE
-// Sintaxe autêntica
+[ + ] s: 5 3 s; ! .

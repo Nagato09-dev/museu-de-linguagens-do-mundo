@@ -1,1 +1,1 @@
-Float.pi * r.pow(2.0)
+3.14f * r * r

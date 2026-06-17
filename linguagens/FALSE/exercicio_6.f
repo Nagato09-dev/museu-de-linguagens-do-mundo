@@ -1,1 +1,1 @@
-// Exercício 6 para FALSE
+lista; 3

@@ -1,1 +1,1 @@
-echo("fantom".reverse)
+"fantom".reverse

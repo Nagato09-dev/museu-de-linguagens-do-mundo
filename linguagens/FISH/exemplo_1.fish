@@ -1,2 +1,2 @@
-// Exemplo 1 para FISH
-// Sintaxe autêntica
+"Olá Mundo"r00l!?+v
+               >o8^

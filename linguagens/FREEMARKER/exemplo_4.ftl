@@ -1,2 +1,3 @@
-// Exemplo 4 para FREEMARKER
-// Sintaxe autêntica
+<#list 0..4 as i>
+  ${i}
+</#list>

@@ -1,2 +1,1 @@
-// Exemplo 9 para FENNEL
-// Sintaxe autêntica
+(math.sqrt 16)

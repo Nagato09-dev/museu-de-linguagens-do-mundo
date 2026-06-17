@@ -1,1 +1,1 @@
-// Exercício 3 para FREEMARKER
+<#if n % 2 == 0>Par</#if>

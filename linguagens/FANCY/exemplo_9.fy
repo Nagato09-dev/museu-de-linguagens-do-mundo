@@ -1,2 +1,1 @@
-// Exemplo 9 para FANCY
-// Sintaxe autêntica
+16 sqrt println

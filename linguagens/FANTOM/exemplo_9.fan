@@ -1,1 +1,1 @@
-echo(16.0.sqrt)
+16f.sqrt

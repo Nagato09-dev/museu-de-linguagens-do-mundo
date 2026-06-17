@@ -1,2 +1,1 @@
-// Exemplo 9 para FLIX
-// Sintaxe autêntica
+Float64.sqrt(16.0)

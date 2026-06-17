@@ -1,1 +1,1 @@
-class Hello { static Void main() { echo("Olá Mundo") } }
+class Main { static Void main() { echo("Olá Mundo") } }

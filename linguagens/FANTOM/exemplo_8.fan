@@ -1,1 +1,1 @@
-echo("fantom".upper)
+"fantom".upper

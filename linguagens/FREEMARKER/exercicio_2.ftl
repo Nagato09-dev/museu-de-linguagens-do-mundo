@@ -1,1 +1,1 @@
-// Exercício 2 para FREEMARKER
+${f?string("0.00")}

@@ -1,2 +1,2 @@
-// Exemplo 5 para FENNEL
-// Sintaxe autêntica
+(fn soma [a b]
+  (+ a b))

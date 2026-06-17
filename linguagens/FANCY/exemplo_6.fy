@@ -1,2 +1,1 @@
-// Exemplo 6 para FANCY
-// Sintaxe autêntica
+lista: [1, 2, 3]

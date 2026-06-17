@@ -1,2 +1,1 @@
-// Exemplo 7 para FISH
-// Sintaxe autêntica
+// Fish não tem tratamento de exceções

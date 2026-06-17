@@ -1,1 +1,1 @@
-10 0 DO 10 I - . LOOP
+10 1 DO i . -1 +LOOP

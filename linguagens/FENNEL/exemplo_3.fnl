@@ -1,2 +1,3 @@
-// Exemplo 3 para FENNEL
-// Sintaxe autêntica
+(if (> x 0)
+    (print "Positivo")
+    (print "Negativo"))

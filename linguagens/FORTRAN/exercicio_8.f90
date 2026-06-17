@@ -1,1 +1,1 @@
-character(len=5) :: s = "abcde"
+// Inversão manual

@@ -1,1 +1,1 @@
-// Exercício 3 para FLIX
+if (Int32.mod(n, 2) == 0) println("Par")

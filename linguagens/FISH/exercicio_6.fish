@@ -1,1 +1,1 @@
-// Exercício 6 para FISH
+lista? 3 ;

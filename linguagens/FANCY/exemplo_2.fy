@@ -1,2 +1,3 @@
-// Exemplo 2 para FANCY
-// Sintaxe autêntica
+idade: 25
+nome: "Fancy"
+"#{nome} tem #{idade} anos" println

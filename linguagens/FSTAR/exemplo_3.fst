@@ -1,2 +1,1 @@
-// Exemplo 3 para FSTAR
-// Sintaxe autêntica
+if x > 0 then "Positivo" else "Negativo"

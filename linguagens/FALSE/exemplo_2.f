@@ -1,2 +1,1 @@
-// Exemplo 2 para FALSE
-// Sintaxe autêntica
+25 i: "FALSE" n: i; @ " tem " n; @ " anos"

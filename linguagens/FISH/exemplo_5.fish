@@ -1,2 +1,1 @@
-// Exemplo 5 para FISH
-// Sintaxe autêntica
+5 3 + . ;

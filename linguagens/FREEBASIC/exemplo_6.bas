@@ -1,2 +1,1 @@
-// Exemplo 6 para FREEBASIC
-// Sintaxe autêntica
+Dim lista(1 To 3) As Integer = {1, 2, 3}

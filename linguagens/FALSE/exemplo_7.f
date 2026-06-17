@@ -1,2 +1,1 @@
-// Exemplo 7 para FALSE
-// Sintaxe autêntica
+// FALSE não tem tratamento de exceções

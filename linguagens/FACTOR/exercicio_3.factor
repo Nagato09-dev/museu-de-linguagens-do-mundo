@@ -1,1 +1,1 @@
-n 2 mod 0 = [ "Par" print ] if
+n 2 mod 0 = [ "Par" print ] when

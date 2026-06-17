@@ -1,2 +1,1 @@
-// Exemplo 10 para FANCY
-// Sintaxe autêntica
+[3, 1, 4] sort println

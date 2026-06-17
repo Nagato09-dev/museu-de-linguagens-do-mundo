@@ -1,1 +1,1 @@
-// Exercício 4 para FALSE
+10 i: [ i; 1 >= ] [ i; . 10 , i; 1 - i: ] #

@@ -1,1 +1,1 @@
-// Exercício 9 para FREEBASIC
+Print 3.14 * r * r

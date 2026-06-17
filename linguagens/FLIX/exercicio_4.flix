@@ -1,1 +1,1 @@
-// Exercício 4 para FLIX
+List.range(1, 11) |> List.reverse |> List.forEach(println)

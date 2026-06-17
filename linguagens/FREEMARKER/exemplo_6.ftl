@@ -1,2 +1,1 @@
-// Exemplo 6 para FREEMARKER
-// Sintaxe autêntica
+<#assign lista = [1, 2, 3]>

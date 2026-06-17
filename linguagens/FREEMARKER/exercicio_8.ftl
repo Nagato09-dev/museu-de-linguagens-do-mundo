@@ -1,1 +1,1 @@
-// Exercício 8 para FREEMARKER
+${s?reverse}

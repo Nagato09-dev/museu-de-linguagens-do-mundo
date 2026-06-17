@@ -1,2 +1,1 @@
-// Exemplo 3 para FANCY
-// Sintaxe autêntica
+if: (x > 0) then: { "Positivo" println } else: { "Negativo" println }

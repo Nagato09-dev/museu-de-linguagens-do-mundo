@@ -1,2 +1,6 @@
-// Exemplo 3 para FREEBASIC
-// Sintaxe autêntica
+Dim x As Integer = 5
+If x > 0 Then
+  Print "Positivo"
+Else
+  Print "Negativo"
+End If

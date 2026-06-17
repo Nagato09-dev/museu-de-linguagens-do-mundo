@@ -1,2 +1,3 @@
-// Exemplo 2 para FSTAR
-// Sintaxe autêntica
+let idade = 25
+let nome = "F*"
+let msg = nome ^ " tem " ^ (string_of_int idade) ^ " anos"

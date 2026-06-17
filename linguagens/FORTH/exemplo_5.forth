@@ -1,1 +1,1 @@
-: SOMA + ; 5 3 SOMA .
+: soma + ; 5 3 soma .

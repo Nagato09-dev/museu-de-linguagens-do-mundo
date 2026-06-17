@@ -1,2 +1,1 @@
-// Exemplo 5 para FANCY
-// Sintaxe autêntica
+def soma: a and: b { a + b }

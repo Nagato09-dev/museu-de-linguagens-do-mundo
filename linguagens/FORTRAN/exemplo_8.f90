@@ -1,1 +1,1 @@
-print *, "fortran" ! Fortran é case-insensitive
+print *, upper_case("fortran")

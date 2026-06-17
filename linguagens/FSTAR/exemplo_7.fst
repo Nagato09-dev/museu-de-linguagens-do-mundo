@@ -1,2 +1,1 @@
-// Exemplo 7 para FSTAR
-// Sintaxe autêntica
+// F* usa tipos para garantir ausência de erros

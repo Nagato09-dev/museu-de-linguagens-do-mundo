@@ -1,2 +1,1 @@
-// Exemplo 6 para FENNEL
-// Sintaxe autêntica
+(local lista [1 2 3])

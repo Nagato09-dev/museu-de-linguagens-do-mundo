@@ -1,1 +1,1 @@
-// Exercício 8 para FANCY
+"fancy" reverse println

@@ -1,1 +1,1 @@
-// Exercício 5 para FISH
+a? b? * . ;

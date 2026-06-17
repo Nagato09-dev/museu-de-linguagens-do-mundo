@@ -1,2 +1,2 @@
-// Exemplo 4 para FISH
-// Sintaxe autêntica
+0:i! [i?5=?; i?. 1+ :i!] v
+                       >o8^

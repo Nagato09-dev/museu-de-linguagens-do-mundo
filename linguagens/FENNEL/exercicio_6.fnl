@@ -1,1 +1,1 @@
-// Exercício 6 para FENNEL
+(table.insert lista 3)

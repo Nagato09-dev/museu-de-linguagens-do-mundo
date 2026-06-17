@@ -1,1 +1,1 @@
-[ "Erro" throw ] [ drop ] recover
+[ ] [ ] cleanup

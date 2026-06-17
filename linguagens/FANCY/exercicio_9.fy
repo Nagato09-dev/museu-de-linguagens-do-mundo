@@ -1,1 +1,1 @@
-// Exercício 9 para FANCY
+3.14 * (r ** 2)

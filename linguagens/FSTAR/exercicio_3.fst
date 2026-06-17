@@ -1,1 +1,1 @@
-// Exercício 3 para FSTAR
+if n % 2 = 0 then "Par"

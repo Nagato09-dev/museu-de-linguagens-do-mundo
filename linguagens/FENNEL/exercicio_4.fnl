@@ -1,1 +1,1 @@
-// Exercício 4 para FENNEL
+(for [i 10 1 -1] (print i))

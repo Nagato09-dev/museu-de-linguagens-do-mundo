@@ -1,2 +1,5 @@
-// Exemplo 3 para FREEMARKER
-// Sintaxe autêntica
+<#if x > 0>
+  Positivo
+<#else>
+  Negativo
+</#if>

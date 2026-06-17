@@ -1,1 +1,1 @@
-// Exercício 4 para FANCY
+10 to: 1 by: -1 do: |i| { i println }

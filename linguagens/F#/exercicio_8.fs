@@ -1,1 +1,1 @@
-let rev (s:string) = new string(s.ToCharArray() |> Array.rev)
+new string("f#" |> Seq.rev |> Seq.toArray)

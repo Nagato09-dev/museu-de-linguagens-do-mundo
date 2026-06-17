@@ -1,2 +1,1 @@
-// Exemplo 6 para FSTAR
-// Sintaxe autêntica
+let lista = [1; 2; 3]

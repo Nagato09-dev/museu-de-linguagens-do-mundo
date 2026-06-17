@@ -1,2 +1,1 @@
-// Exemplo 10 para FLIX
-// Sintaxe autêntica
+List.sort([3, 1, 4])

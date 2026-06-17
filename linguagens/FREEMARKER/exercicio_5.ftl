@@ -1,1 +1,1 @@
-// Exercício 5 para FREEMARKER
+<#macro mult a b>${a * b}</#macro>

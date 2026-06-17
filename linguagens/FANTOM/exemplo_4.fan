@@ -1,1 +1,1 @@
-5.times |i| { echo(i) }
+(0..4).each |i| { echo(i) }

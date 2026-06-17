@@ -1,1 +1,1 @@
-// Exercício 5 para FALSE
+[ * ] m:

@@ -1,1 +1,1 @@
-! Algoritmo de ordenação simples
+call sort(lista)

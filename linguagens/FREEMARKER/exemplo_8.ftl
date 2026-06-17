@@ -1,2 +1,1 @@
-// Exemplo 8 para FREEMARKER
-// Sintaxe autêntica
+${"freemarker"?upper_case}

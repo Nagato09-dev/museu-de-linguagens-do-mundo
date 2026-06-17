@@ -1,2 +1,1 @@
-// Exemplo 5 para FSTAR
-// Sintaxe autêntica
+let soma (a:int) (b:int) : int = a + b

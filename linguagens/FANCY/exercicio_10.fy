@@ -1,1 +1,1 @@
-// Exercício 10 para FANCY
+lista includes?: 2

@@ -1,1 +1,1 @@
-// Exercício 10 para FLIX
+List.memberOf(2, lista)

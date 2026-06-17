@@ -1,1 +1,1 @@
-{ 1 2 } 3 suffix
+3 suffix
