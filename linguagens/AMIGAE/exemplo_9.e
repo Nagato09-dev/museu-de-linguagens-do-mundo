@@ -1,2 +1,1 @@
-# AMIGAE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+x := a + b

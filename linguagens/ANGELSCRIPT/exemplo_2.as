@@ -1,2 +1,2 @@
-# ANGELSCRIPT - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+int x = 10;
+string s = "Olá";

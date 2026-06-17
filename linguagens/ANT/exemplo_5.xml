@@ -1,2 +1,6 @@
-# ANT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+<macrodef name="square">
+  <attribute name="n"/>
+  <sequential>
+    <!-- Cálculo complexo em Ant -->
+  </sequential>
+</macrodef>

@@ -1,2 +1,1 @@
-# ANGELSCRIPT - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+array<int> list = {1, 2, 3};

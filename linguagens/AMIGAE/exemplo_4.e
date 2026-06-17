@@ -1,2 +1,1 @@
-# AMIGAE - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+FOR i:=1 TO 10 DO WriteF('d\n', i)

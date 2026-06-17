@@ -1,2 +1,2 @@
-# AMPL - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+var x >= 0;
+param a := 10;

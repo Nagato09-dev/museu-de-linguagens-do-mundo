@@ -1,2 +1,1 @@
-# AMIGAE - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+IF x > 5 THEN WriteF('Maior') ELSE WriteF('Menor')

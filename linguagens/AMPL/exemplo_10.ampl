@@ -1,2 +1,1 @@
-# AMPL - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+minimize Total_Cost: sum {j in J} c[j] * x[j];

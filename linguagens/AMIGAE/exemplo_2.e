@@ -1,2 +1,1 @@
-# AMIGAE - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+DEF x:INT, s[20]:CHAR

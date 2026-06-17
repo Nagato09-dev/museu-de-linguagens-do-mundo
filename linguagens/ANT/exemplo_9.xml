@@ -1,2 +1,1 @@
-# ANT - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+<math result="res" operand1="10" operation="+" operand2="5"/>

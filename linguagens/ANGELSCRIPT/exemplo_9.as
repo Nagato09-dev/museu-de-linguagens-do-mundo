@@ -1,2 +1,1 @@
-# ANGELSCRIPT - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+float r = sqrt(16.0f);

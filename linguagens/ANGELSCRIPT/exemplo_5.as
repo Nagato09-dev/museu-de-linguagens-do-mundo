@@ -1,2 +1,3 @@
-# ANGELSCRIPT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+int square(int n) {
+  return n * n;
+}

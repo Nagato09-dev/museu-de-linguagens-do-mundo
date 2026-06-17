@@ -1,2 +1,1 @@
-# ANT - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+<fail if="error" message="Ocorreu um erro"/>

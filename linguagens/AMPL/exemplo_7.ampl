@@ -1,2 +1,1 @@
-# AMPL - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+check x + y <= 100;

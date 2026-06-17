@@ -1,2 +1,1 @@
-# AMIGAE - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+StrCopy(s, 'Olá Mundo')

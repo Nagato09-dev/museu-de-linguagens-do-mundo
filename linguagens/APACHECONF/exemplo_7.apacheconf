@@ -1,2 +1,1 @@
-# APACHECONF - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+ErrorDocument 404 /404.html

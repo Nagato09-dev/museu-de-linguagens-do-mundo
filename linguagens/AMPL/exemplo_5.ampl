@@ -1,2 +1,1 @@
-# AMPL - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+function square(n) { return n*n; }

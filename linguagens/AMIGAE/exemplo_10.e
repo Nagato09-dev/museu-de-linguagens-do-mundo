@@ -1,2 +1,3 @@
-# AMIGAE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+OBJECT my_obj
+  id:INT
+ENDOBJECT

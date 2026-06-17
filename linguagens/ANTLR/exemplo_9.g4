@@ -1,2 +1,1 @@
-# ANTLR - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+expr: term (('+'|'-') term)* ;

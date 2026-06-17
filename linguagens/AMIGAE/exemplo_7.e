@@ -1,2 +1,1 @@
-# AMIGAE - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+IF x=0 THEN Raise("ERRO")

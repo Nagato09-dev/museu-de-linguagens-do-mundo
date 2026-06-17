@@ -1,2 +1,1 @@
-# AMPL - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+display "Olá Mundo";

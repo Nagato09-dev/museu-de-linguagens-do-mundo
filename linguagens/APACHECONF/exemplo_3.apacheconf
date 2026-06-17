@@ -1,2 +1,3 @@
-# APACHECONF - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+<If "-z %{QUERY_STRING}">
+  # Condição
+</If>

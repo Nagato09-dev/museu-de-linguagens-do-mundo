@@ -1,2 +1,2 @@
-# ANTLR - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+ID : [a-zA-Z]+ ;
+INT : [0-9]+ ;

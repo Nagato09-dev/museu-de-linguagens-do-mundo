@@ -1,2 +1,5 @@
-# ANT - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+<for list="1,2,3" param="val">
+  <sequential>
+    <echo>Value: @{val}</echo>
+  </sequential>
+</for>

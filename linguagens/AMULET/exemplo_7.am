@@ -1,2 +1,1 @@
-# AMULET - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+let safe_div x y = if y == 0 then None else Some (x / y)

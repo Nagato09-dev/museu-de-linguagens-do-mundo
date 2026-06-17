@@ -1,2 +1,1 @@
-# APACHECONF - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+SetEnv HELLO "Mundo"

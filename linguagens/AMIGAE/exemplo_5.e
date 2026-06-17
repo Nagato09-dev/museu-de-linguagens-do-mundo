@@ -1,2 +1,1 @@
-# AMIGAE - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+PROC square(n) IS n*n

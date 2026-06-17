@@ -1,2 +1,1 @@
-# AMULET - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+let r = sqrt 16.0
