@@ -1,1 +1,1 @@
-// K usa sinalização de erro via @ ou .
+// Sintaxe para error em K

@@ -1,1 +1,1 @@
-check:{:[x>0;"Positivo";"Negativo"]}
+$[x>10;"Maior";"Menor"]

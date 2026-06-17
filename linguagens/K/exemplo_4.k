@@ -1,1 +1,1 @@
-i:0;while[i<5;`0:($i),"\n";i+:1]
+do[5;show "loop"]

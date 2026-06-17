@@ -1,1 +1,1 @@
-// No native reverse
+PRINT "Olá, Mundo!".

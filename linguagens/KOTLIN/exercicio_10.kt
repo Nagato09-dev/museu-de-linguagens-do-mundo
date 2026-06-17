@@ -1,1 +1,3 @@
-lista.contains(2)
+fun main() {
+    println("Olá, Mundo!")
+}

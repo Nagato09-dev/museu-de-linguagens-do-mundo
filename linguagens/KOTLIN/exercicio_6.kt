@@ -1,1 +1,3 @@
-val novaLista = lista + 3
+fun main() {
+    println("Olá, Mundo!")
+}

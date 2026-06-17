@@ -1,1 +1,1 @@
-PRINT SQRT(16).
+// Sintaxe para math em KERBOSCRIPT

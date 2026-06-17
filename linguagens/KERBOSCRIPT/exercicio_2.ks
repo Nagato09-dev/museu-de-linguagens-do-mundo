@@ -1,1 +1,1 @@
-SET f TO 3.14.
+PRINT "Olá, Mundo!".

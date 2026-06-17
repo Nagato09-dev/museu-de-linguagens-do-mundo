@@ -1,3 +1,2 @@
-val idade = 25
-val nome = "Kotlin"
-println("$nome tem $idade anos")
+var x = 42
+val s = "Kotlin"

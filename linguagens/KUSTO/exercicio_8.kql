@@ -1,1 +1,1 @@
-print reverse("kusto")
+print "Olá, Mundo!"

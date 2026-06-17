@@ -1,1 +1,5 @@
-IF x > 0 { PRINT "Positivo". } ELSE { PRINT "Negativo". }
+IF x > 10 {
+  PRINT "Maior".
+} ELSE {
+  PRINT "Menor".
+}

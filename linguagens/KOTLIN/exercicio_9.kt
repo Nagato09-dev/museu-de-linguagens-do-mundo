@@ -1,1 +1,3 @@
-3.14 * r * r
+fun main() {
+    println("Olá, Mundo!")
+}

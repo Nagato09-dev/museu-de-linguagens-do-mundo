@@ -1,1 +1,3 @@
-"kotlin".reversed()
+fun main() {
+    println("Olá, Mundo!")
+}

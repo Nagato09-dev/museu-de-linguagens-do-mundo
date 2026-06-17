@@ -1,1 +1,1 @@
-lista:ADD(3).
+PRINT "Olá, Mundo!".

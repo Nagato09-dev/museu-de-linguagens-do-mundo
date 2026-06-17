@@ -1,1 +1,1 @@
-SET lista TO LIST(1, 2, 3).
+// Sintaxe para list em KERBOSCRIPT

@@ -1,1 +1,1 @@
-fun soma(a: Int, b: Int): Int = a + b
+fun soma(a: Int, b: Int) = a + b

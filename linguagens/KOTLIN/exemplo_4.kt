@@ -1,3 +1,1 @@
-for (i in 0..4) {
-    println(i)
-}
+for (i in 1..5) println(i)

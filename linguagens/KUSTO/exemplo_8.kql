@@ -1,1 +1,1 @@
-print toupper("kusto")
+// Sintaxe para string em KUSTO

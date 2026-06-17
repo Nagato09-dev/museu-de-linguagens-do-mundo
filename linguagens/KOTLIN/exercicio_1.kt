@@ -1,1 +1,3 @@
-println("Nagato09-dev")
+fun main() {
+    println("Olá, Mundo!")
+}

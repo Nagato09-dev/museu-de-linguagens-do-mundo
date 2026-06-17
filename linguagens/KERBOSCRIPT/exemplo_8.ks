@@ -1,1 +1,1 @@
-PRINT "kerboscript":TOUPPER.
+// Sintaxe para string em KERBOSCRIPT

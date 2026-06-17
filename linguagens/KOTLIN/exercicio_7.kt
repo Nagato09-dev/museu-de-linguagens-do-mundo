@@ -1,1 +1,3 @@
-try { } catch (e: Exception) { }
+fun main() {
+    println("Olá, Mundo!")
+}

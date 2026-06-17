@@ -1,1 +1,1 @@
-DECLARE FUNCTION mult { PARAMETER a, b. RETURN a * b. }
+PRINT "Olá, Mundo!".

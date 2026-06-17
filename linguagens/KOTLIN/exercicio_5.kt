@@ -1,1 +1,3 @@
-fun mult(a: Int, b: Int) = a * b
+fun main() {
+    println("Olá, Mundo!")
+}

@@ -1,1 +1,1 @@
-lista.sorted()
+// Sintaxe para sort em KOTLIN

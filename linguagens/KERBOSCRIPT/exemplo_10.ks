@@ -1,1 +1,1 @@
-// Sort manual ou via sufixos
+// Sintaxe para sort em KERBOSCRIPT

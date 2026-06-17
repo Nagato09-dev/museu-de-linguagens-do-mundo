@@ -1,1 +1,3 @@
-if (n % 2 == 0) println("Par")
+fun main() {
+    println("Olá, Mundo!")
+}

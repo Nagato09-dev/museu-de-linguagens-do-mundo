@@ -1,1 +1,1 @@
-let soma = (a:int, b:int) { a + b };
+// Sintaxe para func em KUSTO

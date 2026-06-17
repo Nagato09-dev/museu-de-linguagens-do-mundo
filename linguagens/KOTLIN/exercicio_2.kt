@@ -1,1 +1,3 @@
-val f = 3.14
+fun main() {
+    println("Olá, Mundo!")
+}

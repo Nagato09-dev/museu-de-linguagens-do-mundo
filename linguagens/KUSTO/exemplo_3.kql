@@ -1,1 +1,1 @@
-T | extend Result = iif(x > 0, "Positivo", "Negativo")
+// Sintaxe para if em KUSTO

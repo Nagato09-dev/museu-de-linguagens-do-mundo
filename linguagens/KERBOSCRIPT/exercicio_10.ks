@@ -1,1 +1,1 @@
-IF lista:CONTAINS(2) { PRINT "Achou". }
+PRINT "Olá, Mundo!".

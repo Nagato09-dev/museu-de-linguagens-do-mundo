@@ -1,1 +1,1 @@
-mult:{x*y}
+"Olá, Mundo!"

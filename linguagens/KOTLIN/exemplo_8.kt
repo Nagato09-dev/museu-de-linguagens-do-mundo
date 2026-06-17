@@ -1,1 +1,1 @@
-"kotlin".uppercase()
+// Sintaxe para string em KOTLIN

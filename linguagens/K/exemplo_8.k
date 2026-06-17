@@ -1,1 +1,1 @@
-_upper "k"
+// Sintaxe para string em K

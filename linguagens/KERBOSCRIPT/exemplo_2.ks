@@ -1,3 +1,2 @@
-SET idade TO 25.
-SET nome TO "KerboScript".
-PRINT nome + " tem " + idade + " anos".
+SET x TO 42.
+SET s TO "KerboScript".

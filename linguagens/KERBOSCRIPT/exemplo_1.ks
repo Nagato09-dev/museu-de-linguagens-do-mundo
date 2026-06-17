@@ -1,1 +1,1 @@
-PRINT "Olá Mundo".
+PRINT "Olá, Mundo!".
