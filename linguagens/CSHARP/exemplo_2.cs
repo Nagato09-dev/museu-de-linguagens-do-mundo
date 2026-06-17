@@ -1,7 +1,2 @@
-// CSHARP - Variáveis e Tipos - Como armazenar dados.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Variáveis e Tipos - Como armazenar dados.");
-    }
-}
+int x = 42;
+string s = "C#";

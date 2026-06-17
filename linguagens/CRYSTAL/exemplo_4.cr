@@ -1,3 +1,3 @@
-10.times do |i|
+5.times do |i|
   puts i
 end

@@ -1,2 +1,1 @@
-switch val
-  when 1 then ...
+console.log "Olá, Mundo!"

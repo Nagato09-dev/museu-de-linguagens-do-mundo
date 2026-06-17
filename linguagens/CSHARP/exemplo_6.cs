@@ -1,7 +1,1 @@
-// CSHARP - Estruturas de Dados - Listas, Vetores ou Mapas.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Estruturas de Dados - Listas, Vetores ou Mapas.");
-    }
-}
+// Sintaxe para list em CSHARP

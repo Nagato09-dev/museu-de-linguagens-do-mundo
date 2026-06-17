@@ -1,1 +1,1 @@
-console.log "Hello Coffee"
+console.log "Olá, Mundo!"

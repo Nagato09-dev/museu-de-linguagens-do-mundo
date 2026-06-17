@@ -1,1 +1,1 @@
-s.toLowerCase()
+console.log "Olá, Mundo!"

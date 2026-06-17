@@ -1,7 +1,3 @@
-// CSHARP - Loops - Repetindo tarefas com para/enquanto.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Loops - Repetindo tarefas com para/enquanto.");
-    }
+for (int i = 0; i < 5; i++) {
+    Console.WriteLine(i);
 }

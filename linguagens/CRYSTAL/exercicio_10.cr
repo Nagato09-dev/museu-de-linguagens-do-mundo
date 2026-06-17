@@ -1,1 +1,1 @@
-require "json"
+puts "Olá, Mundo!"

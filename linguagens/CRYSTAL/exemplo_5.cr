@@ -1,3 +1,3 @@
-def square(n)
-  n * n
+def soma(a, b)
+  a + b
 end

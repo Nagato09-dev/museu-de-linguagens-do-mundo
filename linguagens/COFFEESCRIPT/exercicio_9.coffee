@@ -1,1 +1,1 @@
-Math.abs -5
+console.log "Olá, Mundo!"

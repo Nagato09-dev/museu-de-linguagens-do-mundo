@@ -1,1 +1,1 @@
-square = (n) -> n * n
+soma = (a, b) -> a + b

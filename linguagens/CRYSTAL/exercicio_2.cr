@@ -1,1 +1,1 @@
-active = true
+puts "Olá, Mundo!"

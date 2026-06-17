@@ -1,1 +1,1 @@
-active = true
+console.log "Olá, Mundo!"

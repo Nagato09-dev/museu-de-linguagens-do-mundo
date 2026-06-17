@@ -1,2 +1,1 @@
-class MyClass
-  constructor: (@id) ->
+// Sintaxe para sort em COFFEESCRIPT

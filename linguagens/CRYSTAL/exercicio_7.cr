@@ -1,1 +1,1 @@
-abort "Falha"
+puts "Olá, Mundo!"

@@ -1,1 +1,1 @@
-.text::before { content: attr(data-hello) " Mundo"; }
+// Sintaxe para string em CSS

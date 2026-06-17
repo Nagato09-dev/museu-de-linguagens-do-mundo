@@ -1,7 +1,1 @@
-// CSHARP - Matemática - Operações aritméticas básicas.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Matemática - Operações aritméticas básicas.");
-    }
-}
+// Sintaxe para math em CSHARP

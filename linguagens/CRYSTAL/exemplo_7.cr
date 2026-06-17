@@ -1,5 +1,1 @@
-begin
-  raise "Erro"
-rescue e
-  puts e.message
-end
+// Sintaxe para error em CRYSTAL

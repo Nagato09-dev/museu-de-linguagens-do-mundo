@@ -1,7 +1,1 @@
-// CSHARP - Funções - Criando blocos de código reutilizáveis.
-using System;
-class Program {
-    static void Main() {
-    Console.WriteLine("Funções - Criando blocos de código reutilizáveis.");
-    }
-}
+int Soma(int a, int b) => a + b;

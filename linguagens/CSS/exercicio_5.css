@@ -1,1 +1,3 @@
-img { max-width: 100%; }
+body::before {
+  content: "Olá, Mundo!";
+}

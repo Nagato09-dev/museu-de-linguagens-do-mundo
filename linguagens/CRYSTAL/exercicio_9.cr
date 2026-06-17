@@ -1,1 +1,1 @@
-val.abs
+puts "Olá, Mundo!"

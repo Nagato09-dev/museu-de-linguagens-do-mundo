@@ -1,4 +1,1 @@
-try
-  throw new Error "Erro"
-catch e
-  console.log e.message
+// Sintaxe para error em COFFEESCRIPT

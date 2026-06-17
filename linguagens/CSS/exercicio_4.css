@@ -1,1 +1,3 @@
-li:nth-child(odd) { background: #eee; }
+body::before {
+  content: "Olá, Mundo!";
+}

@@ -1,1 +1,1 @@
-case val; when 1; end
+puts "Olá, Mundo!"

@@ -1,1 +1,1 @@
-class MyClass; end
+// Sintaxe para sort em CRYSTAL

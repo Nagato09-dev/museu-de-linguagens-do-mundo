@@ -1,1 +1,3 @@
-.flex { display: flex; }
+body::before {
+  content: "Olá, Mundo!";
+}
