@@ -1,2 +1,2 @@
-# BLADE - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+var x = 10
+var s = "Olá"

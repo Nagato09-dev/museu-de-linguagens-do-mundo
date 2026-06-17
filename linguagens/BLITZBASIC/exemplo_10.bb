@@ -1,2 +1,1 @@
-' BLITZBASIC - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-PRINT "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+Graphics 640, 480

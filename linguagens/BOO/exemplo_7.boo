@@ -1,2 +1,4 @@
-# BOO - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try:
+  raise "Erro"
+except e:
+  print e

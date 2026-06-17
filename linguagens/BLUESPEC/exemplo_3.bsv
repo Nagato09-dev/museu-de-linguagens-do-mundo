@@ -1,6 +1,1 @@
-// BLUESPEC - Controle de Fluxo - Estruturas condicionais (se/então).
-module main;
-  initial begin
-    $display("Controle de Fluxo - Estruturas condicionais (se/então).");
-  end
-endmodule
+if (x > 5) action ... endaction

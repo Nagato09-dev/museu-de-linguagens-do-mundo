@@ -1,2 +1,1 @@
-# BIT - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+VAR X = 10

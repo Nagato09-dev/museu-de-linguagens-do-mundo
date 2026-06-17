@@ -1,2 +1,1 @@
-' BLITZBASIC - Matemática - Operações aritméticas básicas.
-PRINT "Matemática - Operações aritméticas básicas."
+res = Sqr(16)

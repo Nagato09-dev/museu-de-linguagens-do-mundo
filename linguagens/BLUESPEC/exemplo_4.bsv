@@ -1,6 +1,1 @@
-// BLUESPEC - Loops - Repetindo tarefas com para/enquanto.
-module main;
-  initial begin
-    $display("Loops - Repetindo tarefas com para/enquanto.");
-  end
-endmodule
+for (Integer i = 0; i < 10; i = i + 1) begin ... end

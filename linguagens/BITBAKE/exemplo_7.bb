@@ -1,2 +1,1 @@
-# BITBAKE - Tratamento de Erros - Lidando com exceções e falhas.
-echo "Tratamento de Erros - Lidando com exceções e falhas."
+bb.error("Ocorreu um erro")

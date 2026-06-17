@@ -1,2 +1,2 @@
-# BITBAKE - Funções - Criando blocos de código reutilizáveis.
-echo "Funções - Criando blocos de código reutilizáveis."
+def my_func(d):
+    return "test"

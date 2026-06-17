@@ -1,2 +1,1 @@
-# BOO - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+r = Math.Sqrt(16)

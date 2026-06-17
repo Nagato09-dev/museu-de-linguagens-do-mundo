@@ -1,2 +1,1 @@
-# BLADE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+var r = math.sqrt(16)

@@ -1,2 +1,1 @@
-' BLITZMAX - Estruturas de Dados - Listas, Vetores ou Mapas.
-PRINT "Estruturas de Dados - Listas, Vetores ou Mapas."
+Local list:Int[] = [1, 2, 3]

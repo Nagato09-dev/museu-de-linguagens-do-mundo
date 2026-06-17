@@ -1,2 +1,1 @@
-# BITBAKE - Matemática - Operações aritméticas básicas.
-echo "Matemática - Operações aritméticas básicas."
+VAR = "${@10 + 5}"

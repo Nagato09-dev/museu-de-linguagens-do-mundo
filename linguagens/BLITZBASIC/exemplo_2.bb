@@ -1,2 +1,2 @@
-' BLITZBASIC - Variáveis e Tipos - Como armazenar dados.
-PRINT "Variáveis e Tipos - Como armazenar dados."
+Local x = 10
+Local s$ = "Olá"

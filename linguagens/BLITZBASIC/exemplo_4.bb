@@ -1,2 +1,3 @@
-' BLITZBASIC - Loops - Repetindo tarefas com para/enquanto.
-PRINT "Loops - Repetindo tarefas com para/enquanto."
+For i = 1 To 10
+  Print i
+Next

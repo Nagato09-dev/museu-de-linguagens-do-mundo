@@ -1,2 +1,1 @@
-# BLADE - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+var full = "Olá " + "Mundo"

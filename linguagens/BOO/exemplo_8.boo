@@ -1,2 +1,1 @@
-# BOO - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+full = "Olá" + " Mundo"

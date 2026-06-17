@@ -1,6 +1,1 @@
-// BLUESPEC - Funções - Criando blocos de código reutilizáveis.
-module main;
-  initial begin
-    $display("Funções - Criando blocos de código reutilizáveis.");
-  end
-endmodule
+function Int#(32) square(Int#(32) n) = n * n;

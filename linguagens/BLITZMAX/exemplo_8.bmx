@@ -1,2 +1,1 @@
-' BLITZMAX - Manipulação de Strings - Trabalhando com textos.
-PRINT "Manipulação de Strings - Trabalhando com textos."
+Local full:String = "Olá" + " Mundo"

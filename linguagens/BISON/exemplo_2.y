@@ -1,5 +1,1 @@
-// BISON - Variáveis e Tipos - Como armazenar dados.
-int main() {
-    printf("Variáveis e Tipos - Como armazenar dados.\n");
-    return 0;
-}
+%token ID INT

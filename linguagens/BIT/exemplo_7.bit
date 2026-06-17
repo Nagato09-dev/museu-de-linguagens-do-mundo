@@ -1,2 +1,1 @@
-# BIT - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+ON ERR GOTO 500

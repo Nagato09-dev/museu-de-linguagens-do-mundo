@@ -1,2 +1,1 @@
-# BIT - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+X = 16 ^ 0.5

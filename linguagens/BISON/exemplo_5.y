@@ -1,5 +1,1 @@
-// BISON - Funções - Criando blocos de código reutilizáveis.
-int main() {
-    printf("Funções - Criando blocos de código reutilizáveis.\n");
-    return 0;
-}
+func: DEF ID '(' args ')' block;

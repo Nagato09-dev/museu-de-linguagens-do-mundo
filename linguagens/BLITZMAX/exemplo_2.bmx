@@ -1,2 +1,2 @@
-' BLITZMAX - Variáveis e Tipos - Como armazenar dados.
-PRINT "Variáveis e Tipos - Como armazenar dados."
+Local x:Int = 10
+Local s:String = "Olá"

@@ -1,2 +1,3 @@
-' BLITZMAX - Funções - Criando blocos de código reutilizáveis.
-PRINT "Funções - Criando blocos de código reutilizáveis."
+Function Square:Int(n:Int)
+  Return n * n
+End Function

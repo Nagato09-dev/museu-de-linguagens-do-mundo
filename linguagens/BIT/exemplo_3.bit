@@ -1,2 +1,1 @@
-# BIT - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+IF X > 5 GOTO 100

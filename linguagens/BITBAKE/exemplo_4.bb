@@ -1,2 +1,3 @@
-# BITBAKE - Loops - Repetindo tarefas com para/enquanto.
-echo "Loops - Repetindo tarefas com para/enquanto."
+do_install() {
+    for i in 1 2 3; do echo $i; done
+}

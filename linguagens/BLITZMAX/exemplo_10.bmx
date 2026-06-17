@@ -1,2 +1,3 @@
-' BLITZMAX - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-PRINT "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+Type TMyType
+  Field id:Int
+End Type

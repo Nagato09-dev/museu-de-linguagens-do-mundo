@@ -1,2 +1,1 @@
-# BITBAKE - Variáveis e Tipos - Como armazenar dados.
-echo "Variáveis e Tipos - Como armazenar dados."
+VAR = "10"

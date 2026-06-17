@@ -1,2 +1,5 @@
-# BLADE - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try {
+  1 / 0
+} catch e {
+  echo e.message
+}

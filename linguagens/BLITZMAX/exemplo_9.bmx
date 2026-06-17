@@ -1,2 +1,1 @@
-' BLITZMAX - Matemática - Operações aritméticas básicas.
-PRINT "Matemática - Operações aritméticas básicas."
+Local r:Float = Sqr(16)

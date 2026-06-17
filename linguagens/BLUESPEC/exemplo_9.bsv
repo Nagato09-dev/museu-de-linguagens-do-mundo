@@ -1,6 +1,1 @@
-// BLUESPEC - Matemática - Operações aritméticas básicas.
-module main;
-  initial begin
-    $display("Matemática - Operações aritméticas básicas.");
-  end
-endmodule
+Int#(32) res = a + b;

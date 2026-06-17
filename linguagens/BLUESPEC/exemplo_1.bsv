@@ -1,6 +1,5 @@
-// BLUESPEC - Olá Mundo - O básico de qualquer linguagem.
-module main;
-  initial begin
-    $display("Olá Mundo - O básico de qualquer linguagem.");
-  end
+module mkHello (Empty);
+  rule say_hello;
+    $display("Olá Mundo");
+  endrule
 endmodule
