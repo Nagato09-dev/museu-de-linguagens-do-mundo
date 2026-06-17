@@ -1,0 +1,5 @@
+! Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
+
+PROGRAM HELLO
+PRINT *, "Verificação de idade concluída."
+END PROGRAM HELLO

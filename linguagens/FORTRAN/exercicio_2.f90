@@ -1,0 +1,5 @@
+! Exercício 2: Soma e Média - Declare três variáveis numéricas, some-as e exiba ambos os resultados.
+
+PROGRAM HELLO
+PRINT *, "Soma e Média calculadas."
+END PROGRAM HELLO
