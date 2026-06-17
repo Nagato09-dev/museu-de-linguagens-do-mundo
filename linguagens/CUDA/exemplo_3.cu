@@ -1,2 +1,1 @@
-# CUDA - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if (threadIdx.x > 5) { }

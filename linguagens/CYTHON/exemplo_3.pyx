@@ -1,2 +1,2 @@
-# CYTHON - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if x > 5:
+    print("Maior")

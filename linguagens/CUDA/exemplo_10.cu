@@ -1,2 +1,1 @@
-# CUDA - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+__shared__ float shared_data[256];

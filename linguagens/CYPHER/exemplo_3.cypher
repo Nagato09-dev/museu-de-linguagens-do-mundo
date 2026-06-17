@@ -1,2 +1,1 @@
--- CYPHER - Controle de Fluxo - Estruturas condicionais (se/então).
-SELECT 'Controle de Fluxo - Estruturas condicionais (se/então).';
+WHERE n.x > 5

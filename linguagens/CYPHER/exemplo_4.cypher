@@ -1,2 +1,1 @@
--- CYPHER - Loops - Repetindo tarefas com para/enquanto.
-SELECT 'Loops - Repetindo tarefas com para/enquanto.';
+UNWIND range(1, 10) AS i RETURN i

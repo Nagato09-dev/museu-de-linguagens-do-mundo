@@ -1,2 +1,2 @@
-# CYTHON - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+cdef int x = 10
+cdef str s = "Olá"

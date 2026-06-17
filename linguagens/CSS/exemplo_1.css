@@ -1,4 +1,3 @@
-/* CSS - Olá Mundo - O básico de qualquer linguagem. */
-.example {
-    content: 'Olá Mundo - O básico de qualquer linguagem.';
+body::after {
+  content: "Olá Mundo";
 }

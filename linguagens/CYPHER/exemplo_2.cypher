@@ -1,2 +1,1 @@
--- CYPHER - Variáveis e Tipos - Como armazenar dados.
-SELECT 'Variáveis e Tipos - Como armazenar dados.';
+SET n.x = 10, n.s = 'Olá'

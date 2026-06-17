@@ -1,2 +1,1 @@
--- CYPHER - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-SELECT 'Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).';
+MATCH (a)-[:REL]->(b) RETURN a, b

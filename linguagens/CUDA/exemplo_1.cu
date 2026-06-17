@@ -1,2 +1,4 @@
-# CUDA - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+__global__ void hello() {
+    printf("Olá Mundo\n");
+}
+int main() { hello<<<1,1>>>(); return 0; }

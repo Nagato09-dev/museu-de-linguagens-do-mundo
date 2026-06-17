@@ -1,4 +1,1 @@
-/* CSS - Manipulação de Strings - Trabalhando com textos. */
-.example {
-    content: 'Manipulação de Strings - Trabalhando com textos.';
-}
+.text::before { content: attr(data-hello) " Mundo"; }

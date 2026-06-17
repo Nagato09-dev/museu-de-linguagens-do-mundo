@@ -1,2 +1,1 @@
--- CYPHER - Tratamento de Erros - Lidando com exceções e falhas.
-SELECT 'Tratamento de Erros - Lidando com exceções e falhas.';
+/* Erros são reportados pelo banco de dados */

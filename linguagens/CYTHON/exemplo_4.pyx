@@ -1,2 +1,2 @@
-# CYTHON - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for i in range(10):
+    print(i)

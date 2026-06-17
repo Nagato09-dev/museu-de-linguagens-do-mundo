@@ -1,2 +1,1 @@
--- CYPHER - Estruturas de Dados - Listas, Vetores ou Mapas.
-SELECT 'Estruturas de Dados - Listas, Vetores ou Mapas.';
+WITH [1, 2, 3] AS list RETURN list

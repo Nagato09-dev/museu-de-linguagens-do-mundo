@@ -1,2 +1,2 @@
-# CYTHON - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+cdef class MyClass:
+    cdef int id

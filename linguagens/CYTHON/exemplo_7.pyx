@@ -1,2 +1,4 @@
-# CYTHON - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try:
+    1 / 0
+except ZeroDivisionError:
+    print("Erro")

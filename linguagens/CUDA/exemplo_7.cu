@@ -1,2 +1,1 @@
-# CUDA - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+cudaError_t err = cudaGetLastError();

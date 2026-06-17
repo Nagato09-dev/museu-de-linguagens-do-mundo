@@ -1,4 +1,3 @@
-/* CSS - Controle de Fluxo - Estruturas condicionais (se/então). */
-.example {
-    content: 'Controle de Fluxo - Estruturas condicionais (se/então).';
+@media (min-width: 500px) {
+  .item { display: block; }
 }

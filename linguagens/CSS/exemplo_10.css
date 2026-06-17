@@ -1,4 +1,1 @@
-/* CSS - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). */
-.example {
-    content: 'Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).';
-}
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }

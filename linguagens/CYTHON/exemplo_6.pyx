@@ -1,2 +1,2 @@
-# CYTHON - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+cdef int list[3]
+list[:] = [1, 2, 3]

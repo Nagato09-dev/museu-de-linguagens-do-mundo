@@ -1,2 +1,1 @@
-# CUDA - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+__device__ int square(int n) { return n * n; }

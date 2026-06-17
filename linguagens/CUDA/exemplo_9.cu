@@ -1,2 +1,1 @@
-# CUDA - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+float r = sqrtf(16.0f);

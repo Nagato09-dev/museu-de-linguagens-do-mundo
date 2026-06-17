@@ -1,2 +1,2 @@
-# CYTHON - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+from libc.math cimport sqrt
+r = sqrt(16.0)

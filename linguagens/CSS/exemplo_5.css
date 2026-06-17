@@ -1,4 +1,2 @@
-/* CSS - Funções - Criando blocos de código reutilizáveis. */
-.example {
-    content: 'Funções - Criando blocos de código reutilizáveis.';
-}
+/* CSS usa funções nativas como calc() */
+.box { width: calc(100% / 3); }

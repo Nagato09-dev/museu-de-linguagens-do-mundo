@@ -1,2 +1,1 @@
--- CYPHER - Olá Mundo - O básico de qualquer linguagem.
-SELECT 'Olá Mundo - O básico de qualquer linguagem.';
+CREATE (m:Message {text: 'Olá Mundo'}) RETURN m.text

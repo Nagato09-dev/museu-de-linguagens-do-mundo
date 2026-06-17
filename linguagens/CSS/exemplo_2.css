@@ -1,4 +1,4 @@
-/* CSS - Variáveis e Tipos - Como armazenar dados. */
-.example {
-    content: 'Variáveis e Tipos - Como armazenar dados.';
+:root {
+  --x: 10px;
+  --s: "Olá";
 }
