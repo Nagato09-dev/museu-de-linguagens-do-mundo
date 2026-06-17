@@ -1,2 +1,2 @@
-# FILEBENCH_WML - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+// Exemplo 6 para FILEBENCH_WML
+// Sintaxe autêntica

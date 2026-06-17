@@ -1,4 +1,2 @@
-! FORTRAN - Estruturas de Dados - Listas, Vetores ou Mapas.
-PROGRAM MAIN
-    PRINT *, "Estruturas de Dados - Listas, Vetores ou Mapas."
-END PROGRAM MAIN
+integer, dimension(3) :: arr = (/1, 2, 3/)
+print *, arr

@@ -1,2 +1,1 @@
-\ FORTH - Loops - Repetindo tarefas com para/enquanto.
-." Loops - Repetindo tarefas com para/enquanto." CR
+5 0 DO I . LOOP

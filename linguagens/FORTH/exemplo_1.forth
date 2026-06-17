@@ -1,2 +1,1 @@
-\ FORTH - Olá Mundo - O básico de qualquer linguagem.
-." Olá Mundo - O básico de qualquer linguagem." CR
+." Olá Mundo" CR

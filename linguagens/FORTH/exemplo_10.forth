@@ -1,2 +1,1 @@
-\ FORTH - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-." Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)." CR
+SORT

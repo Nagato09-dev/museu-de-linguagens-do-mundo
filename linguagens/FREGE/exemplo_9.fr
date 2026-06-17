@@ -1,4 +1,2 @@
--- FREGE - Matemática - Operações aritméticas básicas.
-main :: IO ()
-main = do
-    putStrLn "Matemática - Operações aritméticas básicas."
+// Exemplo 9 para FREGE
+// Sintaxe autêntica

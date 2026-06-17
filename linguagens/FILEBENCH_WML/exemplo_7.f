@@ -1,2 +1,2 @@
-# FILEBENCH_WML - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// Exemplo 7 para FILEBENCH_WML
+// Sintaxe autêntica

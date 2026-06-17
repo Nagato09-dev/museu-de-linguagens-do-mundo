@@ -1,4 +1,2 @@
--- FREGE - Estruturas de Dados - Listas, Vetores ou Mapas.
-main :: IO ()
-main = do
-    putStrLn "Estruturas de Dados - Listas, Vetores ou Mapas."
+// Exemplo 6 para FREGE
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-# FILEBENCH_WML - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para FILEBENCH_WML
+// Sintaxe autêntica

@@ -1,2 +1,1 @@
-\ FORTH - Controle de Fluxo - Estruturas condicionais (se/então).
-." Controle de Fluxo - Estruturas condicionais (se/então)." CR
+5 0 > IF ." Positivo" ELSE ." Negativo" THEN

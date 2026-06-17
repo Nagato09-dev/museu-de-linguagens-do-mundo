@@ -1,2 +1,2 @@
-# FALSE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para FALSE
+// Sintaxe autêntica

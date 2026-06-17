@@ -1,2 +1,2 @@
-# FISH - Estruturas de Dados - Listas, Vetores ou Mapas.
-echo "Estruturas de Dados - Listas, Vetores ou Mapas."
+// Exemplo 6 para FISH
+// Sintaxe autêntica

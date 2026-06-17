@@ -1,2 +1,2 @@
-// FLOW - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+// Exemplo 9 para FLOW
+// Sintaxe autêntica

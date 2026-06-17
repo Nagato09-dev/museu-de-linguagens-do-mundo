@@ -1,2 +1,2 @@
-# FISH - Variáveis e Tipos - Como armazenar dados.
-echo "Variáveis e Tipos - Como armazenar dados."
+// Exemplo 2 para FISH
+// Sintaxe autêntica

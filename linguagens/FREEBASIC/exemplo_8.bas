@@ -1,2 +1,2 @@
-' FREEBASIC - Manipulação de Strings - Trabalhando com textos.
-PRINT "Manipulação de Strings - Trabalhando com textos."
+// Exemplo 8 para FREEBASIC
+// Sintaxe autêntica

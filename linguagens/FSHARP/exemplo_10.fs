@@ -1,2 +1,2 @@
-(* FSHARP - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). *)
-print_endline "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).";;
+let list = [3; 1; 4; 1; 5] |> List.sort
+printfn "%A" list

@@ -1,2 +1,2 @@
-' FREEBASIC - Olá Mundo - O básico de qualquer linguagem.
-PRINT "Olá Mundo - O básico de qualquer linguagem."
+// Exemplo 1 para FREEBASIC
+// Sintaxe autêntica

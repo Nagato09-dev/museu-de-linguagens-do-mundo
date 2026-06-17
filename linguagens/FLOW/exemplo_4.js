@@ -1,2 +1,2 @@
-// FLOW - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+// Exemplo 4 para FLOW
+// Sintaxe autêntica

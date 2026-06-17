@@ -1,4 +1,2 @@
-! FLANG - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-PROGRAM MAIN
-    PRINT *, "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
-END PROGRAM MAIN
+// Exemplo 10 para FLANG
+// Sintaxe autêntica

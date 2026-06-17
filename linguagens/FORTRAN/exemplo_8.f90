@@ -1,4 +1,1 @@
-! FORTRAN - Manipulação de Strings - Trabalhando com textos.
-PROGRAM MAIN
-    PRINT *, "Manipulação de Strings - Trabalhando com textos."
-END PROGRAM MAIN
+print *, "fortran" ! Fortran é case-insensitive

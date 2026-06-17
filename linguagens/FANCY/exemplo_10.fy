@@ -1,2 +1,2 @@
-# FANCY - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 para FANCY
+// Sintaxe autêntica

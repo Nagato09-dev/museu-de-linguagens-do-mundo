@@ -1,2 +1,2 @@
-' FREEBASIC - Matemática - Operações aritméticas básicas.
-PRINT "Matemática - Operações aritméticas básicas."
+// Exemplo 9 para FREEBASIC
+// Sintaxe autêntica

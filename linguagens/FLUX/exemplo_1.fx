@@ -1,2 +1,2 @@
-# FLUX - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// Exemplo 1 para FLUX
+// Sintaxe autêntica

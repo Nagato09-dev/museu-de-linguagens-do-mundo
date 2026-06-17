@@ -1,2 +1,2 @@
-' FREEBASIC - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-PRINT "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+// Exemplo 10 para FREEBASIC
+// Sintaxe autêntica

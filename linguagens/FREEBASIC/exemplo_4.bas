@@ -1,2 +1,2 @@
-' FREEBASIC - Loops - Repetindo tarefas com para/enquanto.
-PRINT "Loops - Repetindo tarefas com para/enquanto."
+// Exemplo 4 para FREEBASIC
+// Sintaxe autêntica

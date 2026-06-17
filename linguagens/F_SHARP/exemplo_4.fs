@@ -1,2 +1,1 @@
-(* F_SHARP - Loops - Repetindo tarefas com para/enquanto. *)
-print_endline "Loops - Repetindo tarefas com para/enquanto.";;
+for i in 0 .. 4 do printfn "%d" i

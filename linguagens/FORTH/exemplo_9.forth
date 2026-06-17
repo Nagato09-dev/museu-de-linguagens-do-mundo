@@ -1,2 +1,1 @@
-\ FORTH - Matemática - Operações aritméticas básicas.
-." Matemática - Operações aritméticas básicas." CR
+SQRT

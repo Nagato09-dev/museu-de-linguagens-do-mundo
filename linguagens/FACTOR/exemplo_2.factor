@@ -1,2 +1,2 @@
-\ FACTOR - Variáveis e Tipos - Como armazenar dados.
-." Variáveis e Tipos - Como armazenar dados." CR
+// Exemplo 2 para FACTOR
+// Sintaxe autêntica

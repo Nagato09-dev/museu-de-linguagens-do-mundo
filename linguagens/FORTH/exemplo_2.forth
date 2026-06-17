@@ -1,2 +1,2 @@
-\ FORTH - Variáveis e Tipos - Como armazenar dados.
-." Variáveis e Tipos - Como armazenar dados." CR
+10 CONSTANT A
+: MOSTRAR A . ;

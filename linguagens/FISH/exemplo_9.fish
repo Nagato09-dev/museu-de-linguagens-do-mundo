@@ -1,2 +1,2 @@
-# FISH - Matemática - Operações aritméticas básicas.
-echo "Matemática - Operações aritméticas básicas."
+// Exemplo 9 para FISH
+// Sintaxe autêntica

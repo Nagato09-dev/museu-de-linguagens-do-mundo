@@ -1,2 +1,2 @@
-# FISH - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+// Exemplo 10 para FISH
+// Sintaxe autêntica

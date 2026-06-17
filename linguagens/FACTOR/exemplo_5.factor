@@ -1,2 +1,2 @@
-\ FACTOR - Funções - Criando blocos de código reutilizáveis.
-." Funções - Criando blocos de código reutilizáveis." CR
+// Exemplo 5 para FACTOR
+// Sintaxe autêntica

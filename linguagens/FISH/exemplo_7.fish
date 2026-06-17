@@ -1,2 +1,2 @@
-# FISH - Tratamento de Erros - Lidando com exceções e falhas.
-echo "Tratamento de Erros - Lidando com exceções e falhas."
+// Exemplo 7 para FISH
+// Sintaxe autêntica

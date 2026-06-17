@@ -1,2 +1,2 @@
-' FREEBASIC - Controle de Fluxo - Estruturas condicionais (se/então).
-PRINT "Controle de Fluxo - Estruturas condicionais (se/então)."
+// Exemplo 3 para FREEBASIC
+// Sintaxe autêntica

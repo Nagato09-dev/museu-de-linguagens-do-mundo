@@ -1,2 +1,2 @@
-# FALSE - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+// Exemplo 3 para FALSE
+// Sintaxe autêntica

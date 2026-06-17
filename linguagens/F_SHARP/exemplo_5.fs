@@ -1,2 +1,2 @@
-(* F_SHARP - Funções - Criando blocos de código reutilizáveis. *)
-print_endline "Funções - Criando blocos de código reutilizáveis.";;
+let soma a b = a + b
+printfn "Soma: %d" (soma 5 3)

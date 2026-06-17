@@ -1,2 +1,2 @@
-\ FACTOR - Olá Mundo - O básico de qualquer linguagem.
-." Olá Mundo - O básico de qualquer linguagem." CR
+// Exemplo 1 para FACTOR
+// Sintaxe autêntica

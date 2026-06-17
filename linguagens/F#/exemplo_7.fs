@@ -1,2 +1,4 @@
-(* F# - Tratamento de Erros - Lidando com exceções e falhas. *)
-print_endline "Tratamento de Erros - Lidando com exceções e falhas.";;
+try
+    failwith "Erro"
+with
+    | e -> printfn "%s" e.Message

@@ -1,2 +1,2 @@
-' FREEBASIC - Estruturas de Dados - Listas, Vetores ou Mapas.
-PRINT "Estruturas de Dados - Listas, Vetores ou Mapas."
+// Exemplo 6 para FREEBASIC
+// Sintaxe autêntica

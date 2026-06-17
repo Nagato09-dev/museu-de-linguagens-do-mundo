@@ -1,2 +1,2 @@
-(* FSHARP - Estruturas de Dados - Listas, Vetores ou Mapas. *)
-print_endline "Estruturas de Dados - Listas, Vetores ou Mapas.";;
+let lista = [1; 2; 3]
+printfn "%A" lista

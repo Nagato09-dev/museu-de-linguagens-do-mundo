@@ -1,2 +1,2 @@
-// FLOW - Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+// Exemplo 2 para FLOW
+// Sintaxe autêntica

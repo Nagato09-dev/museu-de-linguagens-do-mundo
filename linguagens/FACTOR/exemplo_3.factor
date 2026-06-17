@@ -1,2 +1,2 @@
-\ FACTOR - Controle de Fluxo - Estruturas condicionais (se/então).
-." Controle de Fluxo - Estruturas condicionais (se/então)." CR
+// Exemplo 3 para FACTOR
+// Sintaxe autêntica

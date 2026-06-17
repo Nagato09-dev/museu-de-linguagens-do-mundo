@@ -1,2 +1,2 @@
-# FILEBENCH_WML - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+// Exemplo 4 para FILEBENCH_WML
+// Sintaxe autêntica

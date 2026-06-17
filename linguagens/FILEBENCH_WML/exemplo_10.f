@@ -1,2 +1,2 @@
-# FILEBENCH_WML - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 para FILEBENCH_WML
+// Sintaxe autêntica

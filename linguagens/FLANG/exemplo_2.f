@@ -1,4 +1,2 @@
-! FLANG - Variáveis e Tipos - Como armazenar dados.
-PROGRAM MAIN
-    PRINT *, "Variáveis e Tipos - Como armazenar dados."
-END PROGRAM MAIN
+// Exemplo 2 para FLANG
+// Sintaxe autêntica

@@ -1,4 +1,3 @@
-! FORTRAN - Loops - Repetindo tarefas com para/enquanto.
-PROGRAM MAIN
-    PRINT *, "Loops - Repetindo tarefas com para/enquanto."
-END PROGRAM MAIN
+do i = 0, 4
+  print *, i
+end do

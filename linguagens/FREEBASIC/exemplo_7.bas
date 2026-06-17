@@ -1,2 +1,2 @@
-' FREEBASIC - Tratamento de Erros - Lidando com exceções e falhas.
-PRINT "Tratamento de Erros - Lidando com exceções e falhas."
+// Exemplo 7 para FREEBASIC
+// Sintaxe autêntica

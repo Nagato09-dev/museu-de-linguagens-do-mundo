@@ -1,2 +1,1 @@
-\ FORTH - Tratamento de Erros - Lidando com exceções e falhas.
-." Tratamento de Erros - Lidando com exceções e falhas." CR
+CATCH

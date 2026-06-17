@@ -1,4 +1,5 @@
-! FORTRAN - Variáveis e Tipos - Como armazenar dados.
-PROGRAM MAIN
-    PRINT *, "Variáveis e Tipos - Como armazenar dados."
-END PROGRAM MAIN
+program vars
+  integer :: a = 10
+  character(len=10) :: s = "Fortran"
+  print *, a, s
+end program vars

@@ -1,2 +1,2 @@
-(* F_SHARP - Manipulação de Strings - Trabalhando com textos. *)
-print_endline "Manipulação de Strings - Trabalhando com textos.";;
+let s = "F# Language"
+printfn "%s" (s.ToUpper())

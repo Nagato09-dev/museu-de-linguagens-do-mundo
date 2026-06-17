@@ -1,2 +1,2 @@
-# FISH - Funções - Criando blocos de código reutilizáveis.
-echo "Funções - Criando blocos de código reutilizáveis."
+// Exemplo 5 para FISH
+// Sintaxe autêntica

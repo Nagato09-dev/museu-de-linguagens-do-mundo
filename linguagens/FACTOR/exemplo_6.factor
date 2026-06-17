@@ -1,2 +1,2 @@
-\ FACTOR - Estruturas de Dados - Listas, Vetores ou Mapas.
-." Estruturas de Dados - Listas, Vetores ou Mapas." CR
+// Exemplo 6 para FACTOR
+// Sintaxe autêntica

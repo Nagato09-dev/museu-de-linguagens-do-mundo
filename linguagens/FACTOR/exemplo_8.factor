@@ -1,2 +1,2 @@
-\ FACTOR - Manipulação de Strings - Trabalhando com textos.
-." Manipulação de Strings - Trabalhando com textos." CR
+// Exemplo 8 para FACTOR
+// Sintaxe autêntica

@@ -1,2 +1,1 @@
-\ FORTH - Funções - Criando blocos de código reutilizáveis.
-." Funções - Criando blocos de código reutilizáveis." CR
+: SOMA + ; 5 3 SOMA .

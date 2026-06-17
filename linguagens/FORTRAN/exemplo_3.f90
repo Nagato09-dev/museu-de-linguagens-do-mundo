@@ -1,4 +1,5 @@
-! FORTRAN - Controle de Fluxo - Estruturas condicionais (se/então).
-PROGRAM MAIN
-    PRINT *, "Controle de Fluxo - Estruturas condicionais (se/então)."
-END PROGRAM MAIN
+if (x > 0) then
+  print *, "Positivo"
+else
+  print *, "Negativo"
+end if

@@ -1,2 +1,2 @@
-\ FACTOR - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-." Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)." CR
+// Exemplo 10 para FACTOR
+// Sintaxe autêntica

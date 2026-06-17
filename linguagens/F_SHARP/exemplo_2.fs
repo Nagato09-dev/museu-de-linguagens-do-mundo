@@ -1,2 +1,3 @@
-(* F_SHARP - Variáveis e Tipos - Como armazenar dados. *)
-print_endline "Variáveis e Tipos - Como armazenar dados.";;
+let idade = 25
+let nome = "F#"
+printfn "%s tem %d anos" nome idade

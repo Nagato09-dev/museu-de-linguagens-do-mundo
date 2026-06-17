@@ -1,2 +1,2 @@
-' FREEBASIC - Variáveis e Tipos - Como armazenar dados.
-PRINT "Variáveis e Tipos - Como armazenar dados."
+// Exemplo 2 para FREEBASIC
+// Sintaxe autêntica

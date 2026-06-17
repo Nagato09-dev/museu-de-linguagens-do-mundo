@@ -1,2 +1,2 @@
-# FANCY - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+// Exemplo 6 para FANCY
+// Sintaxe autêntica

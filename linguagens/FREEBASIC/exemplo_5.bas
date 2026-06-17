@@ -1,2 +1,2 @@
-' FREEBASIC - Funções - Criando blocos de código reutilizáveis.
-PRINT "Funções - Criando blocos de código reutilizáveis."
+// Exemplo 5 para FREEBASIC
+// Sintaxe autêntica

@@ -1,4 +1,4 @@
-! FORTRAN - Funções - Criando blocos de código reutilizáveis.
-PROGRAM MAIN
-    PRINT *, "Funções - Criando blocos de código reutilizáveis."
-END PROGRAM MAIN
+integer function soma(a, b)
+  integer, intent(in) :: a, b
+  soma = a + b
+end function soma

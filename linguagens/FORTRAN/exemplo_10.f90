@@ -1,4 +1,1 @@
-! FORTRAN - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-PROGRAM MAIN
-    PRINT *, "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
-END PROGRAM MAIN
+! Algoritmo de ordenação simples

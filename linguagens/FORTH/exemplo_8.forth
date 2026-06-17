@@ -1,2 +1,1 @@
-\ FORTH - Manipulação de Strings - Trabalhando com textos.
-." Manipulação de Strings - Trabalhando com textos." CR
+UPPERCASE

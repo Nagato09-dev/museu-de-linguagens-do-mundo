@@ -1,2 +1,2 @@
-(* F_SHARP - Controle de Fluxo - Estruturas condicionais (se/então). *)
-print_endline "Controle de Fluxo - Estruturas condicionais (se/então).";;
+let x = 5
+if x > 0 then printfn "Positivo" else printfn "Negativo"

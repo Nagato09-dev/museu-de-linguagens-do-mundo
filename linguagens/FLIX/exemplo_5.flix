@@ -1,2 +1,2 @@
-# FLIX - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+// Exemplo 5 para FLIX
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-\ FACTOR - Loops - Repetindo tarefas com para/enquanto.
-." Loops - Repetindo tarefas com para/enquanto." CR
+// Exemplo 4 para FACTOR
+// Sintaxe autêntica

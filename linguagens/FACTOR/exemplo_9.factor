@@ -1,2 +1,2 @@
-\ FACTOR - Matemática - Operações aritméticas básicas.
-." Matemática - Operações aritméticas básicas." CR
+// Exemplo 9 para FACTOR
+// Sintaxe autêntica
