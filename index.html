@@ -10,6 +10,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Highlight.js for Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
     <style>
         :root {
             --bg-color: #050505;
@@ -604,13 +607,82 @@
             justify-content: space-between;
             align-items: center;
             border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+            flex-wrap: wrap;
+            gap: 15px;
         }
 
-        .modal-header h2 {
+        .modal-header-left {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex: 1;
+        }
+
+        .modal-header-icon {
+            font-size: 3em;
+        }
+
+        .modal-header-info h2 {
             font-family: 'Orbitron', sans-serif;
             color: var(--primary-gold);
             font-size: 2em;
             letter-spacing: 2px;
+            margin-bottom: 8px;
+        }
+
+        .modal-header-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+        }
+
+        .modal-header-meta span {
+            background: rgba(212, 175, 55, 0.1);
+            padding: 4px 12px;
+            border-radius: 8px;
+            color: var(--primary-gold);
+            border: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .modal-header-meta a {
+            background: rgba(0, 242, 255, 0.1);
+            color: var(--accent-cyan);
+            border-color: rgba(0, 242, 255, 0.2);
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+        .modal-header-meta a:hover {
+            background: rgba(0, 242, 255, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .modal-header-right {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .modal-favorite-btn {
+            background: none;
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            color: var(--primary-gold);
+            font-size: 1.5em;
+            cursor: pointer;
+            padding: 8px 12px;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+
+        .modal-favorite-btn:hover {
+            background: rgba(212, 175, 55, 0.1);
+            border-color: var(--primary-gold);
+        }
+
+        .modal-favorite-btn.favorited {
+            background: var(--primary-gold);
+            color: var(--bg-color);
+            border-color: var(--primary-gold);
         }
 
         .close-btn {
@@ -631,6 +703,7 @@
             padding: 0 40px;
             background: rgba(20, 20, 35, 0.9);
             gap: 20px;
+            border-bottom: 1px solid rgba(212, 175, 55, 0.2);
         }
 
         .modal-tab-btn {
@@ -667,6 +740,126 @@
         .modal-tab-content.active {
             display: block;
             animation: fadeIn 0.4s ease;
+        }
+
+        .code-block {
+            position: relative;
+            margin: 20px 0;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .code-block-header {
+            background: rgba(212, 175, 55, 0.1);
+            padding: 12px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+            font-size: 0.9em;
+            font-weight: 600;
+            color: var(--primary-gold);
+        }
+
+        .copy-btn {
+            background: rgba(212, 175, 55, 0.2);
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            color: var(--primary-gold);
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+
+        .copy-btn:hover {
+            background: var(--primary-gold);
+            color: var(--bg-color);
+        }
+
+        .copy-btn.copied {
+            background: #4caf50;
+            border-color: #4caf50;
+            color: white;
+        }
+
+        .modal-body pre {
+            background: rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            border-radius: 0 0 10px 10px;
+            overflow-x: auto;
+            margin: 0;
+            font-size: 0.9em;
+            line-height: 1.5;
+        }
+
+        .modal-body code {
+            font-family: 'Courier New', monospace;
+            color: #90EE90;
+        }
+
+        .modal-body h3 {
+            color: var(--primary-gold);
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+
+        .modal-body p {
+            margin: 10px 0;
+            line-height: 1.6;
+            color: var(--text-main);
+        }
+
+        .loading-spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(212, 175, 55, 0.3);
+            border-top-color: var(--primary-gold);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .modal-navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 40px;
+            background: rgba(20, 20, 35, 0.9);
+            border-top: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .nav-btn {
+            background: rgba(212, 175, 55, 0.1);
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            color: var(--primary-gold);
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+            font-family: 'Orbitron', sans-serif;
+        }
+
+        .nav-btn:hover:not(:disabled) {
+            background: var(--primary-gold);
+            color: var(--bg-color);
+        }
+
+        .nav-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .nav-info {
+            color: var(--text-dim);
+            font-size: 0.9em;
         }
 
         /* Footer Redesenhado */
@@ -769,6 +962,8 @@
             .category-btn { font-size: 0.75em; padding: 10px 15px; }
             .language-card { padding: 20px; }
             .languages-grid.list-view .language-card { flex-direction: column; align-items: flex-start; }
+            .modal-header-left { flex-direction: column; align-items: flex-start; }
+            .modal-header-icon { font-size: 2em; }
         }
     </style>
 </head>
@@ -883,8 +1078,25 @@
         <div id="languageModal" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h2 id="modalTitle">Linguagem</h2>
-                    <button class="close-btn" id="closeBtn">&times;</button>
+                    <div class="modal-header-left">
+                        <div class="modal-header-icon" id="modalHeaderIcon">💻</div>
+                        <div class="modal-header-info">
+                            <h2 id="modalTitle">Linguagem</h2>
+                            <div class="modal-header-meta">
+                                <span id="modalYear">Ano: Desconhecido</span>
+                                <span id="modalCategory">Categoria: Geral</span>
+                                <a id="modalGithubLink" href="#" target="_blank" title="Ver no GitHub">
+                                    <i class="fas fa-github"></i> GitHub
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-header-right">
+                        <button class="modal-favorite-btn" id="modalFavoriteBtn" title="Adicionar aos favoritos">
+                            <i class="fas fa-star"></i>
+                        </button>
+                        <button class="close-btn" id="closeBtn">&times;</button>
+                    </div>
                 </div>
 
                 <div class="modal-tabs">
@@ -897,6 +1109,12 @@
                     <div id="readmeTab" class="modal-tab-content active"></div>
                     <div id="examplesTab" class="modal-tab-content"></div>
                     <div id="exercisesTab" class="modal-tab-content"></div>
+                </div>
+
+                <div class="modal-navigation">
+                    <button class="nav-btn" id="prevBtn"><i class="fas fa-chevron-left"></i> Anterior</button>
+                    <span class="nav-info"><span id="currentIndex">1</span> / <span id="totalLanguages">505</span></span>
+                    <button class="nav-btn" id="nextBtn">Próxima <i class="fas fa-chevron-right"></i></button>
                 </div>
             </div>
         </div>
@@ -989,8 +1207,10 @@
         const languages = [];
         let currentCategory = 'all';
         let currentLanguage = null;
+        let currentLanguageIndex = 0;
         let viewMode = 'grid';
         let favorites = JSON.parse(localStorage.getItem('favoriteLanguages')) || [];
+        let filteredLanguages = [];
 
         // Mapeamento de ícones para linguagens (50+ linguagens)
         const languageIcons = {
@@ -1150,6 +1370,7 @@
         function renderLanguages(languagesToRender) {
             const grid = document.getElementById('languagesGrid');
             grid.innerHTML = '';
+            filteredLanguages = languagesToRender;
 
             if (languagesToRender.length === 0) {
                 grid.innerHTML = '<div class="no-results">🔍 Nenhuma linguagem encontrada no acervo.</div>';
@@ -1213,18 +1434,55 @@
             });
         }
 
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                console.log('Código copiado para a área de transferência!');
+            }).catch(err => {
+                console.error('Erro ao copiar:', err);
+            });
+        }
+
+        function wrapCodeWithHighlight(code, language = 'plaintext') {
+            const highlighted = hljs.highlight(code, { language, ignoreIllegals: true }).value;
+            return highlighted;
+        }
+
         async function openLanguageModal(lang) {
             currentLanguage = lang;
+            currentLanguageIndex = filteredLanguages.findIndex(l => l.name === lang.name);
+            
             const modal = document.getElementById('languageModal');
             const modalTitle = document.getElementById('modalTitle');
+            const modalIcon = document.getElementById('modalHeaderIcon');
+            const modalYear = document.getElementById('modalYear');
+            const modalCategory = document.getElementById('modalCategory');
+            const modalGithubLink = document.getElementById('modalGithubLink');
+            const modalFavoriteBtn = document.getElementById('modalFavoriteBtn');
             const readmeTab = document.getElementById('readmeTab');
             const examplesTab = document.getElementById('examplesTab');
             const exercisesTab = document.getElementById('exercisesTab');
+            const currentIndexSpan = document.getElementById('currentIndex');
+            const totalLanguagesSpan = document.getElementById('totalLanguages');
 
             modalTitle.textContent = lang.name;
-            readmeTab.innerHTML = '<p>Carregando documentação...</p>';
-            examplesTab.innerHTML = '<p>Carregando exemplos...</p>';
-            exercisesTab.innerHTML = '<p>Carregando exercícios...</p>';
+            modalIcon.textContent = lang.icon;
+            modalYear.textContent = `Ano: ${lang.year}`;
+            modalCategory.textContent = `Categoria: ${lang.category.toUpperCase()}`;
+            modalGithubLink.href = `https://github.com/Nagato09-dev/museu-de-linguagens-do-mundo/tree/master/${lang.path}`;
+            
+            const isFav = isFavorited(lang.name);
+            if (isFav) {
+                modalFavoriteBtn.classList.add('favorited');
+            } else {
+                modalFavoriteBtn.classList.remove('favorited');
+            }
+
+            currentIndexSpan.textContent = currentLanguageIndex + 1;
+            totalLanguagesSpan.textContent = filteredLanguages.length;
+
+            readmeTab.innerHTML = '<p><div class="loading-spinner"></div> Carregando documentação...</p>';
+            examplesTab.innerHTML = '<p><div class="loading-spinner"></div> Carregando exemplos...</p>';
+            exercisesTab.innerHTML = '<p><div class="loading-spinner"></div> Carregando exercícios...</p>';
 
             modal.classList.add('active');
 
@@ -1234,10 +1492,10 @@
                     const readmeContent = await readmeResponse.text();
                     readmeTab.innerHTML = `<pre><code>${escapeHtml(readmeContent)}</code></pre>`;
                 } else {
-                    readmeTab.innerHTML = '<p>Documentação não disponível para esta linguagem.</p>';
+                    readmeTab.innerHTML = '<p>📄 Documentação não disponível para esta linguagem.</p>';
                 }
             } catch (e) {
-                readmeTab.innerHTML = '<p>Erro ao carregar documentação.</p>';
+                readmeTab.innerHTML = '<p>❌ Erro ao carregar documentação.</p>';
             }
 
             try {
@@ -1247,12 +1505,24 @@
                     const fileResponse = await fetch(`${lang.path}/exemplo_${i}.${ext}`);
                     if (fileResponse.ok) {
                         const fileContent = await fileResponse.text();
-                        examplesHtml += `<h3>Exemplo ${i}</h3><pre><code>${escapeHtml(fileContent)}</code></pre>`;
+                        const highlighted = wrapCodeWithHighlight(fileContent, ext);
+                        examplesHtml += `
+                            <h3>Exemplo ${i}</h3>
+                            <div class="code-block">
+                                <div class="code-block-header">
+                                    <span>${ext.toUpperCase()}</span>
+                                    <button class="copy-btn" onclick="copyCodeBlock(this)">
+                                        <i class="fas fa-copy"></i> Copiar
+                                    </button>
+                                </div>
+                                <pre><code class="language-${ext} hljs">${highlighted}</code></pre>
+                            </div>
+                        `;
                     }
                 }
-                examplesTab.innerHTML = examplesHtml || '<p>Nenhum exemplo disponível.</p>';
+                examplesTab.innerHTML = examplesHtml || '<p>📚 Nenhum exemplo disponível.</p>';
             } catch (e) {
-                examplesTab.innerHTML = '<p>Erro ao carregar exemplos.</p>';
+                examplesTab.innerHTML = '<p>❌ Erro ao carregar exemplos.</p>';
             }
 
             try {
@@ -1262,13 +1532,50 @@
                     const fileResponse = await fetch(`${lang.path}/exercicio_${i}.${ext}`);
                     if (fileResponse.ok) {
                         const fileContent = await fileResponse.text();
-                        exercisesHtml += `<h3>Exercício ${i}</h3><pre><code>${escapeHtml(fileContent)}</code></pre>`;
+                        const highlighted = wrapCodeWithHighlight(fileContent, ext);
+                        exercisesHtml += `
+                            <h3>Exercício ${i}</h3>
+                            <div class="code-block">
+                                <div class="code-block-header">
+                                    <span>${ext.toUpperCase()}</span>
+                                    <button class="copy-btn" onclick="copyCodeBlock(this)">
+                                        <i class="fas fa-copy"></i> Copiar
+                                    </button>
+                                </div>
+                                <pre><code class="language-${ext} hljs">${highlighted}</code></pre>
+                            </div>
+                        `;
                     }
                 }
-                exercisesTab.innerHTML = exercisesHtml || '<p>Nenhum exercício disponível.</p>';
+                exercisesTab.innerHTML = exercisesHtml || '<p>🎯 Nenhum exercício disponível.</p>';
             } catch (e) {
-                exercisesTab.innerHTML = '<p>Erro ao carregar exercícios.</p>';
+                exercisesTab.innerHTML = '<p>❌ Erro ao carregar exercícios.</p>';
             }
+
+            updateNavigationButtons();
+        }
+
+        function copyCodeBlock(btn) {
+            const codeBlock = btn.closest('.code-block');
+            const codeElement = codeBlock.querySelector('code');
+            const text = codeElement.innerText;
+            
+            copyToClipboard(text);
+            
+            btn.classList.add('copied');
+            btn.innerHTML = '<i class="fas fa-check"></i> Copiado!';
+            setTimeout(() => {
+                btn.classList.remove('copied');
+                btn.innerHTML = '<i class="fas fa-copy"></i> Copiar';
+            }, 2000);
+        }
+
+        function updateNavigationButtons() {
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            
+            prevBtn.disabled = currentLanguageIndex === 0;
+            nextBtn.disabled = currentLanguageIndex === filteredLanguages.length - 1;
         }
 
         function getFileExtension(langName) {
@@ -1306,6 +1613,29 @@
                 btn.classList.add('active');
                 document.getElementById(tabName + 'Tab').classList.add('active');
             });
+        });
+
+        document.getElementById('modalFavoriteBtn').addEventListener('click', () => {
+            toggleFavorite(currentLanguage.name);
+            const isFav = isFavorited(currentLanguage.name);
+            const btn = document.getElementById('modalFavoriteBtn');
+            if (isFav) {
+                btn.classList.add('favorited');
+            } else {
+                btn.classList.remove('favorited');
+            }
+        });
+
+        document.getElementById('prevBtn').addEventListener('click', () => {
+            if (currentLanguageIndex > 0) {
+                openLanguageModal(filteredLanguages[currentLanguageIndex - 1]);
+            }
+        });
+
+        document.getElementById('nextBtn').addEventListener('click', () => {
+            if (currentLanguageIndex < filteredLanguages.length - 1) {
+                openLanguageModal(filteredLanguages[currentLanguageIndex + 1]);
+            }
         });
 
         document.querySelectorAll('.category-btn').forEach(btn => {
