@@ -1,6 +1,3 @@
-* COBOL - Loops - Repetindo tarefas com para/enquanto.
-IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO.
-PROCEDURE DIVISION.
-        DISPLAY "Loops - Repetindo tarefas com para/enquanto.".
-    STOP RUN.
+PERFORM VARYING I FROM 1 BY 1 UNTIL I > 10
+    DISPLAY I
+END-PERFORM.

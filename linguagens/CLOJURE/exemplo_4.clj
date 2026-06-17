@@ -1,2 +1,1 @@
-;; CLOJURE - Loops - Repetindo tarefas com para/enquanto.
-(print "Loops - Repetindo tarefas com para/enquanto.")
+(dotimes [i 10] (println i))

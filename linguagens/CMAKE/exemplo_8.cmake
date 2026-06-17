@@ -1,2 +1,1 @@
-# CMAKE - Manipulação de Strings - Trabalhando com textos.
-echo "Manipulação de Strings - Trabalhando com textos."
+string(CONCAT full "Olá" " Mundo")

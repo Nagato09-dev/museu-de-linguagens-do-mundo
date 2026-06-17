@@ -1,2 +1,3 @@
-# CLARION - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+LOOP i = 1 TO 10
+  MESSAGE(i)
+END

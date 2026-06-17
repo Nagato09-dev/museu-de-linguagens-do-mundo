@@ -1,2 +1,2 @@
-# CMAKE - Variáveis e Tipos - Como armazenar dados.
-echo "Variáveis e Tipos - Como armazenar dados."
+set(x 10)
+set(s "Olá")

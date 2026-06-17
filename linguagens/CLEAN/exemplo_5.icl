@@ -1,2 +1,2 @@
-# CLEAN - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+square :: Int -> Int
+square n = n * n

@@ -1,2 +1,1 @@
-# CMAKE - Estruturas de Dados - Listas, Vetores ou Mapas.
-echo "Estruturas de Dados - Listas, Vetores ou Mapas."
+set(list 1 2 3)

@@ -1,2 +1,1 @@
-# CLEAN - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+[1..10]

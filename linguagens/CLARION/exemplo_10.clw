@@ -1,2 +1,1 @@
-# CLARION - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+MyWindow WINDOW('Título'),AT(,,200,100),GRAY END

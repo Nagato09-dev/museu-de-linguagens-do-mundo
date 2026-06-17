@@ -1,6 +1,3 @@
-* COBOL - Funções - Criando blocos de código reutilizáveis.
-IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO.
-PROCEDURE DIVISION.
-        DISPLAY "Funções - Criando blocos de código reutilizáveis.".
-    STOP RUN.
+/* COBOL usa parágrafos ou seções */
+CALC-SQUARE.
+    COMPUTE RES = N * N.

@@ -1,2 +1,3 @@
-# CMAKE - Loops - Repetindo tarefas com para/enquanto.
-echo "Loops - Repetindo tarefas com para/enquanto."
+foreach(i RANGE 1 10)
+  message(${i})
+endforeach()

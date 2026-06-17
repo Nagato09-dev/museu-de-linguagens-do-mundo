@@ -1,2 +1,3 @@
-# CLARION - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+Square FUNCTION(n LONG) LONG
+CODE
+  RETURN n * n

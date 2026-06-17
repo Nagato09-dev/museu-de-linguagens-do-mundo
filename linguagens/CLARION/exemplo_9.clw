@@ -1,2 +1,1 @@
-# CLARION - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+res = SQRT(16)

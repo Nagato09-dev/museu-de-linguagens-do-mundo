@@ -1,2 +1,1 @@
-# CMAKE - Matemática - Operações aritméticas básicas.
-echo "Matemática - Operações aritméticas básicas."
+math(EXPR res "10 + 5")

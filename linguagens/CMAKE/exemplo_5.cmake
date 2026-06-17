@@ -1,2 +1,3 @@
-# CMAKE - Funções - Criando blocos de código reutilizáveis.
-echo "Funções - Criando blocos de código reutilizáveis."
+function(square n)
+  math(EXPR res "${n} * ${n}")
+endfunction()

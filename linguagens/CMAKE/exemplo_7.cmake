@@ -1,2 +1,3 @@
-# CMAKE - Tratamento de Erros - Lidando com exceções e falhas.
-echo "Tratamento de Erros - Lidando com exceções e falhas."
+if(NOT x)
+  message(FATAL_ERROR "Erro")
+endif()

@@ -1,2 +1,1 @@
-# CLEAN - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+r = sqrt 16.0

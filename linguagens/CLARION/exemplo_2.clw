@@ -1,2 +1,2 @@
-# CLARION - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+x LONG
+s STRING(20)

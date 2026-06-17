@@ -1,2 +1,1 @@
-;; CLOJURE - Matemática - Operações aritméticas básicas.
-(print "Matemática - Operações aritméticas básicas.")
+(Math/sqrt 16)

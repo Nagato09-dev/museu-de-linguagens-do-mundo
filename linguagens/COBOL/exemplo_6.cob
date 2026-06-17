@@ -1,6 +1,2 @@
-* COBOL - Estruturas de Dados - Listas, Vetores ou Mapas.
-IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO.
-PROCEDURE DIVISION.
-        DISPLAY "Estruturas de Dados - Listas, Vetores ou Mapas.".
-    STOP RUN.
+01 MY-ARRAY.
+   05 ARR-ITEM PIC 9(2) OCCURS 10 TIMES.

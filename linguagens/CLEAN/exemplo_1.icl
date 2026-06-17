@@ -1,2 +1,3 @@
-# CLEAN - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+module hello
+import StdEnv
+Start = "Olá Mundo"

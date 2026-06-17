@@ -1,2 +1,6 @@
-# CLARION - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+PROGRAM
+  MAP
+  END
+CODE
+  MESSAGE('Olá Mundo')
+  RETURN

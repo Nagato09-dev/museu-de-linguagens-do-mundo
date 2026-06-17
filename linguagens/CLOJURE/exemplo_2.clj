@@ -1,2 +1,2 @@
-;; CLOJURE - Variáveis e Tipos - Como armazenar dados.
-(print "Variáveis e Tipos - Como armazenar dados.")
+(def x 10)
+(def s "Olá")

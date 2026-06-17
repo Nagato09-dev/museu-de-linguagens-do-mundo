@@ -1,2 +1,3 @@
-# CLARION - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+MyQueue QUEUE,PRE(MQ)
+  id LONG
+END

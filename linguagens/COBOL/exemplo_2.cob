@@ -1,6 +1,4 @@
-* COBOL - Variáveis e Tipos - Como armazenar dados.
-IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO.
-PROCEDURE DIVISION.
-        DISPLAY "Variáveis e Tipos - Como armazenar dados.".
-    STOP RUN.
+DATA DIVISION.
+WORKING-STORAGE SECTION.
+01 X PIC 9(2) VALUE 10.
+01 S PIC X(05) VALUE 'Olá'.

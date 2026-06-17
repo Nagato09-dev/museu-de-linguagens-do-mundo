@@ -1,2 +1,1 @@
-# CMAKE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+add_executable(my_app main.cpp)

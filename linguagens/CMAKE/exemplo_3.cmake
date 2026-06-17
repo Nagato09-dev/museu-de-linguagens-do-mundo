@@ -1,2 +1,3 @@
-# CMAKE - Controle de Fluxo - Estruturas condicionais (se/então).
-echo "Controle de Fluxo - Estruturas condicionais (se/então)."
+if(x GREATER 5)
+  message("Maior")
+endif()
