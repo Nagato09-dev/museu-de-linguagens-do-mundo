@@ -1,2 +1,1 @@
-;; COMMONLISP - Loops - Repetindo tarefas com para/enquanto.
-(print "Loops - Repetindo tarefas com para/enquanto.")
+(dotimes (i 10) (print i))

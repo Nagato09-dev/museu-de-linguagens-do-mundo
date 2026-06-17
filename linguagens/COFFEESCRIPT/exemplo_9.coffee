@@ -1,2 +1,1 @@
-// COFFEESCRIPT - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+r = Math.sqrt 16

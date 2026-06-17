@@ -1,2 +1,1 @@
-// COFFEESCRIPT - Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+list = [1, 2, 3]

@@ -1,2 +1,1 @@
-# COQ - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+(* Coq é uma linguagem de prova, erros são impossibilidades *)

@@ -1,2 +1,2 @@
-// COFFEESCRIPT - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+if x > 5
+  console.log "Maior"

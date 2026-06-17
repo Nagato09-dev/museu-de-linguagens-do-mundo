@@ -1,2 +1,3 @@
-# CRYSTAL - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+10.times do |i|
+  puts i
+end

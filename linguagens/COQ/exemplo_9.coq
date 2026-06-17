@@ -1,2 +1,1 @@
-# COQ - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+(* Coq foca em tipos e provas *)

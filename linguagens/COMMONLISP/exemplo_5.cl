@@ -1,2 +1,1 @@
-;; COMMONLISP - Funções - Criando blocos de código reutilizáveis.
-(print "Funções - Criando blocos de código reutilizáveis.")
+(defun square (n) (* n n))

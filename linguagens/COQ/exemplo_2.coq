@@ -1,2 +1,1 @@
-# COQ - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+Definition x : nat := 10.

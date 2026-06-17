@@ -1,2 +1,1 @@
-;; COMMONLISP - Tratamento de Erros - Lidando com exceções e falhas.
-(print "Tratamento de Erros - Lidando com exceções e falhas.")
+(handler-case (/ 1 0) (division-by-zero () (print "Erro")))

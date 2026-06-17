@@ -1,2 +1,5 @@
-# CRYSTAL - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+begin
+  raise "Erro"
+rescue e
+  puts e.message
+end

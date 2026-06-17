@@ -1,2 +1,1 @@
-;; COMMONLISP - Manipulação de Strings - Trabalhando com textos.
-(print "Manipulação de Strings - Trabalhando com textos.")
+(defparameter full (concatenate 'string "Olá" " Mundo"))

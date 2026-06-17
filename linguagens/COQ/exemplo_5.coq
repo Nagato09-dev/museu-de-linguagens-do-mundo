@@ -1,2 +1,1 @@
-# COQ - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+Definition square (n : nat) := n * n.

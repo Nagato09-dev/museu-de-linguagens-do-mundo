@@ -1,3 +1,1 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
-
-// Solução autêntica para Exercício 7 em js
+Theorem plus_0_r : forall n, n + 0 = n. Proof. induction n. reflexivity. simpl. rewrite IHn. reflexivity. Qed.

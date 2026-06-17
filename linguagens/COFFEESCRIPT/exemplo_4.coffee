@@ -1,2 +1,2 @@
-// COFFEESCRIPT - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+for i in [1..10]
+  console.log i

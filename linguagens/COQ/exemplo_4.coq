@@ -1,2 +1,1 @@
-# COQ - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+(* Coq usa recursão fixa para loops *)

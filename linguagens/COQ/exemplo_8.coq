@@ -1,2 +1,2 @@
-# COQ - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+Require Import String.
+Definition full := append "Olá" " Mundo".

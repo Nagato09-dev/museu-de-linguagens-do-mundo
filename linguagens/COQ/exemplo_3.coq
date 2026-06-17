@@ -1,2 +1,1 @@
-# COQ - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+Definition is_greater := if Nat.ltb 5 x then true else false.

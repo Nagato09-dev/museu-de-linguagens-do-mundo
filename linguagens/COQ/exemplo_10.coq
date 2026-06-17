@@ -1,2 +1,1 @@
-# COQ - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+Inductive tree : Set := Leaf | Node : tree -> tree -> tree.

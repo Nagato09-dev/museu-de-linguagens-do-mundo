@@ -1,2 +1,2 @@
-# COQ - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+Definition hello := "Olá Mundo".
+Print hello.
