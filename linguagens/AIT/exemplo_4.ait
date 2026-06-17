@@ -1,1 +1,1 @@
-1 10 [ dup print ] for
+-- Sintaxe para loop em AIT

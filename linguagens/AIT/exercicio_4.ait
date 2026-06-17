@@ -1,1 +1,1 @@
-5 [ "Oi" print ] times
+"Olá, Mundo!" print
